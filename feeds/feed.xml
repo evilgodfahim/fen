@@ -4,14 +4,27 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 01 Mar 2026 07:37:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2026 08:40:11 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 01 Mar 2026 07:37:28 GMT</pubDate>
+        <pubDate>Sun, 01 Mar 2026 08:40:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
+            <pubDate>Sun, 01 Mar 2026 01:39:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Explainer / Why is the US attacking Iran?]]></title>
+            <description><![CDATA[The United States and Israel launched their most ambitious attacks on Iran in decades on Saturday]]></description>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/why-the-us-attacking-iran-4117616</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farmers struggle as saline water ravages Jaban Khan Canal]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/farmers-struggle-saline-water-ravages-jaban-khan-canal-4117811</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -22,24 +35,17 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Pakistan cricket's lack of T20 evolution exposed by World Cup exit]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/pakistan-crickets-lack-t20-evolution-exposed-world-cup-exit-4117741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/pakistan-crickets-lack-t20-evolution-exposed-world-cup-exit-4117741</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Another victim of Halisahar gas leak blast dies; death toll rises to six]]></title>
-            <description><![CDATA[The explosion occurred in the early hours of February 23 at their residence in Halisahar due to a gas leak]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/another-victim-halisahar-gas-leak-blast-dies-death-toll-rises-six-4117671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/another-victim-halisahar-gas-leak-blast-dies-death-toll-rises-six-4117671</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Live updates / Iran launches new wave of strikes against Israel, US bases after death of Khamenei in attack]]></title>
             <description><![CDATA[IRGC says it is carrying out a sixth wave of attacks in retaliation for the US and Israeli bombardment of Iran. More explosions heard in Dubai, Doha and Manama.]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/us-israel-strike-iran-tehran-starts-retaliation-4116961</guid>
             <pubDate>Sat, 28 Feb 2026 12:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 killed in pro-Iran protest at US consulate in Pakistan: Rescue service]]></title>
+            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/8-killed-pro-iran-protest-us-consulate-pakistan-rescue-service-4117796</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/8-killed-pro-iran-protest-us-consulate-pakistan-rescue-service-4117796</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Iran's Khamenei: Iron-fisted revolutionary atop Islamic republic]]></title>
@@ -54,9 +60,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Biman’s Jeddah-bound flight to depart Chattogram at 4:10pm]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/bimans-jeddah-bound-flight-depart-chattogram-410pm-4117641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/bimans-jeddah-bound-flight-depart-chattogram-410pm-4117641</guid>
+            <title><![CDATA[Updates on Middle East-bound flights from Bangladesh]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/updates-middle-east-bound-flights-bangladesh-4117781</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/updates-middle-east-bound-flights-bangladesh-4117781</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Local govt poll preparations to begin after Eid: EC]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/local-govt-poll-preparations-begin-after-eid-ec-4117791</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -66,47 +78,35 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Dhaka voices alarm over escalating Middle East conflict]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/diplomacy/news/dhaka-voices-alarm-over-escalating-middle-east-conflict-4117401</guid>
+            <title><![CDATA[Imperial maps, Pak-Afghan war, and a way forward]]></title>
+            <description><![CDATA[By Asif Bin Ali]]></description>
+            <link>https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/imperial-maps-pak-afghan-war-and-way-forward-4117356</guid>
+            <dc:creator><![CDATA[Asif Bin Ali]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[27 more flights cancelled at Dhaka airport following Middle East airspace shutdowns]]></title>
-            <link>https://www.thedailystar.net/business/economy/aviation/news/27-more-flights-cancelled-dhaka-airport-following-middle-east-airspace-shutdowns-4117696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/27-more-flights-cancelled-dhaka-airport-following-middle-east-airspace-shutdowns-4117696</guid>
+            <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
+            <description><![CDATA[The crisis in Bangladesh today is not only political. It is civilisational, linguistic, and epistemic.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
+            <dc:creator><![CDATA[Ahmed Ashfaque Shahbaz]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why is there so little discussion on books?]]></title>
+            <description><![CDATA[By Ystiaque Ahmed]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/why-there-so-little-discussion-books-4117186</guid>
+            <dc:creator><![CDATA[Ystiaque Ahmed]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Central bank shake-up: Why is BNP undermining its reformist legacy?]]></title>
-            <description><![CDATA[By Kamal Ahmed]]></description>
+            <description><![CDATA[The removal of Bangladesh Bank Governor Ahsan H Mansur, widely credited with steadying an economy that was on the brink of potential collapse, has been described by many as nothing short of a blunder by the new government.]]></description>
             <link>https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/central-bank-shake-why-bnp-undermining-its-reformist-legacy-4117346</guid>
             <dc:creator><![CDATA[Kamal Ahmed]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Education system must be built on proficiency, not pass rates]]></title>
-            <description><![CDATA[One of the toughest challenges for the new government is to ensure just educational opportunities for over four crore young people.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/education-system-must-be-built-proficiency-not-pass-rates-4116146</guid>
-            <dc:creator><![CDATA[Ananta Neelim]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / A war neither Pakistan nor Afghanistan can win, but South Asia will lose]]></title>
-            <description><![CDATA[By Jannatul Naym Pieal]]></description>
-            <link>https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/analysis-2/news/war-neither-pakistan-nor-afghanistan-can-win-south-asia-will-lose-4117076</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Madhabdi rape: Will justice prevail or be forgotten again?]]></title>
-            <description><![CDATA[The Madhabdi case carries additional layers that make it more uncomfortable. There have been allegations of prior sexual violence, and of local arbitration.]]></description>
-            <link>https://www.thedailystar.net/opinion/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/madhabdi-rape-will-justice-prevail-or-be-forgotten-again-4117361</guid>
-            <dc:creator><![CDATA[H.M. Nazmul Alam]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -134,10 +134,10 @@
             <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What's in a word? The battle for cultural authority in Bangladesh]]></title>
-            <link>https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/whats-word-the-battle-cultural-authority-bangladesh-4117351</guid>
-            <pubDate>Sun, 01 Mar 2026 01:05:00 GMT</pubDate>
+            <title><![CDATA[Expedite the CMCH burn unit project]]></title>
+            <link>https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/expedite-the-cmch-burn-unit-project-4117341</guid>
+            <pubDate>Sun, 01 Mar 2026 00:55:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Private investment hits 11-year low]]></title>
@@ -146,9 +146,9 @@
             <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Women’s Asian Cup / Australia look to reignite 'Matildas mania']]></title>
-            <link>https://www.thedailystar.net/sports/football/news/australia-look-reignite-matildas-mania-4117681</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/australia-look-reignite-matildas-mania-4117681</guid>
+            <title><![CDATA[Iran prepare for Women's Asian Cup as bombs drop on homeland]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/iran-prepare-womens-asian-cup-bombs-drop-homeland-4117721</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/iran-prepare-womens-asian-cup-bombs-drop-homeland-4117721</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -158,52 +158,52 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[#Perspective / How Atia village keeps a 400-year-old mosque alive]]></title>
-            <link>https://www.thedailystar.net/life-living/news/how-atia-village-keeps-400-year-old-mosque-alive-4107536</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-atia-village-keeps-400-year-old-mosque-alive-4107536</guid>
+            <title><![CDATA[What happens inside our bodies when we're fasting?]]></title>
+            <link>https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/news/what-happens-inside-our-bodies-when-were-fasting-4114626</guid>
+            <pubDate>Thu, 26 Feb 2026 12:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Simple ways to replace your most harmful habits]]></title>
+            <link>https://www.thedailystar.net/life-living/lifehacks/news/simple-ways-replace-your-most-harmful-habits-4115561</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/lifehacks/news/simple-ways-replace-your-most-harmful-habits-4115561</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Global tourism resilience day / Our tourism needs a policy reset]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/our-tourism-needs-policy-reset-4107886</guid>
-            <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How living abroad changes your relationship with food]]></title>
-            <link>https://www.thedailystar.net/campus/news/how-living-abroad-changes-your-relationship-food-4109171</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/news/how-living-abroad-changes-your-relationship-food-4109171</guid>
-            <pubDate>Thu, 19 Feb 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[High protein iftar ideas using everyday Bangladeshi foods]]></title>
-            <link>https://www.thedailystar.net/life-living/food-recipes/news/high-protein-iftar-ideas-using-everyday-bangladeshi-foods-4107586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/food-recipes/news/high-protein-iftar-ideas-using-everyday-bangladeshi-foods-4107586</guid>
+            <title><![CDATA[Bangladeshi designer Tanvir Mahidy makes historic London Fashion Week debut]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/bangladeshi-designer-tanvir-mahidy-makes-historic-london-fashion-week-debut-4113861</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[I dedicate my ‘Ekushey Padak’ to Lubna Marium: Arthy Ahmed]]></title>
-            <link>https://www.thedailystar.net/entertainment/theatre-arts/news/i-dedicate-my-ekushey-padak-lubna-marium-arthy-ahmed-4110696</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/theatre-arts/news/i-dedicate-my-ekushey-padak-lubna-marium-arthy-ahmed-4110696</guid>
-            <pubDate>Sun, 22 Feb 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pakistani star Ahad Raza Mir wears bespoke Zurhem in Australia]]></title>
-            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/pakistani-star-ahad-raza-mir-wears-bespoke-zurhem-australia-4109911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/pakistani-star-ahad-raza-mir-wears-bespoke-zurhem-australia-4109911</guid>
+            <title><![CDATA[Want instant glam? Try a classic bouffant]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/want-instant-glam-try-classic-bouffant-4112826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/want-instant-glam-try-classic-bouffant-4112826</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Science explains why dancing is a powerful tool against depression]]></title>
-            <link>https://www.thedailystar.net/life-living/health-fitness/news/science-explains-why-dancing-powerful-tool-against-depression-4109851</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/health-fitness/news/science-explains-why-dancing-powerful-tool-against-depression-4109851</guid>
+            <title><![CDATA[Last-minute study strategies that actually work]]></title>
+            <link>https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/education/news/last-minute-study-strategies-actually-work-4114596</guid>
+            <pubDate>Thu, 26 Feb 2026 11:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The dangerous normalisation of beauty consumerism among young girls]]></title>
+            <link>https://www.thedailystar.net/rising-stars/pop-culture/news/the-dangerous-normalisation-beauty-consumerism-among-young-girls-4114651</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/pop-culture/news/the-dangerous-normalisation-beauty-consumerism-among-young-girls-4114651</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Off Campus / What music lets us keep]]></title>
-            <link>https://www.thedailystar.net/campus/campus/news/what-music-lets-us-keep-4109091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/campus/news/what-music-lets-us-keep-4109091</guid>
-            <pubDate>Fri, 20 Feb 2026 09:00:00 GMT</pubDate>
+            <title><![CDATA[Interview / Benjamin Wood  From early writing days to ‘Seascraper’ success]]></title>
+            <link>https://www.thedailystar.net/books-literature/news/benjamin-wood-early-writing-days-seascraper-success-4116626</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/benjamin-wood-early-writing-days-seascraper-success-4116626</guid>
+            <pubDate>Sat, 28 Feb 2026 00:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Musings / John Steinbeck and the art of bearing witness]]></title>
+            <link>https://www.thedailystar.net/books-literature/news/john-steinbeck-and-the-art-bearing-witness-4116476</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/john-steinbeck-and-the-art-bearing-witness-4116476</guid>
+            <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA['That's what she said' on being funny]]></title>
