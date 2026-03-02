@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 22:35:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 23:34:08 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 22:35:27 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 23:34:08 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Jamaat weighs BNP offer of deputy speaker post amid questions over July Charter]]></title>
@@ -78,19 +78,19 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
-            <description><![CDATA[By Shaikh Masudul Alam]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
-            <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Bangladesh’s statement on Iran: Measured words, high stakes]]></title>
-            <description><![CDATA[What the statement didn’t say is what really matters. It didn’t name the United States or Israel—the countries that launched the strikes without any provocation.]]></description>
+            <description><![CDATA[By Jannatul Naym Pieal]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bangladeshs-statement-iran-measured-words-high-stakes-4118631</guid>
             <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BNP’s health agenda faces major execution challenges]]></title>
+            <description><![CDATA[For years, Bangladesh’s health sector has struggled with neglect.]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/bnps-health-agenda-faces-major-execution-challenges-4118241</guid>
+            <dc:creator><![CDATA[Shaikh Masudul Alam]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
