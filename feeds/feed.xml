@@ -4,10 +4,23 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 02 Mar 2026 17:55:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2026 18:59:18 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 02 Mar 2026 17:55:17 GMT</pubDate>
+        <pubDate>Mon, 02 Mar 2026 18:59:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Real Madrid superstar Mbappe in Paris for treatment on knee injury]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/real-madrid-superstar-mbappe-paris-treatment-knee-injury-4119216</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/real-madrid-superstar-mbappe-paris-treatment-knee-injury-4119216</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mustafizur, Rishad shortlisted for The Hundred 2026 auction]]></title>
+            <description><![CDATA[Bangladesh pace spearhead Mustafizur Rahman and leg-spinner Rishad Hossain have been shortlisted for The Hundred Auction 2026, scheduled to be held at the Piccadilly Lights in central London on March 11 and 12.]]></description>
+            <link>https://www.thedailystar.net/sports/cricket/news/mustafizur-rishad-shortlisted-the-hundred-2026-auction-4119211</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mustafizur-rishad-shortlisted-the-hundred-2026-auction-4119211</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
         <item>
             <title><![CDATA[Can Family Card reset our social protection system?]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/can-family-card-reset-our-social-protection-system-4118216</link>
@@ -19,19 +32,6 @@
             <description><![CDATA[Bench heard arguments in packed courtroom on petitions questioning legality of Referendum Ordinance]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/high-court-deliver-order-tomorrow-writs-challenging-referendum-july-charter-4118881</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/high-court-deliver-order-tomorrow-writs-challenging-referendum-july-charter-4118881</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Barca must 'make the impossible possible': coach Flick on Atletico cup challenge]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/barca-must-make-the-impossible-possible-coach-flick-atletico-cup-challenge-4119066</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/barca-must-make-the-impossible-possible-coach-flick-atletico-cup-challenge-4119066</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Liverpool's Slot says his 'football heart' does not like set-piece trend]]></title>
-            <description><![CDATA[Liverpool boss Arne Slot said Monday that the growing reliance on set pieces in the Premier League has sucked some of the joy out of football but accepts it is the new reality.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/liverpools-slot-says-his-football-heart-does-not-set-piece-trend-4119051</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/liverpools-slot-says-his-football-heart-does-not-set-piece-trend-4119051</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -140,15 +140,15 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh resilient, growth to pick up gradually: HSBC]]></title>
-            <link>https://www.thedailystar.net/business/economy/news/bangladesh-resilient-growth-pick-gradually-hsbc-4119186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladesh-resilient-growth-pick-gradually-hsbc-4119186</guid>
+            <title><![CDATA[Bad loans fall by Tk 87,298cr in three months]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/bad-loans-fall-tk-87298cr-three-months-4119206</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bad-loans-fall-tk-87298cr-three-months-4119206</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Mushfiqur returns home safely after Middle East travel disruption]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/mushfiqur-returns-home-safely-after-middle-east-travel-disruption-4118926</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/mushfiqur-returns-home-safely-after-middle-east-travel-disruption-4118926</guid>
+            <title><![CDATA[Saif turns page on T20 WC, eyes ODI WC]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/saif-turns-page-t20-wc-eyes-odi-wc-4118946</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/saif-turns-page-t20-wc-eyes-odi-wc-4118946</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
