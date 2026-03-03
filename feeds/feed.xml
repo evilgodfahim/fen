@@ -4,39 +4,51 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 03 Mar 2026 17:54:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Mar 2026 19:01:44 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Mar 2026 17:54:03 GMT</pubDate>
+        <pubDate>Tue, 03 Mar 2026 19:01:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Chaldal employees storm software park in Jashore over unpaid wages]]></title>
+            <link>https://www.thedailystar.net/business/news/chaldal-employees-storm-software-park-jashore-over-unpaid-wages-4120106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/chaldal-employees-storm-software-park-jashore-over-unpaid-wages-4120106</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Aviation minister asks airlines to not charge extra for stranded travellers]]></title>
+            <description><![CDATA[Urges caution against misinformation amid Middle East flight disruptions]]></description>
+            <link>https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mother of 2 found dead in Cox’s Bazar]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Saif, Naim help Central Zone clinch second BCL one-day trophy]]></title>
+            <description><![CDATA[Saif Hassan and Mohammad Naim notched a 164-run stand for the second wicket to help Central Zone to a dominating five-wicket win over North Zone in the Bangladesh Cricket League final at Mirpur’s Sher-e-Bangla National Cricket Stadium today.]]></description>
             <link>https://www.thedailystar.net/sports/cricket/news/saif-naim-help-central-zone-clinch-second-bcl-one-day-trophy-4119886</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/saif-naim-help-central-zone-clinch-second-bcl-one-day-trophy-4119886</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[BFIU seeks bank account details of NCP leader Asif Mahmud]]></title>
+            <description><![CDATA[Banks have been instructed to submit the details in three working days]]></description>
+            <link>https://www.thedailystar.net/business/news/bfiu-seeks-bank-account-details-ncp-leader-asif-mahmud-4120061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bfiu-seeks-bank-account-details-ncp-leader-asif-mahmud-4120061</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Students, elderly, persons with disabilities to get 25% metro, intercity train fare discount: Transport minister]]></title>
-            <description><![CDATA[Discount will be effective before Eid-ul-Azha, he says]]></description>
             <link>https://www.thedailystar.net/news/governance/news/students-elderly-persons-disabilities-get-25-metro-intercity-train-fare-discount-transport-minister-4119701</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/students-elderly-persons-disabilities-get-25-metro-intercity-train-fare-discount-transport-minister-4119701</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA['We back ourselves': Underdogs New Zealand eye T20 World Cup final]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/we-back-ourselves-underdogs-new-zealand-eye-t20-world-cup-final-4119881</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/we-back-ourselves-underdogs-new-zealand-eye-t20-world-cup-final-4119881</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BCB set to stage four-day BCL before Pakistan Tests]]></title>
-            <description><![CDATA[The Bangladesh Cricket Board (BCB) is planning to stage the four-day version of the Bangladesh Cricket League (BCL) in mid-April as part of preparations for the upcoming two-match Test series against Pakistan.]]></description>
-            <link>https://www.thedailystar.net/sports/cricket/news/bcb-set-stage-four-day-bcl-pakistan-tests-4119866</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/bcb-set-stage-four-day-bcl-pakistan-tests-4119866</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
             <title><![CDATA[A drug-resistant ‘superbug’ spreading in Dhaka ICUs: icddr,b study]]></title>
-            <description><![CDATA[Candida auris infecting critically ill patients beyond newborn units, raising alarm over hospital-acquired infections, it says]]></description>
             <link>https://www.thedailystar.net/health/news/drug-resistant-superbug-spreading-dhaka-icus-icddrb-study-4119846</link>
             <guid isPermaLink="true">https://www.thedailystar.net/health/news/drug-resistant-superbug-spreading-dhaka-icus-icddrb-study-4119846</guid>
             <pubDate>Invalid Date</pubDate>
@@ -63,18 +75,6 @@
             <title><![CDATA[We don’t want to raise slogans like ‘High Court or the streets’: Nahid]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/we-dont-want-raise-slogans-high-court-or-the-streets-nahid-4119821</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Aviation minister asks airlines to not charge extra for stranded travellers]]></title>
-            <link>https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/aviation/news/aviation-minister-asks-airlines-not-charge-extra-stranded-travellers-4119826</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mother of 2 found dead in Cox’s Bazar]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/mother-2-found-dead-coxs-bazar-4119861</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -140,9 +140,9 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Factory owners urged to clear arrears in a week]]></title>
-            <link>https://www.thedailystar.net/business/news/factory-owners-urged-clear-arrears-week-4119761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/factory-owners-urged-clear-arrears-week-4119761</guid>
+            <title><![CDATA[Iran war could raise Bangladesh’s trade costs]]></title>
+            <link>https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/iran-war-could-raise-bangladeshs-trade-costs-4120131</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
