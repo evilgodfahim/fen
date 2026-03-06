@@ -4,9 +4,9 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 10:44:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 11:36:18 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 10:44:47 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 11:36:18 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[Trump says not currently mulling US troops in Iran]]></title>
@@ -35,8 +35,14 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[Nepal election: Balendra Shah's Rastriya Swatantra Party leads in 77 constituencies]]></title>
+            <description><![CDATA[Voter turnout 59% in Nepal's national election, says AFP]]></description>
+            <link>https://www.thedailystar.net/news/world/news/nepal-election-balendra-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/nepal-election-balendra-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Not consulted on interim govt’s international agreements: Jamaat ameer]]></title>
-            <description><![CDATA[Contradicts foreign minister’s claim of prior consent]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/politics/news/not-consulted-interim-govts-international-agreements-jamaat-ameer-4122196</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/not-consulted-interim-govts-international-agreements-jamaat-ameer-4122196</guid>
             <pubDate>Invalid Date</pubDate>
@@ -51,12 +57,6 @@
             <title><![CDATA[FBI brings Bangladeshi man accused of child sexual exploitation to US from Malaysia]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/fbi-brings-bangladeshi-man-accused-child-sexual-exploitation-us-malaysia-4122176</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/fbi-brings-bangladeshi-man-accused-child-sexual-exploitation-us-malaysia-4122176</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Balen Shah's Rastriya Swatantra Party leads in 77 constituencies]]></title>
-            <link>https://www.thedailystar.net/news/world/news/balen-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/balen-shahs-rastriya-swatantra-party-leads-77-constituencies-4122186</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
