@@ -4,43 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 06 Mar 2026 05:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2026 07:01:13 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 06 Mar 2026 05:52:21 GMT</pubDate>
+        <pubDate>Fri, 06 Mar 2026 07:01:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Govt failing to form Constitution Reform Council despite referendum mandate: Nahid]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/govt-failing-form-constitution-reform-council-despite-referendum-mandate-nahid-4121716</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/govt-failing-form-constitution-reform-council-despite-referendum-mandate-nahid-4121716</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gas crisis shuts down 5 of 6 major urea fertiliser plants]]></title>
-            <description><![CDATA[4 BCIC managed plants and Kafco halt production]]></description>
-            <link>https://www.thedailystar.net/environment/natural-resources/energy/news/gas-crisis-shuts-down-5-6-major-urea-fertiliser-plants-4121571</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/environment/natural-resources/energy/news/gas-crisis-shuts-down-5-6-major-urea-fertiliser-plants-4121571</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Table tennis legend Linu to receive Independence Award]]></title>
-            <link>https://www.thedailystar.net/sports/more-sports/news/table-tennis-legend-linu-receive-independence-award-4122071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/table-tennis-legend-linu-receive-independence-award-4122071</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eid journey: Slow progress on Elenga flyover threatens severe congestion]]></title>
-            <description><![CDATA[Many travellers from 21 districts will use the Dhaka-Tangail-Jamuna Bridge highway, widely known as the gateway to the north.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/eid-journey-slow-progress-elenga-flyover-threatens-severe-congestion-4121976</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/eid-journey-slow-progress-elenga-flyover-threatens-severe-congestion-4121976</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[97 days to go / The first World Cup final: Two footballs, 300 bayonets and a death threat]]></title>
-            <description><![CDATA[The final of the first FIFA World Cup was not just a match—it was a nerve-wracking battle between two neighboring rivals: Uruguay and Argentina. Held at the Estadio Centenario in Montevideo, on July 30, 1930, that match remains etched in the annals of football history.]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-world-cup-final-two-footballs-300-bayonets-and-death-threat-4121951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-world-cup-final-two-footballs-300-bayonets-and-death-threat-4121951</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
         <item>
             <title><![CDATA[North Korea prove too strong for Bangladesh]]></title>
             <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/north-korea-prove-too-strong-bangladesh-4122066</link>
@@ -48,34 +15,67 @@
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
+            <title><![CDATA[NBR to verify import taxes through customs database]]></title>
+            <description><![CDATA[The National Board of Revenue (NBR) has ordered income tax officials to use import data directly when calculating tax liabilities, a move aimed at curbing evasion and easing the refund burden on businesses.]]></description>
+            <link>https://www.thedailystar.net/business/economy/news/nbr-verify-import-taxes-through-customs-database-4121921</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/nbr-verify-import-taxes-through-customs-database-4121921</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 killed, 476 injured in post-polls violence]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/10-killed-476-injured-post-polls-violence-4121726</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/10-killed-476-injured-post-polls-violence-4121726</guid>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don’t make NHRC ‘toothless’ again]]></title>
+            <description><![CDATA[Victims of grave human rights violations and their families yesterday urged the government to retain the enhanced powers granted to the National Human Rights Commission (NHRC), warning that any move to dilute the new ordinance would render the rights body “toothless” once again.]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/dont-make-nhrc-toothless-again-4122031</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/dont-make-nhrc-toothless-again-4122031</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 injured in suspected gas explosion in Turag]]></title>
+            <description><![CDATA[Several of the victims sustained injuries to their airways, says doctors at National Institute of Burn and Plastic Surgery]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/10-injured-suspected-gas-explosion-turag-4122111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/10-injured-suspected-gas-explosion-turag-4122111</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trump says not currently mulling US troops in Iran]]></title>
+            <link>https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/trump-says-not-currently-mulling-us-troops-iran-4122121</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Japan approves stem-cell treatment for Parkinson's in world first]]></title>
+            <link>https://www.thedailystar.net/health/news/japan-approves-stem-cell-treatment-parkinsons-world-first-4122116</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/health/news/japan-approves-stem-cell-treatment-parkinsons-world-first-4122116</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[97 days to go / The first World Cup final: Two footballs, 300 bayonets and a death threat]]></title>
+            <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-world-cup-final-two-footballs-300-bayonets-and-death-threat-4121951</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/the-first-world-cup-final-two-footballs-300-bayonets-and-death-threat-4121951</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Women sidelined in national politics]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/women-sidelined-national-politics-4121991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/women-sidelined-national-politics-4121991</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[25,000 to be picked for Farmers’ Card pre-pilot phase]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/25000-be-picked-farmers-card-pre-pilot-phase-4122026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/25000-be-picked-farmers-card-pre-pilot-phase-4122026</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[‘Let my mother know I am here’]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/let-my-mother-know-i-am-here-4121736</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/let-my-mother-know-i-am-here-4121736</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rabiul reiterates earlier claim: Welfare funds by registered transport bodies not extortion]]></title>
-            <link>https://www.thedailystar.net/news-0/news/rabiul-reiterates-earlier-claim-welfare-funds-registered-transport-bodies-not-extortion-4121671</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news-0/news/rabiul-reiterates-earlier-claim-welfare-funds-registered-transport-bodies-not-extortion-4121671</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Swadhinata Padak for teacher who died saving her students]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/swadhinata-padak-teacher-who-died-saving-her-students-4121656</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/swadhinata-padak-teacher-who-died-saving-her-students-4121656</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Premier Bank recovers Tk 1,618 crore default loans in a year]]></title>
-            <link>https://www.thedailystar.net/business/news/premier-bank-recovers-tk-1618-crore-default-loans-year-4121641</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/premier-bank-recovers-tk-1618-crore-default-loans-year-4121641</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Call migrant workers Sir to show respect’]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/call-migrant-workers-sir-show-respect-4121686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/call-migrant-workers-sir-show-respect-4121686</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#Heritage / Your complete map to Bangladesh’s most iconic Mughal mosques]]></title>
@@ -135,18 +135,18 @@
             <title><![CDATA[Fate of 133 ordinances: The 30-day test of the new parliament]]></title>
             <link>https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/fate-133-ordinances-the-30-day-test-the-new-parliament-4121811</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gas rationing shuts  five urea factories]]></title>
             <link>https://www.thedailystar.net/business/economy/news/gas-rationing-shuts-five-urea-factories-4121941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/gas-rationing-shuts-five-urea-factories-4121941</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Fri, 06 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Resurgence in red]]></title>
-            <link>https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/resurgence-red-4121796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/afc-womens-asian-cup-2026/news/resurgence-red-4121796</guid>
+            <title><![CDATA[Table tennis legend Linu to receive Independence Award]]></title>
+            <link>https://www.thedailystar.net/sports/more-sports/news/table-tennis-legend-linu-receive-independence-award-4122071</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/more-sports/news/table-tennis-legend-linu-receive-independence-award-4122071</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
