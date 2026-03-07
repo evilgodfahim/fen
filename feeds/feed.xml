@@ -4,34 +4,34 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 07 Mar 2026 08:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Mar 2026 09:36:23 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 07 Mar 2026 08:40:11 GMT</pubDate>
+        <pubDate>Sat, 07 Mar 2026 09:36:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
+            <title><![CDATA[Russia is providing Iran intelligence to target US forces, Washington Post reports]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Iran president says country will not surrender to Israel, US]]></title>
+            <description><![CDATA[Israel and the United States launched strikes against Iran on February, 28 killing the Islamic republic's supreme leader Ayatollah Ali Khamenei and triggering a regional conflict]]></description>
             <link>https://www.thedailystar.net/news/world/middle-east/news/iran-president-says-country-will-not-surrender-israel-us-4122791</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/iran-president-says-country-will-not-surrender-israel-us-4122791</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[National election: Record 16.91 lakh ballots rejected]]></title>
-            <description><![CDATA[An unprecedented number of ballots was rejected in the February 12 national polls.]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/national-election-record-1691-lakh-ballots-rejected-4122521</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/national-election-record-1691-lakh-ballots-rejected-4122521</guid>
-            <pubDate>Invalid Date</pubDate>
+            <pubDate>Sat, 07 Mar 2026 03:28:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[13th parliamentary polls: Women rights activists decry sharp decline in female representation]]></title>
+            <description><![CDATA[Say women received only 3.98% nominations, urge reforms to boost participation in politics]]></description>
             <link>https://www.thedailystar.net/news/bangladesh/news/13th-parliamentary-polls-women-rights-activists-decry-sharp-decline-female-representation-4122751</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/13th-parliamentary-polls-women-rights-activists-decry-sharp-decline-female-representation-4122751</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contenders for T20 World Cup Player of the Tournament]]></title>
-            <description><![CDATA[Here are the players who have lit up the stage with outstanding performances:]]></description>
-            <link>https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/contenders-t20-world-cup-player-the-tournament-4122781</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/t20-world-cup-2026/news/contenders-t20-world-cup-player-the-tournament-4122781</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -42,15 +42,9 @@
             <pubDate>Sat, 07 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Live updates / Iran president apologises to neighbouring countries for attacks]]></title>
+            <title><![CDATA[Live updates / Iran says will not target neighbours unless attacked from them]]></title>
             <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-president-apologises-neighbouring-countries-attacks-4122631</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/iran-president-apologises-neighbouring-countries-attacks-4122631</guid>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dubai airport suspends operations after interception]]></title>
-            <link>https://www.thedailystar.net/news/world/israel-iran-conflict/news/dubai-airport-suspends-operations-after-interception-4122761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/israel-iran-conflict/news/dubai-airport-suspends-operations-after-interception-4122761</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -60,53 +54,64 @@
             <pubDate>Sat, 07 Mar 2026 00:24:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Home adviser vows 'fresh parliamentary culture', cites first-time BNP MPs]]></title>
+            <title><![CDATA[Dubai airport says 'partially' resumed operations]]></title>
+            <link>https://www.thedailystar.net/news/world/news/dubai-airport-says-partially-reopens-operations-4122806</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/dubai-airport-says-partially-reopens-operations-4122806</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home minister vows 'fresh parliamentary culture', cites first-time BNP MPs]]></title>
             <link>https://www.thedailystar.net/news/governance/news/home-adviser-vows-fresh-parliamentary-culture-cites-first-time-bnp-mps-4122786</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/home-adviser-vows-fresh-parliamentary-culture-cites-first-time-bnp-mps-4122786</guid>
+            <pubDate>Invalid Date</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Health minister's surprise visit finds doctors absent at Narsingdi health complex]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/health-ministers-surprise-visit-finds-doctors-absent-narsingdi-health-complex-4122811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/health-ministers-surprise-visit-finds-doctors-absent-narsingdi-health-complex-4122811</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[People overwhelm filling stations amid fear of supply crunch]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/people-overwhelm-filling-stations-amid-fear-supply-crunch-4122501</guid>
+            <pubDate>Sat, 07 Mar 2026 03:21:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[We must collectively stop tolerating preventable deaths]]></title>
+            <description><![CDATA[By Sabbir Ahmad]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/we-must-collectively-stop-tolerating-preventable-deaths-4122396</guid>
+            <dc:creator><![CDATA[Sabbir Ahmad]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Russia is providing Iran intelligence to target US forces, Washington Post reports]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/russia-providing-iran-intelligence-target-us-forces-washington-post-reports-4122711</guid>
+            <title><![CDATA[Fix the systemic loopholes to curb gender-based violence]]></title>
+            <description><![CDATA[Laws without protection will not save women and children from abuse]]></description>
+            <link>https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/fix-the-systemic-loopholes-curb-gender-based-violence-4121801</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[The slow suffocation of a city: Dhaka’s silent COPD burden]]></title>
-            <description><![CDATA[By Fabi Huda]]></description>
-            <link>https://www.thedailystar.net/slow-reads/unheard-voices/news/the-slow-suffocation-city-dhakas-silent-copd-burden-4122426</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/unheard-voices/news/the-slow-suffocation-city-dhakas-silent-copd-burden-4122426</guid>
-            <dc:creator><![CDATA[Fabi Huda]]></dc:creator>
-            <pubDate>Invalid Date</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Let history breathe]]></title>
-            <description><![CDATA[The Liberation War of 1971 was not the work of one man. It was the product of millions of freedom fighters, political leaders, student activists, cultural organisers, rural villagers, defecting officers, and ordinary citizens who bore extraordinary costs.]]></description>
-            <link>https://www.thedailystar.net/opinion/views/news/let-history-breathe-4122401</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/let-history-breathe-4122401</guid>
-            <dc:creator><![CDATA[Jannatul Naym Pieal]]></dc:creator>
+            <title><![CDATA[Without a Bangladesh wildlife service, our wildlife has no future]]></title>
+            <description><![CDATA[By Reza Khan]]></description>
+            <link>https://www.thedailystar.net/slow-reads/big-picture/news/without-bangladesh-wildlife-service-our-wildlife-has-no-future-4122431</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/without-bangladesh-wildlife-service-our-wildlife-has-no-future-4122431</guid>
+            <dc:creator><![CDATA[Reza Khan]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
             <title><![CDATA[Gangster imperialism and the threat to global peace and security]]></title>
-            <description><![CDATA[By Anu Muhammad]]></description>
+            <description><![CDATA[The way a neighbourhood thug flaunts his power, boasts about violence, bullies at will, harasses, assaults, or kills—while proudly disregarding any law or rule—is eerily similar to what we are now witnessing from the president of the world’s most powerful state and his allies.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/gangster-imperialism-and-the-threat-global-peace-and-security-4121871</guid>
             <dc:creator><![CDATA[Anu Muhammad]]></dc:creator>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
-            <title><![CDATA[Bangladesh’s audit imbalance]]></title>
-            <description><![CDATA[Numbers rarely lie, even when Trump is in the room. But they do have a habit of whispering truths our profession would rather not discuss over coffee. Bangladesh’s latest audit statistics are doing exactly that.]]></description>
-            <link>https://www.thedailystar.net/business/economy/news/bangladeshs-audit-imbalance-4121901</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/economy/news/bangladeshs-audit-imbalance-4121901</guid>
-            <dc:creator><![CDATA[Mahtab Uddin Ahmed]]></dc:creator>
+            <title><![CDATA[Decay threatens 250-yr-old Lalmonirhat mosque]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/decay-threatens-250-yr-old-lalmonirhat-mosque-4122526</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/decay-threatens-250-yr-old-lalmonirhat-mosque-4122526</guid>
             <pubDate>Invalid Date</pubDate>
         </item>
         <item>
@@ -126,12 +131,6 @@
             <link>https://www.thedailystar.net/news/governance/news/seven-day-eid-holiday-year-4121376</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/seven-day-eid-holiday-year-4121376</guid>
             <pubDate>Thu, 05 Mar 2026 12:45:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[‘Tricked  into war’]]></title>
-            <link>https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/tricked-war-4120221</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/tricked-war-4120221</guid>
-            <pubDate>Wed, 04 Mar 2026 03:09:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[When our indifference breaks our children]]></title>
