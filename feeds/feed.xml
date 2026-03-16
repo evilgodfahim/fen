@@ -4,43 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 16 Mar 2026 11:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Mar 2026 13:42:54 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+        <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Uttara shopping mall vandalised over rumour of rickshaw puller’s death]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/crime-justice/news/uttara-shopping-mall-vandalised-over-rumour-rickshaw-pullers-death-4129971</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/crime-justice/news/uttara-shopping-mall-vandalised-over-rumour-rickshaw-pullers-death-4129971</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt reshuffles top posts in Bangladesh Police]]></title>
-            <description><![CDATA[The Ministry of Home Affairs issued an office order in this regard today]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/govt-reshuffles-top-posts-bangladesh-police-4130011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/govt-reshuffles-top-posts-bangladesh-police-4130011</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[PCB complains over Bangladesh’s late DRS call in Mirpur thriller]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/pcb-complains-over-bangladeshs-late-lbw-review-mirpur-thriller-4130071</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/pcb-complains-over-bangladeshs-late-lbw-review-mirpur-thriller-4130071</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Local govt polls not BNP’s priority yet]]></title>
-            <description><![CDATA[The ruling BNP has yet to begin preparations for the local government elections, as its central leadership is occupied with government duties, leaving them with little time to reorganise its grassroots structure for the next electoral contest.]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/local-govt-polls-not-bnps-priority-yet-4129791</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/local-govt-polls-not-bnps-priority-yet-4129791</guid>
-            <pubDate>Mon, 16 Mar 2026 02:12:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Harmful Facebook content risks human rights in Bangladesh: Amnesty]]></title>
-            <description><![CDATA[Urges Meta action after attacks on The Daily Star, Prothom Alo]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/news/harmful-facebook-content-risks-human-rights-bangladesh-amnesty-4130061</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/harmful-facebook-content-risks-human-rights-bangladesh-amnesty-4130061</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Govt to rally support to defer LDC graduation]]></title>
             <link>https://www.thedailystar.net/business/economy/news/govt-rally-support-defer-ldc-graduation-4129646</link>
@@ -48,175 +15,209 @@
             <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[What are Asian countries doing to offset the oil-price rise]]></title>
+            <title><![CDATA[Starmer says UK will not be drawn into wider Iran war]]></title>
+            <description><![CDATA['Britain would not be drawn into a wider war in Iran but would work with allies,' he says]]></description>
+            <link>https://www.thedailystar.net/news/world/news/starmer-says-uk-will-not-be-drawn-wider-iran-war-4130136</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/starmer-says-uk-will-not-be-drawn-wider-iran-war-4130136</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oil loading resumes at UAE's Fujairah port after an attack, sources say]]></title>
+            <link>https://www.thedailystar.net/news/world/news/oil-loading-resumes-uaes-fujairah-port-after-attack-sources-say-4130156</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/news/oil-loading-resumes-uaes-fujairah-port-after-attack-sources-say-4130156</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AFC has received no notification from Iran on World Cup withdrawal]]></title>
+            <description><![CDATA[The Asian Football Confederation said on Monday it has not received any notification from Iran that it will withdraw its national soccer team from the World Cup.]]></description>
+            <link>https://www.thedailystar.net/sports/football/news/afc-has-received-no-notification-iran-world-cup-withdrawal-4130181</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/afc-has-received-no-notification-iran-world-cup-withdrawal-4130181</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[‘Lottery undermines merit’: School admission tests from next year, Milon says]]></title>
+            <description><![CDATA[If number of applicants exceeds available seats, additional mechanisms may be introduced]]></description>
+            <link>https://www.thedailystar.net/campus/education/news/lottery-undermines-merit-school-admission-tests-next-year-milon-says-4130176</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/education/news/lottery-undermines-merit-school-admission-tests-next-year-milon-says-4130176</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explainer / What are Asian countries doing to offset the oil-price rise?]]></title>
             <link>https://www.thedailystar.net/business/news/what-are-asian-countries-doing-offset-the-oil-price-rise-4130096</link>
             <guid isPermaLink="true">https://www.thedailystar.net/business/news/what-are-asian-countries-doing-offset-the-oil-price-rise-4130096</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tarique Rahman launches nationwide canal restoration drive]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/tarique-rahman-launches-nationwide-canal-restoration-drive-4129951</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/tarique-rahman-launches-nationwide-canal-restoration-drive-4129951</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Education minister names new VCs for DU, RU, CU and KUET]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/education/news/education-minister-names-new-vcs-du-ru-cu-and-kuet-4130121</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/education/news/education-minister-names-new-vcs-du-ru-cu-and-kuet-4130121</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamaat gears up for local polls]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-gears-local-polls-4129796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-gears-local-polls-4129796</guid>
-            <pubDate>Mon, 16 Mar 2026 02:14:00 GMT</pubDate>
+            <title><![CDATA[Musings / A Ramzan favourite: Why the humble haleem demands patience in the age of fast food]]></title>
+            <link>https://www.thedailystar.net/taxonomy/term/1352514/news/ramzan-favourite-why-the-humble-haleem-demands-patience-the-age-fast-food-4130166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/ramzan-favourite-why-the-humble-haleem-demands-patience-the-age-fast-food-4130166</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Launches to operate from Bosila, Kanchan Bridge ghats to ease Eid rush at Sadarghat]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/transport/news/launches-operate-bosila-kanchan-bridge-ghats-ease-eid-rush-sadarghat-4130021</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/transport/news/launches-operate-bosila-kanchan-bridge-ghats-ease-eid-rush-sadarghat-4130021</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Graduate degree baseline requirement for management roles in schools, colleges: Education minister]]></title>
+            <link>https://www.thedailystar.net/campus/education/news/graduate-degree-baseline-requirement-management-roles-schools-colleges-education-minister-4130196</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/education/news/graduate-degree-baseline-requirement-management-roles-schools-colleges-education-minister-4130196</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Jamaat criticises govt move of appointing administrators to 42 zilla parishad]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-criticises-govt-move-appointing-administrators-42-zilla-parishad-4130091</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-criticises-govt-move-appointing-administrators-42-zilla-parishad-4130091</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Harmful Facebook content risks human rights in Bangladesh: Amnesty]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/harmful-facebook-content-risks-human-rights-bangladesh-amnesty-4130061</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/harmful-facebook-content-risks-human-rights-bangladesh-amnesty-4130061</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Why Bangladesh needs a brand reset]]></title>
-            <description><![CDATA[By Mostafiz Uddin]]></description>
-            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</guid>
-            <dc:creator><![CDATA[Mostafiz Uddin]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Jamaat ameer welcomes PM’s nationwide canal restoration drive]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-welcomes-pms-nationwide-canal-restoration-drive-4130146</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/jamaat-ameer-welcomes-pms-nationwide-canal-restoration-drive-4130146</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Power, risk, and readiness: The real test of Bangladesh's nuclear moment]]></title>
-            <description><![CDATA[This risk becomes particularly significant when a large nuclear reactor is involved. Nuclear plants are designed primarily for base-load electricity generation.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/big-picture/news/power-risk-and-readiness-the-real-test-bangladeshs-nuclear-moment-4129911</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/power-risk-and-readiness-the-real-test-bangladeshs-nuclear-moment-4129911</guid>
-            <dc:creator><![CDATA[Kamrul Hassan Mamun]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[The multiplier effect of investing in women]]></title>
+            <description><![CDATA[By Anjum Khalidi]]></description>
+            <link>https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</guid>
+            <dc:creator><![CDATA[Anjum Khalidi]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Doha diary: A historian amid the Iran war]]></title>
-            <description><![CDATA[By Rila Mukherjee]]></description>
-            <link>https://www.thedailystar.net/slow-reads/wisdom/news/doha-diary-historian-amid-the-iran-war-4129306</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/wisdom/news/doha-diary-historian-amid-the-iran-war-4129306</guid>
-            <dc:creator><![CDATA[Rila Mukherjee]]></dc:creator>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[My Mother’s Letter During the Liberation War]]></title>
+            <description><![CDATA[Many things from 1971 have been lost. I do not quite know how, but I found this letter again many years later. Our mother passed away twenty-six years ago. Yet this letter still shelters us like a long shadow above our heads, and continues to protect all her children who long for freedom.]]></description>
+            <link>https://www.thedailystar.net/slow-reads/focus/news/my-mothers-letter-during-the-liberation-war-4129891</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/focus/news/my-mothers-letter-during-the-liberation-war-4129891</guid>
+            <dc:creator><![CDATA[Sultana Kamal]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Continued neglect of potato farmers]]></title>
-            <description><![CDATA[Govt must protect them from further losses]]></description>
-            <link>https://www.thedailystar.net/opinion/editorial/news/continued-neglect-potato-farmers-4129586</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/editorial/news/continued-neglect-potato-farmers-4129586</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Geopolitical shocks expose governance gaps in Bangladesh’s energy sector]]></title>
+            <description><![CDATA[By Tasneem Tayeb]]></description>
+            <link>https://www.thedailystar.net/opinion/views/closer-look/news/geopolitical-shocks-expose-governance-gaps-bangladeshs-energy-sector-4130141</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/closer-look/news/geopolitical-shocks-expose-governance-gaps-bangladeshs-energy-sector-4130141</guid>
+            <dc:creator><![CDATA[Tasneem Tayeb]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[July charter and constitutional reform: Will we waste a generational opportunity?]]></title>
+            <description><![CDATA[The oppression of citizens under the Sheikh Hasina regime resulted in the July uprising.]]></description>
+            <link>https://www.thedailystar.net/opinion/news/july-charter-and-constitutional-reform-will-we-waste-generational-opportunity-4129676</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/july-charter-and-constitutional-reform-will-we-waste-generational-opportunity-4129676</guid>
+            <dc:creator><![CDATA[M. A. MatinMirza M. HassanSharif BhuiyanAsif M. Shahan]]></dc:creator>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[87 Days To Go / From traffic signals to the World Cup]]></title>
             <link>https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/traffic-signals-the-world-cup-4129941</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/traffic-signals-the-world-cup-4129941</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The burqa and the bomb: A disturbing war narrative]]></title>
-            <link>https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/the-burqa-and-the-bomb-disturbing-war-narrative-4129636</guid>
-            <pubDate>Mon, 16 Mar 2026 00:12:00 GMT</pubDate>
+            <title><![CDATA[Why Bangladesh needs a brand reset]]></title>
+            <link>https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/rmg-notes/news/why-bangladesh-needs-brand-reset-4129686</guid>
+            <pubDate>Mon, 16 Mar 2026 00:23:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[News analysis / Why new US trade weapon a threat to Bangladesh]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/why-new-us-trade-weapon-threat-bangladesh-4129776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/why-new-us-trade-weapon-threat-bangladesh-4129776</guid>
-            <pubDate>Mon, 16 Mar 2026 02:08:00 GMT</pubDate>
+            <title><![CDATA[#Perspective / The Eid salami scam we all fell for growing up]]></title>
+            <link>https://www.thedailystar.net/life-living/news/the-eid-salami-scam-we-all-fell-growing-4129986</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/the-eid-salami-scam-we-all-fell-growing-4129986</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#Perspective / Why men sleep through Eid and feel absolutely no guilt]]></title>
+            <link>https://www.thedailystar.net/life-living/news/why-men-sleep-through-eid-and-feel-absolutely-no-guilt-4129991</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/why-men-sleep-through-eid-and-feel-absolutely-no-guilt-4129991</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A risky moment to liberalise capital exit]]></title>
+            <link>https://www.thedailystar.net/opinion/news/risky-moment-liberalise-capital-exit-4129601</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/risky-moment-liberalise-capital-exit-4129601</guid>
+            <pubDate>Mon, 16 Mar 2026 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chairman of Sammilito Islami Bank Mohammad Ayub Mia resigns]]></title>
+            <link>https://www.thedailystar.net/business/news/chairman-sammilito-islami-bank-mohammad-ayub-mia-resigns-4130026</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/chairman-sammilito-islami-bank-mohammad-ayub-mia-resigns-4130026</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Zealand to land in Bangladesh on April 13 ahead of white-ball series]]></title>
+            <link>https://www.thedailystar.net/sports/cricket/news/new-zealand-land-bangladesh-april-13-ahead-white-ball-series-4130106</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/new-zealand-land-bangladesh-april-13-ahead-white-ball-series-4130106</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You haven’t seen even 25% of ‘Rakkhosh’ yet: Siam Ahmed]]></title>
+            <link>https://www.thedailystar.net/entertainment/news/you-havent-seen-even-25-rakkhosh-yet-siam-ahmed-4130171</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/you-havent-seen-even-25-rakkhosh-yet-siam-ahmed-4130171</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Healthy Ramadan fasting for pregnant and lactating mothers]]></title>
+            <link>https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nutritional Recommendations for Diabetic Patients for Ramadan]]></title>
             <link>https://www.thedailystar.net/life-living/news/nutritional-recommendations-diabetic-patients-ramadan-4129191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/nutritional-recommendations-diabetic-patients-ramadan-4129191</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[The multiplier effect of investing in women]]></title>
-            <link>https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/the-multiplier-effect-investing-women-4130046</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Stylish panjabi combos that will steal the spotlight]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/stylish-panjabi-combos-will-steal-the-spotlight-4124311</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/stylish-panjabi-combos-will-steal-the-spotlight-4124311</guid>
+            <pubDate>Mon, 09 Mar 2026 09:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[World Bank keen on continuing constructive partnership with Bangladesh]]></title>
-            <link>https://www.thedailystar.net/business/news/world-bank-keen-continuing-constructive-partnership-bangladesh-4130076</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/world-bank-keen-continuing-constructive-partnership-bangladesh-4130076</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Make a statement this Eid with elegant flowy dresses]]></title>
+            <link>https://www.thedailystar.net/life-living/fashion-beauty/news/make-statement-eid-elegant-flowy-dresses-4129166</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/life-living/fashion-beauty/news/make-statement-eid-elegant-flowy-dresses-4129166</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Fifth member of Iran women's football team withdraws Australia asylum claim]]></title>
-            <link>https://www.thedailystar.net/sports/football/news/fifth-member-iran-womens-football-team-withdraws-australia-asylum-claim-4129956</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/fifth-member-iran-womens-football-team-withdraws-australia-asylum-claim-4129956</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[NEWS REPORT / Rishad Choudhury wins Association for Asian Studies’ 2026 Bernard S. Cohn Prize]]></title>
+            <link>https://www.thedailystar.net/books-literature/star-books-report/news/rishad-choudhury-wins-association-asian-studies-2026-bernard-s-cohn-prize-4127906</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/star-books-report/news/rishad-choudhury-wins-association-asian-studies-2026-bernard-s-cohn-prize-4127906</guid>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Heme, Irfan Sajjad pair up in Hanif Sanket’s Eid special drama]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/heme-irfan-sajjad-pair-hanif-sankets-eid-special-drama-4129931</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/heme-irfan-sajjad-pair-hanif-sankets-eid-special-drama-4129931</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[CREATIVE NONFICTION / Sweetened ice and other lessons in kindness]]></title>
+            <link>https://www.thedailystar.net/books-literature/news/sweetened-ice-and-other-lessons-kindness-4128086</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/news/sweetened-ice-and-other-lessons-kindness-4128086</guid>
+            <pubDate>Sat, 14 Mar 2026 01:59:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[In Pictures / A song of ice and rain: Spring’s last surprise over Dhaka]]></title>
-            <link>https://www.thedailystar.net/taxonomy/term/1352514/news/song-ice-and-rain-springs-last-surprise-over-dhaka-4127961</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/song-ice-and-rain-springs-last-surprise-over-dhaka-4127961</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <title><![CDATA[Satire / Students establish a club for those who are against clubs]]></title>
+            <link>https://www.thedailystar.net/campus/campus/news/students-establish-club-those-who-are-against-clubs-4126111</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/campus/news/students-establish-club-those-who-are-against-clubs-4126111</guid>
+            <pubDate>Thu, 12 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Musings / Mango blossoms: Perfume of the season]]></title>
-            <link>https://www.thedailystar.net/taxonomy/term/1352514/news/mango-blossoms-perfume-the-season-4127826</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/mango-blossoms-perfume-the-season-4127826</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#Perspective / How Bangladeshi NRBs observe Ramadan far from home]]></title>
-            <link>https://www.thedailystar.net/life-living/news/how-bangladeshi-nrbs-observe-ramadan-far-home-4122691</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/how-bangladeshi-nrbs-observe-ramadan-far-home-4122691</guid>
-            <pubDate>Sat, 07 Mar 2026 10:04:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What to drink after dates at iftar]]></title>
-            <link>https://www.thedailystar.net/health/healthcare/news/what-drink-after-dates-iftar-4123241</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/health/healthcare/news/what-drink-after-dates-iftar-4123241</guid>
-            <pubDate>Sun, 08 Mar 2026 01:24:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Women's Day Special  / The fight for gender equality in entertainment goes on]]></title>
-            <link>https://www.thedailystar.net/entertainment/news/the-fight-gender-equality-entertainment-goes-4123011</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/news/the-fight-gender-equality-entertainment-goes-4123011</guid>
-            <pubDate>Sun, 08 Mar 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[ESSAY / Hope, rage, and love-worlds: The many meanings of feminised tears]]></title>
-            <link>https://www.thedailystar.net/books-literature/essay/news/hope-rage-and-love-worlds-the-many-meanings-feminised-tears-4122446</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/books-literature/essay/news/hope-rage-and-love-worlds-the-many-meanings-feminised-tears-4122446</guid>
-            <pubDate>Sat, 07 Mar 2026 02:17:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Movies / High hopes and chaos define Marty Supreme]]></title>
-            <link>https://www.thedailystar.net/rising-stars/pop-culture/news/high-hopes-and-chaos-define-marty-supreme-4120471</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/rising-stars/pop-culture/news/high-hopes-and-chaos-define-marty-supreme-4120471</guid>
-            <pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Off Campus / Delving into Bangalee folklore through the world of Goheen]]></title>
-            <link>https://www.thedailystar.net/campus/campus/news/delving-bangalee-folklore-through-the-world-goheen-4120596</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/campus/campus/news/delving-bangalee-folklore-through-the-world-goheen-4120596</guid>
-            <pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
+            <title><![CDATA[Career / What needs to change to accommodate environmental science graduates?]]></title>
+            <link>https://www.thedailystar.net/campus/career/news/what-needs-change-accommodate-environmental-science-graduates-4126131</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/campus/career/news/what-needs-change-accommodate-environmental-science-graduates-4126131</guid>
+            <pubDate>Fri, 13 Mar 2026 11:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will the biggest challenge for BNP govt come from within its own party?]]></title>
             <description><![CDATA[Public expectations are now very high -- people want good governance, accountability, and a political culture where differing opinions are respected]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/will-the-biggest-challenge-bnp-govt-come-within-its-own-party-4129866</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/will-the-biggest-challenge-bnp-govt-come-within-its-own-party-4129866</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Three possible outcomes emerging for Iran in current trajectory of war]]></title>
             <description><![CDATA[The conflict involving Iran is taking new turns every day. Strikes and counter-strikes have become a routine occurrence across the Middle East]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/three-possible-outcomes-emerging-iran-current-trajectory-war-4129861</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/three-possible-outcomes-emerging-iran-current-trajectory-war-4129861</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
@@ -242,7 +243,7 @@
             <title><![CDATA[How to spot disinformation on social media]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A six-point strategic memo to the new government]]></title>
@@ -254,7 +255,7 @@
             <title><![CDATA[Bangladesh’s economic roadmap: Priorities for the next government]]></title>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female leadership in Islam: A response to Jamaat Ameer]]></title>
@@ -272,7 +273,7 @@
             <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
-            <pubDate>Mon, 16 Mar 2026 11:01:53 GMT</pubDate>
+            <pubDate>Mon, 16 Mar 2026 13:42:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Next Step / Why entrepreneurship must be Bangladesh’s next national mission]]></title>
