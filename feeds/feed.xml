@@ -4,61 +4,10 @@
         <description><![CDATA[Latest news from The Daily Star]]></description>
         <link>https://www.thedailystar.net</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 18 Mar 2026 10:06:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Mar 2026 11:51:34 GMT</lastBuildDate>
         <atom:link href="https://www.thedailystar.net" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+        <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         <language><![CDATA[en]]></language>
-        <item>
-            <title><![CDATA[Lebanon war leaves a classroom of children hurt or dead every day, UN says]]></title>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/lebanon-war-leaves-classroom-children-hurt-or-dead-every-day-un-says-4131796</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/lebanon-war-leaves-classroom-children-hurt-or-dead-every-day-un-says-4131796</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Israel military says its tank fire hit UN Lebanon base, regrets incident]]></title>
-            <description><![CDATA[UNIFIL faces increased risks amid Israeli-Hezbollah tensions]]></description>
-            <link>https://www.thedailystar.net/news/world/middle-east/news/israel-military-says-its-tank-fire-hit-un-lebanon-base-regrets-incident-4131806</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israel-military-says-its-tank-fire-hit-un-lebanon-base-regrets-incident-4131806</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Analysis / Why Jamaat's debut as opposition in parliament fails the history test]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/politics/news/why-jamaats-debut-opposition-parliament-fails-the-history-test-4131761</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/politics/news/why-jamaats-debut-opposition-parliament-fails-the-history-test-4131761</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Senegal to protest being stripped of Cup of Nations title]]></title>
-            <description><![CDATA[Senegal have condemned the decision to strip them of the Africa Cup of Nations title, labelling it “unfair, unprecedented, and unacceptable”, and saying it casts a shadow over African football.]]></description>
-            <link>https://www.thedailystar.net/sports/football/news/senegal-protest-being-stripped-cup-nations-title-4131801</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/senegal-protest-being-stripped-cup-nations-title-4131801</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[8 coaches of ‘Nil Sagar Express’ derail in Bogura, several injured]]></title>
-            <description><![CDATA[Train services between Dhaka and northern districts suspended]]></description>
-            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-coaches-nil-sagar-express-derail-bogura-several-injured-4131786</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-coaches-nil-sagar-express-derail-bogura-several-injured-4131786</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Main Eid jamaat set for 8:30am at National Eidgah]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/main-eid-jamaat-set-830am-national-eidgah-4131811</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/main-eid-jamaat-set-830am-national-eidgah-4131811</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Phased factory shutdown adds pressure on highways, triggers fare hike ahead of Eid]]></title>
-            <link>https://www.thedailystar.net/news/bangladesh/news/phased-factory-shutdown-adds-pressure-highways-triggers-fare-hike-ahead-eid-4131766</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/phased-factory-shutdown-adds-pressure-highways-triggers-fare-hike-ahead-eid-4131766</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Most RMG factories have paid February salary, Eid bonus: BGMEA]]></title>
-            <link>https://www.thedailystar.net/business/news/most-rmg-factories-have-paid-february-salary-eid-bonus-bgmea-4131776</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/most-rmg-factories-have-paid-february-salary-eid-bonus-bgmea-4131776</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[‘Artificial shortage’ pushes up edible oil prices]]></title>
             <link>https://www.thedailystar.net/business/economy/news/artificial-shortage-pushes-edible-oil-prices-4131391</link>
@@ -66,54 +15,103 @@
             <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Iran's nuclear doctrine not likely to change, foreign minister says]]></title>
-            <link>https://www.thedailystar.net/news/world/us-israel-war-iran/news/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-4131711</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/world/us-israel-war-iran/news/irans-nuclear-doctrine-not-likely-change-foreign-minister-says-4131711</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <title><![CDATA[MJF calls for urgent action over ongoing sexual violence against children]]></title>
+            <description><![CDATA[Rights group cites alarming statistics, urges stronger monitoring in educational institutions]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/news/mjf-calls-urgent-action-over-ongoing-sexual-violence-against-children-4131821</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/mjf-calls-urgent-action-over-ongoing-sexual-violence-against-children-4131821</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[PM to exchange greetings at Jamuna on Eid day]]></title>
-            <link>https://www.thedailystar.net/news/governance/news/pm-exchange-greetings-jamuna-eid-day-4131741</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/news/governance/news/pm-exchange-greetings-jamuna-eid-day-4131741</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <title><![CDATA[Man, 6-yr-old killed in truck-bike collision in Rajshahi]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/man-6-yr-old-killed-truck-bike-collision-rajshahi-4131866</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/man-6-yr-old-killed-truck-bike-collision-rajshahi-4131866</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BGMEA warns members about US firm Zinntex over payment issue]]></title>
+            <description><![CDATA[BGMEA also asked members to supply information on their payments and business dealings with this company to the association soon]]></description>
+            <link>https://www.thedailystar.net/business/news/bgmea-warns-members-about-us-firm-zinntex-over-payment-issue-4131841</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/bgmea-warns-members-about-us-firm-zinntex-over-payment-issue-4131841</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[8 coaches of ‘Nilsagar Express’ derail near Bogura's Santahar Station]]></title>
+            <description><![CDATA[Several injured; train services between Dhaka and northern districts suspended]]></description>
+            <link>https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-coaches-nil-sagar-express-derail-bogura-several-injured-4131786</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/accidents-fires/news/8-coaches-nil-sagar-express-derail-bogura-several-injured-4131786</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Israel says Iranian Intelligence Minister Khatib killed overnight]]></title>
+            <link>https://www.thedailystar.net/news/world/middle-east/news/israel-says-iranian-intelligence-minister-khatib-killed-overnight-4131881</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/world/middle-east/news/israel-says-iranian-intelligence-minister-khatib-killed-overnight-4131881</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Main Eid jamaat set for 8:30am at National Eidgah]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/main-eid-jamaat-set-830am-national-eidgah-4131811</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/main-eid-jamaat-set-830am-national-eidgah-4131811</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bangladeshi dies after Iranian missile strike in Saudi Arabia; death toll rises to 5]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/bangladeshi-dies-after-iranian-missile-strike-saudi-arabia-death-toll-rises-5-4131836</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/bangladeshi-dies-after-iranian-missile-strike-saudi-arabia-death-toll-rises-5-4131836</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PM Tarique Rahman works from home during Eid holidays]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/pm-tarique-rahman-works-home-during-eid-holidays-4131846</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/pm-tarique-rahman-works-home-during-eid-holidays-4131846</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Phased factory shutdown adds pressure on highways, triggers fare hike ahead of Eid]]></title>
+            <link>https://www.thedailystar.net/news/bangladesh/news/phased-factory-shutdown-adds-pressure-highways-triggers-fare-hike-ahead-eid-4131766</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/phased-factory-shutdown-adds-pressure-highways-triggers-fare-hike-ahead-eid-4131766</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Most BGMEA factories paid February salary, Eid bonus, says trade body]]></title>
+            <link>https://www.thedailystar.net/business/news/most-bgmea-factories-paid-february-salary-eid-bonus-says-trade-body-4131776</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/most-bgmea-factories-paid-february-salary-eid-bonus-says-trade-body-4131776</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prelude to an order for genocide]]></title>
+            <link>https://www.thedailystar.net/opinion/news/prelude-order-genocide-1885354</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/opinion/news/prelude-order-genocide-1885354</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Will Family Card actually lift the poor or sink the economy?]]></title>
-            <description><![CDATA[By Md Deen Islam]]></description>
+            <description><![CDATA[The first and most pressing concern that arises from this programme is the fiscal sustainability that it requires.]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/will-family-card-actually-lift-the-poor-or-sink-the-economy-4131306</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/will-family-card-actually-lift-the-poor-or-sink-the-economy-4131306</guid>
             <dc:creator><![CDATA[Md Deen Islam]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Too many holidays are bad for any growth economy]]></title>
-            <description><![CDATA[Amid the prevailing Middle East crisis and economic lull, Bangladesh is heading into a prolonged holiday period around Eid-ul-Fitr.]]></description>
+            <description><![CDATA[By Mamun Rashid]]></description>
             <link>https://www.thedailystar.net/opinion/views/news/too-many-holidays-are-bad-any-growth-economy-4131301</link>
             <guid isPermaLink="true">https://www.thedailystar.net/opinion/views/news/too-many-holidays-are-bad-any-growth-economy-4131301</guid>
             <dc:creator><![CDATA[Mamun Rashid]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bangabandhu’s strategy and our independence]]></title>
-            <description><![CDATA[By Shams Rahman]]></description>
+            <description><![CDATA[India and China are two neighbouring nations. Both countries gained independence from colonial powers around the same time – India in 1947, and China in 1949.]]></description>
             <link>https://www.thedailystar.net/slow-reads/slow-reads-classics/news/bangabandhus-strategy-and-our-independence-2936171</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/slow-reads-classics/news/bangabandhus-strategy-and-our-independence-2936171</guid>
             <dc:creator><![CDATA[Shams Rahman]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Reshoring critical supply chains and the new political economy of post-globalization]]></title>
-            <description><![CDATA[Today, however, the global economy is increasingly multipolar. Manufacturing capacity, technological development, and financial influence are distributed across several major centres rather than concentrated within a single hegemonic order.]]></description>
-            <link>https://www.thedailystar.net/slow-reads/geopolitical-insights/news/reshoring-critical-supply-chains-and-the-new-political-economy-post-globalization-4131106</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/geopolitical-insights/news/reshoring-critical-supply-chains-and-the-new-political-economy-post-globalization-4131106</guid>
-            <dc:creator><![CDATA[Faridul Alam]]></dc:creator>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Interview / ‘Rehabilitation was very painful’]]></title>
             <link>https://www.thedailystar.net/sports/football/news/rehabilitation-was-very-painful-4131416</link>
             <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/rehabilitation-was-very-painful-4131416</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shady pilot licences expose Biman to risk]]></title>
@@ -140,46 +138,46 @@
             <pubDate>Wed, 18 Mar 2026 00:16:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Eid boosts remittance inflow despite Middle East war]]></title>
-            <link>https://www.thedailystar.net/business/news/eid-boosts-remittance-inflow-despite-middle-east-war-4131646</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/business/news/eid-boosts-remittance-inflow-despite-middle-east-war-4131646</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <title><![CDATA[Govt to introduce crop insurance for farmers: agri minister]]></title>
+            <link>https://www.thedailystar.net/business/news/govt-introduce-crop-insurance-farmers-agri-minister-4131816</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/business/news/govt-introduce-crop-insurance-farmers-agri-minister-4131816</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Captains unite for rapid rise on ICC rankings]]></title>
-            <link>https://www.thedailystar.net/sports/cricket/news/captains-unite-rapid-rise-icc-rankings-4131771</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/sports/cricket/news/captains-unite-rapid-rise-icc-rankings-4131771</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <title><![CDATA[Senegal to protest being stripped of Cup of Nations title]]></title>
+            <link>https://www.thedailystar.net/sports/football/news/senegal-protest-being-stripped-cup-nations-title-4131801</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/sports/football/news/senegal-protest-being-stripped-cup-nations-title-4131801</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Janaza of Shams Sumon held amid tributes at Channel i]]></title>
-            <link>https://www.thedailystar.net/entertainment/tv-film/news/janaza-shams-sumon-held-amid-tributes-channel-i-4131746</link>
-            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/janaza-shams-sumon-held-amid-tributes-channel-i-4131746</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <title><![CDATA[‘Ghor Ache Phera Nei’ to air on Channel i this Eid]]></title>
+            <link>https://www.thedailystar.net/entertainment/tv-film/news/ghor-ache-phera-nei-air-channel-i-eid-4131886</link>
+            <guid isPermaLink="true">https://www.thedailystar.net/entertainment/tv-film/news/ghor-ache-phera-nei-air-channel-i-eid-4131886</guid>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Reflection / Middle East or West Asia?]]></title>
             <link>https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</link>
             <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/middle-east-or-west-asia-4130986</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Musings / A Ramzan favourite: Why the humble haleem demands patience in the age of fast food]]></title>
             <link>https://www.thedailystar.net/taxonomy/term/1352514/news/ramzan-favourite-why-the-humble-haleem-demands-patience-the-age-fast-food-4130166</link>
             <guid isPermaLink="true">https://www.thedailystar.net/taxonomy/term/1352514/news/ramzan-favourite-why-the-humble-haleem-demands-patience-the-age-fast-food-4130166</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Healthy Ramadan fasting for pregnant and lactating mothers]]></title>
             <link>https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/healthy-ramadan-fasting-pregnant-and-lactating-mothers-4129201</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Nutritional Recommendations for Diabetic Patients for Ramadan]]></title>
             <link>https://www.thedailystar.net/life-living/news/nutritional-recommendations-diabetic-patients-ramadan-4129191</link>
             <guid isPermaLink="true">https://www.thedailystar.net/life-living/news/nutritional-recommendations-diabetic-patients-ramadan-4129191</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Stylish panjabi combos that will steal the spotlight]]></title>
@@ -191,33 +189,33 @@
             <title><![CDATA[When paper carried love: Eid cards find their way back to Dhaka’s streets]]></title>
             <link>https://www.thedailystar.net/news/bangladesh/news/when-paper-carried-love-eid-cards-find-their-way-back-dhakas-streets-4130906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/news/bangladesh/news/when-paper-carried-love-eid-cards-find-their-way-back-dhakas-streets-4130906</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ESSAY / The Cosmere is getting adapted: Here is where to start reading]]></title>
             <link>https://www.thedailystar.net/books-literature/essay/news/the-cosmere-getting-adapted-here-where-start-reading-4128526</link>
             <guid isPermaLink="true">https://www.thedailystar.net/books-literature/essay/news/the-cosmere-getting-adapted-here-where-start-reading-4128526</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NEWS REPORT / Rishad Choudhury wins Association for Asian Studies’ 2026 Bernard S. Cohn Prize]]></title>
             <link>https://www.thedailystar.net/books-literature/star-books-report/news/rishad-choudhury-wins-association-asian-studies-2026-bernard-s-cohn-prize-4127906</link>
             <guid isPermaLink="true">https://www.thedailystar.net/books-literature/star-books-report/news/rishad-choudhury-wins-association-asian-studies-2026-bernard-s-cohn-prize-4127906</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Constitution reform council sparks standoff in parliament]]></title>
             <description><![CDATA[The political temperature has risen following the government’s stance on the Constitution Reform Council during the first session of the 13th Jatiya Sangsad]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/constitution-reform-council-sparks-standoff-parliament-4131666</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/constitution-reform-council-sparks-standoff-parliament-4131666</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why America’s new trade move is a threat to Bangladesh]]></title>
             <description><![CDATA[What is Section 301? What impact will it have on Bangladesh? We will find out in today’s Star Explains.]]></description>
             <link>https://www.thedailystar.net/star-multimedia/news/why-americas-new-trade-move-threat-bangladesh-4131661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/star-multimedia/news/why-americas-new-trade-move-threat-bangladesh-4131661</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Column by Mahfuz Anam / The likely PM’s first crucial challenge]]></title>
@@ -243,7 +241,7 @@
             <title><![CDATA[How to spot disinformation on social media]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/how-spot-disinformation-social-media-4102876</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A six-point strategic memo to the new government]]></title>
@@ -255,7 +253,7 @@
             <title><![CDATA[Bangladesh’s economic roadmap: Priorities for the next government]]></title>
             <link>https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</link>
             <guid isPermaLink="true">https://www.thedailystar.net/slow-reads/big-picture/news/bangladeshs-economic-roadmap-priorities-the-next-government-4089211</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Female leadership in Islam: A response to Jamaat Ameer]]></title>
@@ -273,7 +271,7 @@
             <title><![CDATA[Next Step / The ‘Asian tiger’ dream is stalling. It is time Bangladeshi founders look to the Gulf]]></title>
             <link>https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</link>
             <guid isPermaLink="true">https://www.thedailystar.net/tech-startup/news/the-asian-tiger-dream-stalling-it-time-bangladeshi-founders-look-the-gulf-4113661</guid>
-            <pubDate>Wed, 18 Mar 2026 10:06:32 GMT</pubDate>
+            <pubDate>Wed, 18 Mar 2026 11:51:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Next Step / Why entrepreneurship must be Bangladesh’s next national mission]]></title>
