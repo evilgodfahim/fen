@@ -35,32 +35,43 @@ function parseItemDate(raw) {
   return new Date();
 }
 
-// ===== EXTRACT SLUG → DATETIME MAP FROM __NUXT__ =====
-// The page embeds all post data in a window.__NUXT__ IIFE.
-// Slugs are unicode-escaped: "\u002Feconomy\u002Fsome-slug"
-// Datetimes are inline ISO strings: "2026-03-19T02:29:54.000000Z"
-// Field order in each post object: id, title, slug, image, caption, excerpt, datetime, category
-function extractNuxtDateMap(html) {
+// ===== DECODE NUXT UNICODE ESCAPES =====
+// \u002F → /   \u003A → :   (covers both slug and image URL)
+function decodeNuxt(str) {
+  return str.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) =>
+    String.fromCharCode(parseInt(hex, 16))
+  );
+}
+
+// ===== EXTRACT SLUG → { datetime, image } MAP FROM __NUXT__ =====
+// Per-post object layout in the IIFE args:
+//   slug:"...", image:"https:\/\/...", caption:..., excerpt:"...", datetime:"ISO"
+// image immediately follows slug with no intervening fields.
+// datetime is further along (after caption + excerpt) but within ~1500 chars.
+function extractNuxtDataMap(html) {
   const map = new Map();
 
   const scriptMatch = html.match(/window\.__NUXT__\s*=\s*\(function[\s\S]*?;(?=\s*<\/script>)/);
   if (!scriptMatch) {
-    console.warn("⚠️  Could not locate __NUXT__ script block — dates will fall back to now()");
+    console.warn("⚠️  Could not locate __NUXT__ script block — dates/images will fall back");
     return map;
   }
 
   const script = scriptMatch[0];
 
-  // Match slug + datetime within the same post object (~1000 chars apart at most).
-  // [\s\S]{0,1000}? avoids crossing into the next article while still spanning
-  // the image/caption/excerpt fields that sit between slug and datetime.
-  const re = /slug:"(\\u002F[^"]+)"[\s\S]{0,1000}?datetime:"(\d{4}-\d{2}-\d{2}T[^"]+)"/g;
+  // Capture slug, image, and datetime in one pass per article.
+  // image sits right after slug (no other field between them).
+  // datetime comes after caption + excerpt (variable length) → 1500 char window.
+  const re = /slug:"(\\u002F[^"]+)",image:"(https[^"]+)"[\s\S]{0,1500}?datetime:"(\d{4}-\d{2}-\d{2}T[^"]+)"/g;
   let m;
   while ((m = re.exec(script)) !== null) {
-    const slug = m[1].replace(/\\u002F/g, "/");  // decode Unicode escapes → "/"
-    map.set(slug, m[2]);
+    const slug     = decodeNuxt(m[1]);
+    const image    = decodeNuxt(m[2]);
+    const datetime = m[3];
+    map.set(slug, { datetime, image });
   }
 
+  console.log(`  __NUXT__ data map: ${map.size} entries`);
   return map;
 }
 
@@ -80,15 +91,14 @@ async function fetchWithFlareSolverr(url) {
 }
 
 // ===== SCRAPE ONE PAGE =====
-function scrapePage(html, sourceURL, seen) {
-  const $ = cheerio.load(html);
-  const dateMap = extractNuxtDateMap(html);
-  const items = [];
+function scrapePage(html, seen) {
+  const $       = cheerio.load(html);
+  const dataMap = extractNuxtDataMap(html);
+  const items   = [];
 
   $("article").each((_, el) => {
     const $article = $(el);
 
-    // Title + link: h3 > a covers both the lead article and grid cards
     const $titleAnchor = $article.find("h3 a").first();
     const title = $titleAnchor.text().trim();
     const href  = $titleAnchor.attr("href");
@@ -98,14 +108,11 @@ function scrapePage(html, sourceURL, seen) {
     if (seen.has(link)) return;
     seen.add(link);
 
-    // Slug for date lookup — the path portion only (e.g. "/economy/some-slug")
-    const slug = href.startsWith("http") ? new URL(href).pathname : href;
-    const rawDate = dateMap.get(slug) || "";
+    const slug   = href.startsWith("http") ? new URL(href).pathname : href;
+    const meta   = dataMap.get(slug) || {};
 
-    // Description: the excerpt <p> (last <p> safely works for both layouts)
     const description = $article.find("p").last().text().trim();
 
-    // Category: find the section label link (href is exactly "/economy", "/trade", etc.)
     const category = $article.find("a").filter((_, a) => {
       return /^\/(economy|trade|national|stock|world|views|editorial)$/.test(
         $(a).attr("href") || ""
@@ -117,11 +124,12 @@ function scrapePage(html, sourceURL, seen) {
       link,
       description,
       category,
-      date: parseItemDate(rawDate),
+      image: meta.image || null,
+      date:  parseItemDate(meta.datetime || ""),
     });
   });
 
-  console.log(`  Scraped ${items.length} articles (dateMap size: ${dateMap.size})`);
+  console.log(`  Scraped ${items.length} articles`);
   return items;
 }
 
@@ -134,7 +142,7 @@ async function generateRSS() {
     for (const url of targetURLs) {
       console.log(`\n--- Processing ${url} ---`);
       const html  = await fetchWithFlareSolverr(url);
-      const items = scrapePage(html, url, seen);
+      const items = scrapePage(html, seen);
       allItems    = allItems.concat(items);
     }
 
@@ -147,26 +155,54 @@ async function generateRSS() {
         link:        baseURL,
         description: "RSS feed could not scrape any articles.",
         category:    "",
+        image:       null,
         date:        new Date(),
       });
     }
 
     const feed = new RSS({
-      title:       "The Financial Express – Economy & Trade",
-      description: "Latest Economy and Trade news from The Financial Express Bangladesh",
-      feed_url:    baseURL + "/economy",
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
+      title:            "The Financial Express – Economy & Trade",
+      description:      "Latest Economy and Trade news from The Financial Express Bangladesh",
+      feed_url:         baseURL + "/economy",
+      site_url:         baseURL,
+      language:         "en",
+      pubDate:          new Date().toUTCString(),
+      // Register the media namespace so <media:content> is valid XML
+      custom_namespaces: {
+        media: "http://search.yahoo.com/mrss/",
+      },
     });
 
     allItems.forEach(item => {
+      const customElements = [];
+
+      if (item.image) {
+        // media:content is the standard way feed readers pick up thumbnails
+        customElements.push({
+          "media:content": {
+            _attr: {
+              url:    item.image,
+              medium: "image",
+            },
+          },
+        });
+        // media:thumbnail for readers that prefer this (Feedly, Inoreader, etc.)
+        customElements.push({
+          "media:thumbnail": {
+            _attr: {
+              url: item.image,
+            },
+          },
+        });
+      }
+
       feed.item({
-        title:       item.title,
-        url:         item.link,
-        description: item.description || undefined,
-        categories:  item.category ? [item.category] : undefined,
-        date:        item.date,
+        title:           item.title,
+        url:             item.link,
+        description:     item.description || undefined,
+        categories:      item.category ? [item.category] : undefined,
+        date:            item.date,
+        custom_elements: customElements.length ? customElements : undefined,
       });
     });
 
