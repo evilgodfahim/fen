@@ -9,6 +9,8 @@ const targetURLs = [
   "https://thefinancialexpress.com.bd/trade",
 ];
 const flareSolverrURL = process.env.FLARESOLVERR_URL || "http://localhost:8191";
+const OUTPUT_FILE = "./feeds/feed.xml";
+const MAX_ITEMS   = 500;
 
 fs.mkdirSync("./feeds", { recursive: true });
 
@@ -36,7 +38,6 @@ function parseItemDate(raw) {
 }
 
 // ===== DECODE NUXT UNICODE ESCAPES =====
-// \u002F → /   \u003A → :   (covers both slug and image URL)
 function decodeNuxt(str) {
   return str.replace(/\\u([0-9a-fA-F]{4})/g, (_, hex) =>
     String.fromCharCode(parseInt(hex, 16))
@@ -44,10 +45,6 @@ function decodeNuxt(str) {
 }
 
 // ===== EXTRACT SLUG → { datetime, image } MAP FROM __NUXT__ =====
-// Per-post object layout in the IIFE args:
-//   slug:"...", image:"https:\/\/...", caption:..., excerpt:"...", datetime:"ISO"
-// image immediately follows slug with no intervening fields.
-// datetime is further along (after caption + excerpt) but within ~1500 chars.
 function extractNuxtDataMap(html) {
   const map = new Map();
 
@@ -58,10 +55,6 @@ function extractNuxtDataMap(html) {
   }
 
   const script = scriptMatch[0];
-
-  // Capture slug, image, and datetime in one pass per article.
-  // image sits right after slug (no other field between them).
-  // datetime comes after caption + excerpt (variable length) → 1500 char window.
   const re = /slug:"(\\u002F[^"]+)",image:"(https[^"]+)"[\s\S]{0,1500}?datetime:"(\d{4}-\d{2}-\d{2}T[^"]+)"/g;
   let m;
   while ((m = re.exec(script)) !== null) {
@@ -73,6 +66,45 @@ function extractNuxtDataMap(html) {
 
   console.log(`  __NUXT__ data map: ${map.size} entries`);
   return map;
+}
+
+// ===== LOAD EXISTING ITEMS FROM XML =====
+// Parses the current feed.xml and returns an array of plain objects
+// so we can deduplicate and merge with new items.
+function loadExistingItems(filePath) {
+  if (!fs.existsSync(filePath)) return [];
+
+  const xml = fs.readFileSync(filePath, "utf8");
+  const items = [];
+
+  // Extract each <item> block
+  const itemBlocks = xml.match(/<item>[\s\S]*?<\/item>/g) || [];
+
+  for (const block of itemBlocks) {
+    const get = (tag) => {
+      const m = block.match(new RegExp(`<${tag}><!\\[CDATA\\[([\\s\\S]*?)\\]\\]><\\/${tag}>|<${tag}>([^<]*)<\\/${tag}>`));
+      return m ? (m[1] !== undefined ? m[1] : m[2]) : "";
+    };
+    const getAttr = (tag, attr) => {
+      const m = block.match(new RegExp(`<${tag}[^>]*${attr}="([^"]+)"`));
+      return m ? m[1] : null;
+    };
+
+    const link = get("link").trim();
+    if (!link) continue;
+
+    items.push({
+      title:       get("title"),
+      link,
+      description: get("description"),
+      category:    get("category"),
+      image:       getAttr("media:content", "url") || getAttr("media:thumbnail", "url") || null,
+      date:        parseItemDate(get("pubDate")),
+    });
+  }
+
+  console.log(`  Loaded ${items.length} existing items from ${filePath}`);
+  return items;
 }
 
 // ===== FLARESOLVERR =====
@@ -133,24 +165,76 @@ function scrapePage(html, seen) {
   return items;
 }
 
+// ===== BUILD XML =====
+function buildFeed(items) {
+  const feed = new RSS({
+    title:             "The Financial Express – Economy & Trade",
+    description:       "Latest Economy and Trade news from The Financial Express Bangladesh",
+    feed_url:          baseURL + "/economy",
+    site_url:          baseURL,
+    language:          "en",
+    pubDate:           new Date().toUTCString(),
+    custom_namespaces: {
+      media: "http://search.yahoo.com/mrss/",
+    },
+  });
+
+  items.forEach(item => {
+    const customElements = [];
+    if (item.image) {
+      customElements.push({ "media:content":   { _attr: { url: item.image, medium: "image" } } });
+      customElements.push({ "media:thumbnail": { _attr: { url: item.image } } });
+    }
+
+    feed.item({
+      title:           item.title,
+      url:             item.link,
+      description:     item.description || undefined,
+      categories:      item.category ? [item.category] : undefined,
+      date:            item.date,
+      custom_elements: customElements.length ? customElements : undefined,
+    });
+  });
+
+  return feed.xml({ indent: true });
+}
+
 // ===== MAIN =====
 async function generateRSS() {
   try {
+    // 1. Fetch new articles from all target URLs
     const seen     = new Set();
-    let   allItems = [];
+    let   newItems = [];
 
     for (const url of targetURLs) {
       console.log(`\n--- Processing ${url} ---`);
       const html  = await fetchWithFlareSolverr(url);
       const items = scrapePage(html, seen);
-      allItems    = allItems.concat(items);
+      newItems    = newItems.concat(items);
     }
 
-    console.log(`\nTotal unique articles: ${allItems.length}`);
+    console.log(`\nNew articles scraped: ${newItems.length}`);
 
-    if (allItems.length === 0) {
-      console.log("⚠️  No articles found, inserting placeholder");
-      allItems.push({
+    // 2. Load existing items; mark their links as seen so new items can dedup against them
+    const existingItems = loadExistingItems(OUTPUT_FILE);
+    existingItems.forEach(item => seen.add(item.link));
+
+    // 3. Deduplicate new items against existing (seen was pre-populated above,
+    //    but scrapePage already used it — re-filter to be safe)
+    const trulyNew = newItems.filter(item => {
+      // scrapePage added new links to seen while existing links were NOT yet in seen,
+      // so we need an explicit check against existing links here.
+      return !existingItems.some(e => e.link === item.link);
+    });
+
+    console.log(`Truly new (not in existing feed): ${trulyNew.length}`);
+
+    // 4. Merge: new items first (newest at top), then existing — cap at MAX_ITEMS
+    const merged = [...trulyNew, ...existingItems].slice(0, MAX_ITEMS);
+    console.log(`Merged feed size: ${merged.length} / ${MAX_ITEMS}`);
+
+    if (merged.length === 0) {
+      merged.push({
         title:       "No articles found yet",
         link:        baseURL,
         description: "RSS feed could not scrape any articles.",
@@ -160,74 +244,33 @@ async function generateRSS() {
       });
     }
 
-    const feed = new RSS({
-      title:            "The Financial Express – Economy & Trade",
-      description:      "Latest Economy and Trade news from The Financial Express Bangladesh",
-      feed_url:         baseURL + "/economy",
-      site_url:         baseURL,
-      language:         "en",
-      pubDate:          new Date().toUTCString(),
-      // Register the media namespace so <media:content> is valid XML
-      custom_namespaces: {
-        media: "http://search.yahoo.com/mrss/",
-      },
-    });
-
-    allItems.forEach(item => {
-      const customElements = [];
-
-      if (item.image) {
-        // media:content is the standard way feed readers pick up thumbnails
-        customElements.push({
-          "media:content": {
-            _attr: {
-              url:    item.image,
-              medium: "image",
-            },
-          },
-        });
-        // media:thumbnail for readers that prefer this (Feedly, Inoreader, etc.)
-        customElements.push({
-          "media:thumbnail": {
-            _attr: {
-              url: item.image,
-            },
-          },
-        });
-      }
-
-      feed.item({
-        title:           item.title,
-        url:             item.link,
-        description:     item.description || undefined,
-        categories:      item.category ? [item.category] : undefined,
-        date:            item.date,
-        custom_elements: customElements.length ? customElements : undefined,
-      });
-    });
-
-    const xml = feed.xml({ indent: true });
-    fs.writeFileSync("./feeds/feed.xml", xml);
-    console.log(`\n✅ RSS generated with ${allItems.length} items → ./feeds/feed.xml`);
+    // 5. Write
+    fs.writeFileSync(OUTPUT_FILE, buildFeed(merged));
+    console.log(`\n✅ RSS written with ${merged.length} items → ${OUTPUT_FILE}`);
 
   } catch (err) {
     console.error("❌ Error generating RSS:", err.message);
 
-    const feed = new RSS({
-      title:       "The Financial Express (error fallback)",
-      description: "RSS feed could not scrape, showing placeholder",
-      feed_url:    baseURL,
-      site_url:    baseURL,
-      language:    "en",
-      pubDate:     new Date().toUTCString(),
-    });
-    feed.item({
-      title:       "Feed generation failed",
-      url:         baseURL,
-      description: "An error occurred during scraping.",
-      date:        new Date(),
-    });
-    fs.writeFileSync("./feeds/feed.xml", feed.xml({ indent: true }));
+    // Only write fallback if no feed exists yet; don't clobber a good existing feed
+    if (!fs.existsSync(OUTPUT_FILE)) {
+      const feed = new RSS({
+        title:       "The Financial Express (error fallback)",
+        description: "RSS feed could not scrape, showing placeholder",
+        feed_url:    baseURL,
+        site_url:    baseURL,
+        language:    "en",
+        pubDate:     new Date().toUTCString(),
+      });
+      feed.item({
+        title:       "Feed generation failed",
+        url:         baseURL,
+        description: "An error occurred during scraping.",
+        date:        new Date(),
+      });
+      fs.writeFileSync(OUTPUT_FILE, feed.xml({ indent: true }));
+    } else {
+      console.log("⚠️  Keeping existing feed intact due to error.");
+    }
   }
 }
 
