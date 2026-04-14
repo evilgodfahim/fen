@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Apr 2026 15:17:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Apr 2026 17:15:46 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Apr 2026 15:17:32 GMT</pubDate>
+        <pubDate>Tue, 14 Apr 2026 17:15:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Ship carrying jet fuel reaches Ctg port]]></title>
+            <description><![CDATA[A ship named 'MT Great Princess' reached Chattogram port carrying 12,000 tonnes of jet fuel from Singapore on Tuesday morning.
+The cargo was supplied by Indian Oil Corporation Limited. Two more ships, 'MT Term Damini' and 'MT Lucia Solis', are expected to arrive tonight with a total of around 68,0]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/ship-carrying-jet-fuel-reaches-ctg-port</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/ship-carrying-jet-fuel-reaches-ctg-port</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 14 Apr 2026 15:55:34 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148034/img-6890.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148034/img-6890.jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Eastern Refinery nears shutdown as crude crunch bites]]></title>
             <description><![CDATA[Eastern Refinery Limited, Bangladesh’s only state-owned oil refining facility in Chattogram, is on the verge of halting production due to a severe crude oil shortage linked to disruptions from the war in the Middle East.
