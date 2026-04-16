@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 03:18:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 06:04:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 03:18:20 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 06:04:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IFC, JPMorgan show interest in Bangladesh investment opportunities: Khosru]]></title>
+            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury on Wednesday said both the International Finance Corporation (IFC) and JPMorgan have expressed interest in investing in Bangladesh, particularly in the financial sector and capital market, following separate meetings held on the sidelines of the IMF-Wor]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/ifc-jpmorgan-eye-investments-in-bangladeshs-financial-sector-capital-markets-khosru</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/ifc-jpmorgan-eye-investments-in-bangladeshs-financial-sector-capital-markets-khosru</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 16 Apr 2026 05:54:04 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148260/investment.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148260/investment.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh Bank buys $70m to steady taka]]></title>
+            <description><![CDATA[After a six-week pause, Bangladesh Bank has resumed dollar purchases, signalling renewed intervention to stabilise the exchange rate of the US dollar against the local currency stable amid a surge in remittance inflows.
+The central bank purchased $70 million from a bank in the interbank spot marke]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bangladesh-bank-buys-70m-to-steady-taka</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-bank-buys-70m-to-steady-taka</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 16 Apr 2026 04:21:56 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148246/bangladesh-bank-logo.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148246/bangladesh-bank-logo.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Govt drafting five-year strategic plan to spur economic growth]]></title>
             <description><![CDATA[The government has begun formulating a new five-year strategic framework aimed at steering the economy from stabilisation to investment-led growth, setting ambitious targets for expansion and job creation.
@@ -5211,24 +5232,6 @@ The central bank issued the instruction to safeguard the interests of depositors
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bb-issues-new-rules-for-bank-dividend-reporting</guid>
             <category><![CDATA[Economy]]></category>
             <pubDate>Sun, 22 Mar 2026 12:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alibaba targets $100b in AI and cloud revenue over 5 years]]></title>
-            <description><![CDATA[China’s technology giant Alibaba Group pledged on Thursday a goal of surpassing $100 billion in revenue from its artificial intelligence and cloud businesses over the next five years, which it said would be powered by the AI demand boom.
-The announcement of the ambitious target came as the c]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/alibaba-targets-100b-in-ai-and-cloud-revenue-over-5-years</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 22 Mar 2026 12:43:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB dismisses reports of private bank MD’s appointment as Deputy Governor]]></title>
-            <description><![CDATA[Bangladesh Bank on Thursday categorically dismissed reports circulating in a section of the media regarding an apparent decision to appoint a successful private sector bank's Managing Director as its new Deputy Governor, terming the information "baseless and untrue."
-In a formal statement issued t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bb-dismisses-reports-of-private-bank-mds-appointment-as-deputy-governor</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bb-dismisses-reports-of-private-bank-mds-appointment-as-deputy-governor</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 22 Mar 2026 12:43:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
