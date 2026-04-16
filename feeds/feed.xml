@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 16 Apr 2026 18:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Apr 2026 20:01:36 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 16 Apr 2026 18:09:45 GMT</pubDate>
+        <pubDate>Thu, 16 Apr 2026 20:01:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt's revenue authority ponders property taxation]]></title>
+            <description><![CDATA[Government's revenue authority ponders introducing property tax -- on a limited scale to start with -- in the upcoming fiscal year to hook wealthy individuals onto wider-cast tax net.
+The planned property-taxation system is likely to replace the existing wealth surcharge, which has proven ineffect]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/govts-revenue-authority-ponders-property-taxation</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govts-revenue-authority-ponders-property-taxation</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Thu, 16 Apr 2026 18:35:20 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148383/tax.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148383/tax.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forensic audit frameworks]]></title>
             <description><![CDATA[In today’s globalised, fast-changing financial landscape, banking rests on uninterrupted trust and transparency. While reputable banks are often known for integrity, ethics and strong controls, modern banking’s complexity — technological risks and sophisticated financial misconduc]]></description>
@@ -5243,14 +5254,6 @@ Central bank officials say the strong inflow reflects seasonal support from expa
 Spot gold fell 0.8% to $5,189.99 per ounce by 0125 GMT, snapping a four-session winning streak and dropping from]]></description>
             <link>https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</guid>
-            <pubDate>Sun, 22 Mar 2026 12:43:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Diesel markets, upended by Middle East conflict, threaten global economic slowdown]]></title>
-            <description><![CDATA[Surging diesel prices are threatening to slow global economic activity as the war in the Middle East pressures supplies of both the industrial fuel and the type of crude oil most suited to produce it, traders and analysts said.
-Diesel has been in tight supply for years due to disruptions from Ukra]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/global/diesel-markets-upended-by-middle-east-conflict-threaten-global-economic-slowdown</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/diesel-markets-upended-by-middle-east-conflict-threaten-global-economic-slowdown</guid>
             <pubDate>Sun, 22 Mar 2026 12:43:51 GMT</pubDate>
         </item>
     </channel>
