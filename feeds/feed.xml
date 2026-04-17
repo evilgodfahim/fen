@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 14:59:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Apr 2026 16:09:17 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 14:59:15 GMT</pubDate>
+        <pubDate>Fri, 17 Apr 2026 16:09:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Oil falls 11pc as Iran declares Strait of Hormuz open]]></title>
+            <description><![CDATA[Oil prices plunged by about 11 per cent on Friday, extending earlier losses, after Iran's foreign minister said that passage for all commercial vessels through the Strait of Hormuz was open for the remaining ceasefire period.
+Brent crude futures were $10.59, or 10.7 per cent, lower at $88.80 a bar]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/oil-falls-11pc-as-iran-declares-strait-of-hormuz-open</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/oil-falls-11pc-as-iran-declares-strait-of-hormuz-open</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 17 Apr 2026 15:24:37 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148496/oil-field.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148496/oil-field.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh targets recovery of $200b ‘stolen funds’ as banks face liquidity stress]]></title>
             <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury has put the recovery of an estimated $200 billion in stolen assets at the centre of efforts to stabilise the economy, warning that years of capital flight have hollowed out the banking system and left the private sector starved of liquidity.
@@ -5254,17 +5265,6 @@ Although gas accounts for only around 2%]]></description>
             <pubDate>Sat, 21 Mar 2026 02:18:46 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144181/imresizer-img-20260321-081618.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144181/imresizer-img-20260321-081618.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh eyes more than $2 bn in fresh funds to mitigate fuel, LNG crisis]]></title>
-            <description><![CDATA[Bangladesh is seeking billions in external financing to secure fuel and liquefied natural gas imports, as the new government led by Prime Minister Tarique Rahman moves to stabilise the economy amid a worsening global energy outlook due to the Iran war.
-The nation of 175 million relies on imports f]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bangladesh-eyes-more-than-2-bn-in-fresh-funds-to-mitigate-fuel-lng-crisis</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-eyes-more-than-2-bn-in-fresh-funds-to-mitigate-fuel-lng-crisis</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Fri, 20 Mar 2026 14:34:11 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144141/lng-terminal-311224-01-1735632436-1.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144141/lng-terminal-311224-01-1735632436-1.jpg"/>
         </item>
     </channel>
 </rss>
