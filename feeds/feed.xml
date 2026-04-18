@@ -4,10 +4,24 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 17:39:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 18:57:36 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 17:39:44 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 18:57:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh's trillion-dollar trilemma]]></title>
+            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury recently told parliament that the government has prepared an action plan to build a trillion-dollar economy by 2034. The plan covers investment, employment, exports, remittances, skills development and macroeconomic stability. But the trillion-dollar ta]]></description>
+            <link>https://thefinancialexpress.com.bd/views/columns/bangladeshs-trillion-dollar-trilemma</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/bangladeshs-trillion-dollar-trilemma</guid>
+            <pubDate>Sat, 18 Apr 2026 18:57:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bridging the digital divide]]></title>
+            <description><![CDATA[Digitalisation has been a central theme of Bangladesh's national branding for well over one and a half decades. There has been unreserved national consensus across all political hues on digital transformation. The general expectation therefore is for the optimum utilisation of technology and a stea]]></description>
+            <link>https://thefinancialexpress.com.bd/views/opinions/bridging-the-digital-divide</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/opinions/bridging-the-digital-divide</guid>
+            <pubDate>Sat, 18 Apr 2026 18:57:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Govt raises fuel prices by up to Tk 20 per litre]]></title>
             <description><![CDATA[The government has set new retail prices for all types of fuel in Bangladesh, citing the continued impact of rising global oil prices.
@@ -5231,29 +5245,6 @@ Russian Deputy A]]></description>
             <pubDate>Tue, 24 Mar 2026 14:48:44 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144605/new-project-2026-03-24t204755836.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144605/new-project-2026-03-24t204755836.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh raises jet fuel price by around 80 percent]]></title>
-            <description><![CDATA[Bangladesh Energy Regulatory Commission (BERC) has raised the price of jet fuel for domestic flights to Tk 202.29 per litre from Tk 112.41.
-The decision was taken at an emergency meeting on Tuesday, considering the average Platts rates between March 5 and March 22, revised premiums for January&nda]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bangladesh-raises-jet-fuel-price-by-around-80-percent</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-raises-jet-fuel-price-by-around-80-percent</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 24 Mar 2026 10:40:02 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144555/new-project-2026-03-24t163939970.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144555/new-project-2026-03-24t163939970.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trade through Benapole port resumes after 7-day Eid holiday]]></title>
-            <description><![CDATA[Trade through Benapole-Petrapole land port resumed on Tuesday morning after a seven-day suspension for Eid holidays.
-The port remained closed for seven consecutive days from  Tuesday to Monday on the occasion of Eid.
-With the resumption of operations, around 3,000 workers joined duty from th]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/trade-through-benapole-port-resumes-after-7-day-eid-holiday</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/trade-through-benapole-port-resumes-after-7-day-eid-holiday</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 24 Mar 2026 08:37:06 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144541/benapole-land-port2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144541/benapole-land-port2.jpg"/>
         </item>
     </channel>
 </rss>
