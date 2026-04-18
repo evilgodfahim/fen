@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 07:14:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 08:56:30 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 07:14:45 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 08:56:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Fuel Pass BD pilot rolled out in several other districts]]></title>
+            <description><![CDATA[The pilot phase of the Fuel Pass BD app has been expanded beyond the Dhaka district, with authorities opening motorcycle registration in several other districts under a wider rollout plan.
+In a Facebook post on Saturday, the Ministry of Power, Energy and Mineral Resources said motorcycles register]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/fuel-pass-bd-pilot-rolled-out-in-several-other-districts</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-pass-bd-pilot-rolled-out-in-several-other-districts</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 18 Apr 2026 08:23:24 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148577/bikers-at-petrol-pump.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148577/bikers-at-petrol-pump.jpg"/>
+        </item>
         <item>
             <title><![CDATA[IMF loan not stalled, negotiations ongoing: Minister rebuts claims]]></title>
             <description><![CDATA[Finance Minister Amir Khasru Mahmud Chowdhury has brushed aside speculation about a possible stalling of loan tranches from the International Monetary Fund (IMF), describing the ongoing negotiations as a “work in progress” with no negative outcomes so far.
@@ -5250,17 +5261,6 @@ Investors are bracing for another stormy week in fina]]></description>
             <pubDate>Mon, 23 Mar 2026 02:38:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144402/6jknwy4qkfmghjfqsmyddoeouu.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144402/6jknwy4qkfmghjfqsmyddoeouu.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil prices to rise further on Monday as Mideast war escalates]]></title>
-            <description><![CDATA[Oil prices look set to rise further on Monday, having closed before the ‌weekend at their highest in nearly four years, after U.S. and Iranian threats to target energy facilities, analysts said on Sunday.
-U.S. President Donald Trump on Saturday threatened to "obliterate" Iran's power plants i]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/oil-prices-to-rise-further-on-monday-as-mideast-war-escalates</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/oil-prices-to-rise-further-on-monday-as-mideast-war-escalates</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 22 Mar 2026 17:55:21 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144393/new-project-41.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144393/new-project-41.jpg"/>
         </item>
     </channel>
 </rss>
