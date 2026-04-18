@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Apr 2026 23:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 02:45:13 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 17 Apr 2026 23:42:45 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 02:45:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Growth sans governance reform risks instability]]></title>
+            <description><![CDATA[Rapid economic growth, if not accompanied by governance reforms, may ultimately undermine development and trigger instability, economists warn during a review of Bangladesh's politico-economic milieus.
+The speakers came to such conclusion at a virtual discussion organised by the South Asian Networ]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/growth-sans-governance-reform-risks-instability</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/growth-sans-governance-reform-risks-instability</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sat, 18 Apr 2026 02:31:45 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148521/1577978495.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148521/1577978495.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Large-scale manufacturing sees some rebound]]></title>
             <description><![CDATA[Bangladesh's large-scale manufacturing sector sees some rebound with its return onto growth trajectory in January after a tumble last December, signifying tentative recovery in the industrial sector.
@@ -5255,17 +5266,6 @@ These are among some unsparing actions they spelt out at a meet Monday as pa]]><
             <pubDate>Mon, 16 Mar 2026 18:06:58 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143619/p1-lead-highlight-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143619/p1-lead-highlight-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Africa, the cost of jet fuel is changing faster than you can fly]]></title>
-            <description><![CDATA[Airlines are grappling with soaring jet fuel prices as the US-Israeli war on Iran has caused a supply shortage - leaving consumers facing surcharges and airlines struggling to manage volatile costs as the fuel gets scarcer.
-Africa is among the most exposed regions to ​both supply disruptions and h]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/in-africa-the-cost-of-jet-fuel-is-changing-faster-than-you-can-fly</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/in-africa-the-cost-of-jet-fuel-is-changing-faster-than-you-can-fly</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 22 Mar 2026 06:27:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144302/nbvrgxl6yjovbaaeji6eufe6he.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144302/nbvrgxl6yjovbaaeji6eufe6he.jpg"/>
         </item>
     </channel>
 </rss>
