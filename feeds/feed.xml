@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 02:45:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 05:10:44 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 02:45:13 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 05:10:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Paddy prices slide ahead of Boro harvest]]></title>
+            <description><![CDATA[A sharp fall in paddy prices ahead of the peak Boro harvest has triggered fresh concern among farmers, who fear mounting losses unless the government intervenes swiftly.
+The decline, driven by early harvesting and rising supply, has already eroded returns from older stocks, according to market ins]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/paddy-prices-slide-ahead-of-boro-harvest</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/paddy-prices-slide-ahead-of-boro-harvest</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 17 Apr 2026 02:40:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148414/1776363361.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148414/1776363361.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Growth sans governance reform risks instability]]></title>
             <description><![CDATA[Rapid economic growth, if not accompanied by governance reforms, may ultimately undermine development and trigger instability, economists warn during a review of Bangladesh's politico-economic milieus.
@@ -5252,20 +5263,6 @@ Chattogram’s Metropolitan Magistrate Md Abu Bakar Siddik issued the order on M
             <pubDate>Tue, 17 Mar 2026 11:13:39 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143674/new-project-2026-03-17t170959196.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143674/new-project-2026-03-17t170959196.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Display defaulters' list on BB website, prohibit their car, house buy]]></title>
-            <description><![CDATA[Top executives of public-sector banks have suggested posting the loan defaulters' list on the central bank's website and prohibiting them from buying personal property like houses as preventive action, sources said.
-
-
-
-These are among some unsparing actions they spelt out at a meet Monday as pa]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/display-defaulters-list-on-bb-website-prohibit-their-car-house-buy</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/display-defaulters-list-on-bb-website-prohibit-their-car-house-buy</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Mon, 16 Mar 2026 18:06:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143619/p1-lead-highlight-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/143619/p1-lead-highlight-outline.jpg"/>
         </item>
     </channel>
 </rss>
