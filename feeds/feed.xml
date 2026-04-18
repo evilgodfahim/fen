@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 18 Apr 2026 11:37:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Apr 2026 13:11:02 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 18 Apr 2026 11:37:59 GMT</pubDate>
+        <pubDate>Sat, 18 Apr 2026 13:11:02 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SME Foundation, Prime Bank sign agreement to boost CMSME growth]]></title>
+            <description><![CDATA[SME Foundation and Prime Bank have officially entered into a refinancing agreement aimed at enhancing credit access for Cottage, Micro, Small, and Medium Enterprises (CMSMEs).
+This collaboration operates under the government’s BDT 300 crore Revolving Fund and follows the Credit Wholesaling g]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/sme-foundation-prime-bank-sign-agreement-to-boost-cmsme-growth</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sme-foundation-prime-bank-sign-agreement-to-boost-cmsme-growth</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 18 Apr 2026 12:02:40 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148603/sme.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148603/sme.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trade deal with US undermines energy sovereignty: Debapriya Bhattacharya]]></title>
+            <description><![CDATA[Economist and Distinguished Fellow at the Centre for Policy Dialogue (CPD), Dr. Debapriya Bhattacharya, has claimed that the trade agreement signed by the interim government with the United States undermines Bangladesh’s energy sovereignty.Speaking as the chief guest at a pre-budget shadow pa]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/trade-deal-with-us-undermines-energy-sovereignty-debapriya-bhattacharya</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/trade-deal-with-us-undermines-energy-sovereignty-debapriya-bhattacharya</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 18 Apr 2026 11:45:45 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148601/debapriya.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148601/debapriya.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fuel Pass BD pilot rolled out in several other districts]]></title>
             <description><![CDATA[The pilot phase of the Fuel Pass BD app has been expanded beyond the Dhaka district, with authorities opening motorcycle registration in several other districts under a wider rollout plan.
@@ -5239,28 +5260,6 @@ Th]]></description>
             <pubDate>Mon, 23 Mar 2026 07:11:27 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144435/petrol-pump-unb.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144435/petrol-pump-unb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war's energy impact forces world to pay up, cut consumption]]></title>
-            <description><![CDATA[The war in the Middle East has triggered a nightmare scenario for the global energy system, slashing so much supply that consumers around the world must both pay up big and lower consumption.
-The effective closure of the Strait of Hormuz, a narrow channel along the Iranian coast, ​has stopped the]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/iran-wars-energy-impact-forces-world-to-pay-up-cut-consumption</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/iran-wars-energy-impact-forces-world-to-pay-up-cut-consumption</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 22 Mar 2026 07:31:59 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144313/mvekd4k4jblzxplh47tnqibjou.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144313/mvekd4k4jblzxplh47tnqibjou.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK's Starmer calls emergency meeting on economy]]></title>
-            <description><![CDATA[British Prime Minister Keir Starmer is set to chair an emergency meeting on the economic fallout from the war in Iran on Monday, with finance minister Rachel Reeves and Bank of England Governor Andrew Bailey ​in attendance, the government said.
-Investors are bracing for another stormy week in fina]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/uks-starmer-calls-emergency-meeting-on-economy-as-iran-war-risks-mount</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/uks-starmer-calls-emergency-meeting-on-economy-as-iran-war-risks-mount</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Mon, 23 Mar 2026 02:38:10 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144402/6jknwy4qkfmghjfqsmyddoeouu.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144402/6jknwy4qkfmghjfqsmyddoeouu.jpg"/>
         </item>
     </channel>
 </rss>
