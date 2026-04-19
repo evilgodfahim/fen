@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Apr 2026 17:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Apr 2026 18:57:40 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 19 Apr 2026 17:38:55 GMT</pubDate>
+        <pubDate>Sun, 19 Apr 2026 18:57:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Food, transport, trade costs set to spike]]></title>
+            <description><![CDATA[Food production, trade and transportation costs may increase further on fuel-price hike by Tk 15-20 per litre in Bangladesh amid an exigent global crunch.Bangladesh uses about 4.35 million tonnes of diesel annually, and around 24 per cent of it is used in agriculture. About 80 per cent of irrigatio]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/food-transport-trade-costs-set-to-spike</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/food-transport-trade-costs-set-to-spike</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 19 Apr 2026 18:03:06 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148836/p1-fuel-price-hike-1-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148836/p1-fuel-price-hike-1-outline.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BPC to raise fuel supply from Monday to stabilise market]]></title>
+            <description><![CDATA[The Bangladesh Petroleum Corporation (BPC) will increase fuel supply from Monday, raising allocations of octane by 20 percent and diesel and petrol by 10 percent in an effort to ease pressure on the domestic market.
+The decision aims to maintain steady supply at dealer and consumer levels amid shi]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bpc-to-raise-fuel-supply-from-monday-to-stabilise-market</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bpc-to-raise-fuel-supply-from-monday-to-stabilise-market</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 19 Apr 2026 17:42:58 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148832/img-6970.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148832/img-6970.jpeg"/>
+        </item>
         <item>
             <title><![CDATA[IMF, WB meetings show limits in mitigating shocks, reliance on US for solutions]]></title>
             <description><![CDATA[Global finance leaders, whipsawed by Middle East war ​news, came to grips this past week with their inability to mitigate the economic damage from increasingly frequent geopolitical shocks, and a realization that counting on U.S. leadership to resolve crises is no longer ‌the guarantee it had]]></description>
@@ -5206,28 +5227,6 @@ In an application submit]]></description>
             <pubDate>Thu, 26 Mar 2026 12:49:08 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144927/new-project-71.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144927/new-project-71.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Indian regulator reviewing HDFC Bank chairman's exit letter, sources say]]></title>
-            <description><![CDATA[India's markets regulator has begun a preliminary ​review of the resignation letter of former HDFC Bank chairman Atanu Chakraborty for possible ‌violations of rules governing directors of listed companies, two sources familiar with the matter said.
-Chakraborty told Reuters he was not aware of]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/indian-regulator-reviewing-hdfc-bank-chairmans-exit-letter-sources-say</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/indian-regulator-reviewing-hdfc-bank-chairmans-exit-letter-sources-say</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 26 Mar 2026 10:11:49 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144886/new-project-64.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144886/new-project-64.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LNG supply shock: Bangladesh among hardest hit]]></title>
-            <description><![CDATA[The Iran war is upending the global LNG outlook as soaring prices, damage to major supplier Qatar's export infrastructure and potential delays to new supply raise doubts about ​previously expected demand from price-sensitive Asian buyers.
-Before the war, analysts expected global liquefied natural]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/iran-war-damage-to-qatar-hits-global-lng-outlook-upends-asia-demand-growth</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/iran-war-damage-to-qatar-hits-global-lng-outlook-upends-asia-demand-growth</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 26 Mar 2026 09:07:32 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144861/lng-2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/144861/lng-2.jpg"/>
         </item>
     </channel>
 </rss>
