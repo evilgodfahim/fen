@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 20:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 21:51:54 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 20:53:29 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 21:51:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Higher education at the crossroads]]></title>
+            <description><![CDATA[This is an era-defining period we are experiencing. There is no doubt that there are rapid advancements in fields such as artificial intelligence (AI), robotics, large data sets, and biotechnology, among others. Together, these forces make up what we now call the Fourth Industrial Revolution. The s]]></description>
+            <link>https://thefinancialexpress.com.bd/views/views/higher-education-at-the-crossroads</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/higher-education-at-the-crossroads</guid>
+            <pubDate>Mon, 20 Apr 2026 21:51:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IMF lending terms outwit negotiators, stir rethink]]></title>
             <description><![CDATA[Finance authorities are set to seek Prime Minister's guidance as to how far the government can go in complying with the International Monetary Fund conditions to secure hard-term budget-support funds.
@@ -5222,17 +5229,6 @@ The move comes as the government steps up monitoring to ensure steady fuel suppl
             <pubDate>Sat, 28 Mar 2026 11:51:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145183/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145183/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Founder & CEO of ICE Technologies Rubaiyat Jamil dies]]></title>
-            <description><![CDATA[Rubaiyat Jamil (46), Founder & CEO of ICE Technologies, passed away on Friday on 27th March, 2026, on the field during a cricket match in Hathazari, Chittagong.
-He was the only son of Late Mahbub Jamil, Former Special Assistant (Minister) to Chief Adviser in 2008-09, and Chairman of Singer Banglad]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/founder-ceo-of-ice-technologies-rubaiyat-jamil-dies</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/founder-ceo-of-ice-technologies-rubaiyat-jamil-dies</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 11:32:11 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145181/rubaiyat-jamil.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145181/rubaiyat-jamil.jpg"/>
         </item>
     </channel>
 </rss>
