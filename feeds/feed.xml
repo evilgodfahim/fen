@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 17:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 19:12:32 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 17:08:40 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 19:12:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IMF lending terms outwit negotiators, stir rethink]]></title>
+            <description><![CDATA[Finance authorities are set to seek Prime Minister's guidance as to how far the government can go in complying with the International Monetary Fund conditions to secure hard-term budget-support funds.
+Finance Minister Amir Khasru Mahmud Chowdhury will lead his team at the consultation today with P]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/imf-lending-terms-outwit-negotiators-stir-rethink</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/imf-lending-terms-outwit-negotiators-stir-rethink</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 20 Apr 2026 18:03:23 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149018/01111102.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149018/01111102.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BB buys $60m from banks to maintain exchange rate stability]]></title>
             <description><![CDATA[Bangladesh Bank (BB) purchased an additional US$60 million from commercial banks on Monday as part of its ongoing efforts to strengthen the country’s foreign exchange reserves.
@@ -5222,17 +5233,6 @@ He was the only son of Late Mahbub Jamil, Former Special Assistant (Minister) to
             <pubDate>Sat, 28 Mar 2026 11:32:11 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145181/rubaiyat-jamil.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145181/rubaiyat-jamil.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gold prices rise by Tk 2,157 per bhori after seven straight cuts]]></title>
-            <description><![CDATA[Gold prices in Bangladesh have increased by Tk 2,157 per bhori after seven straight reductions, with the new rates taking effect from Saturday.
-The Bangladesh Jewellers Association (BAJUS) set the price of 22-carat gold at Tk 237,012 per bhori (11.664 grams), according to a statement issued in the]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/gold-prices-rise-by-tk-2157-per-bhori-after-seven-straight-cuts</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/gold-prices-rise-by-tk-2157-per-bhori-after-seven-straight-cuts</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 09:39:39 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145164/merged-4c04974804bda626d78b2aab28b3aa06.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145164/merged-4c04974804bda626d78b2aab28b3aa06.jpg"/>
         </item>
     </channel>
 </rss>
