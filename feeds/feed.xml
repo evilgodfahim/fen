@@ -4,10 +4,33 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 15:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Apr 2026 17:08:40 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 15:19:06 GMT</pubDate>
+        <pubDate>Mon, 20 Apr 2026 17:08:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BB buys $60m from banks to maintain exchange rate stability]]></title>
+            <description><![CDATA[Bangladesh Bank (BB) purchased an additional US$60 million from commercial banks on Monday as part of its ongoing efforts to strengthen the country’s foreign exchange reserves.
+The dollars were acquired through an auction at a rate of Tk 122.75 per dollar.
+With this latest purchase, the cou]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh-bank-buys-60-million-from-banks-to-maintain-exchange-rate-stability</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-bank-buys-60-million-from-banks-to-maintain-exchange-rate-stability</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 20 Apr 2026 15:58:58 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149002/new-project-2026-04-08t184108020.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149002/new-project-2026-04-08t184108020.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2 ships unload fuel at Ctg port, 3 more enter Bangladesh waters]]></title>
+            <description><![CDATA[Two ships have begun unloading diesel at the Dolphin Jetty of the Chattogram Port, while two more ships carrying diesel and one carrying octane have entered the country’s waters on Monday.
+The two ships—MT Oaktree and MT Cape Bonnie - were carrying 35,000 and 33,000 tonnes of diesel re]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/two-ships-unload-fuel-at-ctg-port-three-more-enter-bangladesh-waters</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/two-ships-unload-fuel-at-ctg-port-three-more-enter-bangladesh-waters</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 20 Apr 2026 16:11:07 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149006/new-project-11.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149006/new-project-11.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Meghna Bank inaugurates bill collection booth at DPDC Satmasjid Road]]></title>
             <description><![CDATA[Recently, Meghna Bank PLC inaugurated a bill collection booth of Dhaka Power Distribution Company (DPDC) at Satmasjid Road, Dhanmondi aiming to facilitate convenient and efficient utility bill payments for customers.
@@ -5210,30 +5233,6 @@ The Bangladesh Jewellers Association (BAJUS) set the price of 22-carat gold at T
             <pubDate>Sat, 28 Mar 2026 09:39:39 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145164/merged-4c04974804bda626d78b2aab28b3aa06.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145164/merged-4c04974804bda626d78b2aab28b3aa06.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt deploys 293 mobile courts in 62 districts to monitor fuel situation]]></title>
-            <description><![CDATA[The government has deployed a total of 293 mobile courts across 62 districts to monitor the fuel supply situation nationwide.
-During these drives, 78 cases were filed, and fines amounting to Tk 315,550 were imposed.
-According to the Energy and Mineral Resources Division, the drive will continue t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/govt-deploys-293-mobile-courts-in-62-districts-to-monitor-fuel-situation</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-deploys-293-mobile-courts-in-62-districts-to-monitor-fuel-situation</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 06:33:03 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145150/1774376345.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145150/1774376345.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trade activities at Sonamasjid land port resume]]></title>
-            <description><![CDATA[The export-import activities at Sonamasjid land port resumed on Saturday after ten days of suspension due to Eid-ul-Fitr, Independence Day holiday.
-Ruhul Amin, member secretary of C&F Agent Association, said trade activities remained suspended from March 18 to March 27.
-However, the goods-laden t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/trade-activities-at-sonamasjid-land-port-resume</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/trade-activities-at-sonamasjid-land-port-resume</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 06:23:03 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145148/sonamasjid-land-port.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145148/sonamasjid-land-port.jpg"/>
         </item>
     </channel>
 </rss>
