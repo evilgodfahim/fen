@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 20 Apr 2026 23:49:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 02:55:28 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 20 Apr 2026 23:49:32 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 02:55:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Prolonged Mideast war may dent export, remittance]]></title>
+            <description><![CDATA[Growing political instability and military tensions in the Middle East have started negatively impacting Bangladesh's export trade, and a prolonged crisis could also put significant pressure on vital remittance inflows.
+Commerce Minister Khandaker Abdul Muktadir sounds alarm in parliament in a rec]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/prolonged-mideast-war-may-dent-export-remittance</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/prolonged-mideast-war-may-dent-export-remittance</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Tue, 21 Apr 2026 02:49:29 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149026/ctg-port.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149026/ctg-port.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ICD operators raise handling charges by 8.5pc]]></title>
+            <description><![CDATA[The Bangladesh Inland Container Depots Association (BICDA) has raised container-handling charges by 8.5 per cent for private inland container depots (ICDs), effective from Sunday (April 19), citing a hike in diesel prices.
+In a circular issued on Sunday, it said the government had increased diesel]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/icd-operators-raise-handling-charges-by-85pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/icd-operators-raise-handling-charges-by-85pc</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 21 Apr 2026 02:37:10 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149024/1578110767.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149024/1578110767.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Higher education at the crossroads]]></title>
             <description><![CDATA[This is an era-defining period we are experiencing. There is no doubt that there are rapid advancements in fields such as artificial intelligence (AI), robotics, large data sets, and biotechnology, among others. Together, these forces make up what we now call the Fourth Industrial Revolution. The s]]></description>
@@ -5207,28 +5229,6 @@ As part of this collaboration, BRAC Bank cardholders can enjoy buy one, get one 
             <pubDate>Sat, 28 Mar 2026 12:42:18 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145192/crowne-plaza.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145192/crowne-plaza.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank Asia to acquire Bank Alfalah’s Bangladesh operations]]></title>
-            <description><![CDATA[The shareholders of Pakistan-based Bank Alfalah Limited have approved the sale and transfer of its Bangladesh operations to Dhaka-based Bank Asia Limited for approximately $47.5 million (equivalent to around Tk 580 crore).
-A source at Bank Asia confirmed that as part of the acquisition, an interna]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bank-asia-to-acquire-bank-alfalahs-bangladesh-operations-for-475-million</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bank-asia-to-acquire-bank-alfalahs-bangladesh-operations-for-475-million</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 12:37:02 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145190/bank-asia-alfalah-2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145190/bank-asia-alfalah-2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BPC ramps up fuel supply oversight with new depot hours, pump disclosure rules]]></title>
-            <description><![CDATA[The Bangladesh Petroleum Corporation (BPC) has introduced a new schedule for fuel release from its main installations and depots, while mandating petrol pumps to publicly display detailed daily supply charts.
-The move comes as the government steps up monitoring to ensure steady fuel supply and cur]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bpc-ramps-up-fuel-supply-oversight-with-new-depot-hours-pump-disclosure-rules</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bpc-ramps-up-fuel-supply-oversight-with-new-depot-hours-pump-disclosure-rules</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 28 Mar 2026 11:51:10 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145183/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145183/meghna-jamuna-oil-depot-fatullah-250525-009-1748182833.jpg"/>
         </item>
     </channel>
 </rss>
