@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 07:59:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 09:48:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 07:59:23 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 09:48:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gas pressure falls in Titas areas as one FSRU remains shut]]></title>
+            <description><![CDATA[Gas supply has fallen by around 400 million cubic feet per day after one floating terminal supplying regasified liquefied natural gas (RLNG) shut down due to technical problems, according to Titas Gas Transmission and Distribution.
+In an emergency notice on Tuesday, the company said gas pressure w]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/gas-pressure-falls-in-titas-areas-as-one-floating-lng-terminal-remains-shut</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/gas-pressure-falls-in-titas-areas-as-one-floating-lng-terminal-remains-shut</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 21 Apr 2026 08:05:36 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149077/lng-terminal-311224-01-1735632436.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149077/lng-terminal-311224-01-1735632436.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Apple names John Ternus as next CEO, replacing Tim Cook]]></title>
             <description><![CDATA[Apple on Monday named longtime hardware boss John Ternus as its next CEO, turning ​to another insider to steer the iPhone maker after Tim Cook as it navigates a world radically altered by artificial intelligence, a technology it has lagged on.
@@ -5221,17 +5232,6 @@ The latest official data point to weakening domestic demand and a more cautious 
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/investment-savings-slide-as-growth-slows</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/investment-savings-slide-as-growth-slows</guid>
             <pubDate>Sun, 29 Mar 2026 07:10:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fuel supply disruptions hit transport, industries in Ctg]]></title>
-            <description><![CDATA[Disruptions in the fuel supply chain stemming from the Middle East war are significantly impacting daily life and industrial production in the port city of Chattogram, even as officials say there is no nationwide shortage.
-Most petrol pumps across the city have remained shut since Eid holidays, wh]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/fuel-supply-disruptions-hit-transport-industries-in-ctg</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-supply-disruptions-hit-transport-industries-in-ctg</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 29 Mar 2026 06:31:37 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145273/fuel-supply-disruptions.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145273/fuel-supply-disruptions.jpg"/>
         </item>
     </channel>
 </rss>
