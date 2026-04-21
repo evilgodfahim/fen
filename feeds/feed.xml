@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 05:31:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 07:59:23 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 05:31:28 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 07:59:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Apple names John Ternus as next CEO, replacing Tim Cook]]></title>
+            <description><![CDATA[Apple on Monday named longtime hardware boss John Ternus as its next CEO, turning ​to another insider to steer the iPhone maker after Tim Cook as it navigates a world radically altered by artificial intelligence, a technology it has lagged on.
+Cook, a ‌supply-chain genius who boosted Apple's]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/apple-names-john-ternus-as-next-ceo-replacing-tim-cook</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/apple-names-john-ternus-as-next-ceo-replacing-tim-cook</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 21 Apr 2026 06:04:56 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149064/3cc957rrorkqfk7nx5k6nlp4ypaynf0jfzdnkq0e.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149064/3cc957rrorkqfk7nx5k6nlp4ypaynf0jfzdnkq0e.jpg"/>
+        </item>
         <item>
             <title><![CDATA['Inflation would not rise much for fuel-price hike']]></title>
             <description><![CDATA[Inflation "will not rise significantly" on the increase in fuel prices, as the raise is modest compared to global situation, says the commerce minister facing question in parliament.
@@ -5221,17 +5232,6 @@ Most petrol pumps across the city have remained shut since Eid holidays, wh]]></
             <pubDate>Sun, 29 Mar 2026 06:31:37 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145273/fuel-supply-disruptions.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145273/fuel-supply-disruptions.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Solar roadmap can slash SME costs up to 50pc]]></title>
-            <description><![CDATA[Bangladesh's SMEs can achieve a 30-50 per cent reduction in operational costs through decentralised rooftop solar while securing long-term export competitiveness by meeting environmental and natural standards, said a report of Change Initiative on Saturday.
-On this purpose, Bangladesh can follow t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/solar-roadmap-can-slash-sme-costs-up-to-50pc</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/solar-roadmap-can-slash-sme-costs-up-to-50pc</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 29 Mar 2026 06:28:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145271/solar.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145271/solar.jpg"/>
         </item>
     </channel>
 </rss>
