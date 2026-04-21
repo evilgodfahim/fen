@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 13:51:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 15:18:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 13:51:32 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 15:18:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Moheshkhali LNG terminal resumes operations after repairs]]></title>
+            <description><![CDATA[The national grid has started receiving gas from the floating LNG terminal off Moheshkhali Upazila in Cox’s Bazar after a six-hour pause due to technical glitches.
+In a media statement on Tuesday, Petrobangla said the Moheshkhali Floating LNG (MLNG) terminal shut its floating storage and reg]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/normal-gas-supply-expected-as-moheshkhali-lng-terminal-resumes-operations</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/normal-gas-supply-expected-as-moheshkhali-lng-terminal-resumes-operations</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 21 Apr 2026 14:07:51 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149136/new-project-30.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149136/new-project-30.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Govt moves to bring back laundered money: Khasru]]></title>
+            <description><![CDATA[Bangladesh has begun legal and diplomatic steps to recover money allegedly laundered abroad by major business groups, finance minister Amir Khasru Mahmud Chowdhury told parliament, insisting there would be “no compromise” in enforcing financial discipline.
+Speaking during a question-an]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/process-started-to-recover-assets-laundered-by-big-business-groups-says-khasru</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/process-started-to-recover-assets-laundered-by-big-business-groups-says-khasru</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 21 Apr 2026 13:52:38 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149131/new-project-27.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149131/new-project-27.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Foreign debt stands at $78b: Khosru]]></title>
             <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury on Tuesday told Parliament that Bangladesh’s foreign debt stood at around $78 billion as of February 2026.
@@ -5215,25 +5237,6 @@ The move signals Dhaka's growing engagement in glo]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-joins-wto-investment-facilitation-pact</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-joins-wto-investment-facilitation-pact</guid>
             <pubDate>Mon, 30 Mar 2026 05:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fin min suggests changes in mode of providing aid]]></title>
-            <description><![CDATA[The Ministry of Disaster Management and Relief has sought a budget allocation of Tk 79.43 billion for the next fiscal year to implement a range of social programmes, which is 1.55 per cent higher than the current amount.
-The programmes include food for work (KABIKHA), test relief (TR), humanitaria]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/fin-min-suggests-changes-in-mode-of-providing-aid</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/fin-min-suggests-changes-in-mode-of-providing-aid</guid>
-            <pubDate>Mon, 30 Mar 2026 05:29:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Country loses Tk 838b a year through trade misinvoicing]]></title>
-            <description><![CDATA[Bangladesh is losing an estimated Tk 838.38 billion annually through trade misinvoicing, highlighting a major drain on public finances and exposing deep vulnerabilities in the country's trade and financial systems.
-A new report by Global Financial Integrity (GFI) underscores the scale of illicit f]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/country-loses-tk-838b-a-year-through-trade-misinvoicing</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/country-loses-tk-838b-a-year-through-trade-misinvoicing</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 30 Mar 2026 03:34:56 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145453/imresizer-img-20260330-034316.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145453/imresizer-img-20260330-034316.jpg"/>
         </item>
     </channel>
 </rss>
