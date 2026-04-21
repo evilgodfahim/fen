@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 21 Apr 2026 09:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Apr 2026 11:12:54 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 21 Apr 2026 09:48:03 GMT</pubDate>
+        <pubDate>Tue, 21 Apr 2026 11:12:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt plans to revitalize banks: Finance Minister]]></title>
+            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury today (Tuesday) said in Jatiya Sangsad that the government plans to revitalize banks and support private sector recovery through budgetary measures and cooperation with multilateral organizations.
+“This is a large deficit and can’t be resol]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/govt-plans-to-revitalize-banks-finance-minister</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/govt-plans-to-revitalize-banks-finance-minister</guid>
+            <pubDate>Tue, 21 Apr 2026 11:12:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Gas pressure falls in Titas areas as one FSRU remains shut]]></title>
             <description><![CDATA[Gas supply has fallen by around 400 million cubic feet per day after one floating terminal supplying regasified liquefied natural gas (RLNG) shut down due to technical problems, according to Titas Gas Transmission and Distribution.
@@ -5224,14 +5232,6 @@ The directive, issued Sunday, aims to ensure transparency, prev]]></description>
             <pubDate>Sun, 29 Mar 2026 07:16:40 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145293/merged-58f7f165aee0b3d5c91cbf6c3183b194.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145293/merged-58f7f165aee0b3d5c91cbf6c3183b194.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Investment, savings slide as growth slows]]></title>
-            <description><![CDATA[Bangladesh's investment and savings ratios declined sharply in FY2024–25, reflecting a broader economic slowdown that has pushed GDP growth to its lowest level since the pandemic.
-The latest official data point to weakening domestic demand and a more cautious investment climate. Economists w]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/investment-savings-slide-as-growth-slows</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/investment-savings-slide-as-growth-slows</guid>
-            <pubDate>Sun, 29 Mar 2026 07:10:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
