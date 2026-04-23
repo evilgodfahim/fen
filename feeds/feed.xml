@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 22 Apr 2026 23:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 03:24:32 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 22 Apr 2026 23:56:06 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 03:24:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Tk 1.17t kept as block, special allocations in next ADP]]></title>
+            <description><![CDATA[The Ministry of Finance has earmarked Tk 1.17 trillion, or 39 per cent of the proposed Tk 3.0-trillion Annual Development Programme (ADP), for the next fiscal year, as block and special allocations across various sectors.
+The remaining Tk 1.83 trillion, or 61 per cent of the ADP, is set to be allo]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/tk-117t-kept-as-block-special-allocations-in-next-adp</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/tk-117t-kept-as-block-special-allocations-in-next-adp</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Thu, 23 Apr 2026 02:19:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149376/p8-adp-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149376/p8-adp-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fitch justifies 10pc policy rate against high-inflation regime]]></title>
             <description><![CDATA[An outfit of high-profile global rating-agency Fitch suggests Bangladesh should continue with its high policy rate in lending in the high-inflation regime, ostensibly nay-saying pleas for rate cut.
@@ -5261,17 +5272,6 @@ The Energy and Mineral Resources Division on Tuesday said, under the “Automati
             <pubDate>Tue, 31 Mar 2026 12:48:36 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145756/petrol-pump-1.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145756/petrol-pump-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Urea stocks sufficient to meet demand till mid-July: Agriculture Minister]]></title>
-            <description><![CDATA[Agriculture Minister Mohammad Amin Ur Rashid Tuesday said the government has secured a sufficient stock of urea fertiliser to meet national demand until mid-July and is actively negotiating with international partners to ensure future supplies.
-Responding to a supplementary question from an indepe]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/urea-stocks-sufficient-to-meet-demand-till-mid-july-agriculture-minister</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/urea-stocks-sufficient-to-meet-demand-till-mid-july-agriculture-minister</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 31 Mar 2026 12:18:43 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145748/new-project-2026-03-31t181830082.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145748/new-project-2026-03-31t181830082.jpg"/>
         </item>
     </channel>
 </rss>
