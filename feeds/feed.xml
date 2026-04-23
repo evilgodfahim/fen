@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 16:45:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 18:08:30 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 16:45:21 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 18:08:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt-opposition joint body to address energy challenges]]></title>
+            <description><![CDATA[A 10-member government-opposition joint committee is being formed to work together to find 'rational solutions' to an abject energy crisis Bangladesh faces amid a global crunch created by the Mideast mayhem.  
+Prime Minister Tarique Rahman Thursday proposed in Parliament the formation of]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/govt-opposition-joint-body-to-address-energy-challenges</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govt-opposition-joint-body-to-address-energy-challenges</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Thu, 23 Apr 2026 18:08:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Polar introduces ‘Essora’ fruit ice cream to celebrate fruit season]]></title>
             <description><![CDATA[Polar Ice Cream has recently launched a new product called “Essora,” a white chocolate-coated fruit ice cream, introducing a new format in the local ice cream market, according to a press release Thursday.
@@ -5271,17 +5280,6 @@ The MoU was formally signed and exchanged by Md. Mostaque Ahmed, Deputy Managing
             <pubDate>Wed, 01 Apr 2026 14:02:21 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145910/dhaka-bank-e.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145910/dhaka-bank-e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh records historic $3.75b remittance inflow in March]]></title>
-            <description><![CDATA[Bangladesh’s financial sector achieved a historic milestone as remittance inflows surged to a record-breaking US$3.75 billion in March 2026, the highest monthly figure ever recorded in the nation’s history.
-According to data released by Bangladesh Bank today, the March 2026 performance]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh-records-historic-375b-remittance-inflow-in-march</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-records-historic-375b-remittance-inflow-in-march</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Wed, 01 Apr 2026 13:36:42 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145900/new-project-2026-04-01t193550565.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145900/new-project-2026-04-01t193550565.jpg"/>
         </item>
     </channel>
 </rss>
