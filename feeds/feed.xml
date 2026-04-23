@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 14:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Apr 2026 16:45:21 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 14:07:26 GMT</pubDate>
+        <pubDate>Thu, 23 Apr 2026 16:45:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Polar introduces ‘Essora’ fruit ice cream to celebrate fruit season]]></title>
+            <description><![CDATA[Polar Ice Cream has recently launched a new product called “Essora,” a white chocolate-coated fruit ice cream, introducing a new format in the local ice cream market, according to a press release Thursday.
+The product is available in two distinct fruit variants--Banana and Mixed Berry.]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/polar-introduces-essora-fruit-ice-cream-to-celebrate-fruit-season</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/polar-introduces-essora-fruit-ice-cream-to-celebrate-fruit-season</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 23 Apr 2026 16:45:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BIDA, UCB sign MoU to further simplify foreign investment process]]></title>
             <description><![CDATA[UCB Bank PLC has entered into a Memorandum of Understanding (MoU) with the Bangladesh Investment Development Authority (BIDA) to integrate its banking services into BIDA’s Online One Stop Service (OSS) Portal.
@@ -5273,17 +5282,6 @@ According to data released by Bangladesh Bank today, the March 2026 performance]
             <pubDate>Wed, 01 Apr 2026 13:36:42 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145900/new-project-2026-04-01t193550565.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145900/new-project-2026-04-01t193550565.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADP implementation shows slight improvement in February]]></title>
-            <description><![CDATA[The Annual Development Programme (ADP) implementation rate in February, while remaining at a low level, has almost doubled compared to the last fiscal when the interim government led by Professor Muhammad Yunus was in power.
-According to the latest progress report released by the Implementation Mo]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/adp-implementation-shows-slight-improvement-in-february</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/adp-implementation-shows-slight-improvement-in-february</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Wed, 01 Apr 2026 12:20:05 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145878/new-project-2026-04-01t181920645.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145878/new-project-2026-04-01t181920645.jpg"/>
         </item>
     </channel>
 </rss>
