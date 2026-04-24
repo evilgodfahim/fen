@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 16:07:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 17:52:50 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 16:07:16 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 17:52:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Budget-support funds from foreign financiers look uninspiring]]></title>
+            <description><![CDATA[Budget-support funding from foreign financiers seems drying up as only US$750 million has so far been confirmed although the financial year nears end with the economy facing unanticipated shocks amid global crises.   
+The country faces severe fund shortages caused due to heightened]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/budget-support-funds-from-foreign-financiers-look-uninspiring</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/budget-support-funds-from-foreign-financiers-look-uninspiring</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 24 Apr 2026 17:47:57 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149679/p1-info-budget-support.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149679/p1-info-budget-support.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Canadian dollar steadies after price-led gain in retail sales]]></title>
             <description><![CDATA[The Canadian dollar steadied against its U.S. counterpart on Friday as investors ‌weighed the prospect of talks to end the war in the Middle East, and after domestic data showed a solid increase in retail sales but a more modest rise in sales volumes.
@@ -5272,18 +5283,6 @@ The announcement was made in a press release issued by the chamber’s Joint Sec
             <pubDate>Thu, 02 Apr 2026 11:56:24 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146048/new-project-2026-04-02t175458803.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146048/new-project-2026-04-02t175458803.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s trade gap widens on energy imports; solar offers way out: Ember]]></title>
-            <description><![CDATA[Bangladesh’s widening trade deficit is increasingly being driven by its heavy reliance on imported fossil fuels, with as much as 59 per cent of the deficit linked to energy imports, according to a new report by Ember.
- 
-The report warns that ongoing geopolitical tensions, particularly]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bangladeshs-trade-gap-widens-on-energy-imports-solar-offers-way-out-ember</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladeshs-trade-gap-widens-on-energy-imports-solar-offers-way-out-ember</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 11:49:50 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146044/energy-supply-volatility-challenges-for-bangladesh.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146044/energy-supply-volatility-challenges-for-bangladesh.jpg"/>
         </item>
     </channel>
 </rss>
