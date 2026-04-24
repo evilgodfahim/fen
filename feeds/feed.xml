@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 12:00:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 14:46:07 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 12:00:56 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 14:46:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Canadian dollar steadies after price-led gain in retail sales]]></title>
+            <description><![CDATA[The Canadian dollar steadied against its U.S. counterpart on Friday as investors ‌weighed the prospect of talks to end the war in the Middle East, and after domestic data showed a solid increase in retail sales but a more modest rise in sales volumes.
+The ​loonie was trading nearly unchanged]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/canadian-dollar-steadies-after-price-led-gain-in-retail-sales</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/canadian-dollar-steadies-after-price-led-gain-in-retail-sales</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 24 Apr 2026 14:27:20 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149651/new-project-2026-04-24t202653354.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149651/new-project-2026-04-24t202653354.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ADB lends $250m to support Bangladesh’s social protection reforms]]></title>
             <description><![CDATA[The Asian Development Bank (ADB) on Friday approved a $250 million loan to support the government of Bangladesh in operationalising and institutionalising critical reforms aimed at improving the efficiency, coverage and effectiveness of the country’s social protection system.
@@ -5273,17 +5284,6 @@ The report warns that ongoing geopolitical tensions, particularly]]></descriptio
             <pubDate>Thu, 02 Apr 2026 11:49:50 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146044/energy-supply-volatility-challenges-for-bangladesh.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146044/energy-supply-volatility-challenges-for-bangladesh.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s merchandise exports fall 19.78pc in March]]></title>
-            <description><![CDATA[Bangladesh’s merchandise export earnings dropped sharply in March, falling 19.78 percent year-on-year due to a combination of fewer working days, weakening global demand and domestic production constraints.
-According to provisional data from the National Board of Revenue (NBR), the country e]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bangladeshs-merchandise-exports-fall-1978pc-in-march</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladeshs-merchandise-exports-fall-1978pc-in-march</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 11:47:33 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146042/new-project-2026-04-02t174657155.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146042/new-project-2026-04-02t174657155.jpg"/>
         </item>
     </channel>
 </rss>
