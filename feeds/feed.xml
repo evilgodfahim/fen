@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Apr 2026 23:52:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 02:58:11 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 23 Apr 2026 23:52:01 GMT</pubDate>
+        <pubDate>Fri, 24 Apr 2026 02:58:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Concern over energy supply dampening investment sentiment']]></title>
+            <description><![CDATA[Business leaders in Bangladesh remain uncertain and hesitant about expanding operations and making fresh investment, largely due to concerns over energy supply, says Mahbubur Rahman, president of the International Chamber of Commerce Bangladesh (ICCB).
+He notes that entrepreneurs are still unsure]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/concern-over-energy-supply-dampening-investment-sentiment</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/concern-over-energy-supply-dampening-investment-sentiment</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 24 Apr 2026 02:32:34 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149560/1776966021.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149560/1776966021.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Iran war impact seeps ever deeper into global economy]]></title>
             <description><![CDATA[The global economy is facing ever more tangible strains from the energy shock triggered by the Iran war as factories grapple with soaring production costs and activity weakens even in services sectors, major surveys showed on Thursday.
@@ -5266,15 +5277,6 @@ Speaking to reporters after an internal meeting at the National Board]]></descri
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/khosru-flags-3-pronged-economic-challenges-urges-resource-harnessing</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/khosru-flags-3-pronged-economic-challenges-urges-resource-harnessing</guid>
             <pubDate>Thu, 02 Apr 2026 02:40:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[$234b laundered during 2009-23]]></title>
-            <link>https://thefinancialexpress.com.bd/economy/234b-laundered-during-2009-23</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/234b-laundered-during-2009-23</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Wed, 01 Apr 2026 18:24:43 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145966/info-money-laundering-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/145966/info-money-laundering-outline.jpg"/>
         </item>
     </channel>
 </rss>
