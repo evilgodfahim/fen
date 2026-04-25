@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 19:51:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 20:44:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 19:51:03 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 20:44:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Deregulation across major financial sectors being mulled]]></title>
+            <description><![CDATA[Massive deregulation across major financial sectors of the "over-regulated" country is expected to be reflected in the coming national budget being crafted by the newly elected government.
+Finance and Planning Minister Amir Khosru Mahmud Chowdhury dropped a broad hint at such changes on Saturday d]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/deregulation-across-major-financial-sectors-being-mulled</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/deregulation-across-major-financial-sectors-being-mulled</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sat, 25 Apr 2026 17:44:07 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149849/p1-lead-info-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149849/p1-lead-info-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Govt working to move away from patronage-based economy: Finance minister]]></title>
             <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury on Saturday said the government is working to move the country away from a patronage-based economic system.
@@ -5269,17 +5280,6 @@ Anal]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/finance-minister-urges-fuel-austerity-amid-global-oil-price-surge</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/finance-minister-urges-fuel-austerity-amid-global-oil-price-surge</guid>
             <pubDate>Fri, 03 Apr 2026 16:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Shop owners urge later closing hours]]></title>
-            <description><![CDATA[The Bangladesh Shop Owners’ Association has urged the government to reconsider its decision requiring shops, markets, and shopping malls to close after 6pm.
-The government’s move is part of energy-saving measures aimed at coping with rising fuel and electricity demands amid the Gulf co]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/owners-ask-government-to-allow-shops-malls-to-remain-open-from-11am-8pm</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/owners-ask-government-to-allow-shops-malls-to-remain-open-from-11am-8pm</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Fri, 03 Apr 2026 16:03:54 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146216/new-project-2026-04-03t220332341.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146216/new-project-2026-04-03t220332341.jpg"/>
         </item>
     </channel>
 </rss>
