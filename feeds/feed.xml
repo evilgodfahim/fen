@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 10:56:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 11:42:13 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 10:56:03 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 11:42:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh National Building Code: Garment exporters form committee for review]]></title>
+            <description><![CDATA[Bangladesh's readymade garment (RMG) exporters have formed a high-level committee to review provisions of the Bangladesh National Building Code (BNBC), particularly those affecting factory layouts. 
+This comes amid growing calls to align local regulations with international standards, such as]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bangladesh-national-building-code-garment-exporters-form-committee-for-review</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-national-building-code-garment-exporters-form-committee-for-review</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 25 Apr 2026 08:37:06 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149728/rmg-ap.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149728/rmg-ap.jpg"/>
+        </item>
         <item>
             <title><![CDATA['Factories struggling to operate at full capacity amid fuel shortage']]></title>
             <description><![CDATA[Factories are struggling to run at their full production capacity in the absence of required fuel, Mohammad Hatem, president of Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA), said.
@@ -5265,20 +5276,6 @@ According to the Plant Quarantine Wing under the agriculture ministry, exports r
             <pubDate>Fri, 03 Apr 2026 02:30:21 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146125/1775152865.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146125/1775152865.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extra Tk 45b sought to foot bloated LNG-import bills only for April]]></title>
-            <description><![CDATA[Ballooning energy cost overruns set budget amid the Gulf crisis as a hefty subsidy worth around Tk 45 billion or US$370 million is sought only to meet LNG-import bills for a single month of April.
-
-
-
-Officials say the state-run Petrobangla has placed the subsidy demand with the Ministry of Fina]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/extra-tk-45b-sought-to-foot-bloated-lng-import-bills-only-for-april</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/extra-tk-45b-sought-to-foot-bloated-lng-import-bills-only-for-april</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 02 Apr 2026 18:19:38 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146108/p1-lng-import-info-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146108/p1-lng-import-info-outline.jpg"/>
         </item>
     </channel>
 </rss>
