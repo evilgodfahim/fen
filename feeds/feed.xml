@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 09:58:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 10:56:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 09:58:54 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 10:56:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Factories struggling to operate at full capacity amid fuel shortage']]></title>
+            <description><![CDATA[Factories are struggling to run at their full production capacity in the absence of required fuel, Mohammad Hatem, president of Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA), said.
+ 
+"Right now, energy shortage is one of the biggest problems. Government is saying that t]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/factories-struggling-to-operate-at-full-capacity-amid-fuel-shortage-1</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/factories-struggling-to-operate-at-full-capacity-amid-fuel-shortage-1</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 25 Apr 2026 10:02:06 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149748/btkg.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149748/btkg.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bad Bank for tackling NPLs]]></title>
             <description><![CDATA[It is always a big challenge to get information of the actual amount of non-performing loans [NPLs] of commercial banks in Bangladesh. In most of the cases, the published data does not reflect the true scenario of bad assets. By definition, NPLs include three types of classified loans viz. Substand]]></description>
@@ -5267,17 +5279,6 @@ Officials say the state-run Petrobangla has placed the subsidy demand with the M
             <pubDate>Thu, 02 Apr 2026 18:19:38 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146108/p1-lng-import-info-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146108/p1-lng-import-info-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Corporate agreement signed between Bengal Islami Life Insurance & Unico Hospital for Healthcare Services]]></title>
-            <description><![CDATA[A corporate agreement was signed between Bengal Islami Life Insurance Limited and Unico Hospital PLC to provide healthcare services to Health Takaful customers on Wednesday (01 April 2026).
-M.M. Monirul Alam, Chief Executive Officer of Bengal Islami Life Insurance Limited, and Ardra Kurien, Chief]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/corporate-agreement-signed-between-bengal-islami-life-insurance-unico-hospital-for-healthcare-services</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/corporate-agreement-signed-between-bengal-islami-life-insurance-unico-hospital-for-healthcare-services</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 15:18:27 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146090/new-project-2026-04-02t211648217.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146090/new-project-2026-04-02t211648217.jpg"/>
         </item>
     </channel>
 </rss>
