@@ -4,10 +4,33 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Apr 2026 23:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 02:47:22 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 24 Apr 2026 23:43:03 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 02:47:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A surfeit of 'high-powered' money stokes inflation concern]]></title>
+            <description><![CDATA[A surfeit of 'high-powered' money in the economy stokes concern about inflation upturn as reserve money more than doubled in terms of year-on-year growth as of February.
+The central bank of Bangladesh has injected Tk 200 billion in printed money into
+economy recently to feed government expenditur]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/a-surfeit-of-high-powered-money-stokes-inflation-concern</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/a-surfeit-of-high-powered-money-stokes-inflation-concern</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sat, 25 Apr 2026 02:42:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149693/taka-budget.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149693/taka-budget.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defying IMF suggestion, govt to stick to its guns on tax exemptions]]></title>
+            <description><![CDATA[The government is unlikely to withdraw the time-bound tax-exemption facilities as suggested by the International Monetary Fund (IMF).
+Officials say although the IMF has advised the government to abruptly phase out tax exemptions to raise the country's tax-to-Gross Domestic Product (GDP) ratio to 9]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/defying-imf-suggestion-govt-to-stick-to-its-guns-on-tax-exemptions</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/defying-imf-suggestion-govt-to-stick-to-its-guns-on-tax-exemptions</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 25 Apr 2026 02:38:41 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149692/tax-return.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149692/tax-return.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Budget-support funds from foreign financiers look uninspiring]]></title>
             <description><![CDATA[Budget-support funding from foreign financiers seems drying up as only US$750 million has so far been confirmed although the financial year nears end with the economy facing unanticipated shocks amid global crises.   
@@ -5260,29 +5283,6 @@ He made this remark on Thursday during the question-and-answer session of the Ja
             <pubDate>Thu, 02 Apr 2026 13:10:17 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146061/power-minister.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146061/power-minister.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CCCI polls postponed]]></title>
-            <description><![CDATA[The biennial elections of the Chattogram Chamber of Commerce and Industry (CCCI) for 2025 have been postponed.
-Originally scheduled for April 4, the elections have been delayed once again.
-The announcement was made in a press release issued by the chamber’s Joint Secretary Nurul Absar Chowd]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/ccci-polls-postponed</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/ccci-polls-postponed</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 12:36:28 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146056/new-project-2026-04-02t183535461.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146056/new-project-2026-04-02t183535461.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Damaged Russian LNG tanker breaks loose from tow off Libya]]></title>
-            <description><![CDATA[A Russian liquefied natural gas (LNG) tanker damaged in a suspected Ukrainian attack in the Mediterranean broke loose in a storm while being towed by a Libyan tugboat on Thursday, Libya’s Ports and Maritime Transport Authority said.
-“The tanker is out of control, and the tugboat is una]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/damaged-russian-lng-tanker-breaks-loose-from-tow-off-libya</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/damaged-russian-lng-tanker-breaks-loose-from-tow-off-libya</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 11:56:24 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146048/new-project-2026-04-02t175458803.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146048/new-project-2026-04-02t175458803.jpg"/>
         </item>
     </channel>
 </rss>
