@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 25 Apr 2026 08:58:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Apr 2026 09:58:54 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 25 Apr 2026 08:58:45 GMT</pubDate>
+        <pubDate>Sat, 25 Apr 2026 09:58:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bad Bank for tackling NPLs]]></title>
+            <description><![CDATA[It is always a big challenge to get information of the actual amount of non-performing loans [NPLs] of commercial banks in Bangladesh. In most of the cases, the published data does not reflect the true scenario of bad assets. By definition, NPLs include three types of classified loans viz. Substand]]></description>
+            <link>https://thefinancialexpress.com.bd/views/analysis/bad-bank-for-tackling-npls</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/analysis/bad-bank-for-tackling-npls</guid>
+            <pubDate>Sat, 25 Apr 2026 09:58:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Brazil's success story offers blueprint for BD]]></title>
             <description><![CDATA[Bangladesh can improve its livestock and dairy production by adopting Brazilian technology and through knowledge transfer, as the South American country boosted its production manifold over the last four decades, experts say.
@@ -5271,17 +5278,6 @@ M.M. Monirul Alam, Chief Executive Officer of Bengal Islami Life Insurance Limit
             <pubDate>Thu, 02 Apr 2026 15:18:27 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146090/new-project-2026-04-02t211648217.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146090/new-project-2026-04-02t211648217.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[skin'O, Innsaei products now available at Meena Bazar]]></title>
-            <description><![CDATA[Products of local skincare brands skin'O and Innsaei are now available at Meena Bazar, with the partnership officially launched through an onboarding ceremony on Thursday ( April 2).
-The two brands are operated under The Beauty Science, a sister concern of Charidike Limited, and are produced using]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/skino-innsaei-products-now-available-at-meena-bazar</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/skino-innsaei-products-now-available-at-meena-bazar</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 02 Apr 2026 15:13:56 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146088/meena-bazaar.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146088/meena-bazaar.jpg"/>
         </item>
     </channel>
 </rss>
