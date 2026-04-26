@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 26 Apr 2026 06:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Apr 2026 08:17:05 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Apr 2026 06:09:31 GMT</pubDate>
+        <pubDate>Sun, 26 Apr 2026 08:17:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[High-profile Biman board formed]]></title>
+            <description><![CDATA[A widely represented high-profile board for Biman Bangladesh Airlines has been formed by the new government seeking to rid the national-flag carrier of entrenched management flaws.
+Rumee A. Hossain, who is a sponsor director of Bank Asia and chairman of its executive committee, has been appointed]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/high-profile-biman-board-formed</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/high-profile-biman-board-formed</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 26 Apr 2026 04:25:44 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149879/imresizer-img-20260426-102210.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149879/imresizer-img-20260426-102210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fuel crisis, weak demand cut factory capacity to 50-60pc]]></title>
+            <description><![CDATA[President of Bangladesh Knitwear Manufacturers and Exporters Association (BKMEA) Mohammad Hatem said that factories are struggling to operate at full capacity due to a shortage of fuel.
+"Exports have fallen in recent months, while factories are currently operating at only 50-60 per cent of their c]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/fuel-crisis-weak-demand-cut-factory-capacity-to-50-60pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-crisis-weak-demand-cut-factory-capacity-to-50-60pc</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 26 Apr 2026 04:14:21 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149877/rmg-2.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149877/rmg-2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Islamic banks' deposits, investments up 9.27pc and 11.38pc]]></title>
             <description><![CDATA[Islamic banks in Bangladesh posted moderate year-on-year growth in deposits and investments in February 2026, with deposits rising 9.27 per cent to Tk 4.76 trillion and investments increasing 11.38 per cent to Tk 5.88 trillion, indicating a gradual return of confidence in the sector.
@@ -5266,21 +5288,6 @@ Anal]]></description>
             <pubDate>Fri, 03 Apr 2026 02:45:50 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146127/1775152951.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146127/1775152951.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US job growth accelerates by the most in 15 months in March]]></title>
-            <link>https://thefinancialexpress.com.bd/economy/global/us-job-growth-accelerates-by-the-most-in-15-months-in-march</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/us-job-growth-accelerates-by-the-most-in-15-months-in-march</guid>
-            <pubDate>Fri, 03 Apr 2026 19:40:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rising raw material, freight costs squeeze RMG industry]]></title>
-            <link>https://thefinancialexpress.com.bd/economy/rising-raw-material-freight-costs-squeeze-rmg-industry</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/rising-raw-material-freight-costs-squeeze-rmg-industry</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Fri, 03 Apr 2026 18:19:40 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146240/p1-info-rmg-indusry-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146240/p1-info-rmg-indusry-outline.jpg"/>
         </item>
     </channel>
 </rss>
