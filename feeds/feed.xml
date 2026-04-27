@@ -4,10 +4,29 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 06:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 09:22:05 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 06:30:59 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 09:22:05 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NBR expands digital tax system to boost compliance, cut discretion]]></title>
+            <description><![CDATA[Chairman of the National Board of Revenue (NBR) Abdur Rahman Khan said that they have gradually been adopting information technology to improve compliance, expand the tax base and reduce human discretion in revenue administration.
+"With digital data, we can analyse taxpayer behaviour and assess th]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/nbr-expands-digital-tax-system-to-boost-compliance-cut-discretion</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/nbr-expands-digital-tax-system-to-boost-compliance-cut-discretion</guid>
+            <pubDate>Mon, 27 Apr 2026 09:22:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[West Bengal polls: All land borders sealed]]></title>
+            <description><![CDATA[The government of India’s West Bengal has issued an order restricting the movement of both people and vehicles for exit to Bangladesh and entry to Indian territory to ensure the smooth conduct of state elections.
+The office of the District Magistrate, North 24 Parganas, said in a statement t]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/west-bengal-polls-all-land-borders-sealed</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/west-bengal-polls-all-land-borders-sealed</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 27 Apr 2026 08:10:55 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150103/porrts.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150103/porrts.jpeg"/>
+        </item>
         <item>
             <title><![CDATA[BD seeks Swiss investment in service sector, support for LDC extension]]></title>
             <description><![CDATA[Commerce Minister Khandaker Abdul Muktadir on Sunday invited Switzerland to invest in Bangladesh's service sector to strengthen relations between the two countries.
@@ -5266,28 +5285,6 @@ The development highlights both the strength of the country's export e]]></descr
             <pubDate>Sun, 05 Apr 2026 04:54:58 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146394/internet-penetration.jpeg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146394/internet-penetration.jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Regional cooperation, stability key to South Asia's growth, say business leaders and experts]]></title>
-            <description><![CDATA[Stronger regional cooperation, political stability and bold entrepreneurial risk-taking are essential to unlock South Asia's vast economic potential.
-Business leaders and policymakers made the remark at a press conference held in the city on Saturday to mark the launch of a new book, 'Made in Nepa]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/regional-cooperation-stability-key-to-south-asias-growth-say-business-leaders-and-experts</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/regional-cooperation-stability-key-to-south-asias-growth-say-business-leaders-and-experts</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 05 Apr 2026 04:53:55 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146393/uj.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146393/uj.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Farmer Service Centre eludes great goal of farming upgrade countrywide]]></title>
-            <description><![CDATA[A government pilot project eludes its ideal objective of farming upgrade in Bangladesh as massive anomalies and shoddy works in its execution have officially been detected. 
-The Local Government Engineering Department (LGED) set up farmer service centre under a pilot project where technical e]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/farmer-service-centre-eludes-great-goal-of-farming-upgrade-countrywide</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/farmer-service-centre-eludes-great-goal-of-farming-upgrade-countrywide</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 05 Apr 2026 03:50:36 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146387/1647404959.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146387/1647404959.jpg"/>
         </item>
     </channel>
 </rss>
