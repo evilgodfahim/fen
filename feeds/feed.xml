@@ -4,10 +4,29 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 27 Apr 2026 09:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Apr 2026 11:47:23 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 27 Apr 2026 09:22:05 GMT</pubDate>
+        <pubDate>Mon, 27 Apr 2026 11:47:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Energy crisis to persist without renewable transition: CPD]]></title>
+            <description><![CDATA[Bangladesh’s ongoing energy crisis may ease temporarily, but it cannot be fully resolved without a decisive shift to renewable energy, said the Centre for Policy Dialogue (CPD) on Monday.
+“We must think beyond fossil fuels,” CPD Research Director Dr Khondaker Moazzem said at]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/energy-crisis-to-persist-without-renewable-transition-cpd</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/energy-crisis-to-persist-without-renewable-transition-cpd</guid>
+            <pubDate>Mon, 27 Apr 2026 11:47:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SFBL sponsors Gulshan Youth Club's Women's Premier League Cricket]]></title>
+            <description><![CDATA[SQUARE Food & Beverage Limited (SFBL) will be the official sponsor of Gulshan Youth Club for the next five years (2026-2030) in the Dhaka Premier Division Women's Cricket League.
+A Memorandum of Understanding (MoU) has recently been signed between both parties to this effect, according to a media]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/sfbl-signs-as-gulshan-youth-clubs-official-sponsor-for-womens-premier-league-cricket</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sfbl-signs-as-gulshan-youth-clubs-official-sponsor-for-womens-premier-league-cricket</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 27 Apr 2026 10:38:42 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150127/square-sponsor.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150127/square-sponsor.jpg"/>
+        </item>
         <item>
             <title><![CDATA[NBR expands digital tax system to boost compliance, cut discretion]]></title>
             <description><![CDATA[Chairman of the National Board of Revenue (NBR) Abdur Rahman Khan said that they have gradually been adopting information technology to improve compliance, expand the tax base and reduce human discretion in revenue administration.
@@ -5268,23 +5287,6 @@ The recommendations were placed at a pre-budget dis]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/commodity-prices-to-rise-soon-warns-finance-minister</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/commodity-prices-to-rise-soon-warns-finance-minister</guid>
             <pubDate>Sun, 05 Apr 2026 08:51:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BD's trade surplus with EU widens]]></title>
-            <description><![CDATA[The surplus in Bangladesh's trade in goods and services with the European Union rose by nearly 10 per cent in fiscal year 2024-25, underpinned by robust export growth, particularly in goods, despite rising outflows in services.
-The development highlights both the strength of the country's export e]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bds-trade-surplus-with-eu-widens</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bds-trade-surplus-with-eu-widens</guid>
-            <pubDate>Sun, 05 Apr 2026 05:16:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Internet subscriptions hit 3-yr low, cell phone users edge up in Feb]]></title>
-            <link>https://thefinancialexpress.com.bd/trade/internet-subscriptions-hit-3-yr-low-cell-phone-users-edge-up-in-feb</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/internet-subscriptions-hit-3-yr-low-cell-phone-users-edge-up-in-feb</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 05 Apr 2026 04:54:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146394/internet-penetration.jpeg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146394/internet-penetration.jpeg"/>
         </item>
     </channel>
 </rss>
