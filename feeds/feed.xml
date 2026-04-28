@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 19:46:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 21:10:43 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 19:46:15 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 21:10:43 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[US envoy stresses need for required reforms to implement trade agreement]]></title>
+            <description><![CDATA[US Ambassador to Dhaka Brent T Christensen stressed the need for required reforms to implement the agreement on reciprocal trade (ART) through improving the business climate and addressing the barriers to unlock trade and investment potentials.
+“Bangladesh needs to pass necessary legislation]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/amcham-hosts-luncheon-to-strengthen-us-bangladesh-economic-ties</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/amcham-hosts-luncheon-to-strengthen-us-bangladesh-economic-ties</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 28 Apr 2026 21:10:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[DPP readiness gaps pose challenge for RMG sector: Roundtable]]></title>
             <description><![CDATA[Readiness gaps, including siloed data, limited upstream traceability, insufficient data granularity, and varying levels of technological preparedness across supply-chain tiers, are major challenges to implementing the Digital Product Passport (DPP).
@@ -5291,17 +5300,6 @@ The time limit will also apply to all fairs and cultural events.]]></description
             <pubDate>Mon, 06 Apr 2026 11:12:19 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146640/new-project-2026-04-06t171119271.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146640/new-project-2026-04-06t171119271.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BEPZA inks $24.03m deal with S Korean Company]]></title>
-            <description><![CDATA[The Bangladesh Export Processing Zones Authority (BEPZA) has secured another significant foreign investment in diversified product manufacturing at BEPZA Economic Zone.
-A land lease agreement has been signed between BEPZA and South Korean company PH Creative (BD) Ltd. to establish a tent and campi]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bepza-inks-2403m-deal-with-s-korean-company</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bepza-inks-2403m-deal-with-s-korean-company</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 06 Apr 2026 10:24:59 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146627/new-project-2026-04-06t162414585.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146627/new-project-2026-04-06t162414585.jpg"/>
         </item>
     </channel>
 </rss>
