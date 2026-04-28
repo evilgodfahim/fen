@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 17:49:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 19:46:15 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 17:49:17 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 19:46:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DPP readiness gaps pose challenge for RMG sector: Roundtable]]></title>
+            <description><![CDATA[Readiness gaps, including siloed data, limited upstream traceability, insufficient data granularity, and varying levels of technological preparedness across supply-chain tiers, are major challenges to implementing the Digital Product Passport (DPP).
+Early DPP readiness can help Bangladesh build on]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/dpp-readiness-gaps-pose-challenge-for-rmg-sector-roundtable</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/dpp-readiness-gaps-pose-challenge-for-rmg-sector-roundtable</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 28 Apr 2026 18:38:57 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150364/img-7082.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150364/img-7082.jpeg"/>
+        </item>
         <item>
             <title><![CDATA[278th Board Audit Committee meeting of Shahjalal Islami Bank held]]></title>
             <description><![CDATA[The 278th meeting of the Board Audit Committee of Shahjalal Islami Bank PLC was held on Tuesday at the Corporate Head Office of the bank, according to a press release.
@@ -5291,17 +5302,6 @@ A land lease agreement has been signed between BEPZA and South Korean company PH
             <pubDate>Mon, 06 Apr 2026 10:24:59 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146627/new-project-2026-04-06t162414585.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146627/new-project-2026-04-06t162414585.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FBCCI urges BB to increase EDF, raise single borrower exposure limit]]></title>
-            <description><![CDATA[The Federation of Bangladesh Chambers of Commerce and Industry (FBCCI) on Monday urged Bangladesh Bank (BB) to increase the size of the Export Development Fund (EDF) and raise the single borrower exposure limit to support businesses.
-The apex trade body made the call at a meeting with BB Governor]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/fbcci-urges-bb-to-increase-edf-raise-single-borrower-exposure-limit</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fbcci-urges-bb-to-increase-edf-raise-single-borrower-exposure-limit</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 06 Apr 2026 10:22:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146623/new-project-2026-04-06t162210909.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146623/new-project-2026-04-06t162210909.jpg"/>
         </item>
     </channel>
 </rss>
