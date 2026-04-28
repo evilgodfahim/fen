@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 00:00:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 04:35:22 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 00:00:57 GMT</pubDate>
+        <pubDate>Tue, 28 Apr 2026 04:35:22 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Sheltech signs MoU to support Eglal’s ABC Charity School]]></title>
+            <description><![CDATA[Sheltech has signed a Memorandum of Understanding (MoU) with Eglal’s ABC Charity School, supported by the American International School Dhaka (AISD), to provide sponsorship support, according to a press release Monday.
+The agreement, signed on April 6 last, reflects the company’s conti]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/sheltech-signs-mou-to-support-eglals-abc-charity-school</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sheltech-signs-mou-to-support-eglals-abc-charity-school</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 28 Apr 2026 04:35:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Former board bids for regaining  SIBL, petitions regulator]]></title>
             <description><![CDATA[A reversal of the five Islamic bank merger begins as former shareholders of Social Islami Bank Ltd officially appeal for regaining the troubled bank's conditional control through a new legal window.
@@ -5293,18 +5302,6 @@ Th]]></description>
             <pubDate>Sun, 05 Apr 2026 13:33:02 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146490/new-project-2026-04-05t193153436.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146490/new-project-2026-04-05t193153436.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[425.3pc growth of remittance inflow till April 4]]></title>
-            <description><![CDATA[Inflow of remittances witnessed a year-on-year growth of 425.3 percent reaching US$339 million in the first four days of April, according to the latest data of Bangladesh Bank (BB) issued.
-Last year, during the same period, the country’s remittance inflow was $65 million.
-During the July to]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/4253pc-growth-of-remittance-inflow-till-april-4</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/4253pc-growth-of-remittance-inflow-till-april-4</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Sun, 05 Apr 2026 11:35:37 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146461/new-project-2026-04-05t173455021.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146461/new-project-2026-04-05t173455021.jpg"/>
         </item>
     </channel>
 </rss>
