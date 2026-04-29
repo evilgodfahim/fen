@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 28 Apr 2026 22:58:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Apr 2026 00:02:11 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 28 Apr 2026 22:58:51 GMT</pubDate>
+        <pubDate>Wed, 29 Apr 2026 00:02:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WFP and the escalating global food crisis]]></title>
+            <description><![CDATA[The world is falling significantly behind on its 2030 target of ending hunger. According to the World Food Programme (WFP), the global food crisis is deepening at an alarming rate, driven by a combination of conflict, climate shocks and economic instability. If current trends persist-particularly e]]></description>
+            <link>https://thefinancialexpress.com.bd/views/columns/wfp-and-the-escalating-global-food-crisis</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/wfp-and-the-escalating-global-food-crisis</guid>
+            <pubDate>Wed, 29 Apr 2026 00:02:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US envoy stresses need for required reforms to implement trade agreement]]></title>
             <description><![CDATA[US Ambassador to Dhaka Brent T Christensen stressed the need for required reforms to implement the agreement on reciprocal trade (ART) through improving the business climate and addressing the barriers to unlock trade and investment potentials.
@@ -5289,17 +5296,6 @@ The time limit will also apply to all fairs and cultural events.]]></description
             <pubDate>Mon, 06 Apr 2026 11:29:36 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146652/shops-markets-malls-will-stay-open-until-7pm-as-government-relaxes-curbs.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146652/shops-markets-malls-will-stay-open-until-7pm-as-government-relaxes-curbs.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Defaulted loans reach Tk 5.45 lakh crore: Finance Minister]]></title>
-            <description><![CDATA[Defaulted loans in Bangladesh’s banking sector stood at Tk 5.45 lakh crore at the end of 2025, Finance Minister Amir Khosru Mahmud Chowdhury told Parliament on Monday.
-“As of December 31, 2025, the total amount of defaulted loans in the banking sector is Tk 5,44,831 crore,” he sa]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/defaulted-loans-reach-tk-545-lakh-crore-finance-minister</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/defaulted-loans-reach-tk-545-lakh-crore-finance-minister</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 06 Apr 2026 11:12:19 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146640/new-project-2026-04-06t171119271.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146640/new-project-2026-04-06t171119271.jpg"/>
         </item>
     </channel>
 </rss>
