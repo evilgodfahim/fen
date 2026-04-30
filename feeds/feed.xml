@@ -4,10 +4,33 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 19:27:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 21:04:58 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 19:27:59 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 21:04:58 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[123rd Prize Bond draw held]]></title>
+            <description><![CDATA[The 123rd draw of the Tk 100 denomination prize bond was held on Thursday, with the number 001035 clinching the first prize of Tk 600 thousand.
+The number 0047748 won the second prize of Tk 325 thousand.
+The draw took place at the conference room of the Dhaka Divisional Commissioner's office, pre]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/123rd-prize-bond-draw-held</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/123rd-prize-bond-draw-held</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 30 Apr 2026 17:02:49 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150713/123rd-prize-bond-draw-held.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150713/123rd-prize-bond-draw-held.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Unilever to hike prices in 'small doses']]></title>
+            <description><![CDATA[Unilever said on Thursday it would raise prices to soften the hit from higher-than-expected costs driven by the Iran war, even as it reported first-quarter underlying sales growth ahead of analysts' forecasts.
+The London-listed maker of Dove soap and Axe deodorant, which has a market valuation of]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/unilever-to-hike-prices-in-small-doses-as-iran-war-threatens-to-hit-shoppers</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/unilever-to-hike-prices-in-small-doses-as-iran-war-threatens-to-hit-shoppers</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 30 Apr 2026 16:42:47 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150709/unilever-to-hike-prices-in-small-doses-as-iran-war-threatens-to-hit-shoppers.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150709/unilever-to-hike-prices-in-small-doses-as-iran-war-threatens-to-hit-shoppers.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pressure mounts to repay foreign debt: ERD report]]></title>
             <description><![CDATA[Bangladesh is experiencing mounting pressure in repaying its foreign debt, as outflows for loan servicing continue to rise alongside fresh disbursements, according to the latest report from the Economic Relations Division (ERD).
@@ -5323,22 +5346,6 @@ Despite the government’s move, doubts linger among businessmen and stakeholder
             <pubDate>Wed, 08 Apr 2026 05:47:52 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146962/teknaf-land-port-080224-01-1919x1080.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146962/teknaf-land-port-080224-01-1919x1080.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Business activity slows as March PMI dips]]></title>
-            <description><![CDATA[Bangladesh's business activity lost momentum in March, with the latest Purchasing Managers' Index (PMI) pointing to a slowdown across key sectors. 
-While the economy continues to expand overall, emerging weaknesses in manufacturing and construction are raising concerns about the durability of]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/business-activity-slows-as-march-pmi-dips</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/business-activity-slows-as-march-pmi-dips</guid>
-            <pubDate>Wed, 08 Apr 2026 05:15:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services dominate, manufacturing declines as economic units jump]]></title>
-            <description><![CDATA[Bangladesh's economic structures have shown a complex shift as the share of manufacturing has declined despite a little gain in employment, the 2024 Economic Census report says.
-While the total number of economic units has surged to over 11.70 million from 7.82 million in 2013, the manufacturing s]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/services-dominate-manufacturing-declines-as-economic-units-jump</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/services-dominate-manufacturing-declines-as-economic-units-jump</guid>
-            <pubDate>Wed, 08 Apr 2026 05:15:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
