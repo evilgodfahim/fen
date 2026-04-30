@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 10:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2026 12:16:37 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 10:10:02 GMT</pubDate>
+        <pubDate>Thu, 30 Apr 2026 12:16:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Midland Bank PLC, Sonic (Bangladesh) Ltd sign MoU for cash management services]]></title>
+            <description><![CDATA[Midland Bank PLC has signed a Memorandum of Understanding (MoU) with Sonic (Bangladesh) Ltd to provide advanced cash management solutions for efficient financial operations.
+The MoU signing ceremony took place on April 29, 2026, according to a media release. 
+Imtiaz U. Ahmed, Managing Direct]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/midland-bank-plc-sonic-bangladesh-ltd-sign-mou-for-cash-management-services</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/midland-bank-plc-sonic-bangladesh-ltd-sign-mou-for-cash-management-services</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 30 Apr 2026 10:27:40 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150627/midland-bank-mcm.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150627/midland-bank-mcm.jpg"/>
+        </item>
         <item>
             <title><![CDATA[City Bank PLC reports 162pc net profit growth in Q1 2026]]></title>
             <description><![CDATA[Local banking leader City Bank PLC reports 162% net profit growth in Q1 2026 (31 March 2026), demonstrating sustained growth across key areas compared to the same period of the previous year.
@@ -5322,17 +5334,6 @@ To deflate the plan of possible volatility, the central bank has already intensi
             <pubDate>Wed, 08 Apr 2026 03:26:35 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146920/forex-fe-1-2.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146920/forex-fe-1-2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jet fuel price jacked up]]></title>
-            <description><![CDATA[Jet-fuel price has been jacked up again for both domestic and international flights amid the persistent global oil-price volatility, thus making aviation expensive.&nbsp;
-Bangladesh Energy Regulatory Commission (BERC) Tuesday issued a release hiking the airplane-fuel prices, citing global price vo]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/jet-fuel-price-jacked-up</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/jet-fuel-price-jacked-up</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 03:04:29 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146918/1759945191.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146918/1759945191.jpg"/>
         </item>
     </channel>
 </rss>
