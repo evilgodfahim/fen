@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 01 May 2026 03:51:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 06:39:59 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 May 2026 03:51:56 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 06:39:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global shocks put economy at renewed risk: GED]]></title>
+            <description><![CDATA[Rising global energy costs and escalating tensions in the Middle East (ME) are posing renewed risks to Bangladesh's key macroeconomic indicators, including inflation, trade deficit, and exchange rate stability, according to the latest publication of the General Economics Division (GED) of the Plann]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global-shocks-put-economy-at-renewed-risk-ged</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global-shocks-put-economy-at-renewed-risk-ged</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 01 May 2026 02:53:30 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150763/economy-2.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150763/economy-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Economy in 'deep crisis', recovery may take two difficult years']]></title>
+            <description><![CDATA[Bangladesh is facing a deep economic crisis and may need to endure "two difficult years" to recover, Finance Minister Amir Khosru Mahmud Chowdhury warns.
+As such, he says, the government is likely to take measures that may not be popular.
+During discussion on the motion of thanks on the President]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/economy-in-deep-crisis-recovery-may-take-two-difficult-years</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/economy-in-deep-crisis-recovery-may-take-two-difficult-years</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 01 May 2026 02:09:16 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150744/finance-minister-amir.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150744/finance-minister-amir.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jul-Feb farm credit disbursements soar 24.20pc to Tk 274. 80b]]></title>
             <description><![CDATA[Disbursements of agricultural and rural credit witnessed a significant surge during the first eight months of the current fiscal year, official data revealed. 
@@ -5323,26 +5345,6 @@ Bajus attributed the hike to a rise in the price of pure (tejab]]></description>
             <pubDate>Wed, 08 Apr 2026 07:29:43 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146973/gold-market.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146973/gold-market.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dollar rate rises in Bangladesh, central bank moves to monitor forex transactions]]></title>
-            <link>https://thefinancialexpress.com.bd/trade/dollar-rate-rises-in-bangladesh-central-bank-moves-to-monitor-forex-transactions</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/dollar-rate-rises-in-bangladesh-central-bank-moves-to-monitor-forex-transactions</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 07:25:14 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146972/us-dollar-160322-01-1734577041.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146972/us-dollar-160322-01-1734577041.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oil slides below $100, stocks soar after Iran ceasefire]]></title>
-            <description><![CDATA[Oil prices dived, stocks surged and the dollar was knocked back on Wednesday as a two-week Middle East ceasefire sparked a relief rally, fuelled by hopes that oil and gas flows through the Strait of Hormuz could resume.
-The news capped weeks of financial market volatility and geopolitical upheaval]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/oil-slides-below-100-stocks-soar-after-iran-ceasefire</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/oil-slides-below-100-stocks-soar-after-iran-ceasefire</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 06:09:46 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146965/oil.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146965/oil.jpg"/>
         </item>
     </channel>
 </rss>
