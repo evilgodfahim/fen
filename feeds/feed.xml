@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 30 Apr 2026 23:55:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 May 2026 03:51:56 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 30 Apr 2026 23:55:57 GMT</pubDate>
+        <pubDate>Fri, 01 May 2026 03:51:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Jul-Feb farm credit disbursements soar 24.20pc to Tk 274. 80b]]></title>
+            <description><![CDATA[Disbursements of agricultural and rural credit witnessed a significant surge during the first eight months of the current fiscal year, official data revealed. 
+According to latest Bangladesh Bank (BB) figures, the country's scheduled banks disbursed Tk 274. 80 billion worth of farm credit dur]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/jul-feb-farm-credit-disbursements-soar-2420pc-to-tk-274-80b</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/jul-feb-farm-credit-disbursements-soar-2420pc-to-tk-274-80b</guid>
+            <pubDate>Fri, 01 May 2026 03:51:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[123rd Prize Bond draw held]]></title>
             <description><![CDATA[The 123rd draw of the Tk 100 denomination prize bond was held on Thursday, with the number 001035 clinching the first prize of Tk 600 thousand.
@@ -5335,17 +5343,6 @@ The news capped weeks of financial market volatility and geopolitical upheaval]]
             <pubDate>Wed, 08 Apr 2026 06:09:46 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146965/oil.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146965/oil.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Traders question ‘realism, security’ of Teknaf Land Port reopening]]></title>
-            <description><![CDATA[State Minister for Shipping Md Razib Ahsan has announced plans to reopen Cox's Bazar's Teknaf Land Port after it was closed for nearly a year due to the civil conflict in Myanmar.
-Despite the government’s move, doubts linger among businessmen and stakeholders over security, waterways, and th]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/traders-question-realism-security-of-teknaf-land-port-reopening</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/traders-question-realism-security-of-teknaf-land-port-reopening</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 05:47:52 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146962/teknaf-land-port-080224-01-1919x1080.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/146962/teknaf-land-port-080224-01-1919x1080.jpg"/>
         </item>
     </channel>
 </rss>
