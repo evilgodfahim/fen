@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 03:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 06:10:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 03:19:58 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 06:10:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Power generation resumes at Barapukuria Thermal Power Plant]]></title>
+            <description><![CDATA[Electricity generation has resumed at Unit 1 of the Barapukuria Thermal Power Plant after a six-day shutdown.
+The unit is currently supplying around 55 to 60 megawatts of electricity to the national grid, raising hopes of easing load shedding in the northern region, UNB reports.
+Chief Engineer Ab]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/power-generation-resumes-at-barapukuria-thermal-power-plant-after-repairs</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/power-generation-resumes-at-barapukuria-thermal-power-plant-after-repairs</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 02 May 2026 06:02:35 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150890/barapukuria-powerplant.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150890/barapukuria-powerplant.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh to issue 7-year Sukuk worth Tk 59b for rural bridge project]]></title>
             <description><![CDATA[Bangladesh is set to issue its eighth government investment Sukuk worth Tk 59 billion (Tk 5,900 crore) to finance the construction and development of important bridges on rural roads under a revised project, according to an official statement.
@@ -5334,17 +5346,6 @@ As Keynote Speaker, Md. Siddiq]]></description>
             <pubDate>Wed, 08 Apr 2026 14:11:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147081/standard-islami-bank-5.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147081/standard-islami-bank-5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Saudi Arabia to bolster cooperation in Bangladesh's port, industrial sectors]]></title>
-            <description><![CDATA[Saudi Arabia has expressed eagerness to work with Bangladesh for strengthening strategic cooperation in seaport development, investment expansion and the industrial sector.
-Saudi Ambassador to Bangladesh Dr. Abdullah Zafer H. bin Abiyah showed the interest during a meeting with Industries Minister]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/saudi-arabia-to-bolster-cooperation-in-bangladeshs-port-industrial-sectors</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/saudi-arabia-to-bolster-cooperation-in-bangladeshs-port-industrial-sectors</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 14:08:51 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147079/saudi-ind.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147079/saudi-ind.jpg"/>
         </item>
     </channel>
 </rss>
