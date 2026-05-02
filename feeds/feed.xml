@@ -4,10 +4,29 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 02 May 2026 10:00:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 May 2026 11:49:23 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 May 2026 10:00:47 GMT</pubDate>
+        <pubDate>Sat, 02 May 2026 11:49:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Reliance on foreign firms in resource management ‘suicidal’: Anu Muhammad]]></title>
+            <description><![CDATA[Prof Anu Muhammad, a member of the Ganatantrik Odhikar Committee, has once again criticised the failure of successive governments to strengthen national capacity and state institutions in strategic sectors such as energy and natural resource management.
+Speaking at an event evaluating the BNP gove]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/reliance-on-foreign-firms-in-resource-management-suicidal-anu-muhammad</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/reliance-on-foreign-firms-in-resource-management-suicidal-anu-muhammad</guid>
+            <pubDate>Sat, 02 May 2026 11:49:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[BARVIDA demands cuts in import duties on hybrid, reconditioned vehicles]]></title>
+            <description><![CDATA[The Bangladesh Reconditioned Vehicles Importers and Dealers Association (BARVIDA) has demanded cuts in import duties on hybrid and reconditioned vehicles in the national budget for the 2026-27 fiscal year.
+BARVIDA also proposed increasing the age limit of importable vehicles from the current 5 yea]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/barvida-demands-cuts-in-import-duties-on-hybrid-reconditioned-vehicles</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/barvida-demands-cuts-in-import-duties-on-hybrid-reconditioned-vehicles</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 02 May 2026 10:48:00 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150920/barvida.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150920/barvida.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Power generation resumes at Barapukuria Thermal Power Plant]]></title>
             <description><![CDATA[Electricity generation has resumed at Unit 1 of the Barapukuria Thermal Power Plant after a six-day shutdown.
@@ -5324,28 +5343,6 @@ Md. Abdur Razzak Mondal, Chairman, Board of Directors of Pubali Bank Securities 
             <pubDate>Wed, 08 Apr 2026 14:52:52 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147091/pubali-securities.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147091/pubali-securities.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[3-day international tourism fair begins in Dhaka tomorrow]]></title>
-            <description><![CDATA[The 21st edition of the three-day international tourism fair, Air Astra Dhaka Travel Mart 2026, will commence tomorrow (Thursday) at the Ballroom of Pan Pacific Sonargaon Dhaka.
-The event is being organized by The Bangladesh Monitor, a leading travel and tourism publication, with Air Astra as the]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/3-day-international-tourism-fair-begins-in-dhaka-tomorrow</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/3-day-international-tourism-fair-begins-in-dhaka-tomorrow</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 14:29:15 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147087/air-astra.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147087/air-astra.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Standard Islami Bank holds executive development programme]]></title>
-            <description><![CDATA[Shariah-based Standard Islami Bank PLC recently organised an Executive Development Programme titled ‘Leadership Style & Management Principles of Best Organizations’ with the participation of Senior executives, heads of all divisions and selected branches.
-As Keynote Speaker, Md. Siddiq]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/standard-islami-bank-holds-executive-development-programme</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/standard-islami-bank-holds-executive-development-programme</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 08 Apr 2026 14:11:10 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147081/standard-islami-bank-5.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147081/standard-islami-bank-5.jpg"/>
         </item>
     </channel>
 </rss>
