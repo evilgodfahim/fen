@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 08:49:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 10:08:55 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 08:49:19 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 10:08:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ADB launches new financing facility to boost critical minerals supply chains in Asia-Pacific]]></title>
+            <description><![CDATA[The Asian Development Bank (ADB) on Sunday launched a new financing facility to help countries in Asia and the Pacific develop critical minerals supply chains needed for clean energy, batteries, electric vehicles, and digital technology.
+"Critical minerals will shape the next industrial era," said]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/adb-launches-new-financing-facility-to-boost-critical-minerals-supply-chains-in-asia-pacific</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/adb-launches-new-financing-facility-to-boost-critical-minerals-supply-chains-in-asia-pacific</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 03 May 2026 09:41:32 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151085/1736100433.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151085/1736100433.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Border cattle markets to be shut to prevent illegal imports ahead of Eid-ul-Azha]]></title>
             <description><![CDATA[Bangladesh is set to witness a surplus of sacrificial animals ahead of Eid-ul-Azha 2026, with the government estimating a total availability of around 12.33 million livestock across the country, according to officials.
@@ -5347,13 +5358,6 @@ Dhaka Additional Chief Metropolitan Magistrate Jashita Islam fixed the new date 
             <pubDate>Thu, 09 Apr 2026 11:02:25 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147209/new-project-2026-04-09t170136734.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147209/new-project-2026-04-09t170136734.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Global energy shock may add Tk 610b burden to Bangladesh, warns DCCI]]></title>
-            <description><![CDATA[Dhaka Chamber of Commerce and Industry (DCCI) President Taskeen Ahmed on Thursday warned that the ongoing global energy shock could impose an additional Tk 610 billion annual burden on Bangladesh and significantly strain the country’s economy, urging immediate strategic interventions.]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/global-energy-shock-may-add-tk-610b-burden-to-bangladesh-warns-dcci</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/global-energy-shock-may-add-tk-610b-burden-to-bangladesh-warns-dcci</guid>
-            <pubDate>Thu, 09 Apr 2026 09:13:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
