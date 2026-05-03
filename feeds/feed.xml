@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 10:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 11:47:21 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 10:08:55 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 11:47:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[LPG price to remain steady for May]]></title>
+            <description><![CDATA[The Bangladesh Energy Regulatory Commission (BERC) announced on Sunday that it will keep the liquefied petroleum gas (LPG) price unchanged for May, giving consumers a breather after two consecutive hikes last month.In a notice issued in the afternoon, BERC said LPG will sell at April's fixed rates]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/lpg-price-to-remain-steady-for-may</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/lpg-price-to-remain-steady-for-may</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 03 May 2026 11:38:00 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151111/lpg-gas.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151111/lpg-gas.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rampal power plant sets record with over 760m units generation in April]]></title>
+            <description><![CDATA[Bangladesh-India Friendship Power Company Limited (BIFPCL) has set a new record in national power generation, producing over 760 million units of electricity from Rampal power plant in April this year.
+Maitree Super Thermal Power Plant in Rampal contributed more than 9 percent of the country&rsquo]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/rampal-power-plant-sets-record-with-over-760m-units-generation-in-april</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/rampal-power-plant-sets-record-with-over-760m-units-generation-in-april</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 03 May 2026 11:34:01 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151109/new-project-2026-05-03t173313684.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151109/new-project-2026-05-03t173313684.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ADB launches new financing facility to boost critical minerals supply chains in Asia-Pacific]]></title>
             <description><![CDATA[The Asian Development Bank (ADB) on Sunday launched a new financing facility to help countries in Asia and the Pacific develop critical minerals supply chains needed for clean energy, batteries, electric vehicles, and digital technology.
@@ -5336,28 +5357,6 @@ The survey, conducted ahead of the bank’s Global Investment Summi]]></descript
             <pubDate>Thu, 09 Apr 2026 07:49:39 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147180/p16-hsbc1.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147180/p16-hsbc1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Reform an ongoing process, essential for economic dynamism: Debapriya]]></title>
-            <description><![CDATA[Dr Debapriya Bhattacharya, Distinguished Fellow at the Centre for Policy Dialogue (CPD), on Thursday described reform as a continuous process, emphasising its necessity for maintaining economic momentum.
-“Reform is not a static concept, it is an ongoing process. Just as blood circulation is]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/reform-an-ongoing-process-essential-for-economic-dynamism-debapriya</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/reform-an-ongoing-process-essential-for-economic-dynamism-debapriya</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 09 Apr 2026 13:11:40 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147251/new-project-2026-04-09t190844228.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147251/new-project-2026-04-09t190844228.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Probe report in BB reserve heist case on May 18]]></title>
-            <description><![CDATA[A Dhaka court on Thursday set May 18 for submitting the probe report in the case lodged over the 2016 reserve heist of Bangladesh Bank (BB).
-Dhaka Additional Chief Metropolitan Magistrate Jashita Islam fixed the new date as the investigation agency Criminal Investigation Department (CID) failed to]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/probe-report-in-bb-reserve-heist-case-on-may-18</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/probe-report-in-bb-reserve-heist-case-on-may-18</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 09 Apr 2026 11:02:25 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147209/new-project-2026-04-09t170136734.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147209/new-project-2026-04-09t170136734.jpg"/>
         </item>
     </channel>
 </rss>
