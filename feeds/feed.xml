@@ -4,10 +4,28 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 03 May 2026 17:51:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 May 2026 19:05:37 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 03 May 2026 17:51:54 GMT</pubDate>
+        <pubDate>Sun, 03 May 2026 19:05:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[NBR on hunt  to recoup  revenue  shortfall]]></title>
+            <description><![CDATA[Government's revenue authority launches an extensive drive to recoup domestic revenue shortfall by tapping potential sectors as limited scope left for a last-quarter boost in taxing development-project spending.Field-level officials say implementation of the Annual Development Programme (ADP) is tr]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/nbr-on-hunt-to-recoup-revenue-shortfall</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/nbr-on-hunt-to-recoup-revenue-shortfall</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 03 May 2026 17:46:41 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151196/p1-info-nbr-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151196/p1-info-nbr-outline.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh's growth story caught in the oil crossfire]]></title>
+            <description><![CDATA[“Energy is the lifeline of modern society. Without energy, economic systems collapse and development comes to a halt,”—Daniel Yergin.
+The essence of energy permeates every facet of economics and societal life worldwide. Countries require reliable, cost-effective energy sources to]]></description>
+            <link>https://thefinancialexpress.com.bd/views/views/bangladeshs-growth-story-caught-in-the-oil-crossfire</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/bangladeshs-growth-story-caught-in-the-oil-crossfire</guid>
+            <pubDate>Sun, 03 May 2026 19:05:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[OPEC+ agrees third oil output quota hike since Hormuz closure]]></title>
             <description><![CDATA[OPEC+ agreed on Sunday a modest oil output hike for June, an increase that will remain largely on paper as long as the Iran war continues to disrupt Gulf oil supplies through the Strait of Hormuz.
@@ -5326,32 +5344,6 @@ Speaking at a panel discussion titled &ldqu]]></description>
             <pubDate>Thu, 09 Apr 2026 15:47:48 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147289/new-project-2026-04-09t214641611.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147289/new-project-2026-04-09t214641611.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ME crisis threatens BD energy security, economic stability]]></title>
-            <description><![CDATA[An escalating conflict in the fuel-hub Middle East is emerging as a major risk to Bangladesh's energy security with potential ripple effects across the broader economy.
-
-
-
-Suggesting a number of must-dos to save the situation, a new assessment warns that disruptions to key fuel-supply routes co]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/me-crisis-threatens-bd-energy-security-economic-stability</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/me-crisis-threatens-bd-energy-security-economic-stability</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 09 Apr 2026 18:50:29 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147316/p1-lead-conflict-impacts-info-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147316/p1-lead-conflict-impacts-info-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[5 more ships carrying LNG-LPG to arrive by Apr 15]]></title>
-            <description><![CDATA[Five ships carrying Liquefied Natural Gas (LNG) and Liquefied Petroleum Gas (LPG) are set to arrive in the country by April 15.
-Chattogram Port Authority Secretary Refayet Hamim confirmed the arrival schedule of the ships on Thursday.
-A vessel, ‘Morning Jelly’, will bring 2,470 tonnes]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/5-more-ships-carrying-lng-lpg-to-arrive-by-apr-15</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/5-more-ships-carrying-lng-lpg-to-arrive-by-apr-15</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 09 Apr 2026 15:39:36 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147287/new-project-2026-04-09t213915075.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147287/new-project-2026-04-09t213915075.jpg"/>
         </item>
     </channel>
 </rss>
