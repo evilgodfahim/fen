@@ -4,10 +4,33 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 11:52:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 14:11:07 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 11:52:52 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 14:11:07 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[DBL Ceramics unveils autism-friendly NeuroTiles and inclusive design guideline]]></title>
+            <description><![CDATA[DBL Ceramics, guided by its belief in ‘Designed for Life’, has introduced a new inclusive design guideline to help create better environments and products for children with autism, according to a press release.
+Around 68.1 million children worldwide live with autism, yet the places whe]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/dbl-ceramics-unveils-autism-friendly-neurotiles-and-inclusive-design-guideline</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/dbl-ceramics-unveils-autism-friendly-neurotiles-and-inclusive-design-guideline</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 04 May 2026 13:07:03 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151328/dbl-ceramic.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151328/dbl-ceramic.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mostafa Zahed Hossain takes charge as Managing Director of Wärtsilä Bangladesh]]></title>
+            <description><![CDATA[Global technology leader Wärtsilä Corporation, Finland, has appointed Mostafa Zahed Hossain as Managing Director of Wärtsilä Bangladesh, effective May 1, 2026.
+He will continue to serve as Head of Operations alongside his new role, according to a press release. 
+Zahe]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/mostafa-zahed-hossain-takes-charge-as-managing-director-of-wartsila-bangladesh</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/mostafa-zahed-hossain-takes-charge-as-managing-director-of-wartsila-bangladesh</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 04 May 2026 12:01:48 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151308/wartsila.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151308/wartsila.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Remittance inflow reaches $315m in 3 days of May]]></title>
             <description><![CDATA[The country’s remittance inflow has reached $315 million in the first three days of May, reflecting sustained strong inflows from expatriate Bangladeshis, according to data released by the Bangladesh Bank (BB) on Monday.
@@ -5328,31 +5351,6 @@ Deposits rose modestly in the final quarter of 2025, while export earnings decli
             <pubDate>Sat, 11 Apr 2026 03:02:15 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147464/1775844126.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147464/1775844126.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jul-Jan fiscal deficit narrows 5.0pc]]></title>
-            <description><![CDATA[Bangladesh's fiscal deficit narrowed slightly during the first seven months of the current fiscal year compared to the same period a year earlier, although government spending continued to outpace revenue collection.
-Data from the Bangladesh Bank shows the deficit stood at Tk 680 billion during Ju]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/jul-jan-fiscal-deficit-narrows-50pc</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/jul-jan-fiscal-deficit-narrows-50pc</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Sat, 11 Apr 2026 02:36:29 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147460/1775843684.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147460/1775843684.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khosru pins high hope on next budget]]></title>
-            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury has said that the upcoming national budget will prioritise building a sustainable, transparent and inclusive economy in a shift from growth bias of yesteryear.
-
-
-
-Elaborating on the economic-financial blueprint, he says the government aims to stimul]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/khosru-pins-high-hope-on-next-budget</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/khosru-pins-high-hope-on-next-budget</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Fri, 10 Apr 2026 18:09:10 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147453/p1-info-economic-agenda-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147453/p1-info-economic-agenda-outline.jpg"/>
         </item>
     </channel>
 </rss>
