@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 18:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 May 2026 20:18:47 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 18:18:03 GMT</pubDate>
+        <pubDate>Mon, 04 May 2026 20:18:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt to launch broad-based drive for netting larger NTR, non-NBR revenues]]></title>
+            <description><![CDATA[The government launches a broad-based drive to augment revenue receipts outside the NBR purview with a target of netting Tk 910 billion for the forthcoming fiscal year, as a bigger budget is imminent.
+Official count shows the amount for the fiscal 2026-27 is 39.5-percent higher from that of the ou]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/govt-to-launch-broad-based-drive-for-netting-larger-ntr-non-nbr-revenues</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govt-to-launch-broad-based-drive-for-netting-larger-ntr-non-nbr-revenues</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 04 May 2026 18:32:02 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151400/p1-non-tax-revenue-collection-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151400/p1-non-tax-revenue-collection-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shimanto Bank gets Abul Kashem Md Shirin, Shahwar Jamal Nizam as independent directors]]></title>
             <description><![CDATA[Mr. Abul Kashem Md. Shirin, a reputed banker and Mr Shahwar Jamal Nizam, a barrister and law professional has joined the Board of Directors of Shimanto Bank PLC recently as Independent Directors.
@@ -5343,17 +5354,6 @@ In its Asian Development Outlook (April edition) released Friday, the]]></descri
             <pubDate>Sat, 11 Apr 2026 15:27:45 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147578/btma-mou.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147578/btma-mou.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chinese oil tankers transit Strait of Hormuz, data shows]]></title>
-            <description><![CDATA[Two Chinese supertankers passed ​through the Strait ‌of Hormuz on Saturday, shipping data on ​LSEG showed, likely ​the first vessels to ⁠exit the ​Middle East Gulf since ​the US-Iran ceasefire deal was struck earlier this ​week.
-Very Large ​Crude Carriers Cospearl Lake and ‌He ⁠Rong Hai,]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/chinese-oil-tankers-transit-strait-of-hormuz-data-shows</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/chinese-oil-tankers-transit-strait-of-hormuz-data-shows</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 11 Apr 2026 14:24:20 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147568/chinese-oil-tankers-transit-strait-of-hormuz-data-shows.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147568/chinese-oil-tankers-transit-strait-of-hormuz-data-shows.jpg"/>
         </item>
     </channel>
 </rss>
