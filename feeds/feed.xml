@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 05 May 2026 18:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 20:10:42 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 05 May 2026 18:13:50 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 20:10:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt decides in principle to build East-West elevated expressway]]></title>
+            <description><![CDATA[High-speed travel across Dhaka seems no distant dream now as a multifaceted elevated expressway over the crammed capital gets the go-ahead after an updated feasibility study that estimates the cost at Tk 430 billion.   
+The new government has in principle decided to construct the 39]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/govt-decides-in-principle-to-build-east-west-elevated-expressway</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govt-decides-in-principle-to-build-east-west-elevated-expressway</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Tue, 05 May 2026 18:27:35 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151613/abdullah-dewan-and-mustafizur-rahman-editedp-4-lead.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151613/abdullah-dewan-and-mustafizur-rahman-editedp-4-lead.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BB directs banks to ensure adequate financing for raw hide purchase]]></title>
             <description><![CDATA[Bangladesh Bank (BB) has instructed all scheduled banks to set and disburse specific credit targets for raw hide traders to ensure smooth collection, preservation, and marketing of hides during the upcoming Eid-ul-Azha.
@@ -5331,17 +5342,6 @@ The hotel is offering an exclusive “Boishakhi Bhoj” at Bahar Restaurant, loc
             <pubDate>Sun, 12 Apr 2026 13:51:29 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147712/renaissance.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147712/renaissance.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Midland Bank organizes 'Leaders Meet' programme with branch managers]]></title>
-            <description><![CDATA[Midland Bank PLC. organized a “Leaders Meet” programme with all Branch Managers on Saturday, April 11, 2026, at the MDB Training Institute.
-The programme aimed to strengthen collaboration, encourage open dialogue, and address key operational and business challenges across the bank&rsqu]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/midland-bank-organizes-leaders-meet-programme-with-branch-managers</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/midland-bank-organizes-leaders-meet-programme-with-branch-managers</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 12 Apr 2026 12:41:41 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147694/midland-meet.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147694/midland-meet.jpg"/>
         </item>
     </channel>
 </rss>
