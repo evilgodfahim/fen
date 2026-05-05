@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 04 May 2026 23:57:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 May 2026 03:39:49 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 04 May 2026 23:57:29 GMT</pubDate>
+        <pubDate>Tue, 05 May 2026 03:39:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Flood-hit 'haor' farmers to get Tk 7,500 monthly support for 3 months]]></title>
+            <description><![CDATA[Flood-hit farmers in the country's 'haor' areas will get monthly financial assistance of Tk 7,500 each in the first phase, Agriculture Minister Mohammad Aminur Rashid said Monday.
+The list of the farmers, who have been affected by the recent floods, is being prepared, he said.
+Based on the extent]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/flood-hit-haor-farmers-to-get-tk-7500-monthly-support-for-3-months</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/flood-hit-haor-farmers-to-get-tk-7500-monthly-support-for-3-months</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 05 May 2026 02:30:07 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151413/sunamganj-haor-farmers-in-flood.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151413/sunamganj-haor-farmers-in-flood.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Govt to launch broad-based drive for netting larger NTR, non-NBR revenues]]></title>
             <description><![CDATA[The government launches a broad-based drive to augment revenue receipts outside the NBR purview with a target of netting Tk 910 billion for the forthcoming fiscal year, as a bigger budget is imminent.
@@ -5344,16 +5356,6 @@ In its Asian Development Outlook (April edition) released Friday, the]]></descri
             <pubDate>Sat, 11 Apr 2026 15:59:57 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147582/bkmea-logo.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147582/bkmea-logo.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BTMA signs MoU with international partners to host DTG exhibition]]></title>
-            <description><![CDATA[The Bangladesh Textile Mills Association (BTMA) has signed a Memorandum of Understanding (MoU) with international partners to jointly organise the Dhaka International Textile and Garment Machinery Exhibition (DTG), marking a significant step toward strengthening global collaboration in Bangladesh&r]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/btma-signs-mou-with-international-partners-to-host-dtg-exhibition</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/btma-signs-mou-with-international-partners-to-host-dtg-exhibition</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 11 Apr 2026 15:27:45 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147578/btma-mou.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147578/btma-mou.jpg"/>
         </item>
     </channel>
 </rss>
