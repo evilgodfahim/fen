@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 06 May 2026 09:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 May 2026 11:51:13 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 06 May 2026 09:26:36 GMT</pubDate>
+        <pubDate>Wed, 06 May 2026 11:51:13 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[General point to point inflation reaches 9.04pc]]></title>
+            <description><![CDATA[The general point-to-point inflation has reached 9.04 per cent in April, 2026, slightly up from 8.71 per cent in March 2026, according to the latest data from the Bangladesh Bureau of Statistics (BBS).
+The BBS data showed that food inflation increased to 8.39 per cent in April, 2026 from 8.24 per]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/general-point-to-point-inflation-reaches-904pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/general-point-to-point-inflation-reaches-904pc</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Wed, 06 May 2026 11:16:16 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151701/new-project-2026-05-06t171536467.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151701/new-project-2026-05-06t171536467.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dhaka seeks direct flights, stronger trade ties with Uzbekistan]]></title>
+            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury held a meeting with Uzbekistan Deputy Prime Minister Jamshid Khodjaev on Tuesday in Samarkand.
+According to a message received on Wednesday in Dhaka, Khosru is visiting Samarkand to lead a Bangladesh delegation at the annual meeting of the Board of Gov]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh-seeks-direct-flights-stronger-trade-ties-with-uzbekistan</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-seeks-direct-flights-stronger-trade-ties-with-uzbekistan</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Wed, 06 May 2026 07:41:14 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151661/image-384568-1778047556.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151661/image-384568-1778047556.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mango harvesting begins in Satkhira]]></title>
             <description><![CDATA[Mango harvesting officially began in Satkhira on Tuesday, with fresh produce arriving in local markets.
@@ -5319,29 +5341,6 @@ It was the first time the benchmark rose above the psychologic]]></description>
             <pubDate>Mon, 13 Apr 2026 05:10:02 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147773/oik.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147773/oik.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Central bank watches which course new govt steers]]></title>
-            <description><![CDATA[A much-hyped regulatory move for licensing digital banks gets caught up in limbo again, to the frustration of aspirants who literally shut their preparation amid an inordinate delay.
-Sources at Bangladesh Bank (BB) have said the central bank is still in wait to understand the newly-elected governm]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/central-bank-watches-which-course-new-govt-steers</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/central-bank-watches-which-course-new-govt-steers</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 13 Apr 2026 03:03:07 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147765/1776018633.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147765/1776018633.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Next budget to tighten VAT compliance of businesses]]></title>
-            <description><![CDATA[The government is preparing a set of sweeping measures in the upcoming national budget to expand the VAT net and improve compliance across the business sector.
-Policymakers aim to bring more enterprises, particularly those in the informal economy, under the tax system without raising rates.
-The p]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/next-budget-to-tighten-vat-compliance-of-businesses</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/next-budget-to-tighten-vat-compliance-of-businesses</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 13 Apr 2026 02:20:57 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147761/vat.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/147761/vat.jpg"/>
         </item>
     </channel>
 </rss>
