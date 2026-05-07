@@ -4,10 +4,20 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 18:28:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 20:17:44 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 18:28:05 GMT</pubDate>
+        <pubDate>Thu, 07 May 2026 20:17:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BTMA, CottonConnect sign MoU to promote domestic cotton production]]></title>
+            <description><![CDATA[The Bangladesh Textile Mills Association and CottonConnect Limited (CCUK) signed a memorandum of understanding (MoU) on Wednesday, at the BTMA office in Dhaka’s Gulshan to promote domestic cotton production, develop a sustainable and traceable cotton supply chain, and strengthen market linkag]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/btma-cottonconnect-sign-mou-to-promote-domestic-cotton-production</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/btma-cottonconnect-sign-mou-to-promote-domestic-cotton-production</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 07 May 2026 17:55:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151953/btma.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151953/btma.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ERF president stresses different policy for SMEs to widen tax net]]></title>
             <description><![CDATA[Economic Reporters’ Forum (ERF) President Doulot Akter Mala has said the government should think about a different fiscal policy for small and medium industries (SMEs) so that they can come under the tax net with a tolerable tax rate.
@@ -5334,14 +5344,6 @@ According to the latest data of Bangladesh Bank, expatriates sent $1.6 billion d
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/banks-flush-with-cash-but-businesses-starved-of-credit-dcci</guid>
             <category><![CDATA[Trade]]></category>
             <pubDate>Wed, 15 Apr 2026 13:47:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GED to roll out five-year reform framework till 2030]]></title>
-            <description><![CDATA[The General Economics Division (GED) of the Planning Commission is set to undertake a five-year strategic reform and development framework through 2030, aiming at economic recovery, stabilisation and subsequent growth acceleration.
-Rashed Al Mahmud Titumir, adviser to the Prime Minister on finance]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/ged-to-roll-out-five-year-reform-framework-till-2030</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/ged-to-roll-out-five-year-reform-framework-till-2030</guid>
-            <pubDate>Wed, 15 Apr 2026 11:04:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
