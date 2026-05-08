@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 07 May 2026 23:56:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 03:38:26 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 07 May 2026 23:56:35 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 03:38:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Digitised interface imperative to prevent tax evasion, misspending of public money']]></title>
+            <description><![CDATA[Ensuring accountability and transparency in utilising taxpayers' money is imperative and digitised interface linking government authorities is the tool to get to the goal, experts say.
+Speakers at a pre-budget discussion Thursday came up with this and numerous other suggestions for reforms on econ]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/digitised-interface-imperative-to-prevent-tax-evasion-misspending-of-public-money</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/digitised-interface-imperative-to-prevent-tax-evasion-misspending-of-public-money</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 08 May 2026 02:45:10 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151969/1778175312.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151969/1778175312.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BTMA, CottonConnect sign MoU to promote domestic cotton production]]></title>
             <description><![CDATA[The Bangladesh Textile Mills Association and CottonConnect Limited (CCUK) signed a memorandum of understanding (MoU) on Wednesday, at the BTMA office in Dhaka’s Gulshan to promote domestic cotton production, develop a sustainable and traceable cotton supply chain, and strengthen market linkag]]></description>
@@ -5336,14 +5347,6 @@ According to the latest data of Bangladesh Bank, expatriates sent $1.6 billion d
             <pubDate>Wed, 15 Apr 2026 13:32:24 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148160/new-project-2026-04-15t193026450.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148160/new-project-2026-04-15t193026450.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Banks flush with cash, but businesses starved of credit: DCCI]]></title>
-            <description><![CDATA[Dhaka Chamber of Commerce & Industry (DCCI) President Taskeen Ahmed on Wednesday said Bangladesh’s banking sector is facing a “paradoxical landscape” where banks are holding record excess liquidity but private sector borrowers – particularly industries and CMSMEs – are]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/banks-flush-with-cash-but-businesses-starved-of-credit-dcci</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/banks-flush-with-cash-but-businesses-starved-of-credit-dcci</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 15 Apr 2026 13:47:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
