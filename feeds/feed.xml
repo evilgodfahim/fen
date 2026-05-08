@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 06:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 08:22:29 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 06:00:45 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 08:22:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IMF cuts outlook for global growth]]></title>
+            <description><![CDATA[The Iran war has stalled the world's economic momentum this year, likely pushing growth lower compared to 2025, the International Monetary Fund warned Tuesday.
+The IMF downgraded its forecast for global growth to 3.1% in 2026 from the 3.3% it had forecast back in January. The expected growth would]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/imf-cuts-outlook-for-global-growth</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/imf-cuts-outlook-for-global-growth</guid>
+            <pubDate>Fri, 08 May 2026 08:22:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PMI signals faster economic expansion in April]]></title>
             <description><![CDATA[Bangladesh's overall economic activities expanded at a faster pace in April, supported mainly by stronger performance in agriculture and a rebound in manufacturing, according to the latest Purchasing Managers' Index (PMI).
@@ -5337,16 +5345,6 @@ The celebrations were held at the bank’s head office as well as at all its bra
             <pubDate>Wed, 15 Apr 2026 12:22:53 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148137/new-project-2026-04-15t182114992.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148137/new-project-2026-04-15t182114992.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EBL posts 20pc profit growth in 2025]]></title>
-            <description><![CDATA[Eastern Bank PLC (EBL) has reported a strong financial performance for 2025, posting a 20 per cent growth in Profit After Tax (PAT), which reached BDT 9.01 billion (BDT 901 crore), underscoring its consistent earnings momentum and resilient business model despite a challenging operating environment]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/ebl-posts-20pc-profit-growth-in-2025</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/ebl-posts-20pc-profit-growth-in-2025</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 15 Apr 2026 12:05:14 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148129/new-project-2026-04-15t175825031.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148129/new-project-2026-04-15t175825031.jpg"/>
         </item>
     </channel>
 </rss>
