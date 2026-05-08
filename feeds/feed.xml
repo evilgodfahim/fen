@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 14:53:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 16:16:20 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 14:53:28 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 16:16:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IMF completes governance, corruption diagnostic mission in Nepal]]></title>
+            <description><![CDATA[An IMF capacity development team led by Jonathan Pampolina visited Kathmandu and Birgunj from April 20 to May 6, 2026 at the request of the Government of Nepal to conduct a Governance and Corruption Diagnostic (GCD).
+Building on the scoping mission last January 12–21, 2026 and the structural]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/imf-completes-governance-corruption-diagnostic-mission-in-nepal</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/imf-completes-governance-corruption-diagnostic-mission-in-nepal</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 08 May 2026 09:01:06 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152023/imf-reuters.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152023/imf-reuters.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No scope to hike essentials’ prices citing fuel costs: Commerce minister]]></title>
+            <description><![CDATA[Commerce Minister Khandaker Abdul Muktadir on Friday said there is no scope to raise the prices of essential commodities on the pretext of rising fuel prices, warning that the government will closely monitor the market and take action against any irregularities.
+Speaking to reporters after visitin]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/no-scope-to-hike-essentials-prices-citing-fuel-costs-commerce-minister</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/no-scope-to-hike-essentials-prices-citing-fuel-costs-commerce-minister</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 08 May 2026 12:54:45 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152045/muktadir-commerce-minister.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152045/muktadir-commerce-minister.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Global food prices rise again: FAO]]></title>
             <description><![CDATA[World food prices rose in April for a third consecutive month, with vegetable oil prices particularly elevated due to disruptions linked to the Iran war, the United Nations Food and Agriculture Organization said on Friday.
@@ -5323,25 +5345,6 @@ The state-run Bangladesh Petroleum Corporation (BPC) has already issued an inter
             <pubDate>Wed, 15 Apr 2026 18:37:35 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148213/p1-oil-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148213/p1-oil-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka e-rickshaws at a crossroads]]></title>
-            <description><![CDATA["I am happy now as I can support my family of three dependents, including two daughters," boasted Ruhul Amin, a disabled Dhaka e-rickshaw driver, hailing from Jessore district, who lost one leg in a bus accident. "After the accident, I used to plead for help from relatives and friends, but I don't]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/dhaka-e-rickshaws-at-a-crossroads</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/dhaka-e-rickshaws-at-a-crossroads</guid>
-            <pubDate>Wed, 15 Apr 2026 19:23:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Modhumoti Bank holds 46th meeting of its risk management committee]]></title>
-            <description><![CDATA[The 46th meeting of the Risk Management Committee of the Board of Directors of Modhumoti Bank PLC was held on Wednesday.
- The meeting was presided over by Mr. Mostafa Kamal, Chairman of the Board’s Risk Management Committee of Modhumoti Bank PLC.
-Among the members of the Board’s]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/modhumoti-bank-holds-46th-meeting-of-its-risk-management-committee</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/modhumoti-bank-holds-46th-meeting-of-its-risk-management-committee</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 15 Apr 2026 15:37:22 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148187/modhumoti-38.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148187/modhumoti-38.jpg"/>
         </item>
     </channel>
 </rss>
