@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 08 May 2026 16:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 May 2026 18:12:12 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 08 May 2026 16:16:20 GMT</pubDate>
+        <pubDate>Fri, 08 May 2026 18:12:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WB tags revoking of the Bank Resolution Act amendments]]></title>
+            <description><![CDATA[Returning the five merged Islamic banks to their former shareholders might prove difficult for the government as major development partners dislike the reversion move, officials says.
+ The new government last month passed the Bank Resolution Act 2026 amending the Bank Resolution Ordinance 202]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/wb-tags-revoking-of-the-bank-resolution-act-amendments</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/wb-tags-revoking-of-the-bank-resolution-act-amendments</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 08 May 2026 17:54:25 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[IMF completes governance, corruption diagnostic mission in Nepal]]></title>
             <description><![CDATA[An IMF capacity development team led by Jonathan Pampolina visited Kathmandu and Birgunj from April 20 to May 6, 2026 at the request of the Government of Nepal to conduct a Governance and Corruption Diagnostic (GCD).
@@ -5331,20 +5342,6 @@ Referring to the election manifesto of the ruling]]></description>
             <pubDate>Thu, 16 Apr 2026 02:34:12 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148226/1696691980-1.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148226/1696691980-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt listing all-weather refined oil suppliers]]></title>
-            <description><![CDATA[A government move gets underway to select a pool of refined oil suppliers who will be interested to supply the fuel whenever necessary for both short and long terms to avert any exigency.
-
-
-
-The state-run Bangladesh Petroleum Corporation (BPC) has already issued an international invitation to e]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/govt-listing-all-weather-refined-oil-suppliers</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govt-listing-all-weather-refined-oil-suppliers</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Wed, 15 Apr 2026 18:37:35 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148213/p1-oil-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148213/p1-oil-outline.jpg"/>
         </item>
     </channel>
 </rss>
