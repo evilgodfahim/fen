@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 09 May 2026 08:43:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 May 2026 10:08:59 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 09 May 2026 08:43:17 GMT</pubDate>
+        <pubDate>Sat, 09 May 2026 10:08:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Iran survives against global giants]]></title>
+            <description><![CDATA[The Middle East is once again on the brink of chaos. Iran-Israel tensions have rippled through global politics, markets and diplomacy, fueling headlines of missile barrages, threats, sanctions and retaliation. Analysts predict Iran's collapse. Politicians promise resistance. Yet Tehran remains unde]]></description>
+            <link>https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</guid>
+            <pubDate>Sat, 09 May 2026 10:08:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[City Bank supports critical pediatric care amid measles outbreak]]></title>
             <description><![CDATA[City Bank PLC has stepped forward to support critical pediatric care facilities at two leading public healthcare institutions as Bangladesh faces a growing measles outbreak affecting children across the country.
@@ -5326,16 +5333,6 @@ The vessels, named ‘MT Torm Damini’ with 32,000 tonnes of diesel and ‘MT L
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-reserves-ensure-no-crisis-for-two-months</guid>
             <category><![CDATA[Trade]]></category>
             <pubDate>Thu, 16 Apr 2026 11:59:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IFC, JPMorgan show interest in Bangladesh investment opportunities: Khosru]]></title>
-            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury on Wednesday said both the International Finance Corporation (IFC) and JPMorgan have expressed interest in investing in Bangladesh, particularly in the financial sector and capital market, following separate meetings held on the sidelines of the IMF-Wor]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/ifc-jpmorgan-eye-investments-in-bangladeshs-financial-sector-capital-markets-khosru</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/ifc-jpmorgan-eye-investments-in-bangladeshs-financial-sector-capital-markets-khosru</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 16 Apr 2026 05:54:04 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148260/investment.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148260/investment.jpg"/>
         </item>
     </channel>
 </rss>
