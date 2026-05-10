@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 17:07:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 19:10:20 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 17:07:40 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 19:10:20 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Megaproject worth Tk 334.75b  ready for ECNEC endorsement]]></title>
+            <description><![CDATA[A megaproject for building the long-cherished Padma Barrage with an estimated cost of Tk 334.75 billion is ready to go for endorsement at the next ECNEC meeting, officials say.
+The project is among 16 agenda placed on the notice for the Executive Committee of the National Economic Council (ECNEC)]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/megaproject-worth-tk-33475b-ready-for-ecnec-endorsement</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/megaproject-worth-tk-33475b-ready-for-ecnec-endorsement</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 10 May 2026 18:02:53 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152361/p1-info-padma-barrage-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152361/p1-info-padma-barrage-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Forex reserves drop after $1.51b ACU payment]]></title>
             <description><![CDATA[Bangladesh’s foreign exchange reserves have decreased to $29.47 billion after the central bank settled a $1.51 billion import bill through the Asian Clearing Union (ACU).
@@ -5324,17 +5335,6 @@ They claim that the production capacity of the factories has decreased by 25-30 
             <pubDate>Fri, 17 Apr 2026 02:29:17 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148404/1776361449.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148404/1776361449.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HC stays transfer orders of two BTRC officials]]></title>
-            <description><![CDATA[The High Court has stayed the transfer orders of two officials of the Bangladesh Telecommunication Regulatory Commission (BTRC) who filed a writ petition challenging alleged irregularities in recruitment and promotions within the telecom regulator.
-A High Court bench comprising Justice Akram Hossa]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/hc-stays-transfer-orders-of-two-btrc-officials</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/hc-stays-transfer-orders-of-two-btrc-officials</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Fri, 17 Apr 2026 02:25:37 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148402/hc-2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148402/hc-2.jpg"/>
         </item>
     </channel>
 </rss>
