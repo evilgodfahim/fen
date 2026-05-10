@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 10 May 2026 03:40:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 May 2026 06:36:19 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 10 May 2026 03:40:05 GMT</pubDate>
+        <pubDate>Sun, 10 May 2026 06:36:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[FDI slips by 23.56pc in 9 months of FY26]]></title>
+            <description><![CDATA[Despite foreign investment increasing in Bangladesh in the last calendar year, it has decreased in the ongoing fiscal year, according to official data.
+The Bangladesh Bank estimate released on May 5 shows that net foreign direct investment (FDI) of $1.77 billion came into the country last year. Th]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/fdi-slips-by-2356pc-in-9-months-of-fy26</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/fdi-slips-by-2356pc-in-9-months-of-fy26</guid>
+            <pubDate>Sun, 10 May 2026 06:36:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Negotiation on comprehensive co-op deal with UAE begins tomorrow]]></title>
             <description><![CDATA[Bangladesh and the United Arab Emirates (UAE) are opening negotiations on a major economic-cooperation deal for expanding bilateral trade and investment, as Dhaka ramps up the country's forthcoming LDC-graduation preparation.
@@ -5317,17 +5325,6 @@ Accordingly, total purchases stood at $120 million in April 2026 and $5,613.50 m
             <pubDate>Thu, 16 Apr 2026 11:24:49 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148314/new-project-2026-04-16t172331681.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148314/new-project-2026-04-16t172331681.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agent Banking meeting of Al-Arafah Islami Bank held in Noakhali]]></title>
-            <description><![CDATA[Al-Arafah Islami Bank, the country’s leading Sharia-compliant bank, has organised a meeting and a courtyard meeting for the owners of a total of 54 agent outlets, 6 link branch managers, outlet managers and customers under the greater Noakhali district.
-Deputy Managing Director of the bank M]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/agent-banking-meeting-of-al-arafah-islami-bank-held-in-noakhali</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/agent-banking-meeting-of-al-arafah-islami-bank-held-in-noakhali</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 16 Apr 2026 13:05:26 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148335/new-project-2026-04-16t190442623.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148335/new-project-2026-04-16t190442623.jpg"/>
         </item>
     </channel>
 </rss>
