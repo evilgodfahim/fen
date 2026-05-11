@@ -4,10 +4,26 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 11 May 2026 20:02:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 May 2026 21:37:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 11 May 2026 20:02:15 GMT</pubDate>
+        <pubDate>Mon, 11 May 2026 21:37:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gold falls from three-week high on profit-booking, firm dollar]]></title>
+            <description><![CDATA[Gold prices fell on Tuesday as investors booked profits after bullion rose more than 2% in the previous session, while pressure from a stronger dollar also weighed on the yellow metal.
+Spot gold fell 0.8% to $5,189.99 per ounce by 0125 GMT, snapping a four-session winning streak and dropping from]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</guid>
+            <pubDate>Mon, 11 May 2026 21:37:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt won't approve any project sans economic values: Finance minister]]></title>
+            <description><![CDATA[The government has decided not to approve any development project unless it ensures economic value in terms of return on investment, employment generation and environmental sustainability, Finance Minister Amir Khosru Mahmud Chowdhury said Sunday.
+He said many of around 1,300 projects under the cu]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/govt-wont-approve-any-project-sans-economic-values-finance-minister</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/govt-wont-approve-any-project-sans-economic-values-finance-minister</guid>
+            <pubDate>Mon, 11 May 2026 21:37:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BAB fears comeback of bank 'looters', financial-sector fiasco]]></title>
             <description><![CDATA[Bank owners' apex body deplores recent changes to the bank-resolution law which they fear could invite controversial former shareholders to regain control of troubled banks and consequently destabilise Bangladesh's financial sector over again.
@@ -5307,25 +5323,6 @@ Under the new p]]></description>
             <link>https://thefinancialexpress.com.bd/views/columns/bangladeshs-trillion-dollar-trilemma</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/bangladeshs-trillion-dollar-trilemma</guid>
             <pubDate>Sat, 18 Apr 2026 18:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bridging the digital divide]]></title>
-            <description><![CDATA[Digitalisation has been a central theme of Bangladesh's national branding for well over one and a half decades. There has been unreserved national consensus across all political hues on digital transformation. The general expectation therefore is for the optimum utilisation of technology and a stea]]></description>
-            <link>https://thefinancialexpress.com.bd/views/opinions/bridging-the-digital-divide</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/opinions/bridging-the-digital-divide</guid>
-            <pubDate>Sat, 18 Apr 2026 18:57:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt raises fuel prices by up to Tk 20 per litre]]></title>
-            <description><![CDATA[The government has set new retail prices for all types of fuel in Bangladesh, citing the continued impact of rising global oil prices.
-According to the new pricing, diesel will cost Tk 115 per litre, octane Tk 140, petrol Tk 135, and kerosene Tk 130 per litre.
-The revised rates will come into eff]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/govt-raises-fuel-prices-by-up-to-tk-20-per-litre</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-raises-fuel-prices-by-up-to-tk-20-per-litre</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 18 Apr 2026 16:58:48 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148656/img-6970.jpeg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148656/img-6970.jpeg"/>
         </item>
     </channel>
 </rss>
