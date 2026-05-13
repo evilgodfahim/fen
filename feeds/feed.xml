@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 May 2026 16:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 May 2026 18:58:29 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 13 May 2026 16:22:55 GMT</pubDate>
+        <pubDate>Wed, 13 May 2026 18:58:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ECNEC approves multipurpose Padma Barrage project]]></title>
+            <description><![CDATA[Decades of wait is all but over now as the government on Wednesday adopted the multipurpose Padma Barrage project meant to mitigate water-scarcity impacts in vast areas and facilitate irrigation, pisciculture and hydropower generation, officials say.   
+ The 65-year-long-stalle]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/ecnec-approves-multipurpose-padma-barrage-project</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/ecnec-approves-multipurpose-padma-barrage-project</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Wed, 13 May 2026 18:03:24 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152873/p1-info-padma-barrage-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152873/p1-info-padma-barrage-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ECNEC approves 9 projects involving Tk 366.96 billion]]></title>
             <description><![CDATA[The Executive Committee of the National Economic Council (ECNEC) today approved nine development projects involving an overall estimated cost of Tk 36,695.72 crore (Tk 366.96 billion).
@@ -5315,17 +5326,6 @@ The two ships—MT Oaktree and MT Cape Bonnie - were carrying 35,000 and 33,000 
             <pubDate>Mon, 20 Apr 2026 16:11:07 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149006/new-project-11.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149006/new-project-11.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Meghna Bank inaugurates bill collection booth at DPDC Satmasjid Road]]></title>
-            <description><![CDATA[Recently, Meghna Bank PLC inaugurated a bill collection booth of Dhaka Power Distribution Company (DPDC) at Satmasjid Road, Dhanmondi aiming to facilitate convenient and efficient utility bill payments for customers.
-Momtazul Karim N Ahmed, Deputy Managing Director of Meghna Bank and Md. Tariqul H]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/meghna-bank-inaugurates-bill-collection-booth-at-dpdc-satmasjid-road</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/meghna-bank-inaugurates-bill-collection-booth-at-dpdc-satmasjid-road</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 20 Apr 2026 14:44:04 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148990/new-project-7.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/148990/new-project-7.jpg"/>
         </item>
     </channel>
 </rss>
