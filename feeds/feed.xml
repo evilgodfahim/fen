@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 14 May 2026 00:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 04:48:31 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 14 May 2026 00:04:20 GMT</pubDate>
+        <pubDate>Thu, 14 May 2026 04:48:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Walton launches AI-powered premium washing machines]]></title>
+            <description><![CDATA[Bangladesh’s electrical and electronics brand Walton has unveiled several new models of premium-category washing machines featuring AI-powered smart wash solutions and advanced technologies aimed at enhancing user convenience and laundry efficiency, according to a press release Wednesday.
+Th]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/walton-launches-ai-powered-premium-washing-machines</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/walton-launches-ai-powered-premium-washing-machines</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 14 May 2026 04:48:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MDB heads call for closer cooperation to tackle global economic pressures]]></title>
             <description><![CDATA[Heads of multilateral development banks (MDBs) have emphasised closer cooperation to support stability, protect development gains, and address rising pressures across member economies amid heightened global uncertainty, including evolving tensions in the Middle East.
@@ -5310,13 +5319,6 @@ In a circular issued on Sunday, it said the government had increased diesel]]></
             <pubDate>Tue, 21 Apr 2026 02:37:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149024/1578110767.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149024/1578110767.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Higher education at the crossroads]]></title>
-            <description><![CDATA[This is an era-defining period we are experiencing. There is no doubt that there are rapid advancements in fields such as artificial intelligence (AI), robotics, large data sets, and biotechnology, among others. Together, these forces make up what we now call the Fourth Industrial Revolution. The s]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/higher-education-at-the-crossroads</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/higher-education-at-the-crossroads</guid>
-            <pubDate>Mon, 20 Apr 2026 21:51:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
