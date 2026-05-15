@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 15 May 2026 00:00:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 May 2026 04:13:30 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 15 May 2026 00:00:22 GMT</pubDate>
+        <pubDate>Fri, 15 May 2026 04:13:30 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BD China Business Summit on May 16]]></title>
+            <description><![CDATA[A daylong international business and investment networking event styled as 'Bangladesh China Business Summit 2026' will be held in the city on May 16, aiming to strengthen bilateral cooperation between the two countries.
+The event is expected to create a platform for international investment oppor]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bd-china-business-summit-on-may-16</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bd-china-business-summit-on-may-16</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 15 May 2026 04:13:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PM pushes stable tax regime to boost investor confidence]]></title>
             <description><![CDATA[Prime Minister Tarique Rahman instructed the revenue authority to pursue predictable tax regime to uphold investor confidence as the new budget outlook was set out Thursday.
@@ -5302,17 +5311,6 @@ Apart from the private sector's lower credit demand, the Bangladesh Bank (BB) ke
             <link>https://thefinancialexpress.com.bd/views/columns/strategising-workers-migration</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/strategising-workers-migration</guid>
             <pubDate>Tue, 21 Apr 2026 19:19:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Moheshkhali LNG terminal resumes operations after repairs]]></title>
-            <description><![CDATA[The national grid has started receiving gas from the floating LNG terminal off Moheshkhali Upazila in Cox’s Bazar after a six-hour pause due to technical glitches.
-In a media statement on Tuesday, Petrobangla said the Moheshkhali Floating LNG (MLNG) terminal shut its floating storage and reg]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/normal-gas-supply-expected-as-moheshkhali-lng-terminal-resumes-operations</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/normal-gas-supply-expected-as-moheshkhali-lng-terminal-resumes-operations</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 21 Apr 2026 14:07:51 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149136/new-project-30.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149136/new-project-30.jpg"/>
         </item>
     </channel>
 </rss>
