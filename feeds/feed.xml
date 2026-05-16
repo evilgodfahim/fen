@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 16 May 2026 17:57:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 May 2026 19:18:14 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 16 May 2026 17:57:18 GMT</pubDate>
+        <pubDate>Sat, 16 May 2026 19:18:14 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Allowing undisclosed money   in real estate envisaged]]></title>
+            <description><![CDATA[Reintroducing a facility to legalise undisclosed money through investment in real estate is under consideration in a bid to rescue the industry from the brink of collapse, sources say.
+At the same time, the upcoming national budget is likely to offer a wide range of tax breaks to encourage investm]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/allowing-undisclosed-money-in-real-estate-envisaged</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/allowing-undisclosed-money-in-real-estate-envisaged</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sat, 16 May 2026 18:05:57 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153267/p1-black-money.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153267/p1-black-money.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UCB ATM booths facilitate cash withdrawals through UCB One app]]></title>
             <description><![CDATA[Cash withdrawals from ATM booths are now possible without a card. Eliminating the need to carry cards in pockets or bags, this feature enables quick and easy cash access through a smartphone app.
@@ -5285,17 +5296,6 @@ State Minister for Civil Aviation and Tourism M Rashiduzzaman Millat made the an
             <pubDate>Thu, 23 Apr 2026 07:56:13 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149424/1534701382.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149424/1534701382.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bus fares raised by 11 paisa per km after fuel price hike]]></title>
-            <description><![CDATA[The government has revised bus fares for city and long-route services, increasing rates by 11 paisa per kilometre in line with higher fuel costs.
-Railways, Road Transport and Bridges, and Shipping Minister Shaikh Rabiul Alam announced the decision at a press conference at the ministry’s conf]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bus-fares-raised-by-11-paisa-per-km-after-fuel-price-hike</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bus-fares-raised-by-11-paisa-per-km-after-fuel-price-hike</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 23 Apr 2026 07:18:10 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149418/1605068422.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149418/1605068422.jpg"/>
         </item>
     </channel>
 </rss>
