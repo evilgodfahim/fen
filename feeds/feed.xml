@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 18:00:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 20:05:31 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 18:00:35 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 20:05:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Some major projects claim hefty sums]]></title>
+            <description><![CDATA[A few projects claim hefty sums in Bangladesh's new development budget, with the Rooppur Nuclear Power Plant project set to receive the highest allocation of Tk 154.99 billion.
+The RNPP's allocation in the next fiscal year's Annual Development Programme (ADP) marks a 54.81-percent increase from th]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/some-major-projects-claim-hefty-sums</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/some-major-projects-claim-hefty-sums</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 17 May 2026 18:05:08 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153422/p1-info-adp-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153422/p1-info-adp-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BB introduces monthly review to ensure service standard compliance]]></title>
             <description><![CDATA[Bangladesh Bank (BB) has introduced a monthly performance review system to strengthen the implementation of the Bangladesh Bank Service Standard, aiming to improve efficiency, accountability, and service delivery across all operational units.
@@ -5292,17 +5303,6 @@ He notes that entrepreneurs are still unsure]]></description>
             <pubDate>Fri, 24 Apr 2026 02:32:34 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149560/1776966021.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149560/1776966021.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Iran war impact seeps ever deeper into global economy]]></title>
-            <description><![CDATA[The global economy is facing ever more tangible strains from the energy shock triggered by the Iran war as factories grapple with soaring production costs and activity weakens even in services sectors, major surveys showed on Thursday.
-While much of the world's economy has shown resilience in the]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/iran-war-impact-seeps-ever-deeper-into-global-economy</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/iran-war-impact-seeps-ever-deeper-into-global-economy</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 23 Apr 2026 17:17:24 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149535/iran-war-impact-seeps-ever-deeper-into-global-economy.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149535/iran-war-impact-seeps-ever-deeper-into-global-economy.jpg"/>
         </item>
     </channel>
 </rss>
