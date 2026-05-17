@@ -4,10 +4,33 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 17 May 2026 07:34:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 May 2026 09:49:36 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 17 May 2026 07:34:13 GMT</pubDate>
+        <pubDate>Sun, 17 May 2026 09:49:36 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA['Banking crisis threatens economic stability']]></title>
+            <description><![CDATA[Economists, former bankers and depositors on Saturday said prolonged instability in the country's financial system could seriously undermine the broader economy.
+Taking part in a seminar in Dhaka they stressed that restoring confidence in banks has become critical to preventing deeper economic dis]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/banking-crisis-threatens-economic-stability</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/banking-crisis-threatens-economic-stability</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 17 May 2026 04:24:54 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153282/bank.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153282/bank.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Additional Secretary Abdul Mannan appointed Petrobangla chairman]]></title>
+            <description><![CDATA[Additional Secretary of the Energy and Mineral Resources Division Md Abdul Mannan has been given the additional responsibility of chairman of Petrobangla.
+He is working in the Planning Sub-Division of the division.
+An office order in this regard was issued by the Administration-1 branch of the En]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/additional-secretary-abdul-mannan-appointed-petrobangla-chairman</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/additional-secretary-abdul-mannan-appointed-petrobangla-chairman</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 17 May 2026 08:11:27 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153305/md-abdul-mannan-petrobangla.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153305/md-abdul-mannan-petrobangla.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BB to maintain credit flow in productive sectors, says central bank governor]]></title>
             <description><![CDATA[KHULNA, May 16: Bangladesh Bank will continue to ensure the steady flow of credit to productive and employment-generating sectors to guarantee sustainable and inclusive economic growth.
@@ -5273,25 +5296,6 @@ He noted that entrepreneurs are still unsure whether the]]></description>
             <pubDate>Thu, 23 Apr 2026 12:08:49 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149481/679347627-1408123264691052-1180970089813538916-n.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149481/679347627-1408123264691052-1180970089813538916-n.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Finance ministry approves Tk 20.67b subsidy for private power plants]]></title>
-            <description><![CDATA[The Finance Ministry has approved the release of Tk 20.67 billion in subsidies to settle outstanding bills of private power plants for March, aiming to ease financial strain in the power sector and ramp up generation.
-The subsidy will be directed to the Bangladesh Power Development Board (BPDB) to]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/finance-ministry-approves-tk-2067b-subsidy-for-private-power-plants</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/finance-ministry-approves-tk-2067b-subsidy-for-private-power-plants</guid>
-            <pubDate>Thu, 23 Apr 2026 12:00:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Power supply faces pressure with Adani unit closure]]></title>
-            <description><![CDATA[After one unit of an Adani power plant shut down due to a mechanical fault, pressure on the Bangladesh’s electricity system has increased further. On Tuesday, the maximum load shedding during the day was 2,044 megawatts, which rose to 2,495 megawatts on Wednesday.
-According to data from the]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/power-supply-faces-pressure-with-adani-unit-closure</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/power-supply-faces-pressure-with-adani-unit-closure</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 23 Apr 2026 11:58:47 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149480/merged-beaaacaf7eec94ac7fbea37811807db5.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149480/merged-beaaacaf7eec94ac7fbea37811807db5.jpg"/>
         </item>
     </channel>
 </rss>
