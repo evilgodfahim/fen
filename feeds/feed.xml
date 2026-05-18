@@ -4,10 +4,26 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 08:47:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 12:35:49 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 08:47:15 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 12:35:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Policy uncertainty major barrier to investment in Bangladesh: World Bank]]></title>
+            <description><![CDATA[Policy uncertainty remains one of the key barriers hindering both local and foreign direct investment, which are essential for economic growth and job creation in Bangladesh.
+“The number one reason over the past few years has been policy uncertainty,” said Dhruv Sharma while delivering]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/policy-uncertainty-major-barrier-to-investment-in-bangladesh-world-bank</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/policy-uncertainty-major-barrier-to-investment-in-bangladesh-world-bank</guid>
+            <pubDate>Mon, 18 May 2026 12:35:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Govt endorses Tk3.0t ADP]]></title>
+            <description><![CDATA[The National Economic Council (NEC) on Monday approved the Annual Development Programme (ADP) for FY2026-27 with an outlay of nearly Tk3.0 trillion, describing it as a roadmap for economic reforms, balanced growth and long-term development.
+The outlay is nearly 53 per cent higher than that of the]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/govt-endorses-tk30t-adp</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/govt-endorses-tk30t-adp</guid>
+            <pubDate>Mon, 18 May 2026 12:35:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[PM chairs NEC meeting]]></title>
             <description><![CDATA[A meeting of the National Economic Council (NEC) is being held with Prime Minister Tarique Rahman in the chair.
@@ -5279,29 +5295,6 @@ The assurance came at a bilateral meeting between the Economic Relations Divisio
             <pubDate>Fri, 24 Apr 2026 03:09:09 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149567/1527092867.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149567/1527092867.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[A surfeit of 'high-powered' money stokes inflation concern]]></title>
-            <description><![CDATA[A surfeit of 'high-powered' money in the economy stokes concern about inflation upturn as reserve money more than doubled in terms of year-on-year growth as of February.
-The central bank of Bangladesh has injected Tk 200 billion in printed money into
-economy recently to feed government expenditur]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/a-surfeit-of-high-powered-money-stokes-inflation-concern</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/a-surfeit-of-high-powered-money-stokes-inflation-concern</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Sat, 25 Apr 2026 02:42:13 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149693/taka-budget.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149693/taka-budget.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Defying IMF suggestion, govt to stick to its guns on tax exemptions]]></title>
-            <description><![CDATA[The government is unlikely to withdraw the time-bound tax-exemption facilities as suggested by the International Monetary Fund (IMF).
-Officials say although the IMF has advised the government to abruptly phase out tax exemptions to raise the country's tax-to-Gross Domestic Product (GDP) ratio to 9]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/defying-imf-suggestion-govt-to-stick-to-its-guns-on-tax-exemptions</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/defying-imf-suggestion-govt-to-stick-to-its-guns-on-tax-exemptions</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 25 Apr 2026 02:38:41 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149692/tax-return.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149692/tax-return.jpg"/>
         </item>
     </channel>
 </rss>
