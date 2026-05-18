@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 18 May 2026 16:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 May 2026 18:54:17 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 18 May 2026 16:27:20 GMT</pubDate>
+        <pubDate>Mon, 18 May 2026 18:54:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh Bank buys $100mn in a single day, highest in May]]></title>
+            <description><![CDATA[Bangladesh Bank (BB) has purchased $100 million from six commercial banks, marking the highest single-day greenback purchase by the central bank in May.
+The dollars were bought at a rate of Tk 122.75 each on Monday, according to data released by the regulatory body.
+Earlier, the highest single-da]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh-bank-buys-100mn-in-a-single-day-highest-in-may</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-bank-buys-100mn-in-a-single-day-highest-in-may</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 18 May 2026 16:41:57 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153568/bangladesh-bank-buys-100mn-in-a-single-day-highest-in-may.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153568/bangladesh-bank-buys-100mn-in-a-single-day-highest-in-may.jpg"/>
+        </item>
         <item>
             <title><![CDATA[UCB posts strong, sustainable finance performance]]></title>
             <description><![CDATA[United Commercial Bank (UCB) has reported a notable rise in its green and sustainable financing portfolio during the first quarter of 2026, reflecting a stronger institutional commitment toward climate-resilient banking and ESG-driven investment.
@@ -5289,18 +5301,6 @@ The new lineup—introduced under the “Global Innovation Series&rd]]></descrip
             <pubDate>Sat, 25 Apr 2026 12:21:28 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149773/walton-fridge.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149773/walton-fridge.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rumee A Hossain appointed chairman of Biman as new board formed]]></title>
-            <description><![CDATA[The government has formed a new board for Biman Bangladesh Airlines, appointing Rumee A. Hossain as its chairman.
-The announcement was made through a notification issued by the Civil Aviation and Tourism Ministry on Saturday.
-Rumee A. Hossain, who is a sponsor director of Bank Asia and chairman o]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/rumee-a-hossain-appointed-chairman-of-biman-as-new-board-formed</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/rumee-a-hossain-appointed-chairman-of-biman-as-new-board-formed</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 25 Apr 2026 12:01:23 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149771/biman-chairman.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/149771/biman-chairman.jpg"/>
         </item>
     </channel>
 </rss>
