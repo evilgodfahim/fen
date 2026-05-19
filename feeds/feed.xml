@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 19 May 2026 16:24:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 May 2026 19:03:23 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 19 May 2026 16:24:01 GMT</pubDate>
+        <pubDate>Tue, 19 May 2026 19:03:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Private sector credit growth  plummets to historic low]]></title>
+            <description><![CDATA[Formal credit growth for private sector plummeted to a historical low of 4.72 per cent as per latest data available up to March, indicating holdback in economic pickup for multiple adversities.    
+Such  ebb tide in investment credits is attributed to banks becoming more c]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/private-sector-credit-growth-plummets-to-historic-low</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/private-sector-credit-growth-plummets-to-historic-low</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Tue, 19 May 2026 18:03:52 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153751/p1-info-private-sector.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153751/p1-info-private-sector.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MFS cash-in from bank cards tightened amid fraud risks]]></title>
+            <description><![CDATA[Bangladesh Bank has introduced stricter safeguards for adding money to mobile financial service (MFS) accounts using bank cards, in a bid to curb rising fraud involving cash-in transactions.
+The central bank announced the measures on Tuesday, saying that the new system will come into effect from A]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bangladesh-bank-tightens-add-money-transfers-from-bank-cards-to-mfs-accounts</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-bank-tightens-add-money-transfers-from-bank-cards-to-mfs-accounts</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 19 May 2026 17:07:10 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153740/bangladesh-bank-tightens-add-money-transfers-from-bank-cards-to-mfs-accounts.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153740/bangladesh-bank-tightens-add-money-transfers-from-bank-cards-to-mfs-accounts.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BAB urges swift legal recovery of illicit assets to restore confidence in banking sector]]></title>
             <description><![CDATA[The Bangladesh Association of Banks (BAB) has said a meaningful recapitalisation of the banking sector would require stronger recovery mechanisms and decisive actions against owners and groups, who looted money from banks and continue to hold shares and assets within the financial system.
@@ -5272,28 +5294,6 @@ The meet]]></description>
             <pubDate>Mon, 27 Apr 2026 15:00:08 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150185/standard-islami-b.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150185/standard-islami-b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jetway Hajj Group working to make pilgrimage more accessible, says CEO]]></title>
-            <description><![CDATA[Jetway Hajj Group is striving to make Hajj more accessible and affordable for Muslims from Bangladesh through a combination of tailored packages and improved service delivery, said its Chief Executive Officer Masum Billah.
-In an interview, he said his firm has been providing Hajj and Umrah service]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/jetway-hajj-group-working-to-make-pilgrimage-more-accessible-says-ceo</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/jetway-hajj-group-working-to-make-pilgrimage-more-accessible-says-ceo</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 27 Apr 2026 13:40:26 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150170/jetway-hajj-group.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150170/jetway-hajj-group.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Premier Bank holds town hall meetings in Comilla and Sylhet]]></title>
-            <description><![CDATA[As part of the ongoing ‘Deposit and Recovery Month 2026’ of The Premier Bank PLC, town hall meetings were held on Saturday, April 25, in Comilla and Sylhet.
-At the Comilla townhall meeting, the bank’s Managing Director, Md. Monzur Mofiz, attended as the Chief Guest, according to]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/premier-bank-holds-town-hall-meetings-in-comilla-and-sylhet</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/premier-bank-holds-town-hall-meetings-in-comilla-and-sylhet</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 27 Apr 2026 12:12:12 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150143/premier-bank-town-hall.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150143/premier-bank-town-hall.jpg"/>
         </item>
     </channel>
 </rss>
