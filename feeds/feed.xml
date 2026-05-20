@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 21:59:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 23:22:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 21:59:00 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 23:22:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Many cos facing acute capital crunch]]></title>
+            <description><![CDATA[A candid admission comes from the finance minister that many well-established companies are facing acute capital shortages, in a crunch he attributes to lack of "fair competition" and governance gaps.
+"Many big companies and banks are in serious capital shortage," Finance and Planning Minister Ami]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/many-cos-facing-acute-capital-crunch</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/many-cos-facing-acute-capital-crunch</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Wed, 20 May 2026 17:45:38 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153895/p1-info-capital-shortages-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153895/p1-info-capital-shortages-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[H&M ending business ties with some suppliers in Bangladesh]]></title>
             <description><![CDATA[H&M, one of the largest buyers of locally made ready-made garments, has begun ending business ties with some of its suppliers in Bangladesh.
@@ -5269,17 +5280,6 @@ Early DPP readiness can help Bangladesh build on]]></description>
             <pubDate>Tue, 28 Apr 2026 18:38:57 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150364/img-7082.jpeg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150364/img-7082.jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[278th Board Audit Committee meeting of Shahjalal Islami Bank held]]></title>
-            <description><![CDATA[The 278th meeting of the Board Audit Committee of Shahjalal Islami Bank PLC was held on Tuesday at the Corporate Head Office of the bank, according to a press release.
-The meeting was presided over by Mr. Md. Reazul Karim the Chairman of Board Audit Committee of the Bank. Among others the Director]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/278th-board-audit-committee-meeting-of-shahjalal-islami-bank-held</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/278th-board-audit-committee-meeting-of-shahjalal-islami-bank-held</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 28 Apr 2026 15:36:39 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150346/shahjalal-42.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150346/shahjalal-42.jpg"/>
         </item>
     </channel>
 </rss>
