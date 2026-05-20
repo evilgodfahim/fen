@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 20 May 2026 19:28:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 May 2026 21:59:00 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 20 May 2026 19:28:32 GMT</pubDate>
+        <pubDate>Wed, 20 May 2026 21:59:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[H&M ending business ties with some suppliers in Bangladesh]]></title>
+            <description><![CDATA[H&M, one of the largest buyers of locally made ready-made garments, has begun ending business ties with some of its suppliers in Bangladesh.
+The buyer has already notified more than half a dozen garment factories that it will terminate business with them.
+When contacted, the managing director of]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/hm-starts-ending-business-ties-with-some-garment-suppliers-in-bangladesh</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/hm-starts-ending-business-ties-with-some-garment-suppliers-in-bangladesh</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Wed, 20 May 2026 18:25:11 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153898/hm-starts-ending-business-ties-with-some-garment-suppliers-in-bangladesh.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153898/hm-starts-ending-business-ties-with-some-garment-suppliers-in-bangladesh.jpg"/>
+        </item>
         <item>
             <title><![CDATA[No manual challan from July 1: Finance Ministry]]></title>
             <description><![CDATA[The Ministry of Finance has issued a fresh circular making the automated challan system, known as “A-Challan”, mandatory for all government revenues and receipts from July 1, 2026, completely abolishing the manual challan method.
@@ -5268,17 +5280,6 @@ The meeting was presided over by Mr. Md. Reazul Karim the Chairman of Board Audi
             <pubDate>Tue, 28 Apr 2026 15:36:39 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150346/shahjalal-42.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150346/shahjalal-42.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cashless Bangladesh initiative program held in Narayanganj]]></title>
-            <description><![CDATA[As part of Bangladesh Bank’s “Cashless Bangladesh Initiative” to promote digital payment channels nationwide, a day-long program was held on April 27 in Narayanganj. Eastern Bank PLC (EBL) participated in the event as the lead bank.
-The program began in the morning with a colourf]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/cashless-bangladesh-initiative-program-held-in-narayanganj</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/cashless-bangladesh-initiative-program-held-in-narayanganj</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 28 Apr 2026 14:54:16 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150340/ebl-cashless-rally.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150340/ebl-cashless-rally.jpg"/>
         </item>
     </channel>
 </rss>
