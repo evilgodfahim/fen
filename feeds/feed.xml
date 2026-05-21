@@ -4,10 +4,26 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 04:05:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 08:34:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 04:05:05 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 08:34:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WFP and the escalating global food crisis]]></title>
+            <description><![CDATA[The world is falling significantly behind on its 2030 target of ending hunger. According to the World Food Programme (WFP), the global food crisis is deepening at an alarming rate, driven by a combination of conflict, climate shocks and economic instability. If current trends persist-particularly e]]></description>
+            <link>https://thefinancialexpress.com.bd/views/columns/wfp-and-the-escalating-global-food-crisis</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/wfp-and-the-escalating-global-food-crisis</guid>
+            <pubDate>Thu, 21 May 2026 08:34:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Growth plan focuses on jobs, investment]]></title>
+            <description><![CDATA[The government has unveiled a broad economic reform roadmap aimed at accelerating economic growth through investment-led expansion, labour market reforms and measures to improve macroeconomic stability.
+The strategy seeks to revive investor confidence, generate large-scale employment and strengthe]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/growth-plan-focuses-on-jobs-investment</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/growth-plan-focuses-on-jobs-investment</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 21 May 2026 08:34:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BPDB bent on hiking power price by 21pc]]></title>
             <description><![CDATA[Bangladesh Power Development Board (BPDB) is bent on increasing bulk electricity tariffs by up to 21 per cent to relieve the government exchequer of subsidy burdens.
@@ -5264,29 +5280,6 @@ Earlier, in the first phase conducted in July 2025, the NBR s]]></description>
             <pubDate>Wed, 29 Apr 2026 02:53:52 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150373/nbr-new-building-1-1.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150373/nbr-new-building-1-1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Another 0.18m tonnes of diesel set to arrive by Apr 30, says Adviser Zahed]]></title>
-            <description><![CDATA[The government has set a target of recruiting 0.5 million employees over the next five years to fill vacancies in public administration.
-To this effect, the government has adopted short-term (180 days), medium-term (one year) and long-term (five years) action plans.
-Recruitment to fill up 2,879 v]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/another-018m-tonnes-of-diesel-set-to-arrive-by-apr-30-says-adviser-zahed</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/another-018m-tonnes-of-diesel-set-to-arrive-by-apr-30-says-adviser-zahed</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 29 Apr 2026 02:37:38 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150371/fuel-tanker-bss.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150371/fuel-tanker-bss.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK freezes Bangladesh's £250m siphoned-off wealth]]></title>
-            <description><![CDATA[The United Kingdom has frozen over 250-million-pound worth of Bangladesh's siphoned-off wealth, in a breakthrough in Dhaka's asset-recovery drive.
-British High Commissioner in Bangladesh Sarah Kooke broke the news Tuesday in Dhaka and underscored London's commitment to tackling illicit finance and]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/uk-freezes-bangladeshs-ps250m-siphoned-off-wealth</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/uk-freezes-bangladeshs-ps250m-siphoned-off-wealth</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 28 Apr 2026 18:42:07 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150382/bd-uk-flag.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150382/bd-uk-flag.jpg"/>
         </item>
     </channel>
 </rss>
