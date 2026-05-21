@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 21 May 2026 08:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 May 2026 12:17:51 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 21 May 2026 08:34:25 GMT</pubDate>
+        <pubDate>Thu, 21 May 2026 12:17:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh SOEs cost treasury Tk 882b as losses mount: WB study]]></title>
+            <description><![CDATA[Bangladesh's state-owned enterprises (SOEs) drained nearly Taka 882 billion from the national exchequer in a single year, emerging as one of the country's biggest fiscal risks, according to a World Bank study. 
+The study report highlighted that the deteriorating financial condition of public]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-soes-cost-treasury-tk-882b-as-losses-mount-wb-study</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-soes-cost-treasury-tk-882b-as-losses-mount-wb-study</guid>
+            <pubDate>Thu, 21 May 2026 12:17:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[WFP and the escalating global food crisis]]></title>
             <description><![CDATA[The world is falling significantly behind on its 2030 target of ending hunger. According to the World Food Programme (WFP), the global food crisis is deepening at an alarming rate, driven by a combination of conflict, climate shocks and economic instability. If current trends persist-particularly e]]></description>
@@ -5269,17 +5277,6 @@ The proposal was presented on Wednesday at a budget consultative meeting of the 
             <pubDate>Wed, 29 Apr 2026 03:34:28 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150378/trade.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150378/trade.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NBR selects 72,341 tax returns for audit]]></title>
-            <description><![CDATA[The National Board of Revenue (NBR) has selected 72,341 income-tax returns for audit in the second phase of its automated audit process for the 2023-24 tax year, aiming to strengthen revenue mobilisation and ensure greater transparency.
-Earlier, in the first phase conducted in July 2025, the NBR s]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/nbr-selects-72341-tax-returns-for-audit</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/nbr-selects-72341-tax-returns-for-audit</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 29 Apr 2026 02:53:52 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150373/nbr-new-building-1-1.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150373/nbr-new-building-1-1.jpg"/>
         </item>
     </channel>
 </rss>
