@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 22 May 2026 15:50:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 May 2026 17:55:52 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 22 May 2026 15:50:26 GMT</pubDate>
+        <pubDate>Fri, 22 May 2026 17:55:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WB raising $2.0b in quick  financing within FY26]]></title>
+            <description><![CDATA[Bangladesh expects an off-the-cuff US$1.835-billion financing from the World Bank for use before the close of the current fiscal year to cushion the economy against mounting external shocks, sources say.
+Of the amount, the financier has proposed an emergency financing fund worth up to $250 million]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/wb-raising-20b-in-quick-financing-within-fy26</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/wb-raising-20b-in-quick-financing-within-fy26</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 22 May 2026 17:42:15 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154153/p1-info-lead-wb-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154153/p1-info-lead-wb-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Reducing air freight charges crucial to full export benefits]]></title>
             <description><![CDATA[There is no way to reap the full benefits of exports without reducing air freight charges as Bangladesh has higher cargo fares than any other country in the world, said Fisheries, Livestock and Agriculture Minister Mohammad Aminur Rashid.Newspaper subscription
@@ -5221,17 +5232,6 @@ Imtiaz U. Ahmed, Managing Direct]]></description>
             <pubDate>Thu, 30 Apr 2026 10:27:40 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150627/midland-bank-mcm.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150627/midland-bank-mcm.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[City Bank PLC reports 162pc net profit growth in Q1 2026]]></title>
-            <description><![CDATA[Local banking leader City Bank PLC reports 162% net profit growth in Q1 2026 (31 March 2026), demonstrating sustained growth across key areas compared to the same period of the previous year.
-The bank’s profit after tax (PAT) stood at BDT 241 crore, compared to BDT 92 crore in Q1 2025. This]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/city-bank-plc-reports-162pc-net-profit-growth-in-q1-2026</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/city-bank-plc-reports-162pc-net-profit-growth-in-q1-2026</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 30 Apr 2026 09:42:08 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150620/city-bank.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/150620/city-bank.jpg"/>
         </item>
     </channel>
 </rss>
