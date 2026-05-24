@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 24 May 2026 07:50:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 May 2026 09:58:31 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 24 May 2026 07:50:37 GMT</pubDate>
+        <pubDate>Sun, 24 May 2026 09:58:31 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Spice market booms ahead of Eid]]></title>
+            <description><![CDATA[As Eid-ul-Azha approaches, Bangladesh's spice market has become increasingly busy with demand rising across the country for cooking, preserving and distributing sacrificial meat among relatives and neighbours.
+In particular, sales of cumin, cardamom, cinnamon, cloves, black pepper, dried chili, co]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/spice-market-booms-ahead-of-eid</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/spice-market-booms-ahead-of-eid</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 24 May 2026 07:05:30 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154400/imresizer-img-20260524-125514.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154400/imresizer-img-20260524-125514.jpg"/>
+        </item>
         <item>
             <title><![CDATA[BB launches massive Tk 600b refinancing fund]]></title>
             <description><![CDATA[A massive refinancing and support fund worth Tk 600 billion has been launched to reinvigorate Bangladesh's slowing private-sector-led economy with vibrant business activity.
@@ -5207,16 +5218,6 @@ Rizwan Mannan, Managing Director of OMC Steel Limited and Director across severa
             <pubDate>Sun, 03 May 2026 12:26:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151119/national-finances.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151119/national-finances.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LPG price to remain steady for May]]></title>
-            <description><![CDATA[The Bangladesh Energy Regulatory Commission (BERC) announced on Sunday that it will keep the liquefied petroleum gas (LPG) price unchanged for May, giving consumers a breather after two consecutive hikes last month.In a notice issued in the afternoon, BERC said LPG will sell at April's fixed rates]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/lpg-price-to-remain-steady-for-may</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/lpg-price-to-remain-steady-for-may</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 03 May 2026 11:38:00 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151111/lpg-gas.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151111/lpg-gas.jpg"/>
         </item>
     </channel>
 </rss>
