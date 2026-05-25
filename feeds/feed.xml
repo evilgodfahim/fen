@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 25 May 2026 17:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 19:46:26 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 25 May 2026 17:09:24 GMT</pubDate>
+        <pubDate>Mon, 25 May 2026 19:46:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[ADB offers $5.0b in dev aid]]></title>
+            <description><![CDATA[An incremental assistance package announced by the Asian Development Bank (ADB) would fetch Bangladesh US$5.0 billion over next five years and increase the subsequent annual aid by 20 per cent.
+The announcement came Monday when ADB President Masato Kanda met Prime Minister Tarique Rahman in Dhaka]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/adb-offers-50b-in-dev-aid</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/adb-offers-50b-in-dev-aid</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 25 May 2026 17:44:34 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154687/p1-adp-info-26-05-2026-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154687/p1-adp-info-26-05-2026-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[1,500 factories yet to pay festival allowances: Industrial Police]]></title>
             <description><![CDATA[Thousands of workers across the country's key industrial zones are still in uncertainty as 1500 factories did not pay festival allowances despite Eid holidays starting from tomorrow (Tuesday).
@@ -5201,17 +5212,6 @@ Talking to The Financial Express separately, senior executives from Robi]]></des
             <pubDate>Tue, 05 May 2026 04:56:36 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151434/teletalk900.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151434/teletalk900.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh’s trade gap with Switzerland widens to $414m]]></title>
-            <description><![CDATA[The trade gap between Bangladesh and Switzerland has widened significantly in recent years, tilting increasingly in favour of the European country, according to a latest report of the Ministry of Commerce.
-A senior commerce ministry official said that the imbalance had been growing since the finan]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bangladeshs-trade-gap-with-switzerland-widens-to-414m</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladeshs-trade-gap-with-switzerland-widens-to-414m</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 05 May 2026 04:54:02 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151433/bd-switzer.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151433/bd-switzer.jpg"/>
         </item>
     </channel>
 </rss>
