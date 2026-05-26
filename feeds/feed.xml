@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 26 May 2026 15:43:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 May 2026 18:30:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 26 May 2026 15:43:21 GMT</pubDate>
+        <pubDate>Tue, 26 May 2026 18:30:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Eid salaries paid in nearly all factories: BGMEA]]></title>
+            <description><![CDATA[Bangladesh’s export-oriented garment industry has reported near-complete settlement of Eid-related payments.
+On Tuesday, the Bangladesh Garment Manufacturers and Exporters Association (BGMEA) announced that more than 99 percent of factories have disbursed festival bonuses and wages to worker]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bgmea-reports-99pc-compliance-in-workers-eid-payments</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bgmea-reports-99pc-compliance-in-workers-eid-payments</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 26 May 2026 16:29:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154821/new-project-18.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154821/new-project-18.jpg"/>
+        </item>
         <item>
             <title><![CDATA[ATMs fail customers in Eid cash rush]]></title>
             <description><![CDATA[Customers have been facing difficulties withdrawing cash during the Eid holidays as many ATM booths across Dhaka have either run out of money or failed to support transactions through cards issued by other banks.
@@ -5192,17 +5203,6 @@ Th]]></description>
             <pubDate>Tue, 05 May 2026 14:47:49 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151563/new-project-2026-05-05t204709267.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151563/new-project-2026-05-05t204709267.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PDB proposes up to 21pc hike in wholesale power prices]]></title>
-            <description><![CDATA[The Bangladesh Power Development Board (PDB) has sent a proposal to the Bangladesh Energy Regulatory Commission (BERC) to increase wholesale electricity prices by 17 percent to 21 percent.
-The move comes amid the US-Israel war on Iran, disrupting the energy supply chain, increasing its prices and]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/energy-supply-disruption-imf-conditions-push-pdb-to-propose-electricity-price-hike</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/energy-supply-disruption-imf-conditions-push-pdb-to-propose-electricity-price-hike</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 05 May 2026 13:42:14 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151545/new-project-2026-05-05t194034690.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151545/new-project-2026-05-05t194034690.jpg"/>
         </item>
     </channel>
 </rss>
