@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 27 May 2026 05:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 May 2026 09:59:50 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 27 May 2026 05:19:25 GMT</pubDate>
+        <pubDate>Wed, 27 May 2026 09:59:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh eyes greater energy security with Tk 36b investment plan]]></title>
+            <description><![CDATA[Bangladesh is moving to strengthen its energy security and expand electricity access through a new set of government-funded projects targeting gas exploration, power generation and energy sector capacity building.
+According to a list of proposed projects under the power and energy sector, the gove]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-eyes-greater-energy-security-with-tk-36b-investment-plan</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-eyes-greater-energy-security-with-tk-36b-investment-plan</guid>
+            <pubDate>Wed, 27 May 2026 09:59:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Eid salaries paid in nearly all factories: BGMEA]]></title>
             <description><![CDATA[Bangladesh’s export-oriented garment industry has reported near-complete settlement of Eid-related payments.
@@ -5191,18 +5199,6 @@ Sourc]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/bb-buys-50m-through-dollar-auction-1</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bb-buys-50m-through-dollar-auction-1</guid>
             <pubDate>Tue, 05 May 2026 16:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BAB elects two new vice chairmen Rashed Ahmed Chowdhury & Sharif Zahir]]></title>
-            <description><![CDATA[The Bangladesh Association of Banks (BAB) has elected two new Vice Chairmen to its Executive Committee.
-The newly elected Vice Chairmen are Mr. Rashed Ahmed Chowdhury, Chairman of Mutual Trust Bank PLC, and Mr. Sharif Zahir, Chairman of United Commercial Bank PLC, according to a press release.
-Th]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bab-elects-two-new-vice-chairmen-rashed-ahmed-chowdhury-sharif-zahir</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bab-elects-two-new-vice-chairmen-rashed-ahmed-chowdhury-sharif-zahir</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 05 May 2026 14:47:49 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151563/new-project-2026-05-05t204709267.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151563/new-project-2026-05-05t204709267.jpg"/>
         </item>
     </channel>
 </rss>
