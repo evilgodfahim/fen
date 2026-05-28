@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 May 2026 10:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 May 2026 14:39:50 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 28 May 2026 10:09:52 GMT</pubDate>
+        <pubDate>Thu, 28 May 2026 14:39:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Toyota's April exports to Middle East plummet 91.7pc]]></title>
+            <description><![CDATA[Toyota Motor Corp. said Thursday that its exports from Japan to the Middle East nosedived to 2,418 units in April, down 91.7 percent year on year, as the ongoing regional conflict weighed on trade.
+The automaker's global sales in April declined 3.1 percent to 849,306 vehicles, extending a losing s]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/toyotas-april-exports-to-middle-east-plummet-917pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/toyotas-april-exports-to-middle-east-plummet-917pc</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 28 May 2026 10:18:15 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154951/imresizer-img-20260528-161208-2.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154951/imresizer-img-20260528-161208-2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[IMF confirms Bangladesh govt's request for new programme]]></title>
             <description><![CDATA[The International Monetary Fund (IMF) has said that the Bangladesh government has requested a new IMF-supported programme as discussions continue over the country’s reform agenda and policy priorities.
@@ -5192,13 +5203,6 @@ According to a circular issued by the central bank on Tuesday (May 5), a person 
             <description><![CDATA[One of the most frequently discussed mechanisms for increasing revenue for the National Board of Revenue (NBR), as well as improving the country's Tax-GDP ratio, is the expansion of the tax net. The persistently low Tax-GDP ratio clearly reflects a narrow tax base-one that, despite repeated commitm]]></description>
             <link>https://thefinancialexpress.com.bd/views/columns/no-alternative-to-widening-the-tax-net</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/columns/no-alternative-to-widening-the-tax-net</guid>
-            <pubDate>Tue, 05 May 2026 18:13:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rethinking Bangladesh's banking profession through the lens of global best practices]]></title>
-            <description><![CDATA[The banking sector is the lifeblood of any modern economy. It channels savings into investments, manages financial risks, and sustains economic growth. Yet for decades, Bangladesh's banking industry has struggled with a persistent and deeply rooted problem  a workforce that lacks specialised p]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/rethinking-bangladeshs-banking-profession-through-the-lens-of-global-best-practices</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/rethinking-bangladeshs-banking-profession-through-the-lens-of-global-best-practices</guid>
             <pubDate>Tue, 05 May 2026 18:13:47 GMT</pubDate>
         </item>
     </channel>
