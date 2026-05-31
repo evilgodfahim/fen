@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 31 May 2026 15:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 17:10:50 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 May 2026 15:19:08 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 17:10:50 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Octane, Petrol and Kerosene prices raised by Tk 5 per litre]]></title>
+            <description><![CDATA[The government has revised fuel oil prices in the domestic market, increasing the prices of octane, petrol and kerosene by Tk 5 per litre, while keeping diesel prices unchanged.
+Under the new rate, diesel will continue to be sold at Tk 115 per litre at the consumer level. The price of octane has b]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/octane-petrol-and-kerosene-prices-raised-by-tk-5-per-litre</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/octane-petrol-and-kerosene-prices-raised-by-tk-5-per-litre</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 31 May 2026 16:42:31 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155234/img-7675.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155234/img-7675.jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh doesn’t have the stability necessary for new investment, says Riad Mahmud]]></title>
             <description><![CDATA[Entrepreneur and businessman Riad Mahmud says global uncertainty has raised concerns about the investment situation in Bangladesh.
@@ -5199,17 +5210,6 @@ A latest report prepared by the Finance Division says the increase was driven la
             <pubDate>Wed, 06 May 2026 02:56:20 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151620/taka-2.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151620/taka-2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to scrap Dhaka-Gazipur BRT project]]></title>
-            <description><![CDATA[The government is set to scrap the long-delayed and controversial Bus Rapid Transit (BRT) project and convert the dedicated Dhaka airport-Gazipur corridor into a regular road network, officials said on Tuesday.
-The decision marks a dramatic end to a 15-year project backed by the Asian Development]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/govt-to-scrap-dhaka-gazipur-brt-project</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-to-scrap-dhaka-gazipur-brt-project</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 06 May 2026 02:34:49 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151618/1631209851.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151618/1631209851.jpg"/>
         </item>
     </channel>
 </rss>
