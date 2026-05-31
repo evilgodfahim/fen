@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 30 May 2026 23:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2026 08:16:28 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 30 May 2026 23:01:43 GMT</pubDate>
+        <pubDate>Sun, 31 May 2026 08:16:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh doesn’t have the stability necessary for new investment, says Riad Mahmud]]></title>
+            <description><![CDATA[Entrepreneur and businessman Riad Mahmud says global uncertainty has raised concerns about the investment situation in Bangladesh.
+He says that before the February general election, investors were expecting political stability in the country, but global economic headwinds have disrupted the econom]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-doesnt-have-the-stability-necessary-for-new-investment-says-riad-mahmud</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-doesnt-have-the-stability-necessary-for-new-investment-says-riad-mahmud</guid>
+            <pubDate>Sun, 31 May 2026 08:16:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[US first-quarter GDP growth revised lower to 1.6pc pace]]></title>
             <description><![CDATA[U.S. economic growth was not a strong as initially thought in the first quarter, and momentum is set to slow this quarter, with ​the war with Iran stoking inflation and squeezing households finances.
@@ -5202,17 +5210,6 @@ The decision marks a dramatic end to a 15-year project backed by the Asian Devel
             <pubDate>Wed, 06 May 2026 02:34:49 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151618/1631209851.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151618/1631209851.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trade deal with US: Scope inlaid in pact for review suiting national interest]]></title>
-            <description><![CDATA[Bangladesh retains the option to review and adjust its trade treaty with the United States in keeping with national interest, says Commerce Minister Khandaker Abdul Muktadir to dispel doubts.
-The scope is inlaid in the agreement and so "there is no reason for concern", he told journalists Tuesday]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/scope-inlaid-in-pact-for-review-suiting-national-interest</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/scope-inlaid-in-pact-for-review-suiting-national-interest</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 06 May 2026 02:20:39 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151616/us-bangladesh-flags.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151616/us-bangladesh-flags.jpg"/>
         </item>
     </channel>
 </rss>
