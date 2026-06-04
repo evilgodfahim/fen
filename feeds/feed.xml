@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 11:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 15:35:33 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 11:57:54 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 15:35:33 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Governance, Internal Audit and Compliance book launched]]></title>
+            <description><![CDATA[The unveiling ceremony of the book “Governance, Internal Audit and Compliance”, authored by M Nurul Alam FCS, Independent Director of The Premier Bank PLC and Chairman of Premier Bank Securities limited, was held on Wednesday at the Learning and Talent Development Centre of the Bank&rsq]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/governance-internal-audit-and-compliance-book-launched</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/governance-internal-audit-and-compliance-book-launched</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 04 Jun 2026 15:35:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Global food prices rise again: FAO]]></title>
             <description><![CDATA[World food prices rose in April for a third consecutive month, with vegetable oil prices particularly elevated due to disruptions linked to the Iran war, the United Nations Food and Agriculture Organization said on Friday.
@@ -5188,18 +5196,6 @@ However, the highest development-budget sanction goes for t]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/next-tk-30t-adp-gets-final-shape-today</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/next-tk-30t-adp-gets-final-shape-today</guid>
             <pubDate>Sat, 09 May 2026 06:19:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Egg prices hit two-year high, vegetables too costlier]]></title>
-            <description><![CDATA[Egg prices hit a two-year high on Friday last, reaching Tk 140-150 a dozen.
-Vegetable prices also continued to rise, with most items selling at Tk 80-100 per kg, marking a further Tk 20-30 increase within a week, market.
-At Mohammadpur Krishi Market in the capital on Friday, buyer Faridul Hoque s]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/egg-prices-hit-two-year-high-vegetables-too-costlier</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/egg-prices-hit-two-year-high-vegetables-too-costlier</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 09 May 2026 02:32:31 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152102/imresizer-53df1c96-5e8d-4af1-a768-a3e2c74742f8.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152102/imresizer-53df1c96-5e8d-4af1-a768-a3e2c74742f8.jpg"/>
         </item>
     </channel>
 </rss>
