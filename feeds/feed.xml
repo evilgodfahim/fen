@@ -4,10 +4,27 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 08:52:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 11:57:54 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 08:52:19 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 11:57:54 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global food prices rise again: FAO]]></title>
+            <description><![CDATA[World food prices rose in April for a third consecutive month, with vegetable oil prices particularly elevated due to disruptions linked to the Iran war, the United Nations Food and Agriculture Organization said on Friday.
+The FAO Food Price Index, which measures changes in a basket of globally tr]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/global-food-prices-rise-again-fao</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/global-food-prices-rise-again-fao</guid>
+            <pubDate>Thu, 04 Jun 2026 11:57:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Forced Labour: US proposes additional duties on imports from Bangladesh]]></title>
+            <description><![CDATA[The United States has proposed additional tariffs on imports from a good number of countries including Bangladesh after concluding that their efforts to curb trade in goods produced with forced labour are inadequate and restrict US commerce.
+The United States Trade Representative (USTR) on Tuesday]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/forced-labour-us-proposes-additional-duties-on-imports-from-bangladesh</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/forced-labour-us-proposes-additional-duties-on-imports-from-bangladesh</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 04 Jun 2026 11:57:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[CPD flags mounting economic challenges amid revenue shortfalls, inflation and banking stress]]></title>
             <description><![CDATA[Bangladesh is facing mounting economic challenges as weak revenue collection, persistent inflation, banking sector fragility and rising energy costs weigh on the economy, the Centre for Policy Dialogue (CPD) said on Thursday.
@@ -5183,25 +5200,6 @@ At Mohammadpur Krishi Market in the capital on Friday, buyer Faridul Hoque s]]><
             <pubDate>Sat, 09 May 2026 02:32:31 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152102/imresizer-53df1c96-5e8d-4af1-a768-a3e2c74742f8.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152102/imresizer-53df1c96-5e8d-4af1-a768-a3e2c74742f8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[WB tags revoking of the Bank Resolution Act amendments]]></title>
-            <description><![CDATA[Returning the five merged Islamic banks to their former shareholders might prove difficult for the government as major development partners dislike the reversion move, officials says.
-The new government last month passed the Bank Resolution Act 2026 amending the Bank Resolution Ordinance 2025 unde]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/wb-tags-revoking-of-the-bank-resolution-act-amendments-1</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/wb-tags-revoking-of-the-bank-resolution-act-amendments-1</guid>
-            <pubDate>Sat, 09 May 2026 03:27:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WB tags revoking of the Bank Resolution Act amendments]]></title>
-            <description><![CDATA[Returning the five merged Islamic banks to their former shareholders might prove difficult for the government as major development partners dislike the reversion move, officials says.
- The new government last month passed the Bank Resolution Act 2026 amending the Bank Resolution Ordinance 202]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/wb-tags-revoking-of-the-bank-resolution-act-amendments</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/wb-tags-revoking-of-the-bank-resolution-act-amendments</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Fri, 08 May 2026 17:54:25 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg"/>
         </item>
     </channel>
 </rss>
