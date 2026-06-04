@@ -4,10 +4,28 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 15:35:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 18:21:47 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 15:35:33 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 18:21:47 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[TIB slates black money legalisation plan]]></title>
+            <description><![CDATA[Transparency International Bangladesh (TIB) has expressed strong concern over reports that the government is “actively considering” allowing undisclosed wealth to be legalised in the proposed 2026-27 budget through what it described as an unconditional amnesty that would prevent authori]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/black-money-legalisation-plan-would-grant-state-backed-protection-to-corruption-tib</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/black-money-legalisation-plan-would-grant-state-backed-protection-to-corruption-tib</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Thu, 04 Jun 2026 13:21:00 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155814/new-project-2026-06-04t192026917.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155814/new-project-2026-06-04t192026917.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cabinet approves FDI incentive policy, medical university law amendment]]></title>
+            <description><![CDATA[The cabinet has approved the Foreign Direct Investment (FDI) Incentive Scheme Policy, 2026 aimed at encouraging Bangladeshi citizens, including expatriates, to bring foreign direct investment into the country.
+The policy, formulated at the initiative of the Prime Minister’s Office, was appro]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/cabinet-approves-fdi-incentive-policy-medical-university-law-amendment</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/cabinet-approves-fdi-incentive-policy-medical-university-law-amendment</guid>
+            <pubDate>Thu, 04 Jun 2026 18:21:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Governance, Internal Audit and Compliance book launched]]></title>
             <description><![CDATA[The unveiling ceremony of the book “Governance, Internal Audit and Compliance”, authored by M Nurul Alam FCS, Independent Director of The Premier Bank PLC and Chairman of Premier Bank Securities limited, was held on Wednesday at the Learning and Talent Development Centre of the Bank&rsq]]></description>
@@ -5177,25 +5195,6 @@ The total number of mobile subscribers rose to 186.06 million in March from 185.
             <pubDate>Sat, 09 May 2026 07:06:23 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152132/1778257638.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152132/1778257638.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB issues unified guidelines for outward remittances]]></title>
-            <description><![CDATA[The Bangladesh Bank on Thursday issued a consolidated circular, introducing a unified regulatory framework for governing outward remittances related to transportation services.
-The new directive aims to streamline foreign exchange operations, enhance compliance clarity, and reduce procedural fragm]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bb-issues-unified-guidelines-for-outward-remittances</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bb-issues-unified-guidelines-for-outward-remittances</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Fri, 08 May 2026 05:25:29 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151996/bb.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/151996/bb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Next Tk 3.0t ADP gets final shape today]]></title>
-            <description><![CDATA[A Tk 3.0-trillion Annual Development Programme (ADP) for the next fiscal year is getting final consideration today with several-fold increases in education and health allocations with the focus on human-capital development, officials say.
-However, the highest development-budget sanction goes for t]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/next-tk-30t-adp-gets-final-shape-today</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/next-tk-30t-adp-gets-final-shape-today</guid>
-            <pubDate>Sat, 09 May 2026 06:19:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
