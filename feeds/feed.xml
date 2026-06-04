@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 04 Jun 2026 04:23:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 08:52:19 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 04 Jun 2026 04:23:41 GMT</pubDate>
+        <pubDate>Thu, 04 Jun 2026 08:52:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[CPD flags mounting economic challenges amid revenue shortfalls, inflation and banking stress]]></title>
+            <description><![CDATA[Bangladesh is facing mounting economic challenges as weak revenue collection, persistent inflation, banking sector fragility and rising energy costs weigh on the economy, the Centre for Policy Dialogue (CPD) said on Thursday.
+Presenting the third reading of its Independent Review of Bangladesh's D]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/cpd-flags-mounting-economic-challenges-amid-revenue-shortfalls-inflation-and-banking-stress</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/cpd-flags-mounting-economic-challenges-amid-revenue-shortfalls-inflation-and-banking-stress</guid>
+            <pubDate>Thu, 04 Jun 2026 08:52:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New IMF credit prog ‘based on BoP needs, reform commitments’]]></title>
             <description><![CDATA[A fresh IMF financial arrangement sought by Bangladesh to support its economic reforms is to be determined by its balance-of-payments (BoP) needs and reform commitments, the international Monetary Fund said Wednesday.
@@ -5194,17 +5202,6 @@ The new government last month passed the Bank Resolution Act 2026 amending the B
             <pubDate>Fri, 08 May 2026 17:54:25 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152083/p1-info-budget-support-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF completes governance, corruption diagnostic mission in Nepal]]></title>
-            <description><![CDATA[An IMF capacity development team led by Jonathan Pampolina visited Kathmandu and Birgunj from April 20 to May 6, 2026 at the request of the Government of Nepal to conduct a Governance and Corruption Diagnostic (GCD).
-Building on the scoping mission last January 12–21, 2026 and the structural]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/imf-completes-governance-corruption-diagnostic-mission-in-nepal</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/imf-completes-governance-corruption-diagnostic-mission-in-nepal</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Fri, 08 May 2026 09:01:06 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152023/imf-reuters.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152023/imf-reuters.jpg"/>
         </item>
     </channel>
 </rss>
