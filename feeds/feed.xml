@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 18:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 20:48:39 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 18:02:28 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 20:48:39 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[LGD's Tk 30.5b project aims to transform urban living]]></title>
+            <description><![CDATA[The Local Government Division (LGD) proposes a Tk 30.50-billion scheme aimed at strengthening climate-resilient infrastructure, governance, service delivery, and employment-generating skills development in urban areas across Bangladesh.
+The project, titled "Scaling Urban Resilience and Governance]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/lgds-tk-305b-project-aims-to-transform-urban-living</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/lgds-tk-305b-project-aims-to-transform-urban-living</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 05 Jun 2026 03:27:48 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155895/1780596572.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155895/1780596572.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Turkey eyes $2bn trade with Bangladesh]]></title>
             <description><![CDATA[Turkey is exploring ways to increase its bilateral trade with Bangladesh from $1.3 billion to $2 billion, Turkish Foreign Minister Hakan Fidan has said.
@@ -5196,17 +5207,6 @@ In the first nine days of May alone, expatriates sent more than $1.03 billion, a
             <pubDate>Sun, 10 May 2026 13:32:15 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152327/new-project-2026-05-10t193003413.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152327/new-project-2026-05-10t193003413.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Experts urge tobacco tax structure reform]]></title>
-            <description><![CDATA[Economists, physicians and public health experts have called for reforms to Bangladesh’s tobacco tax structure, saying the measures could improve public health and significantly increase government revenue.
-The recommendations came at a discussion titled “Budget 2026-27: Advancing Publ]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/experts-urge-tobacco-tax-structure-reform</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/experts-urge-tobacco-tax-structure-reform</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 10 May 2026 14:50:15 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152347/new-project-2026-05-10t204949835.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152347/new-project-2026-05-10t204949835.jpg"/>
         </item>
     </channel>
 </rss>
