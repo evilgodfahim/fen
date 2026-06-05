@@ -4,10 +4,24 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 05 Jun 2026 09:58:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jun 2026 12:44:59 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 05 Jun 2026 09:58:15 GMT</pubDate>
+        <pubDate>Fri, 05 Jun 2026 12:44:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[FTA, investment in textiles, defence industry highlighted]]></title>
+            <description><![CDATA[Bangladesh and Türkiye have intensified efforts to deepen economic and strategic ties, with discussions focusing on a possible free trade agreement and increased Turkish investment in sectors such as the defence industry and textiles during talks between the foreign ministers of the two countr]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/fta-investment-in-textiles-defence-industry-highlighted</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/fta-investment-in-textiles-defence-industry-highlighted</guid>
+            <pubDate>Fri, 05 Jun 2026 12:44:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Iran survives against global giants]]></title>
+            <description><![CDATA[The Middle East is once again on the brink of chaos. Iran-Israel tensions have rippled through global politics, markets and diplomacy, fueling headlines of missile barrages, threats, sanctions and retaliation. Analysts predict Iran's collapse. Politicians promise resistance. Yet Tehran remains unde]]></description>
+            <link>https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</guid>
+            <pubDate>Fri, 05 Jun 2026 12:44:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[LDC graduation deferral decision due September]]></title>
             <description><![CDATA[Bangladesh is expected to learn by September whether it will get additional time before graduating from Least- Developed Country (LDC) status, with United Nations bodies currently reviewing its request for a deferral amid economic challenges and ongoing reform efforts.
@@ -5195,28 +5209,6 @@ The &ld]]></description>
             <pubDate>Sun, 10 May 2026 13:51:48 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152331/mango-11.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152331/mango-11.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB orders fake note detection booths at cattle markets ahead of Eid-ul-Azha]]></title>
-            <description><![CDATA[Bangladesh Bank (BB) has instructed all scheduled banks to establish counterfeit currency verification booths at authorized sacrificial animal markets across the country ahead of Eid-ul-Azha in a move aimed at preventing the circulation of forged banknotes during the peak festive trading season.
-T]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bb-orders-fake-note-detection-booths-at-cattle-markets-ahead-of-eid-ul-azha</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bb-orders-fake-note-detection-booths-at-cattle-markets-ahead-of-eid-ul-azha</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Sun, 10 May 2026 13:18:41 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152323/new-project-2026-05-10t191742757.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152323/new-project-2026-05-10t191742757.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Govt to buy three more spot LNG cargoes by mid-June]]></title>
-            <description><![CDATA[The government is set to purchase three more liquefied natural gas (LNG) cargoes from the spot market by mid-June.
-State-run Rupantarita Prakritik Gas Company Ltd (RPGCL) floated tenders to purchase three more LNG cargoes from the spot market by mid-June for delivery over June 8-9, June 9-10, and]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/govt-to-buy-three-more-spot-lng-cargoes-by-mid-june</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-to-buy-three-more-spot-lng-cargoes-by-mid-june</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 10 May 2026 12:53:20 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152313/lng-import-ship.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152313/lng-import-ship.jpg"/>
         </item>
     </channel>
 </rss>
