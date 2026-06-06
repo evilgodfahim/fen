@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 06 Jun 2026 12:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jun 2026 14:44:23 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 06 Jun 2026 12:07:20 GMT</pubDate>
+        <pubDate>Sat, 06 Jun 2026 14:44:23 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BRAC Bank Reading Cafés discuss Dipu Mahmud’s book ‘Breakup’]]></title>
+            <description><![CDATA[It is not every day that an author openly admits that he learns about writing by listening to readers discuss and critique his own work. Yet that was precisely the sentiment expressed by author Dipu Mahmud during a lively discussion on his short story collection ‘Breakup’ at BRAC Bank S]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/brac-bank-reading-cafes-discuss-dipu-mahmuds-book-breakup</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/brac-bank-reading-cafes-discuss-dipu-mahmuds-book-breakup</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 06 Jun 2026 14:38:47 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156071/brac-bank-reading.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156071/brac-bank-reading.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20th edition of denim expo to begin on June 10]]></title>
+            <description><![CDATA[The 20th edition of Bangladesh Denim Expo will kick off on June 10, positioning the nation's denim industry to navigate the challenges of the future.
+Minister of Commerce, Industries, Textile and Jute Khandaker Abdul Muktadir will inaugurate the two-day expo at International Convention City, Bashu]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/20th-edition-of-denim-expo-to-begin-on-june-10</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/20th-edition-of-denim-expo-to-begin-on-june-10</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 06 Jun 2026 14:21:25 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156067/denim-expo-3.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156067/denim-expo-3.jpg"/>
+        </item>
         <item>
             <title><![CDATA[WTO sees extended LDC transition period as opportunity for Bangladesh to accelerate reforms]]></title>
             <description><![CDATA[The World Trade Organization (WTO) has underscored the importance of utilizing any extended transition period for Least Developed Country (LDC) graduation to strengthen productive capacity, improve competitiveness, diversify exports and prepare for operating under standard WTO rules.
@@ -5185,24 +5206,6 @@ The winners are Suprakash Chakma, a retired senior officer of Sonali Bank from B
             <pubDate>Mon, 11 May 2026 08:32:33 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152443/walton.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152443/walton.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BGMEA, GIZ sign strategic MoU for sustainable transformation of apparel sector]]></title>
-            <description><![CDATA[The Bangladesh Garment Manufacturers and Exporters Association (BGMEA) and Germany's international cooperation agency GIZ have signed a strategic Memorandum of Understanding (MoU) aimed at enhancing the global competitiveness of Bangladesh's apparel industry and promoting environmentally sustainabl]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bgmea-giz-sign-strategic-mou-for-sustainable-transformation-of-apparel-sector</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bgmea-giz-sign-strategic-mou-for-sustainable-transformation-of-apparel-sector</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 11 May 2026 07:45:49 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152438/1747328352.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152438/1747328352.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Forex reserves above $34b despite rising ACU payments]]></title>
-            <description><![CDATA[Bangladesh's external account looks stable with gross foreign-exchange reserves standing above US $34 billion despite deferred import payment through the Asian Clearing Unit (ACU), official statistics show.
-The government cleared payments worth $1.51 billion against imports made in March-April per]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/forex-reserves-above-34b-despite-rising-acu-payments</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/forex-reserves-above-34b-despite-rising-acu-payments</guid>
-            <pubDate>Mon, 11 May 2026 08:25:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
