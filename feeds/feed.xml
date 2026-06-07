@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 05:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 09:19:26 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jun 2026 05:24:52 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 09:19:26 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SABCCI office inaugurated]]></title>
+            <description><![CDATA[The office of Saudi Arab-Bangladesh Chamber of Commerce and Industry (SABCCI) has been inauguration at Gulshan-2 in the capital.
+Senior Secretary of the Ministry of Land ASM Saleh Ahmed, Secretary (EW & IGM) of Ministry of Foreign Affairs Dr Md Nazrul Islam, former secretaries Syed Margub Murshed]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/sabcci-office-inaugurated</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sabcci-office-inaugurated</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 07 Jun 2026 07:30:21 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156152/sabcci.jpeg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156152/sabcci.jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[RSF seeks end to BRTC bus-leasing practice]]></title>
+            <description><![CDATA[The Road Safety Foundation (RSF) has called for an immediate end to the practice of leasing Bangladesh Road Transport Corporation (BRTC) buses to educational institutions and other public and private organisations, arguing that it deprives ordinary commuters of affordable public transport services.]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/rsf-seeks-end-to-brtc-bus-leasing-practice</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/rsf-seeks-end-to-brtc-bus-leasing-practice</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 07 Jun 2026 07:02:22 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156146/yzbadzh6hkqpgu3ozgp4sqvzmfbrikvvpweusaay.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156146/yzbadzh6hkqpgu3ozgp4sqvzmfbrikvvpweusaay.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Budget session begins today]]></title>
             <description><![CDATA[The second session of the 13th Jatiya Sangsad, which will serve as its maiden budget session, is set to begin today at 3:00 pm.
@@ -5188,24 +5209,6 @@ The central bank issued a circular on Sunday, i]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-bank-permits-remittance-of-visa-bonds-and-security-deposits-abroad</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-bank-permits-remittance-of-visa-bonds-and-security-deposits-abroad</guid>
             <pubDate>Mon, 11 May 2026 15:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh Bank's foundation training guideline]]></title>
-            <description><![CDATA[Bangladesh Bank has recently issued a complete guideline on foundation training for newly recruited officials of scheduled banks through BRPD-1 Circular No. 10 dated May 7, 2026. The guideline has come into effect immediately and will be applicable to all entry-level officials recruited by schedule]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/bangladesh-banks-foundation-training-guideline</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/bangladesh-banks-foundation-training-guideline</guid>
-            <pubDate>Mon, 11 May 2026 15:56:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BAB expresses concern over amendments to banking resolution framework]]></title>
-            <description><![CDATA[The Bangladesh Association of Banks (BAB), representing private bank entrepreneurs, has expressed fresh concern over recent amendments to the banking resolution framework that allow former shareholders of merged weak banks to return under certain conditions.
-The issue was raised during a meeting w]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bab-expresses-concern-over-amendments-to-banking-resolution-framework</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bab-expresses-concern-over-amendments-to-banking-resolution-framework</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 11 May 2026 15:47:31 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152519/bab-2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152519/bab-2.jpg"/>
         </item>
     </channel>
 </rss>
