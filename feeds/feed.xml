@@ -4,10 +4,28 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 07 Jun 2026 11:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Jun 2026 14:01:41 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 07 Jun 2026 11:51:21 GMT</pubDate>
+        <pubDate>Sun, 07 Jun 2026 14:01:41 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Target to generate 30pc of electricity from renewables by 2040]]></title>
+            <description><![CDATA[The government has set a target to generate 30 percent of the country’s electricity from renewable sources by 2040 as part of its long-term strategy to establish a sustainable and environmentally friendly energy system.
+Minister for Power, Energy and Mineral Resources Iqbal Hassan Mahmood sa]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/target-to-generate-30pc-of-electricity-from-renewables-by-2040</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/target-to-generate-30pc-of-electricity-from-renewables-by-2040</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 07 Jun 2026 14:01:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Huawei to relaunch BD operations on June 8]]></title>
+            <description><![CDATA[Chinese technology giant Huawei is set to officially relaunch its consumer business in Bangladesh on June 8, marking its return to the country's smartphone and smart device market after several years of limited activity.
+The relaunch will be carried out through a local distributor DX Group, with p]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/huawei-to-relaunch-bd-operations-on-june-8</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/huawei-to-relaunch-bd-operations-on-june-8</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 07 Jun 2026 14:01:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inflation climbs to 9.42pc in May amid higher food prices]]></title>
             <description><![CDATA[Bangladesh’s point-to-point inflation rose to 9.42 per cent in May 2026, driven mainly by an increase in food prices, according to the latest data released by the Bangladesh Bureau of Statistics (BBS).
@@ -5184,28 +5202,6 @@ Representatives of the Bangladesh Association of Banks]]></description>
             <pubDate>Mon, 11 May 2026 18:00:19 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152537/p1-info-babs-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152537/p1-info-babs-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[E-loan goes commercial with Tk 50,000 ceiling]]></title>
-            <description><![CDATA[Bangladesh has formally entered the era of digital lending by introducing commercial e-loan services with a maximum limit of Tk 50,000 for a repayment tenure of up to one year.
-Under the new system, customers will be able to apply for loans, obtain approvals and receive funds through mobile apps o]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/e-loan-goes-commercial-with-tk-50000-ceiling</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/e-loan-goes-commercial-with-tk-50000-ceiling</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Mon, 11 May 2026 18:13:56 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152538/new-project-2026-05-11t235245245.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152538/new-project-2026-05-11t235245245.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IMF conditions not ‘suitable’ for economy: Khosru]]></title>
-            <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury has said the conditions being added by the International Monetary Fund (IMF) under the loan agreement are not “suitable” for the economy of Bangladesh.
-He made the comments at a discussion titled “Roadmap to Building Bangladesh’]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/finance-minister-amir-khosru-deems-imf-conditions-not-suitable-for-bangladesh-economy</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/finance-minister-amir-khosru-deems-imf-conditions-not-suitable-for-bangladesh-economy</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Mon, 11 May 2026 17:45:02 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152535/new-project-2026-05-11t234351629.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152535/new-project-2026-05-11t234351629.jpg"/>
         </item>
     </channel>
 </rss>
