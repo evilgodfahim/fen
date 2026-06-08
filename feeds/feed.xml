@@ -4,10 +4,64 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 00:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 05:53:56 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 00:12:27 GMT</pubDate>
+        <pubDate>Mon, 08 Jun 2026 05:53:56 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BB warns of remittance risks ahead amid ME tensions]]></title>
+            <description><![CDATA[The central bank has cautioned that inward remittance flows could come under pressure as geopolitical tensions in the Middle East disrupt labour migration and weaken economic activity in major host countries.
+"Despite high remittance inflows supported by a large stock of existing migrant workers,]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bb-warns-of-remittance-risks-ahead-amid-me-tensions</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bb-warns-of-remittance-risks-ahead-amid-me-tensions</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 08 Jun 2026 03:52:24 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156294/remittance.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156294/remittance.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[April private credit growth 4.75pc]]></title>
+            <description><![CDATA[Formal credit growth in the private sector remains almost static, reaching 4.75 per cent in April, signalling a deep slowdown in the country's business activities.
+The low trend in credit demand from private enterprises is attributed to banks becoming more cautious amid rising non-performing loans]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/april-private-credit-growth-475pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/april-private-credit-growth-475pc</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 08 Jun 2026 02:28:33 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156279/1780855561.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156279/1780855561.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reform commission to be formed for banking sector: Info minister]]></title>
+            <description><![CDATA[Information and Broadcasting Minister Zahir Uddin Swapon has said the government will take measures to bring the troubled banking sector under a reform commission to restore financial stability by addressing the longstanding governance weaknesses.
+"Commissions have already been formed for media, a]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/reform-commission-to-be-formed-for-banking-sector-info-minister</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/reform-commission-to-be-formed-for-banking-sector-info-minister</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 08 Jun 2026 03:23:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156292/1780855660.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156292/1780855660.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[New budget to offer tax breaks for renewables, SMEs, oil producers]]></title>
+            <description><![CDATA[More than a dozen tax measures are set to be proposed in the upcoming national budget to attract investment in renewable energy, edible-oil production and small and medium enterprises (SMEs), while broadening the country's tax base.
+Under the proposed measures, companies engaged in solar power gen]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/new-budget-to-offer-tax-breaks-for-renewables-smes-oil-producers</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/new-budget-to-offer-tax-breaks-for-renewables-smes-oil-producers</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 08 Jun 2026 02:35:44 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156283/tax-waiver.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156283/tax-waiver.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Remedy for energy crisis: JS special body places 12-point must-dos]]></title>
+            <description><![CDATA[Augmenting strategic fuel reserves to cover at least three months' demand, diversifying import sources and introducing full digital monitoring of the energy-supply system are among the must-dos recommended by a special parliamentary committee for strengthening Bangladesh's long-term energy security]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/remedy-for-energy-crisis-js-special-body-places-12-point-must-dos</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/remedy-for-energy-crisis-js-special-body-places-12-point-must-dos</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 08 Jun 2026 02:31:04 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156281/power-sector.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156281/power-sector.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Govt to borrow 20pc higher from savings tools, 8pc more from banks]]></title>
             <description><![CDATA[With an upscale new budget coming in few days now, the government targets borrowing 8.0-percent higher from the banking sector and 20-percent bigger from savings schemes to finance deficit amid unpromising revenue-earning prospects, officials say.
@@ -5164,63 +5218,6 @@ Professor Dr. M. Zubaidur Rahman, Chairman of the bank, presided over the meetin
             <pubDate>Tue, 12 May 2026 14:43:21 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152649/islami-bank-24a.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152649/islami-bank-24a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NRBC Bank approves First Quarter Financial Statements for 2026]]></title>
-            <description><![CDATA[The Board of Directors of NRBC Bank PLC has approved the unaudited financial statements for the first quarter (January–March) of 2026 at its 236th Board Meeting held on Tuesday, May 12, 2026, at the Bank’s Head Office in Dhaka, according to a press release.
-The meeting was chaired by C]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/nrbc-bank-approves-first-quarter-financial-statements-for-2026</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/nrbc-bank-approves-first-quarter-financial-statements-for-2026</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 14:38:12 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152647/nrbc-19.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152647/nrbc-19.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Trust Bank, Water.org launch WASH financing partnership]]></title>
-            <description><![CDATA[Trust Bank PLC and Water.org formally launched their strategic WaterCredit collaboration through a ceremony held on May 10, 2026, at Utshab Hall of Radisson Blu Dhaka Water Garden Hotel, Dhaka.
-According to a press release, the event was organised by the SME Division of Trust Bank PLC.
-Under this]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/trust-bank-waterorg-launch-wash-financing-partnership</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/trust-bank-waterorg-launch-wash-financing-partnership</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 14:09:24 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152639/trust-wash.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152639/trust-wash.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Permanent expert panel on cards for trade talks]]></title>
-            <description><![CDATA[The government has decided to establish a permanent panel of experts under the Bangladesh Foreign Trade Institute (BFTI) to assist in bilateral and multilateral trade negotiations.
-Speaking at the 62nd board meeting of the BFTI at the Ministry of Commerce on Tuesday, the minister made the announce]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/permanent-expert-panel-on-cards-for-trade-talks</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/permanent-expert-panel-on-cards-for-trade-talks</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 13:52:51 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152635/trade-expert-panel.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152635/trade-expert-panel.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Midland Bank Growth Fund successfully closes public subscription]]></title>
-            <description><![CDATA[The public subscription of ‘Midland Bank Growth Fund,’ an open-ended mutual fund managed by Midland Bank Asset Management Company Limited (MDB AMC), has been successfully concluded.
-The subscription period of the fund ended with strong participation from institutional and individual in]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/midland-bank-growth-fund-successfully-closes-public-subscription</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/midland-bank-growth-fund-successfully-closes-public-subscription</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 13:26:57 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152631/new-project-2026-05-12t192605123.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152631/new-project-2026-05-12t192605123.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Remittance inflow grows 41.7pc in 1st 11 days of May]]></title>
-            <description><![CDATA[The country’s remittance inflow registered a strong year-on-year growth of 41.7 percent, reaching $1,280 million in the first 11 days of May, according to the latest data released by Bangladesh Bank (BB).
-During the same period last year, remittance inflow stood at $904 million.
-The steady]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/remittance-inflow-grows-417pc-in-1st-11-days-of-may</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/remittance-inflow-grows-417pc-in-1st-11-days-of-may</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Tue, 12 May 2026 10:16:27 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152598/new-project-2026-05-12t161601029.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152598/new-project-2026-05-12t161601029.jpg"/>
         </item>
     </channel>
 </rss>
