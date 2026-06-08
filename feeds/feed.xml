@@ -4,10 +4,26 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 08 Jun 2026 05:53:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jun 2026 11:03:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 08 Jun 2026 05:53:56 GMT</pubDate>
+        <pubDate>Mon, 08 Jun 2026 11:03:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Gold falls from three-week high on profit-booking, firm dollar]]></title>
+            <description><![CDATA[Gold prices fell on Tuesday as investors booked profits after bullion rose more than 2% in the previous session, while pressure from a stronger dollar also weighed on the yellow metal.
+Spot gold fell 0.8% to $5,189.99 per ounce by 0125 GMT, snapping a four-session winning streak and dropping from]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/gold-falls-from-three-week-high-on-profit-booking-firm-dollar</guid>
+            <pubDate>Mon, 08 Jun 2026 11:03:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Prime Bank hosts Regional Training 2026 to strengthen AML & CFT compliance]]></title>
+            <description><![CDATA[Prime Bank’s AML & CFT Division successfully organised the “Regional Training on AML & CFT Compliance” recently at the Marina Yasmin Chowdhury Hall of Aspiration in Prime Tower, Nikunja-2, bringing together 153 branch officials from Dhaka East region to reinforce the bank’s]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/prime-bank-hosts-regional-training-2026-to-strengthen-aml-cft-compliance</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/prime-bank-hosts-regional-training-2026-to-strengthen-aml-cft-compliance</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 08 Jun 2026 11:03:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BB warns of remittance risks ahead amid ME tensions]]></title>
             <description><![CDATA[The central bank has cautioned that inward remittance flows could come under pressure as geopolitical tensions in the Middle East disrupt labour migration and weaken economic activity in major host countries.
@@ -5195,29 +5211,6 @@ Chairman of the Board of Directors of the bank, Mr Mo]]></description>
             <pubDate>Tue, 12 May 2026 15:00:11 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152653/shahjalal-43.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152653/shahjalal-43.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bank Asia awards employees for outstanding performance in Retail Banking business]]></title>
-            <description><![CDATA[Bank Asia PLC has awarded its employees for their outstanding performance in achieving business targets in Retail Banking during the first quarter of 2026.
-According to a press release, the award-giving ceremony was held on 10 May 2026 at Bank Asia Tower, Karwan Bazar, Dhaka.
-Mr. Syed Zulkar Naye]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bank-asia-awards-employees-for-outstanding-performance-in-retail-banking-business</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bank-asia-awards-employees-for-outstanding-performance-in-retail-banking-business</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 14:55:14 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152651/bank-asia-26.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152651/bank-asia-26.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Islami Bank holds board meeting through hybrid system]]></title>
-            <description><![CDATA[A meeting of the board of directors of Islami Bank Bangladesh PLC was held on Tuesday at the Islami Bank Tower through a hybrid system.
-Professor Dr. M. Zubaidur Rahman, Chairman of the bank, presided over the meeting. Mohammad KhurshidWahab, Chairman of the Executive Committee, Md. Abdus Salam, F]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/islami-bank-holds-board-meeting-through-hybrid-system</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/islami-bank-holds-board-meeting-through-hybrid-system</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 12 May 2026 14:43:21 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152649/islami-bank-24a.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/152649/islami-bank-24a.jpg"/>
         </item>
     </channel>
 </rss>
