@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 21:23:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 23:26:37 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 21:23:49 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 23:26:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt reverts to tax waiver strategy for economic rebound]]></title>
+            <description><![CDATA[The new government is set to return to a tax-exemption-driven strategy in the national budget, being unveiled today, aiming to protect local industries, attract investment, and generate employment.
+Although the revenue authority has been gradually rationalising tax exemptions under the Tax Expendi]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/govt-reverts-to-tax-waiver-strategy-for-economic-rebound</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-reverts-to-tax-waiver-strategy-for-economic-rebound</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 11 Jun 2026 23:26:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A budget for almost everybody in challenging times]]></title>
             <description><![CDATA[For umpteen people, BNP's return to power represents far more than a routine change of government rather an aspired upgrade in their standard of living.
@@ -5174,17 +5183,6 @@ To help sustain further growth, encourage new entrepreneurs to enter the trade, 
             <pubDate>Mon, 18 May 2026 02:59:28 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153441/imresizer-6bcfa2dd-e92f-4772-b19c-7ea4b3dd30ee.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153441/imresizer-6bcfa2dd-e92f-4772-b19c-7ea4b3dd30ee.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[26.35pc factories yet to pay April wages]]></title>
-            <description><![CDATA[Some 26.35 per cent of factories under the jurisdiction of the Industrial Police (IP) located in different industrial zones across the country, especially Ashulia, Gazipur, and Narayanganj, are yet to pay the wages for the month of April.
-According to the Industrial Police, some 10,238 factories i]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/2635pc-factories-yet-to-pay-april-wages</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/2635pc-factories-yet-to-pay-april-wages</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 02:46:22 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153439/rmg-bd-reuters.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153439/rmg-bd-reuters.jpg"/>
         </item>
     </channel>
 </rss>
