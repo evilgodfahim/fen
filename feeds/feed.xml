@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 18:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jun 2026 21:23:49 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 18:18:24 GMT</pubDate>
+        <pubDate>Thu, 11 Jun 2026 21:23:49 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[A budget for almost everybody in challenging times]]></title>
+            <description><![CDATA[For umpteen people, BNP's return to power represents far more than a routine change of government rather an aspired upgrade in their standard of living.
+It marked the culmination of a political struggle that had stretched over a decade and a half and culminated in the student-led uprising of 2024.]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/a-budget-for-almost-everybody-in-challenging-times</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/a-budget-for-almost-everybody-in-challenging-times</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Thu, 11 Jun 2026 19:26:28 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157089/fm-update.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157089/fm-update.jpg"/>
+        </item>
         <item>
             <title><![CDATA[No BB nod needed for intra-region branch relocation: Khosru]]></title>
             <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury has proposed scrapping the requirement for commercial banks to obtain Bangladesh Bank approval when relocating branches within the same region.
@@ -5174,17 +5185,6 @@ According to the Industrial Police, some 10,238 factories i]]></description>
             <pubDate>Mon, 18 May 2026 02:46:22 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153439/rmg-bd-reuters.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153439/rmg-bd-reuters.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[India outbids US to become Bangladesh’s second-largest trading partner]]></title>
-            <description><![CDATA[Neighbouring India outbids the United States of America to marginally emerge as Bangladesh's second-largest trading partner by February count, in a changing foreign trade dynamics.
-The United States had secured the position in January, according to the latest data from Bangladesh Bureau of Statist]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/india-outbids-us-to-become-bangladeshs-second-largest-trading-partner</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/india-outbids-us-to-become-bangladeshs-second-largest-trading-partner</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 02:34:57 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153432/bd-india-flags.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153432/bd-india-flags.jpg"/>
         </item>
     </channel>
 </rss>
