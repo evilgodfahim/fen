@@ -4,10 +4,66 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 11 Jun 2026 23:26:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jun 2026 04:19:55 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 11 Jun 2026 23:26:37 GMT</pubDate>
+        <pubDate>Fri, 12 Jun 2026 04:19:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Govt plans to borrow Tk 1.12t from banks to offset revenue shortfall]]></title>
+            <description><![CDATA[The government plans to borrow Tk 1.12 trillion from the banking system to meet the revenue shortfall in the coming financial year of 2026-2027.
+Out of its total domestic borrowing of Tk 1.27 trillion, Tk 1.12 trillion would be sourced from the banking system in FY'27.
+In the current fiscal year]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/govt-plans-to-borrow-tk-112t-from-banks-to-offset-revenue-shortfall</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/govt-plans-to-borrow-tk-112t-from-banks-to-offset-revenue-shortfall</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 12 Jun 2026 02:51:57 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157102/taka.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157102/taka.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Debt interest cost hits 13.6pc of new budget]]></title>
+            <description><![CDATA[The government has proposed allocating Tk 1.275 trillion for interest payments on public debt in fiscal year (FY) 2026-27, highlighting the growing cost of borrowing as a significant portion of the national budget.
+The allocation accounts for 13.59 per cent of the total budget outlay, underscoring]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/debt-interest-cost-hits-136pc-of-new-budget</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/debt-interest-cost-hits-136pc-of-new-budget</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 12 Jun 2026 03:24:20 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157104/1585748055.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157104/1585748055.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The risks behind the baseline]]></title>
+            <description><![CDATA[Every budget rests on a macroeconomic narrative. The FY27 budget assumes that stabilisation will give way to recovery, growth will accelerate, inflation will decline, revenues will rise sharply, and the fiscal deficit will remain broadly contained. None of these assumptions is impossible. The quest]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/the-risks-behind-the-baseline</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/the-risks-behind-the-baseline</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 12 Jun 2026 02:48:52 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157100/1781205715.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157100/1781205715.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Budget sets 10 priorities for growth]]></title>
+            <description><![CDATA[The government has set 10 strategic priorities in the national budget for fiscal year (FY) 2026-27 as part of its efforts to accelerate economic growth, contain inflation and promote more inclusive and sustainable development.
+Finance and Planning Minister Amir Khosru Mahmud Chowdhury said in his]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/budget-sets-10-priorities-for-growth</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/budget-sets-10-priorities-for-growth</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 12 Jun 2026 02:30:52 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157094/gdp-growth.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157094/gdp-growth.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[What’s up, what’s down]]></title>
+            <description><![CDATA[The National Board of Revenue (NBR) has brought some changes in VAT and duties on essential commodities and commonly-used products to achieve its revenue targets in the national budget for the next fiscal year.
+These changes may cause corresponding fluctuations in market prices.
+In the proposed b]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/whats-up-whats-down-1</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/whats-up-whats-down-1</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 12 Jun 2026 02:47:49 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157098/prices-up-down.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157098/prices-up-down.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Govt reverts to tax waiver strategy for economic rebound]]></title>
             <description><![CDATA[The new government is set to return to a tax-exemption-driven strategy in the national budget, being unveiled today, aiming to protect local industries, attract investment, and generate employment.
@@ -5127,62 +5183,6 @@ The government has set a revenue target of Tk 6.95 lakh crore for F]]></descript
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/42pc-revenue-growth-target-historically-impossible-citizens-platform</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/42pc-revenue-growth-target-historically-impossible-citizens-platform</guid>
             <pubDate>Mon, 18 May 2026 08:47:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[CNG filling stations to remain open 24 hours for 13 days]]></title>
-            <description><![CDATA[The government has decided to keep CNG filling stations open 24 hours a day for 13 days to ensure a smooth journey for holidaymakers during Eid-ul-Adha.
-The decision has been taken as part of efforts to ensure uninterrupted fuel supply to keep passenger vehicle movement on highways running normall]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/cng-filling-stations-to-remain-open-24-hours-for-13-days</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/cng-filling-stations-to-remain-open-24-hours-for-13-days</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 06:53:52 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153469/download-2.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153469/download-2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BB reconstitutes board of ICB Islamic Bank]]></title>
-            <description><![CDATA[Bangladesh Bank (BB) has reconstituted the board of ICB Islamic Bank PLC by appointing three independent directors in a move aimed at strengthening governance and oversight at the troubled private commercial bank.
-The central bank issued the directive through a letter dated May 13, 2026, according]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bb-reconstitutes-board-of-icb-islamic-bank</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bb-reconstitutes-board-of-icb-islamic-bank</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 06:07:52 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153461/bb.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153461/bb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fuel import spending jumps 54pc in nine months]]></title>
-            <description><![CDATA[Bangladesh’s fuel import bill has surged dramatically in the first nine months of the ongoing fiscal year, driven by soaring global oil prices and rising domestic demand amid expanding economic activity.
-Between July and March of FY2025-26, the country spent $6.3 billion importing fuel oil -]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/fuel-import-spending-jumps-54pc-in-nine-months-amid-price-spike</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-import-spending-jumps-54pc-in-nine-months-amid-price-spike</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 04:06:43 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153451/1645929192.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153451/1645929192.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FBCCI election schedule to be announced following appointment of administrator]]></title>
-            <description><![CDATA[The election schedule of the Federation of Bangladesh Chamber of Commerce and Industry (FBCCI) will be announced soon after the appointment of a new administrator.
-Member Secretary of FBCCI Reform Council Md Zakir Hossain disclosed the development at a press briefing held at the apex trade body's]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/fbcci-election-schedule-to-be-announced-following-appointment-of-administrator</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fbcci-election-schedule-to-be-announced-following-appointment-of-administrator</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 03:10:23 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153445/fbcci-new.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153445/fbcci-new.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BGBA urges removing high duty on garment samples]]></title>
-            <description><![CDATA[The imposition of higher duty on garment samples is making it difficult for buying houses to secure work orders from global apparel brands.
-It also adds to the financial burden on them and erodes buyer confidence.
-To help sustain further growth, encourage new entrepreneurs to enter the trade, and]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/bgba-urges-removing-high-duty-on-garment-samples</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bgba-urges-removing-high-duty-on-garment-samples</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 18 May 2026 02:59:28 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153441/imresizer-6bcfa2dd-e92f-4772-b19c-7ea4b3dd30ee.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153441/imresizer-6bcfa2dd-e92f-4772-b19c-7ea4b3dd30ee.jpg"/>
         </item>
     </channel>
 </rss>
