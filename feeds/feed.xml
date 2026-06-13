@@ -4,10 +4,27 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 08:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 11:17:29 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 08:23:22 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 11:17:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[G7 finance chiefs seek to tackle imbalances as trade strains unity]]></title>
+            <description><![CDATA[G7 finance ministers gathering in Paris on Monday will try to find common ground on ​tackling global economic tensions and coordinating critical raw material supplies, even as geopolitical differences threaten to test the group's cohesion.
+The two-day meeting follows ‌a summit between US Pres]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity</guid>
+            <pubDate>Sat, 13 Jun 2026 11:17:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inefficient power plants to be shut, deals reviewed]]></title>
+            <description><![CDATA[The government has planned to review controversial capacity charge and power- purchase agreements on power plants under a major sectoral reform to minimize electricity-generation costs.
+Shutting down or modernising inefficient power plants, strict action against corruption and ensuring and transpa]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/inefficient-power-plants-to-be-shut-deals-reviewed</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/inefficient-power-plants-to-be-shut-deals-reviewed</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 13 Jun 2026 11:17:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GDP growth to be 4.6pc in FY27: WB]]></title>
             <description><![CDATA[The World Bank has revised Bangladesh's growth prospect into down trajectory as it forecast the Gross Domestic Product (GDP) growth at 4.6 per cent in the upcoming fiscal year (FY) 2026-27.
@@ -5140,28 +5157,6 @@ Revenue growth in March ha]]></description>
             <pubDate>Tue, 19 May 2026 04:33:53 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153616/revenue-2.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153616/revenue-2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Excessive reliance on indirect taxes pushing up inflation: Speakers]]></title>
-            <description><![CDATA[Excessive dependence on indirect taxes is placing an additional financial burden on the public through inflationary pressure as well as discouraging investment growth, speakers at a discussion on Monday said.
-Keeping this in view, they suggested bringing massive structural reform, digitisation of]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/excessive-reliance-on-indirect-taxes-pushing-up-inflation-speakers</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/excessive-reliance-on-indirect-taxes-pushing-up-inflation-speakers</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 19 May 2026 04:02:46 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153613/inflation-general-bdnews24900.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153613/inflation-general-bdnews24900.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[High taxes fuelling illicit tobacco market: Experts]]></title>
-            <description><![CDATA[The government continues to lose revenue due to the growth of the illicit tobacco market amid higher tax rates, said researchers at a programme on Monday.
-The purposes of the higher taxes on cigarettes are to generate revenue and discourage people from smoking on health grounds but the existing ta]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/high-taxes-fuelling-illicit-tobacco-market-experts</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/high-taxes-fuelling-illicit-tobacco-market-experts</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 19 May 2026 04:00:59 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153612/cigerette-for-general-use.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153612/cigerette-for-general-use.jpg"/>
         </item>
     </channel>
 </rss>
