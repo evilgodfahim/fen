@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 18:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 20:18:37 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 18:11:11 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 20:18:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[When banks are weak]]></title>
+            <description><![CDATA[A national budget is not only a statement of income and expenditure. It is also a signal. It tells citizens, investors, businesses, banks, and development partners how the government understands the economy. It shows where the state wants to spend, how much it wants to borrow, and how realistic its]]></description>
+            <link>https://thefinancialexpress.com.bd/views/views/when-banks-are-weak</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/when-banks-are-weak</guid>
+            <pubDate>Sat, 13 Jun 2026 20:18:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Iran war & rising cost of living in Bangladesh]]></title>
             <description><![CDATA[Bangladesh’s point-to-point inflation rose to 9.42 per cent in May 2026 from 9.04 per cent in April and 8.71 per cent in March, driven by higher prices for food, housing, and transport. According to the Bangladesh Bureau of Statistics (BBS), the increase was mainly due to rising global energy]]></description>
@@ -5143,17 +5150,6 @@ The majority, or 61.5 per cen]]></description>
             <pubDate>Tue, 19 May 2026 10:48:31 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153671/renewable-energy.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153671/renewable-energy.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dhaka, Washington affirm upward trajectory in ties]]></title>
-            <description><![CDATA[Bangladesh and the United States have reaffirmed their commitment to further strengthening bilateral partnership in various areas of mutual interest.
-The reaffirmation came during a meeting between State Minister for Foreign Affairs Shama Obaed Islam and US Assistant Secretary of State for South a]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh-us-reaffirm-stronger-bilateral-partnership-commitment</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-us-reaffirm-stronger-bilateral-partnership-commitment</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Tue, 19 May 2026 06:51:21 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153636/download-4.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153636/download-4.jpg"/>
         </item>
     </channel>
 </rss>
