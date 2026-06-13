@@ -4,10 +4,22 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 13 Jun 2026 20:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jun 2026 22:07:17 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 13 Jun 2026 20:18:37 GMT</pubDate>
+        <pubDate>Sat, 13 Jun 2026 22:07:17 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Individual taxpayers to get refund of amount paid in excess of due]]></title>
+            <description><![CDATA[Individual taxpayers will receive refund of the amount paid in excess of due taxes within 60 days of the processing of their tax returns.
+The refund will be made under a landmark provision proposed in the Finance Bill 2026 accompanying the new budget.
+The refunded amount will be transferred direc]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/individual-taxpayers-to-get-refund-of-amount-paid-in-excess-of-due</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/individual-taxpayers-to-get-refund-of-amount-paid-in-excess-of-due</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sat, 13 Jun 2026 17:42:49 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157374/p1-lead-info-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157374/p1-lead-info-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[When banks are weak]]></title>
             <description><![CDATA[A national budget is not only a statement of income and expenditure. It is also a signal. It tells citizens, investors, businesses, banks, and development partners how the government understands the economy. It shows where the state wants to spend, how much it wants to borrow, and how realistic its]]></description>
@@ -5138,18 +5150,6 @@ Accordi]]></description>
             <pubDate>Tue, 19 May 2026 11:08:27 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153677/tech-job-fair.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153677/tech-job-fair.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Only 3pc RMG factories use renewable energy: Study]]></title>
-            <description><![CDATA[Only 3.0 per cent of the surveyed readymade garment factories, which mainly depend on the national grid for power supply, meet their energy requirements through renewable sources, according to a new study.
-And the renewable energy comes exclusively from solar panels.
-The majority, or 61.5 per cen]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/only-3pc-rmg-factories-use-renewable-energy-study</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/only-3pc-rmg-factories-use-renewable-energy-study</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 19 May 2026 10:48:31 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153671/renewable-energy.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153671/renewable-energy.jpg"/>
         </item>
     </channel>
 </rss>
