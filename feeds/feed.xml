@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 14 Jun 2026 18:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jun 2026 20:21:00 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Jun 2026 18:16:24 GMT</pubDate>
+        <pubDate>Sun, 14 Jun 2026 20:21:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Entire Islami Bank board dissolved]]></title>
+            <description><![CDATA[The entire Board of Directors of embroiled Islami Bank Bangladesh PLC, led by its new chairman, stands dissolved in a latest regulatory move aimed at safeguarding interests of the bank, its depositors and the public.
+According to a statement issued Sunday, the central bank exercised its authority]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/entire-islami-bank-board-dissolved</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/entire-islami-bank-board-dissolved</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 14 Jun 2026 18:51:17 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157558/islamibank.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157558/islamibank.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Experts question revenue targets, urge structural tax reforms]]></title>
             <description><![CDATA[Economists and business stakeholders have questioned the realism of the government's revenue projections in the proposed FY2026-27 budget, calling for structural tax reforms, improved compliance and greater policy predictability to strengthen fiscal management and support economic recovery.
@@ -5125,17 +5136,6 @@ The observations were made at a dialogue titled "Strengthen]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/speakers-stress-stronger-intellectual-property-protection-to-attract-more-fdi</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/speakers-stress-stronger-intellectual-property-protection-to-attract-more-fdi</guid>
             <pubDate>Wed, 20 May 2026 13:42:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Drilling well at Kamta gas field starts]]></title>
-            <description><![CDATA[Bangladesh Gas Fields Company Limited (BGFCL) inaugurated drilling of an appraisal-cum-development well at Kamta gas field on Wednesday.
-State minister for the Ministry of Power, Energy and Mineral Resources (MPEMR) Anindya Islam Amit inaugurated the spud-in operation of Kamta well no-2 at the wel]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/drilling-well-at-kamta-gas-field-starts</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/drilling-well-at-kamta-gas-field-starts</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 20 May 2026 13:17:20 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153855/ccdc-kamta-pic-1.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153855/ccdc-kamta-pic-1.jpg"/>
         </item>
     </channel>
 </rss>
