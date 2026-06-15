@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 15 Jun 2026 00:15:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jun 2026 06:28:52 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 15 Jun 2026 00:15:19 GMT</pubDate>
+        <pubDate>Mon, 15 Jun 2026 06:28:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[‘Game Zone’ launched in bKash app]]></title>
+            <description><![CDATA[To make gaming more accessible, engaging, and enjoyable for all, bKash has introduced a new feature named ‘Game Zone’ within its app.
+Through this platform, gamers can play a variety of games and participate in online tournaments directly from the bKash app, without having to download]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/game-zone-launched-in-bkash-app</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/game-zone-launched-in-bkash-app</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 15 Jun 2026 06:28:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Half of humanity to be affected by global crisis in housing: UN report]]></title>
             <description><![CDATA[Nearly half of humanity may be affected by a global crisis in housing, according to a new UN report 
@@ -5122,17 +5131,6 @@ According to the circular issued on Tuesday, the decisio]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/no-manual-challan-from-july-1-finance-ministry</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/no-manual-challan-from-july-1-finance-ministry</guid>
             <pubDate>Wed, 20 May 2026 16:55:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Midland Bank signs refinance agreement with Bangladesh Bank]]></title>
-            <description><![CDATA[Midland Bank PLC (MDB) has signed a refinance participation agreement with Bangladesh Bank to implement the BDT 3,000 Crore Cluster Financing Scheme and the BDT 1,500 Crore Financial Sector Fund for the Development of Micro, Small, and Medium Enterprises (FSFDMSME).
-The initiative aims to promote]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/midland-bank-signs-refinance-agreement-with-bangladesh-bank</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/midland-bank-signs-refinance-agreement-with-bangladesh-bank</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 20 May 2026 14:34:17 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153865/mdb-b.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/153865/mdb-b.jpg"/>
         </item>
     </channel>
 </rss>
