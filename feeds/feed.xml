@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 18 Jun 2026 19:32:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jun 2026 22:14:12 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 18 Jun 2026 19:32:23 GMT</pubDate>
+        <pubDate>Thu, 18 Jun 2026 22:14:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[WEAB hails FY27 budget as inclusive, realistic and growth-oriented]]></title>
+            <description><![CDATA[Women Entrepreneurs Association of Bangladesh (WEAB) on Thursday described the proposed national budget for fiscal year 2026-27 as timely, realistic and inclusive, saying it has been designed to address current economic challenges and ensure sustainable development.
+The observation came at a "WEAB]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/weab-hails-fy27-budget-as-inclusive-realistic-and-growth-oriented</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/weab-hails-fy27-budget-as-inclusive-realistic-and-growth-oriented</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 18 Jun 2026 22:14:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[India-US trade deal had created uncertainty: foreign secretary]]></title>
             <description><![CDATA[The trade deal between the United States and India was a major subject of discussion between Prime Minister Narendra Modi and US President Donald Trump during their bilateral meeting on Wednesday, India's foreign secretary said, adding that the deal had caused uncertainty between the two nations.]]></description>
@@ -5124,17 +5133,6 @@ According to the latest data, the total number of internet subscribers reached 1
             <pubDate>Mon, 25 May 2026 07:18:49 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154576/isp.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154576/isp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Commerce minister urges sector-based export plans to tap Saudi market]]></title>
-            <description><![CDATA[Commerce Minister Khandakar Abdul Muktadir has urged businesses to submit sector-specific and realistic proposals to expand Bangladesh's export footprint in Saudi Arabia and the Middle Eastern market. 
-He assured exporters that the government is ready to provide all necessary policy and finan]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/commerce-minister-urges-sector-based-export-plans-to-tap-saudi-market</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/commerce-minister-urges-sector-based-export-plans-to-tap-saudi-market</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 25 May 2026 07:16:54 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154575/merged-5decc5df11fff67790f9951a3e14bc4a.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154575/merged-5decc5df11fff67790f9951a3e14bc4a.jpg"/>
         </item>
     </channel>
 </rss>
