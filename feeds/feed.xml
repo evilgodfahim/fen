@@ -4,10 +4,31 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 07:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 12:10:24 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 07:11:24 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 12:10:24 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Restaurant owners seek uniform VAT]]></title>
+            <description><![CDATA[The Bangladesh Restaurant Owners Association (BROA) has urged the government to introduce a uniform 5.0-per cent VAT and tax rate for both restaurant and catering services and withdraw the proposed source tax and supplementary duty on essential commodities in the national budget for fiscal year 202]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/restaurant-owners-seek-uniform-vat-withdrawal-of-source-tax-on-essentials</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/restaurant-owners-seek-uniform-vat-withdrawal-of-source-tax-on-essentials</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 19 Jun 2026 10:51:09 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158414/restauranteurs.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158414/restauranteurs.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Uniform bus fleet, EV transition planned to modernise transport]]></title>
+            <description><![CDATA[Government work gets going to bring all privately operated buses under a more coordinated system through introducing route-based uniform bus services and promoting electric vehicles (EVs) as part of efforts to modernise Bangladesh's outmoded transport sector.
+Road Transport and Bridges, Railways a]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/uniform-bus-fleet-ev-transition-planned-to-modernise-transport</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/uniform-bus-fleet-ev-transition-planned-to-modernise-transport</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 19 Jun 2026 02:29:34 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158345/bus.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158345/bus.jpg"/>
+        </item>
         <item>
             <title><![CDATA[FY27 budget a positive roadmap for growth: IBFB]]></title>
             <description><![CDATA[The International Business Forum of Bangladesh (IBFB) has termed the proposed national budget for fiscal year 2026-27 a positive and pragmatic roadmap for economic recovery, investment expansion, employment generation and long-term structural reforms.
@@ -5114,28 +5135,6 @@ Because of rising pressure of cash withdrawal due to closure of bank branches, n
             <pubDate>Tue, 26 May 2026 02:19:01 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154702/1639884984.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154702/1639884984.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADB offers $5.0b in dev aid]]></title>
-            <description><![CDATA[An incremental assistance package announced by the Asian Development Bank (ADB) would fetch Bangladesh US$5.0 billion over next five years and increase the subsequent annual aid by 20 per cent.
-The announcement came Monday when ADB President Masato Kanda met Prime Minister Tarique Rahman in Dhaka]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/adb-offers-50b-in-dev-aid</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/adb-offers-50b-in-dev-aid</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Mon, 25 May 2026 17:44:34 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154687/p1-adp-info-26-05-2026-outline.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154687/p1-adp-info-26-05-2026-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[1,500 factories yet to pay festival allowances: Industrial Police]]></title>
-            <description><![CDATA[Thousands of workers across the country's key industrial zones are still in uncertainty as 1500 factories did not pay festival allowances despite Eid holidays starting from tomorrow (Tuesday).
-About 14.65 per cent, or 1,500 factories, under the jurisdiction of the Industrial Police (IP) across eig]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/1500-factories-yet-to-pay-festival-allowances-industrial-police</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/1500-factories-yet-to-pay-festival-allowances-industrial-police</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 25 May 2026 13:52:58 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154651/the-financial-express-bangladesh-rmg.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154651/the-financial-express-bangladesh-rmg.jpg"/>
         </item>
     </channel>
 </rss>
