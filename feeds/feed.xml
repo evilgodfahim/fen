@@ -4,10 +4,28 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 19 Jun 2026 16:08:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jun 2026 18:58:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 19 Jun 2026 16:08:26 GMT</pubDate>
+        <pubDate>Fri, 19 Jun 2026 18:58:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Negotiations begin with IMF in mid-July for fresh $4.0b loan]]></title>
+            <description><![CDATA[A fresh government move gets underway to open negotiations with the International Monetary Fund (IMF) in mid-July to secure some US$4.0 billion under a new lending package to attain macroeconomic stability, officials say.
+The fresh loan move comes after the newly elected government has decided to]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/negotiations-begin-with-imf-in-mid-july-for-fresh-40b-loan</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/negotiations-begin-with-imf-in-mid-july-for-fresh-40b-loan</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 19 Jun 2026 18:28:11 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158473/p1-info-fresh-loan-deals-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158473/p1-info-fresh-loan-deals-outline.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Challenges of decoding the budget]]></title>
+            <description><![CDATA[People of Bangladesh witnessed the presentation of another national budget on June 11. Since then, analysing the positive and negative sides of the budget has been ongoing, and it will continue for a few weeks, though many parts of the budget remain ambiguous. The way the budget has been designed a]]></description>
+            <link>https://thefinancialexpress.com.bd/views/opinions/challenges-of-decoding-the-budget</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/opinions/challenges-of-decoding-the-budget</guid>
+            <pubDate>Fri, 19 Jun 2026 18:58:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Restaurant owners seek uniform VAT]]></title>
             <description><![CDATA[The Bangladesh Restaurant Owners Association (BROA) has urged the government to introduce a uniform 5.0-per cent VAT and tax rate for both restaurant and catering services and withdraw the proposed source tax and supplementary duty on essential commodities in the national budget for fiscal year 202]]></description>
@@ -5116,25 +5134,6 @@ Bangladesh Bank (BB) data show the amount of currency outside banks -- often dub
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/mattress-money-hits-record-tk-303-trillions</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/mattress-money-hits-record-tk-303-trillions</guid>
             <pubDate>Tue, 26 May 2026 03:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Source tax hike on essentials shelved]]></title>
-            <description><![CDATA[A proposed tax hike on essential commodities in the upcoming budget is shelved as the government backtracks on the move to ease inflationary pressures on consumers, officials say.
-The proposal by tax authorities to double the existing 0.5-percent source tax to 1.0 per cent has been dropped after "]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/source-tax-hike-on-essentials-shelved</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/source-tax-hike-on-essentials-shelved</guid>
-            <pubDate>Tue, 26 May 2026 03:55:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Many customers face difficulty in ATM cashout]]></title>
-            <description><![CDATA[Many customers across Dhaka are grappling with severe difficulties in cash withdrawal from ATMs or automated teller machines amid Eid-ul-Azha binge.
-Because of rising pressure of cash withdrawal due to closure of bank branches, numerous banks are experiencing cash shortages and have imposed withdr]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/many-customers-face-difficulty-in-atm-cashout</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/many-customers-face-difficulty-in-atm-cashout</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 26 May 2026 02:19:01 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154702/1639884984.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154702/1639884984.jpg"/>
         </item>
     </channel>
 </rss>
