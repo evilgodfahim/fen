@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 00:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 05:18:15 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 00:12:37 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 05:18:15 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Domestic credit card spending soars 22pc to Tk 38.68 billion in April]]></title>
+            <description><![CDATA[Domestic credit-card spending in Bangladesh witnessed a hefty growth year on year in April this year, reflecting stronger consumer demand despite economic challenges.
+On the other hand, the overseas spending by Bangladeshi credit cardholders declined over the same period of last year.
+According t]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/domestic-credit-card-spending-soars-22pc-to-tk-3868-billion-in-april</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/domestic-credit-card-spending-soars-22pc-to-tk-3868-billion-in-april</guid>
+            <pubDate>Sat, 20 Jun 2026 05:18:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Negotiations begin with IMF in mid-July for fresh $4.0b loan]]></title>
             <description><![CDATA[A fresh government move gets underway to open negotiations with the International Monetary Fund (IMF) in mid-July to secure some US$4.0 billion under a new lending package to attain macroeconomic stability, officials say.
@@ -5126,14 +5135,6 @@ Despite heavy morning rain that caused temporary waterlogging and disrupted move
             <pubDate>Tue, 26 May 2026 04:22:39 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154708/1779729032.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154708/1779729032.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mattress money hits record Tk 3.03 trillions]]></title>
-            <description><![CDATA[The volume of cash circulating outside the banking system continued to rise in Bangladesh, reflecting a growing preference for holding physical money amid economic slowdown.
-Bangladesh Bank (BB) data show the amount of currency outside banks -- often dubbed mattress money -- stood at Tk 3.03 trill]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/mattress-money-hits-record-tk-303-trillions</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/mattress-money-hits-record-tk-303-trillions</guid>
-            <pubDate>Tue, 26 May 2026 03:55:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
