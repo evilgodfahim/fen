@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 20 Jun 2026 05:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Jun 2026 09:22:42 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 20 Jun 2026 05:18:15 GMT</pubDate>
+        <pubDate>Sat, 20 Jun 2026 09:22:42 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Government targets efficient public expenditure, higher revenue]]></title>
+            <description><![CDATA[Amid mounting fiscal pressure and growing development needs the government has embarked on a medium-term reform agenda aimed at making every taka of public spending count while strengthening revenue collection and safeguarding debt sustainability.
+The strategy outlined in the FY2026-27 national bu]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/government-targets-efficient-public-expenditure-higher-revenue</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/government-targets-efficient-public-expenditure-higher-revenue</guid>
+            <pubDate>Sat, 20 Jun 2026 09:22:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Domestic credit card spending soars 22pc to Tk 38.68 billion in April]]></title>
             <description><![CDATA[Domestic credit-card spending in Bangladesh witnessed a hefty growth year on year in April this year, reflecting stronger consumer demand despite economic challenges.
@@ -5124,17 +5132,6 @@ The ministry has alre]]></description>
             <pubDate>Tue, 26 May 2026 06:06:33 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154718/petrol-pump-owners-call-for-allowing-private-sector-to-import-oil-to-resolve-crisis.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154718/petrol-pump-owners-call-for-allowing-private-sector-to-import-oil-to-resolve-crisis.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cattle markets see brisk trade ahead of Eid-ul-Azha]]></title>
-            <description><![CDATA[Cattle markets across the capital witnessed a sharp rise in trading activity on Monday as Eid-ul-Azha approaches, with only two days left before the festival.
-Despite heavy morning rain that caused temporary waterlogging and disrupted movement in several areas, buyers and sellers thronged the mark]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/cattle-markets-see-brisk-trade-ahead-of-eid-ul-azha</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/cattle-markets-see-brisk-trade-ahead-of-eid-ul-azha</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 26 May 2026 04:22:39 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154708/1779729032.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154708/1779729032.jpg"/>
         </item>
     </channel>
 </rss>
