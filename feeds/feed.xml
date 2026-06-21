@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 21:18:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 23:18:28 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 21:18:27 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 23:18:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BWCCI founder Selima Ahmad passes away]]></title>
+            <description><![CDATA[Selima Ahmad, a former lawmaker, founder of the Bangladesh Women Chamber of Commerce and Industry (BWCCI), and a prominent advocate for women’s economic empowerment, passed away on Sunday in Bangkok, Thailand.
+According to BWCCI, she breathed her last at Bumrungrad International Hospital in]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bwcci-founder-selima-ahmad-passes-away</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bwcci-founder-selima-ahmad-passes-away</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 21 Jun 2026 16:40:45 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158760/selima-ahmed.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/158760/selima-ahmed.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anyone hindering deregulation drive to face tough action]]></title>
             <description><![CDATA[Anyone trying to obstruct the government-adopted deregulation agenda would face tough action as the new administration is bent on simplifying business regulations and improving the investment climate, says the finance minister.
@@ -5132,13 +5143,6 @@ The long-stalled MRT-1 and MRT-5 (Northern) lines]]></description>
             <pubDate>Mon, 01 Jun 2026 18:30:32 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155414/p1-mrt-outline.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155414/p1-mrt-outline.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Opening scalable value addition path]]></title>
-            <description><![CDATA[Reports indicate that the government is drafting a new policy with a stronger push to reduce reliance on imported inputs and develop backward linkage industries, aiming for increasing value addition-at least by 50 per cent by 2029. Furthermore, if an exporter fails to meet this requirement, they wi]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/opening-scalable-value-addition-path</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/opening-scalable-value-addition-path</guid>
-            <pubDate>Mon, 01 Jun 2026 20:57:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
