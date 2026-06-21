@@ -4,10 +4,25 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 21 Jun 2026 00:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Jun 2026 06:06:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Jun 2026 00:11:37 GMT</pubDate>
+        <pubDate>Sun, 21 Jun 2026 06:06:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Year-round tax return filing proposed with early filer rebate]]></title>
+            <description><![CDATA[Bangladesh has proposed allowing individual taxpayers to submit income tax returns throughout the year, with a 5 percent rebate for those filing in the first quarter, under changes outlined in the 2026–27 budget proposal.
+The proposal comes as repeated extensions of return filing deadlines h]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/year-round-tax-return-filing-proposed-with-early-filer-rebate</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/year-round-tax-return-filing-proposed-with-early-filer-rebate</guid>
+            <pubDate>Sun, 21 Jun 2026 06:05:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Creating 125m jobs by 2050: How BD can address the challenge]]></title>
+            <description><![CDATA[A United Nations Development Program (UNDP) report projects that Bangladesh's population will rise from 173.5 million in 2024 to between 230 and 250 million by 2050. The International Labor Organization (ILO) notes that the working-age population (ages 15 to 64) was 122 million, or 70 per cent of t]]></description>
+            <link>https://thefinancialexpress.com.bd/views/analysis/creating-125m-jobs-by-2050-how-bd-can-address-the-challenge</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/analysis/creating-125m-jobs-by-2050-how-bd-can-address-the-challenge</guid>
+            <pubDate>Sun, 21 Jun 2026 06:05:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BD expects $3.0b dev funds during PM's China visit]]></title>
             <description><![CDATA[Bangladesh is expecting roughly US$3.0 billion in development support and grants from China during Prime Minister Tarique Rahman's upcoming visit starting June 23.
@@ -5122,25 +5137,6 @@ Under the new rate, diesel will continue to be sold at Tk 115 per litre at the c
             <pubDate>Sun, 31 May 2026 16:42:31 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155234/img-7675.jpeg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155234/img-7675.jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh doesn’t have the stability necessary for new investment, says Riad Mahmud]]></title>
-            <description><![CDATA[Entrepreneur and businessman Riad Mahmud says global uncertainty has raised concerns about the investment situation in Bangladesh.
-He says that before the February general election, investors were expecting political stability in the country, but global economic headwinds have disrupted the econom]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-doesnt-have-the-stability-necessary-for-new-investment-says-riad-mahmud</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-doesnt-have-the-stability-necessary-for-new-investment-says-riad-mahmud</guid>
-            <pubDate>Sun, 31 May 2026 08:16:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[US first-quarter GDP growth revised lower to 1.6pc pace]]></title>
-            <description><![CDATA[U.S. economic growth was not a strong as initially thought in the first quarter, and momentum is set to slow this quarter, with ​the war with Iran stoking inflation and squeezing households finances.
-Gross domestic ‌product increased at a 1.6% annualized rate last quarter, the Commerce Depart]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/us-first-quarter-gdp-growth-revised-lower-to-16pc-pace</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/us-first-quarter-gdp-growth-revised-lower-to-16pc-pace</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 28 May 2026 14:02:22 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154973/new-project-60.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/154973/new-project-60.jpg"/>
         </item>
     </channel>
 </rss>
