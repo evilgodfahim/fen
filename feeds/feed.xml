@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 22 Jun 2026 04:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jun 2026 10:42:27 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 22 Jun 2026 04:49:10 GMT</pubDate>
+        <pubDate>Mon, 22 Jun 2026 10:42:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangladesh to become a regional aviation hub by 2034: Minister]]></title>
+            <description><![CDATA[The government aims to transform Bangladesh into a regional aviation hub by 2034, Civil Aviation and Tourism Minister Afroza Khanam said on Sunday.
+To achieve the goal, the government has launched an initiative to formulate a comprehensive Civil Aviation Master Plan (CAMP), which will serve as a r]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bangladesh-to-become-a-regional-aviation-hub-by-2034-minister</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-to-become-a-regional-aviation-hub-by-2034-minister</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Mon, 22 Jun 2026 10:42:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bangladesh, Malaysia explore trade, manpower recruitment avenues]]></title>
             <description><![CDATA[Bangladesh and Malaysia have held a bilateral meeting to explore avenues for greater cooperation, with manpower export and trade and investment expansion topping the agenda.
@@ -5128,17 +5137,6 @@ The industry, long viewed as one of the country's most promising export sectors,
             <pubDate>Tue, 02 Jun 2026 05:17:05 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155434/boro-paddy.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155434/boro-paddy.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leather traders limping along]]></title>
-            <description><![CDATA[CHATTOGRAM, June 01: The tannery industry in the port city is steadily declining, as most tanneries have shut down due to a lack of government support and obstacles created by various agencies, including the Department of Environment (DoE).
-There were around 30 tanneries in Chattogram before the c]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/leather-traders-limping-along</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/leather-traders-limping-along</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 02 Jun 2026 05:16:03 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155433/tannery.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155433/tannery.jpg"/>
         </item>
     </channel>
 </rss>
