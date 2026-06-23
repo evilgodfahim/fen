@@ -4,10 +4,27 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jun 2026 15:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jun 2026 18:00:59 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jun 2026 15:52:21 GMT</pubDate>
+        <pubDate>Tue, 23 Jun 2026 18:00:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global food prices rise again: FAO]]></title>
+            <description><![CDATA[World food prices rose in April for a third consecutive month, with vegetable oil prices particularly elevated due to disruptions linked to the Iran war, the United Nations Food and Agriculture Organization said on Friday.
+The FAO Food Price Index, which measures changes in a basket of globally tr]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/global-food-prices-rise-again-fao</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/global-food-prices-rise-again-fao</guid>
+            <pubDate>Tue, 23 Jun 2026 18:00:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[$400m Mongla port deal likely as Bangladesh seeks $6.0b funding]]></title>
+            <description><![CDATA[Bangladesh is likely to sign a US$400-million loan deal with China for Mongla seaport development as the government might seek nearly US$6.0 billion worth of funding for different projects and programmes, officials say.
+The two sides would sign the loan deal for Mongla port development during the]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/400m-mongla-port-deal-likely-as-bangladesh-seeks-60b-funding</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/400m-mongla-port-deal-likely-as-bangladesh-seeks-60b-funding</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 23 Jun 2026 18:00:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bangladesh’s trade deficit widened to $24.17b in FY25: Minister]]></title>
             <description><![CDATA[Commerce Minister Khandakar Abdul Muktadir on Tuesday told Parliament that Bangladesh’s trade deficit widened to US$ 24.17 billion in the fiscal year 2024-25, as the increase in import expenditure outpaced growth in export earnings.
@@ -5108,24 +5125,6 @@ The power division has sent a letter to the BERC requesting it to review the re-
             <pubDate>Thu, 04 Jun 2026 12:08:52 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155796/power-energy.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155796/power-energy.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TIB slates black money legalisation plan]]></title>
-            <description><![CDATA[Transparency International Bangladesh (TIB) has expressed strong concern over reports that the government is “actively considering” allowing undisclosed wealth to be legalised in the proposed 2026-27 budget through what it described as an unconditional amnesty that would prevent authori]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/black-money-legalisation-plan-would-grant-state-backed-protection-to-corruption-tib</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/black-money-legalisation-plan-would-grant-state-backed-protection-to-corruption-tib</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 04 Jun 2026 13:21:00 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155814/new-project-2026-06-04t192026917.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/155814/new-project-2026-06-04t192026917.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cabinet approves FDI incentive policy, medical university law amendment]]></title>
-            <description><![CDATA[The cabinet has approved the Foreign Direct Investment (FDI) Incentive Scheme Policy, 2026 aimed at encouraging Bangladeshi citizens, including expatriates, to bring foreign direct investment into the country.
-The policy, formulated at the initiative of the Prime Minister’s Office, was appro]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/cabinet-approves-fdi-incentive-policy-medical-university-law-amendment</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/cabinet-approves-fdi-incentive-policy-medical-university-law-amendment</guid>
-            <pubDate>Thu, 04 Jun 2026 18:21:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
