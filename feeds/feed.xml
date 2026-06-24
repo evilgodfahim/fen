@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 24 Jun 2026 16:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jun 2026 18:53:11 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 24 Jun 2026 16:23:42 GMT</pubDate>
+        <pubDate>Wed, 24 Jun 2026 18:53:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[How Iran survives against global giants]]></title>
+            <description><![CDATA[The Middle East is once again on the brink of chaos. Iran-Israel tensions have rippled through global politics, markets and diplomacy, fueling headlines of missile barrages, threats, sanctions and retaliation. Analysts predict Iran's collapse. Politicians promise resistance. Yet Tehran remains unde]]></description>
+            <link>https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/reviews/how-iran-survives-against-global-giants</guid>
+            <pubDate>Wed, 24 Jun 2026 18:53:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Do not discourage customers from buying savings certificates, BB warns banks]]></title>
             <description><![CDATA[Bangladesh Bank on Wednesday issued a strict directive to all scheduled commercial banks, warning them to immediately cease discouraging customers from investing in national savings certificates (Sanchayapatra).
@@ -5128,16 +5135,6 @@ Chairman of the Board of Directors of Karmasangsthan Bank]]></description>
             <pubDate>Sat, 06 Jun 2026 14:44:57 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156073/karma-3.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156073/karma-3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BRAC Bank Reading Cafés discuss Dipu Mahmud’s book ‘Breakup’]]></title>
-            <description><![CDATA[It is not every day that an author openly admits that he learns about writing by listening to readers discuss and critique his own work. Yet that was precisely the sentiment expressed by author Dipu Mahmud during a lively discussion on his short story collection ‘Breakup’ at BRAC Bank S]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/brac-bank-reading-cafes-discuss-dipu-mahmuds-book-breakup</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/brac-bank-reading-cafes-discuss-dipu-mahmuds-book-breakup</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 06 Jun 2026 14:38:47 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156071/brac-bank-reading.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156071/brac-bank-reading.jpg"/>
         </item>
     </channel>
 </rss>
