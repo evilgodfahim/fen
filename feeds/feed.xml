@@ -4,10 +4,24 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 28 Jun 2026 19:26:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jun 2026 21:06:06 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 28 Jun 2026 19:26:08 GMT</pubDate>
+        <pubDate>Sun, 28 Jun 2026 21:06:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[National savings dip to 5yr low]]></title>
+            <description><![CDATA[Bangladesh's gross national savings (GNS) are projected to decline to 26.93 per cent of gross domestic product (GDP) in the outgoing fiscal year-hitting a five-year low,
+
+
+
+The latest savings figure collated by Bangladesh Bureau of Statistics (BBS) marks a decline of 0.74-percentage points from]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/national-savings-dip-to-5yr-low</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/national-savings-dip-to-5yr-low</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 28 Jun 2026 18:25:13 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159896/p1-info-gns-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/159896/p1-info-gns-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tk 100b agri-refinancing scheme, BB revises its policy]]></title>
             <description><![CDATA[Bangladesh Bank (BB) has formally launched a Tk 100 billion special refinancing scheme to boost agricultural production and ensure food security, while revising key provisions from its initial proposal.
@@ -5141,16 +5155,6 @@ Power, Energy and Mineral Resources Minister Iqbal Hasan Mahmood on Monday direc
             <pubDate>Tue, 09 Jun 2026 06:47:01 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156517/power-generation.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156517/power-generation.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Korean firms seek partnership in AI, ICT, cyber security, digital governance]]></title>
-            <description><![CDATA[Korean companies are keen to work in partnership with the public and private authorities in the country's various development activities including infrastructure, Artificial Intelligence (AI), Information and Communication Technology (ICT), cyber security, digital governance and carbon compliance.]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/korean-firms-seek-partnership-in-ai-ict-cyber-security-digital-governance</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/korean-firms-seek-partnership-in-ai-ict-cyber-security-digital-governance</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 09 Jun 2026 05:12:37 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156502/bd-korea-flag.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156502/bd-korea-flag.jpg"/>
         </item>
     </channel>
 </rss>
