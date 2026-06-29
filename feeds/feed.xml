@@ -4,10 +4,32 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jun 2026 14:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jun 2026 17:40:46 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jun 2026 14:07:32 GMT</pubDate>
+        <pubDate>Mon, 29 Jun 2026 17:40:46 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BB caps loan-deposit interest spread at 4pc]]></title>
+            <description><![CDATA[Bangladesh Bank (BB) has instructed banks to maintain the average gap between loan and deposit interest rates within a specific limit, setting the maximum interest rate spread at 4 percent.
+The newly imposed ceiling will be applicable to all types of loans, except for credit cards and consumer cre]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bb-caps-loan-deposit-interest-spread-at-4pc</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bb-caps-loan-deposit-interest-spread-at-4pc</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 29 Jun 2026 15:34:25 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160048/new-project-2026-06-29t213307031.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160048/new-project-2026-06-29t213307031.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bangladesh forex reserves cross $37b]]></title>
+            <description><![CDATA[Bangladesh’s gross foreign exchange (forex) reserves crossed US$37 billion-mark on Monday after receiving around $700 million loans from different development partners.
+The country’s gross forex reserves rose to $37.05 billion on the day from $36.31 billion of the previous day as disbu]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh-forex-reserves-cross-37b</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-forex-reserves-cross-37b</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 29 Jun 2026 14:42:50 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160042/new-project-2026-06-29t204150021.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160042/new-project-2026-06-29t204150021.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh raises tax-free income threshold to Tk 400,000 for next tax year]]></title>
             <description><![CDATA[The government has raised the tax-free income threshold by Tk 25,000 to Tk 400,000 for the next tax year, departing from its original budget proposal to keep the exemption limit unchanged.
@@ -5131,21 +5153,6 @@ The Economic Relations Division (ERD) signed two documents related to the soft l
             <pubDate>Tue, 09 Jun 2026 16:11:42 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156632/new-project-2026-06-09t221047719.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156632/new-project-2026-06-09t221047719.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Missing efficiency and scale effect on power pricing]]></title>
-            <description><![CDATA[To reduce subsidies from Tk 56,000 crore to Tk 41,000 crore, the Bangladesh Energy Regulatory Commission (BERC) increased the bulk electricity tariff by 19.85 per cent, or Tk 1.39 per unit, raising it from Tk 7.00 per kWh to Tk 8.39 per kWh. To further reduce subsidies, it is likely that BERC will]]></description>
-            <link>https://thefinancialexpress.com.bd/views/views/missing-efficiency-and-scale-effect-on-power-pricing</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/views/missing-efficiency-and-scale-effect-on-power-pricing</guid>
-            <pubDate>Tue, 09 Jun 2026 18:09:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BRAMA president-Chinese co meeting on strengthening cooperation]]></title>
-            <description><![CDATA[A business meeting between President of Bangladesh Refrigeration and Air Conditioning Merchants Association (BRAMA) Md Anwarul Islam and Vice-President of Everbright Financial Holding Capital (Beijing) Co Ltd Kou Huili (Coco) was held in Dhaka recently in an effort to strengthen economic and indust]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/brama-president-chinese-co-meeting-on-strengthening-cooperation</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/brama-president-chinese-co-meeting-on-strengthening-cooperation</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Tue, 09 Jun 2026 18:09:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
