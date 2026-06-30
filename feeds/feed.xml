@@ -4,10 +4,27 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 12:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 15:31:28 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jun 2026 12:12:04 GMT</pubDate>
+        <pubDate>Tue, 30 Jun 2026 15:31:28 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Implementation will determine success of monetary policy: BUILD chief]]></title>
+            <description><![CDATA[The effectiveness of Bangladesh Bank’s latest monetary policy will depend less on policy announcements and more on how its measures are implemented, according to Business Initiative Leading Development (BUILD) Chairman Abul Kasem Khan.
+He said the central bank’s objective of reviving e]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/implementation-will-determine-success-of-monetary-policy-build-chief</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/implementation-will-determine-success-of-monetary-policy-build-chief</guid>
+            <pubDate>Tue, 30 Jun 2026 15:31:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fuel prices remain unchanged in July]]></title>
+            <description><![CDATA[The government has kept the fuel prices unchanged for July despite the recent fall in prices in international market.
+According to a notification of the Energy and Mineral Resources Division under the Ministry of Power, Energy and Mineral Resources (MPEMR) issued on Tuesday, the retail price of di]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/fuel-prices-remain-unchanged-in-july</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/fuel-prices-remain-unchanged-in-july</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Tue, 30 Jun 2026 15:31:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[JS passes Tk 9.38 trillion budget for FY27]]></title>
             <description><![CDATA[The Parliament on Tuesday passed a Tk 9.38 trillion national budget for 2026-27 fiscal year (FY27), setting targets to accelerate economic growth to 6.5 per cent and bring inflation down to 7.5 per cent after prolonged price pressures eroded living standards for much of the population.
@@ -5117,28 +5134,6 @@ The appointment was made with immediate effect, according to a press release iss
             <pubDate>Wed, 10 Jun 2026 13:18:20 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156768/ibbplc-tower.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156768/ibbplc-tower.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADB hosts business opportunities seminar in Dhaka]]></title>
-            <description><![CDATA[The Asian Development Bank (ADB) on Wednesday hosted a Business Opportunities Seminar (BOS) in Dhaka to highlight business opportunities arising from projects financed by ADB and the World Bank (WB).
-The event brought together over 800 representatives from government agencies, development partners]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/adb-hosts-business-opportunities-seminar-in-dhaka</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/adb-hosts-business-opportunities-seminar-in-dhaka</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 10 Jun 2026 13:06:59 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156766/new-project-2026-06-10t190603992.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156766/new-project-2026-06-10t190603992.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mastercard appoints Zakia Sultana as country manager for Bangladesh]]></title>
-            <description><![CDATA[Mastercard on Wednesday announced the appointment of Zakia Sultana as Country Manager for Bangladesh, effective immediately.
-According to a press release, the appointment comes at a pivotal moment, as the country’s payments landscape evolves from rapid digital adoption to greater interoperab]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/mastercard-appoints-zakia-sultana-as-country-manager-for-bangladesh</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/mastercard-appoints-zakia-sultana-as-country-manager-for-bangladesh</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Wed, 10 Jun 2026 13:02:02 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156762/mastercard-ceo.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156762/mastercard-ceo.jpg"/>
         </item>
     </channel>
 </rss>
