@@ -4,10 +4,26 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 00:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 05:24:27 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 00:09:50 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 05:24:27 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[World Bank to phase out China lending by 2031, source says]]></title>
+            <description><![CDATA[The World Bank will phase out its lending to China by 2031 after years of declining loans, reflecting the country's rise to become the world's second-largest economy, three sources familiar with the plan said on Tuesday.
+The World Bank's board will review the plan during the week of Jul 20, althou]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/global/world-bank-to-phase-out-china-lending-by-2031-source-says</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/world-bank-to-phase-out-china-lending-by-2031-source-says</guid>
+            <pubDate>Wed, 01 Jul 2026 05:24:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A-Challan mandatory for all govt receipts from July 1]]></title>
+            <description><![CDATA[The government has made A-Challan mandatory for depositing all public revenues and other government receipts from July 1, 2026, i.e. the start of the new fiscal, aiming to bring every government receipt into the Treasury Single Account (TSA) in real time, eliminate manual challans and strengthen pu]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/a-challan-mandatory-for-all-govt-receipts-from-july-1</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/a-challan-mandatory-for-all-govt-receipts-from-july-1</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Wed, 01 Jul 2026 05:24:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New BB chief too chooses monetary contraction]]></title>
             <description><![CDATA[Bangladesh Bank continues its contractionary monetary-policy stance with the existing elevated policy rate unchanged to curb inflationary burden though some of its recent decisions raised questions over regulatory tightfistedness.
@@ -5117,28 +5133,6 @@ At the sa]]></description>
             <pubDate>Thu, 11 Jun 2026 03:01:03 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156834/gdp-growth.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156834/gdp-growth.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Generous steps taken in budget to lure investors, PM tells parliament]]></title>
-            <description><![CDATA[A business-friendly environment is being created where everyone can operate businesses smoothly and generate employment opportunities, says Prime Minister Tarique Rahman while also pledging investment-acceleration measures.
-"We want to create opportunities for everyone to do business in a conduciv]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/generous-steps-taken-in-budget-to-lure-investors-pm-tells-parliament</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/generous-steps-taken-in-budget-to-lure-investors-pm-tells-parliament</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 11 Jun 2026 02:57:57 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156832/pm-at-tarique.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156832/pm-at-tarique.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[RMG export loses ground in American market]]></title>
-            <description><![CDATA[Bangladesh's apparel exports to the United States, its single-largest export destination, suffered a deeper setback during the first four months of this year.
-Shipments from the country showed double-digit negative growth during the period while major competitors, particularly Vietnam and Cambodia]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/rmg-export-loses-ground-in-american-market</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/rmg-export-loses-ground-in-american-market</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 11 Jun 2026 04:08:22 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156842/1781114549.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156842/1781114549.jpg"/>
         </item>
     </channel>
 </rss>
