@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 20:47:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 22:20:10 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 20:47:59 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 22:20:10 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Central bank unveils NPL combat roadmap]]></title>
+            <description><![CDATA[The central bank has unveiled a medium-term roadmap to reduce mounting non-performing loans (NPLs) through stricter supervision, faster loan recovery, legal reforms and adoption of internationally practised expected credit-loss standards.
+"The level of NPLs remains a key focus area for the banking]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bb-unveils-npl-combat-roadmap</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bb-unveils-npl-combat-roadmap</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Wed, 01 Jul 2026 22:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Revenue earning rises to Tk 4.2 trillion, shortens predicted gap]]></title>
             <description><![CDATA[Taxmen in their last-minute efforts managed to mobilise around Tk 4.20 trillion for the just-concluded fiscal year, shortening an anticipated large gap to Tk 800 billion against the revised budgetary target, officials say.
@@ -5132,17 +5141,6 @@ Presenting the Tk 9.38 trillion budget for FY2026-27 in parliament on Thursday, 
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-plans-risk-based-supervision-to-restore-confidence-in-weak-banks</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bangladesh-plans-risk-based-supervision-to-restore-confidence-in-weak-banks</guid>
             <pubDate>Thu, 11 Jun 2026 14:40:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Business-friendly budget; effective implementation is essential: DCCI President]]></title>
-            <description><![CDATA[Dhaka Chamber of Commerce & Industry (DCCI) President Taskeen Ahmed has stated that the proposed national budget for FY2026-27 can be considered as business and investment friendly.
-However, he emphasized that its actual success will depend on achieving the ambitious revenue targets and ensuring t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/business-friendly-budget-effective-implementation-is-essential-dcci-president</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/business-friendly-budget-effective-implementation-is-essential-dcci-president</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 11 Jun 2026 13:26:45 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157001/dcci.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157001/dcci.jpg"/>
         </item>
     </channel>
 </rss>
