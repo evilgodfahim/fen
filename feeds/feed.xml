@@ -4,10 +4,17 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 01 Jul 2026 05:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 09:55:06 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jul 2026 05:24:27 GMT</pubDate>
+        <pubDate>Wed, 01 Jul 2026 09:55:06 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Global aviation giants eye Bangladesh's airport transformation]]></title>
+            <description><![CDATA[Bangladesh's aviation sector has reached a significant milestone as five of the world's leading airport service providers compete to operate at Hazrat Shahjalal International Airport's (HSIA) Third Terminal, reflecting growing global confidence in the country's ambition to emerge as a regional avia]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/global-aviation-giants-eye-bangladeshs-airport-transformation</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/global-aviation-giants-eye-bangladeshs-airport-transformation</guid>
+            <pubDate>Wed, 01 Jul 2026 09:55:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Bank to phase out China lending by 2031, source says]]></title>
             <description><![CDATA[The World Bank will phase out its lending to China by 2031 after years of declining loans, reflecting the country's rise to become the world's second-largest economy, three sources familiar with the plan said on Tuesday.
@@ -5121,18 +5128,6 @@ The Duba]]></description>
             <pubDate>Thu, 11 Jun 2026 06:09:13 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156856/veon.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156856/veon.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bangladesh now half a trillion dollar economy]]></title>
-            <description><![CDATA[Bangladesh is now a half-trillion-dollar economy, as its gross domestic product (GDP) has crossed USD 500 billion mark.
-It has achieved this unique feat in the outgoing fiscal year (FY) 2025-26, marking a significant step towards its ambition of becoming a $1.0-trillion economy by 2034.
-At the sa]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh-now-half-a-trillion-dollar-economy</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh-now-half-a-trillion-dollar-economy</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Thu, 11 Jun 2026 03:01:03 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156834/gdp-growth.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/156834/gdp-growth.jpg"/>
         </item>
     </channel>
 </rss>
