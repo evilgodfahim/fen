@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 05:00:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 08:20:09 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 05:00:18 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 08:20:09 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[CRAB, BRAC EPL Investments sign MoU for strategic partnership]]></title>
+            <description><![CDATA[Credit Rating Agency of Bangladesh Ltd (CRAB) and BRAC EPL Investments Ltd have signed a memorandum of understanding (MoU) to strengthen collaboration in developing the country's financial sector and expanding investment activities.
+The MoU was signed at a ceremony held in Dhaka on Tuesday, accord]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/crab-brac-epl-investments-sign-mou-for-strategic-partnership</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/crab-brac-epl-investments-sign-mou-for-strategic-partnership</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 02 Jul 2026 08:20:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fertiliser, LNG, wheat imports approved]]></title>
             <description><![CDATA[The Cabinet Committee on Government Purchase (CCGP) at a meeting on Wednesday approved procurement of liquefied natural gas (LNG), fertiliser and wheat, among others.
@@ -5135,17 +5144,6 @@ Presenting a Tk 9.38 trillion budget for the 2026-27 fiscal year in parliament o
             <pubDate>Thu, 11 Jun 2026 16:49:45 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157064/img-7851.jpeg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157064/img-7851.jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shareholders of BRAC Bank approve 30pc dividend for 2025]]></title>
-            <description><![CDATA[The shareholders of BRAC Bank PLC have approved a 30 per cent dividend – 15 per cent in cash and 15 per cent in stock - for the year 2025.
-The approval came at the 27th Annual General Meeting (AGM) held on a virtual platform on June 11, 2026. A significant number of shareholders participated]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/shareholders-of-brac-bank-approve-30pc-dividend-for-2025</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/shareholders-of-brac-bank-approve-30pc-dividend-for-2025</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Thu, 11 Jun 2026 15:51:35 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157050/brac-bank-30.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157050/brac-bank-30.jpg"/>
         </item>
     </channel>
 </rss>
