@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 16:52:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 18:27:19 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Jul 2026 16:52:58 GMT</pubDate>
+        <pubDate>Thu, 02 Jul 2026 18:27:19 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Bangla QR logs Tk 220.2m in 48hrs: Cenbank]]></title>
+            <description><![CDATA[Highlighting a significant momentum in the country’s push toward a cashless society, the nationwide mandatory rollout of the unified "Bangla QR" payment standard recorded 77,165 transactions amounting to Tk 220.2 million over a span of just two days, central bank data showed.
+The transaction]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/bangla-qr-records-tk-2202-million-transactions-in-48-hours-bangladesh-bank</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangla-qr-records-tk-2202-million-transactions-in-48-hours-bangladesh-bank</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Thu, 02 Jul 2026 17:34:56 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160547/bangla-qr-code.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160547/bangla-qr-code.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bangladesh export earnings fall 0.58pc in FY26, miss annual target by 13pc]]></title>
             <description><![CDATA[Bangladesh's export earnings have declined in the 2025-26 fiscal year despite a sharp rebound in June, with receipts falling 0.58 per cent from the previous year to $48 billion.
@@ -5149,14 +5160,6 @@ Finance Minister Amir Khosru Mahmud Chowdhury pr]]></description>
 "Considering the potential of information technology, I propose an allocation]]></description>
             <link>https://thefinancialexpress.com.bd/economy/bangladesh/tk-50b-allocation-proposed-for-it-sector</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/tk-50b-allocation-proposed-for-it-sector</guid>
-            <pubDate>Fri, 12 Jun 2026 09:01:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Govt plans 4 new EPZs to boost jobs, regional industrialisation]]></title>
-            <description><![CDATA[The government has announced plans to establish four new export processing zones (EPZs) as part of its strategy to promote balanced regional industrialisation, attract investment and create large-scale employment opportunities across the country.
-Presenting the national budget for FY2026-27 in Par]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/govt-plans-4-new-epzs-to-boost-jobs-regional-industrialisation</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/govt-plans-4-new-epzs-to-boost-jobs-regional-industrialisation</guid>
             <pubDate>Fri, 12 Jun 2026 09:01:01 GMT</pubDate>
         </item>
     </channel>
