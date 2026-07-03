@@ -4,10 +4,18 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 14:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 16:27:52 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 03 Jul 2026 14:14:27 GMT</pubDate>
+        <pubDate>Fri, 03 Jul 2026 16:27:52 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Delhi ‘watching’ Teesta, J-10 fighter plans: report]]></title>
+            <description><![CDATA[India is “closely monitoring” Bangladesh's progress on the proposed Teesta River project and plans to purchase Chinese J-10 fighter aircraft, ANI has reported.
+On Friday, the Indian Ministry of External Affairs (MEA) reaffirmed that its development cooperation with Dhaka is guided by a]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/bangladesh/india-says-it-is-closely-watching-bangladeshs-teesta-project-chinese-jet-plans-report</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/india-says-it-is-closely-watching-bangladeshs-teesta-project-chinese-jet-plans-report</guid>
+            <pubDate>Fri, 03 Jul 2026 16:27:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BBS begins GDP rebasing to reflect changing economy]]></title>
             <description><![CDATA[The Bangladesh Bureau of Statistics (BBS) has begun the process of rebasing the country’s gross domestic product (GDP), a major statistical overhaul aimed at capturing the rapidly evolving economy by incorporating new sectors, updating  economic weights, and aligning national accounts wi]]></description>
@@ -5167,17 +5175,6 @@ Bangladesh Bank officials estimate that it will exceed $36 billion by the end of
             <pubDate>Fri, 12 Jun 2026 12:53:31 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157185/new-project-2026-06-12t185053389.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157185/new-project-2026-06-12t185053389.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Budget Reactions: Economists warn of risks]]></title>
-            <description><![CDATA[Eminent economists have described the proposed national budget for fiscal year (FY) 2026-27 as 'highly ambitious', warning that financing constraints and weak implementation capacity could pose significant challenges for the newly formed government.
-They cautioned that failure to mobilise adequate]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/budget-reactions-economists-warn-of-risks</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/budget-reactions-economists-warn-of-risks</guid>
-            <category><![CDATA[Economy]]></category>
-            <pubDate>Fri, 12 Jun 2026 05:02:20 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157116/budget-logo.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157116/budget-logo.jpg"/>
         </item>
     </channel>
 </rss>
