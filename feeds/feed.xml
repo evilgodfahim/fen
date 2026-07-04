@@ -4,10 +4,20 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 07:49:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 10:13:51 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 07:49:37 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 10:13:51 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[BanglaCAT hosts 'Freedom 250' evening reception in Chattogram with U.S. Embassy Dhaka]]></title>
+            <description><![CDATA[BanglaCAT, the authorised dealer of Caterpillar Inc. in Bangladesh, hosted a special evening reception titled "Freedom 250" in association with the U.S. Embassy Dhaka on Wednesday, July 1, 2026, at Radisson Blu Chattogram Bay View to commemorate the 250th anniversary of the Independence of the Unit]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/banglacat-hosts-freedom-250-evening-reception-in-chattogram-with-us-embassy-dhaka</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/banglacat-hosts-freedom-250-evening-reception-in-chattogram-with-us-embassy-dhaka</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Fri, 03 Jul 2026 14:41:32 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160682/dsc08298.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/160682/dsc08298.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chicken prices up, vegetables stable]]></title>
             <description><![CDATA[Chicken prices increased in the city's kitchen markets over the last one week. Prices of other essential commodities, including vegetables, onions and garlic, remained largely stable, maintaining their previous high levels.
@@ -5175,14 +5185,6 @@ Shutting down or modernising inefficient power plants, strict action against cor
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/inefficient-power-plants-to-be-shut-deals-reviewed</guid>
             <category><![CDATA[Trade]]></category>
             <pubDate>Sat, 13 Jun 2026 11:17:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GDP growth to be 4.6pc in FY27: WB]]></title>
-            <description><![CDATA[The World Bank has revised Bangladesh's growth prospect into down trajectory as it forecast the Gross Domestic Product (GDP) growth at 4.6 per cent in the upcoming fiscal year (FY) 2026-27.
-It has also downgraded Bangladesh's GDP growth projection for the outgoing FY2026 by 0.8 percentage point to]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/gdp-growth-to-be-46pc-in-fy27-wb</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/gdp-growth-to-be-46pc-in-fy27-wb</guid>
-            <pubDate>Sat, 13 Jun 2026 08:23:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
