@@ -4,10 +4,20 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 10:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 12:09:21 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 04 Jul 2026 10:13:51 GMT</pubDate>
+        <pubDate>Sat, 04 Jul 2026 12:09:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Prime Bank signs agreement with GenX Health]]></title>
+            <description><![CDATA[Prime Bank PLC has recently signed an agreement with GenX Health Ltd to offer exclusive discount to Prime Bank Neera customers.
+The signing ceremony was held recently at the bank's corporate office at Gulshan in Dhaka, according to a media release. 
+Under this agreement, Prime Bank Neera cus]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/prime-bank-signs-agreement-with-genx-health</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/prime-bank-signs-agreement-with-genx-health</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sat, 04 Jul 2026 12:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BanglaCAT hosts 'Freedom 250' evening reception in Chattogram with U.S. Embassy Dhaka]]></title>
             <description><![CDATA[BanglaCAT, the authorised dealer of Caterpillar Inc. in Bangladesh, hosted a special evening reception titled "Freedom 250" in association with the U.S. Embassy Dhaka on Wednesday, July 1, 2026, at Radisson Blu Chattogram Bay View to commemorate the 250th anniversary of the Independence of the Unit]]></description>
@@ -5176,15 +5186,6 @@ The two-day meeting follows ‌a summit between US Pres]]></description>
             <link>https://thefinancialexpress.com.bd/economy/global/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity</link>
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/global/g7-finance-chiefs-seek-to-tackle-imbalances-as-trade-strains-unity</guid>
             <pubDate>Sat, 13 Jun 2026 11:17:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inefficient power plants to be shut, deals reviewed]]></title>
-            <description><![CDATA[The government has planned to review controversial capacity charge and power- purchase agreements on power plants under a major sectoral reform to minimize electricity-generation costs.
-Shutting down or modernising inefficient power plants, strict action against corruption and ensuring and transpa]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/inefficient-power-plants-to-be-shut-deals-reviewed</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/inefficient-power-plants-to-be-shut-deals-reviewed</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sat, 13 Jun 2026 11:17:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
