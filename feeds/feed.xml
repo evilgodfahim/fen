@@ -4,10 +4,20 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 08:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 11:06:40 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 08:09:29 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 11:06:40 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[SIBL holds business review meeting in Rangpur]]></title>
+            <description><![CDATA[A business review meeting of Social Islami Bank PLC (SIBL), operating under Sammilito Islami Bank PLC, was held on Saturday at Bangladesh Bank Rangpur Office.
+A total of 17 branches of SIBL from the Rajshahi-Rangpur Region participated the meeting, says a media release.
+The review meeting was gra]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/sibl-holds-business-review-meeting-in-rangpur</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sibl-holds-business-review-meeting-in-rangpur</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Sun, 05 Jul 2026 11:06:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[NBR alerts taxpayers to fake audit calls, extortion attempts]]></title>
             <description><![CDATA[The National Board of Revenue (NBR) on Sunday warned taxpayers to remain vigilant against fraudsters impersonating tax officials and attempting to extort money by falsely claiming that their tax files have been selected for audit.
@@ -5191,17 +5201,6 @@ The funds were disbursed by the central bank on Sunday as an emergency measure f
             <pubDate>Sun, 14 Jun 2026 09:02:10 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157444/islami-bank.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157444/islami-bank.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benapole port workers suspend work abstention]]></title>
-            <description><![CDATA[A planned work abstention by handling workers at Benapole land port demanding fair wages and improved working conditions was suspended on Sunday morning shortly before its enforcement.
-Workers of Handling Labour Unions 891 and 925, engaged in cargo loading and unloading activities, were supposed t]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/benapole-port-workers-suspend-work-abstention</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/benapole-port-workers-suspend-work-abstention</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 14 Jun 2026 07:23:14 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157435/benapole-port.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157435/benapole-port.jpg"/>
         </item>
     </channel>
 </rss>
