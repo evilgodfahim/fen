@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 21:05:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 23:04:25 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 05 Jul 2026 21:05:24 GMT</pubDate>
+        <pubDate>Sun, 05 Jul 2026 23:04:25 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Regulatory panacea fails to resuscitate investment, spur economic growth]]></title>
+            <description><![CDATA[Regulatory panacea works little to resuscitate investment and economic expansion as formal private credit growth stays almost stagnant in signs of prolonged slowdown in Bangladesh's private-sector-led economy.
+To breathe life into the $500-billion-plus economy after months of sluggishness, Banglad]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/regulatory-panacea-fails-to-resuscitate-investment-spur-economic-growth</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/regulatory-panacea-fails-to-resuscitate-investment-spur-economic-growth</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Sun, 05 Jul 2026 18:37:07 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161019/p1-lead-gdp-growth.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161019/p1-lead-gdp-growth.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cenbank sets new rules for audit firms on cash incentives]]></title>
             <description><![CDATA[Bangladesh Bank (BB) on Sunday issued fresh directives regarding the appointment of audit firms to examine applications for alternative cash assistance and export subsidies in customs bonds and duty draw-backs for export-oriented domestic textile and other applicable sectors.
@@ -5198,17 +5209,6 @@ The event was held under the directives of Bangladesh Bank and in cooperation wi
             <pubDate>Sun, 14 Jun 2026 15:06:57 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157522/trust-bank-5.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157522/trust-bank-5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Southeast Bank holds workshop on empowering women entrepreneurs]]></title>
-            <description><![CDATA[Southeast Bank PLC successfully organized an exclusive workshop titled &ldquo;Empowering Women Entrepreneurs of the Bank through Strengthening the Customer Service&rdquo; at the bank&rsquo;s Training Institute recently, according to a press release.
-The workshop was graced with insightful directio]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/southeast-bank-holds-workshop-on-empowering-women-entrepreneurs</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/southeast-bank-holds-workshop-on-empowering-women-entrepreneurs</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Sun, 14 Jun 2026 14:55:48 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157520/southeast-27.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157520/southeast-27.jpg"/>
         </item>
     </channel>
 </rss>
