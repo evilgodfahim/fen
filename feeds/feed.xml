@@ -4,10 +4,24 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 06 Jul 2026 20:55:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jul 2026 22:16:21 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 06 Jul 2026 20:55:43 GMT</pubDate>
+        <pubDate>Mon, 06 Jul 2026 22:16:21 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Average annual inflation cools to 8.68 per cent in FY26]]></title>
+            <description><![CDATA[A tightfisted policy stance on the monetary front and supply bounties pay off as Bangladesh saw 12-month average inflation rate for the just-concluded financial year fall significantly to 8.68 per cent from preceding double-digit level.
+
+
+
+The rate dropped from 10.03 per cent in the previous]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/average-annual-inflation-cools-to-868-per-cent-in-fy26</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/average-annual-inflation-cools-to-868-per-cent-in-fy26</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Mon, 06 Jul 2026 19:07:02 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161203/p1-info-inflation-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161203/p1-info-inflation-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Half of humanity to be affected by global crisis in housing: UN report]]></title>
             <description><![CDATA[Nearly half of humanity may be affected by a global crisis in housing, according to a new UN report 
@@ -5194,17 +5208,6 @@ The program was implemented by Shahjalal Islami Bank PLC with the initiative and
             <pubDate>Mon, 15 Jun 2026 14:02:00 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157709/sjbl-edp.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157709/sjbl-edp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SBAC Bank’s 13th AGM held]]></title>
-            <description><![CDATA[SBAC Bank PLC.’s Chairman, Engr. Md. Moklesur Rahman, presided over the bank’s 13th Annual General Meeting (AGM), held at the RAOWA Convention Center in Dhaka on Monday, June 15, 2026, through a hybrid system.
-The shareholders approved the audited financial statements for the year ende]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/sbac-banks-13th-agm-held</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/sbac-banks-13th-agm-held</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Mon, 15 Jun 2026 13:50:57 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157705/sbac-pr.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157705/sbac-pr.jpg"/>
         </item>
     </channel>
 </rss>
