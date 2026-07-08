@@ -4,10 +4,19 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 08 Jul 2026 06:31:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jul 2026 09:27:03 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 08 Jul 2026 06:31:09 GMT</pubDate>
+        <pubDate>Wed, 08 Jul 2026 09:27:03 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[Saudi introduces 'Package Visa' integrating travel bookings]]></title>
+            <description><![CDATA[Saudi Arabia has launched 'Package Visa', a new digital initiative designed to simplify travel to the kingdom by integrating tourist visa applications directly into curated travel bookings.
+The rollout is under way through qualified travel and tourism service providers across selected internationa]]></description>
+            <link>https://thefinancialexpress.com.bd/trade/saudi-introduces-package-visa-integrating-travel-bookings-with-tourist-visa-process</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/saudi-introduces-package-visa-integrating-travel-bookings-with-tourist-visa-process</guid>
+            <category><![CDATA[Trade]]></category>
+            <pubDate>Wed, 08 Jul 2026 09:27:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trillion-dollar economy dream needs 'reforms']]></title>
             <description><![CDATA[The ambition to elevate Bangladesh into a trillion-dollar economy by 2034 fundamentally demands sweeping institutional reforms, as structural overhauls and good governance are indispensable for sustainable qualitative development, said eminent economist Biru Paksha Paul.
@@ -5200,17 +5209,6 @@ Brent crude futures were down $3.20, o]]></description>
             <pubDate>Tue, 16 Jun 2026 15:30:20 GMT</pubDate>
             <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157911/oil-market-5.jpg" medium="image"/>
             <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157911/oil-market-5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pubali Bank holds 43rd Annual General Meeting]]></title>
-            <description><![CDATA[The 43rd Annual General Meeting (AGM) of Pubali Bank PLC., one of the country’s leading private commercial banks, was held virtually on 16 June 2026. The meeting was chaired by Monzurur Rahman, Chairman of the Board of Directors of Pubali Bank PLC.
-Directors Habibur Rahman, Rumana Sharif, Az]]></description>
-            <link>https://thefinancialexpress.com.bd/trade/pubali-bank-holds-43rd-annual-general-meeting</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/pubali-bank-holds-43rd-annual-general-meeting</guid>
-            <category><![CDATA[Trade]]></category>
-            <pubDate>Tue, 16 Jun 2026 14:23:24 GMT</pubDate>
-            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157898/pubali-bank-5.jpg" medium="image"/>
-            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/157898/pubali-bank-5.jpg"/>
         </item>
     </channel>
 </rss>
