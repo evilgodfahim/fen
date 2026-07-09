@@ -11,7 +11,7 @@ jobs:
     
     services:
       flaresolverr:
-        image: ghcr.io/germondai/trawl:latest
+        image: ghcr.io/flaresolverr/flaresolverr:latest
         ports:
           - 8191:8191
         env:
