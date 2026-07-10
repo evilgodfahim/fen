@@ -4,10 +4,21 @@
         <description><![CDATA[Latest Economy and Trade news from The Financial Express Bangladesh]]></description>
         <link>https://thefinancialexpress.com.bd</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 18:38:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 20:25:53 GMT</lastBuildDate>
         <atom:link href="https://thefinancialexpress.com.bd/economy" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 10 Jul 2026 18:38:13 GMT</pubDate>
+        <pubDate>Fri, 10 Jul 2026 20:25:53 GMT</pubDate>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[IMF to assess BD macroeconomic situation, negotiate new credit prog]]></title>
+            <description><![CDATA[An International Monetary Fund (IMF) team will engage in weeklong parleys with finance officials from tomorrow to assess Bangladesh's macroeconomic situation and discuss new financing packages, officials say.
+The IMF Mission Chief for Bangladesh, Ivo Krznar, will lead the 11-memebr delegation whic]]></description>
+            <link>https://thefinancialexpress.com.bd/economy/imf-to-assess-bd-macroeconomic-situation-negotiate-new-credit-prog</link>
+            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/imf-to-assess-bd-macroeconomic-situation-negotiate-new-credit-prog</guid>
+            <category><![CDATA[Economy]]></category>
+            <pubDate>Fri, 10 Jul 2026 18:32:01 GMT</pubDate>
+            <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161917/p1-info-imf-outline.jpg" medium="image"/>
+            <media:thumbnail url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/161917/p1-info-imf-outline.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khosru confident of achieving FY27 revenue target]]></title>
             <description><![CDATA[Finance Minister Amir Khosru Mahmud Chowdhury on Thursday expressed his deep optimism about National Board of Revenue (NBR) meeting its record revenue collection target set for the current fiscal year (FY 2026-27), despite years of repeated shortfalls.
@@ -5214,14 +5225,6 @@ The dos he lists include stronger legal action against tax-dodging, expanded dig
             <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/tax-gdp-ratio-can-be-raised-to-10pc-in-5-years-pm-tells-js</guid>
             <category><![CDATA[Trade]]></category>
             <pubDate>Thu, 18 Jun 2026 16:39:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[BB eases forex rules for ship leasing by local firms]]></title>
-            <description><![CDATA[The central bank has allowed authorized dealer (AD) banks to facilitate outward remittances for lease rentals of ships and vessels by shipping companies incorporated in Bangladesh, aiming to strengthen the maritime sector.
-The banks may execute such remittances in accordance with the existing fore]]></description>
-            <link>https://thefinancialexpress.com.bd/economy/bangladesh/bb-eases-forex-rules-for-ship-leasing-by-local-firms</link>
-            <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bangladesh/bb-eases-forex-rules-for-ship-leasing-by-local-firms</guid>
-            <pubDate>Thu, 18 Jun 2026 12:58:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
