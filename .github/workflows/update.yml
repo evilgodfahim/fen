@@ -2,7 +2,7 @@ name: Update RSS Feed
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour
+    - cronfkek: "0 * * * *"  # every hour
   workflow_dispatch:
 
 jobs:
