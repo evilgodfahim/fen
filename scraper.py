@@ -1,11 +1,10 @@
-# scraper.py
 #!/usr/bin/env python3
 """
 The Financial Express (thefinancialexpress.com.bd) scraper.
 
-Outputs:
-  outputs/fe_homepage.xml
-  outputs/fe_editorial_views.xml
+Outputs in repo root:
+  fe_homepage.xml
+  fe_editorial_views.xml
 """
 
 import re
@@ -36,9 +35,6 @@ HEADERS = {
 REQUEST_TIMEOUT = 30
 RETRY_DELAYS = [3, 7]
 INTER_PAGE_DELAY = 2
-
-OUTPUT_DIR = Path("outputs")
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def fetch_html(url: str) -> Optional[BeautifulSoup]:
@@ -171,14 +167,16 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
                 image_url = src
 
         seen_urls.add(href)
-        articles.append({
-            "url": href,
-            "title": heading,
-            "category": category,
-            "published": pub_time,
-            "snippet": snippet,
-            "image": image_url,
-        })
+        articles.append(
+            {
+                "url": href,
+                "title": heading,
+                "category": category,
+                "published": pub_time,
+                "snippet": snippet,
+                "image": image_url,
+            }
+        )
 
     return articles
 
@@ -244,7 +242,7 @@ def main() -> None:
         source_urls=[BASE_URL + "/"],
         articles=home_articles,
     )
-    home_path = OUTPUT_DIR / "fe_homepage.xml"
+    home_path = Path("fe_homepage.xml")
     home_path.write_text(home_xml, encoding="utf-8")
     print(f"\nSaved {len(home_articles)} articles -> {home_path}")
 
@@ -264,7 +262,7 @@ def main() -> None:
         ],
         articles=combined,
     )
-    ev_path = OUTPUT_DIR / "fe_editorial_views.xml"
+    ev_path = Path("fe_editorial_views.xml")
     ev_path.write_text(combined_xml, encoding="utf-8")
     print(f"Saved {len(combined)} articles -> {ev_path}")
 
