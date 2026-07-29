@@ -1,0 +1,710 @@
+<?xml version="1.0" ?>
+<feed xmlns:atom="http://www.w3.org/2005/Atom">
+  <title>The Financial Express — Home Page</title>
+  <link>https://thefinancialexpress.com.bd</link>
+  <generator>scraper.py</generator>
+  <scraped_at>2026-07-29T11:23:34.067344+00:00</scraped_at>
+  <source_urls>
+    <url>https://thefinancialexpress.com.bd/</url>
+  </source_urls>
+  <article_count>108</article_count>
+  <article>
+    <title>India is eagerly waiting for PM’s Delhi visit: Trivefi</title>
+    <url>https://thefinancialexpress.com.bd/national/no-option-but-to-sell-abandoned-medical-equipment-as-scrap-says-health-minister-sakhawat</url>
+    <category>National</category>
+    <published>1 minute ago</published>
+    <snippet>Medical equipment purchased and left unused will ultimately have to be sold to scrap dealers, Health Minister Sardar Md Sakhawat Husain has said, citing examples of unnecessary procurement and wasteful spending in the health sector. Speaking at a research findings dissemination event on addressing</snippet>
+  </article>
+  <article>
+    <title>India is eagerly waiting for PM’s Delhi visit: Trivefi</title>
+    <url>https://thefinancialexpress.com.bd/national/india-is-eagerly-waiting-for-pms-delhi-visit-trivefi</url>
+    <category>National</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>Ctg ‘criminal’ David Emon arrested</title>
+    <url>https://thefinancialexpress.com.bd/national/ctg-criminal-david-emon-arrested</url>
+    <category>National</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>Jamaat asks EC to lift MPO teacher election bar</title>
+    <url>https://thefinancialexpress.com.bd/national/jamaat-asks-ec-to-lift-mpo-teacher-election-bar</url>
+    <category>National</category>
+    <published>2 hours ago</published>
+  </article>
+  <article>
+    <title>Top court allows Ctg-2 MP Sarwar to continue duties as MP</title>
+    <url>https://thefinancialexpress.com.bd/politics/top-court-allows-chattogram-2-mp-sarwar-to-continue-duties-as-mp</url>
+    <category>Politics</category>
+    <published>5 hours ago</published>
+  </article>
+  <article>
+    <title>IMF recommends unified TIN for Bangladesh to curb tax evasion</title>
+    <url>https://thefinancialexpress.com.bd/trade/imf-recommends-unified-tin-for-bangladesh-to-improve-transparency-curb-tax-evasion</url>
+    <category>Trade</category>
+    <published>5 hours ago</published>
+  </article>
+  <article>
+    <title>Govt spending must improve people’s lives: Fakhrul</title>
+    <url>https://thefinancialexpress.com.bd/national/government-spending-must-improve-peoples-lives-says-fakhrul</url>
+    <category>National</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>Bangladesh has only 189 tigers left: Minister</title>
+    <url>https://thefinancialexpress.com.bd/environment/bangladesh-has-only-189-tigers-left-minister</url>
+    <category>Environment</category>
+    <published>2 hours ago</published>
+  </article>
+  <article>
+    <title>ICT not upholding international legal standards: HRW</title>
+    <url>https://thefinancialexpress.com.bd/national/ict-not-upholding-international-legal-standards-hrw</url>
+    <category>National</category>
+    <published>3 hours ago</published>
+  </article>
+  <article>
+    <title>BB introduces framework for bank-intermediated cross-border digital payments</title>
+    <url>https://thefinancialexpress.com.bd/national/bb-introduces-framework-for-bank-intermediated-cross-border-digital-payments</url>
+    <category>National</category>
+    <published>3 hours ago</published>
+  </article>
+  <article>
+    <title>Measles: 3 more die in a day</title>
+    <url>https://thefinancialexpress.com.bd/health/measles-death-toll-stands-at-831-as-3-more-children-die-in-24-hours</url>
+    <category>Health</category>
+    <published>38 minutes ago</published>
+  </article>
+  <article>
+    <title>Mosharraf Hossain takes charge as CID chief</title>
+    <url>https://thefinancialexpress.com.bd/national/mosharraf-hossain-takes-charge-as-cid-chief</url>
+    <category>National</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>Iran rules out Omani proposal to manage Strait of Hormuz</title>
+    <url>https://thefinancialexpress.com.bd/world/iran-rules-out-omani-proposal-to-manage-strait-of-hormuz</url>
+    <category>World</category>
+    <published>2 hours ago</published>
+  </article>
+  <article>
+    <title>Apple briefly tops $5 trillion market value for first time</title>
+    <url>https://thefinancialexpress.com.bd/stock/apple-briefly-tops-5-trillion-market-value-for-first-time</url>
+    <category>Stock</category>
+    <published>4 hours ago</published>
+  </article>
+  <article>
+    <title>FIFA plans stake sale in $20b World Cup subsidiary, angering UEFA</title>
+    <url>https://thefinancialexpress.com.bd/sports/fifa-plans-to-sell-stakes-in-20-billion-subsidiary-to-run-world-cup-angering-uefa</url>
+    <category>Sports</category>
+    <published>5 hours ago</published>
+  </article>
+  <article>
+    <title>UK PM Burnham to stick to tax promises in reforming social care</title>
+    <url>https://thefinancialexpress.com.bd/trade/uk-pm-burnham-to-stick-to-tax-promises-in-reforming-social-care</url>
+    <category>Trade</category>
+    <published>6 minutes ago</published>
+  </article>
+  <article>
+    <title>Banglalink’s AI-powered digital lifestyle brand RYZE wins global award for AI Innovation</title>
+    <url>https://thefinancialexpress.com.bd/trade/banglalinks-ai-powered-digital-lifestyle-brand-ryze-wins-global-award-for-ai-innovation</url>
+    <category>Trade</category>
+    <published>31 minutes ago</published>
+  </article>
+  <article>
+    <title>Japan's national population hits 42-year low</title>
+    <url>https://thefinancialexpress.com.bd/world/japans-national-population-hits-42-year-low</url>
+    <category>World</category>
+    <published>39 minutes ago</published>
+  </article>
+  <article>
+    <title>Nagad hands over Tk 185.6m revenue share to Directorate of Posts</title>
+    <url>https://thefinancialexpress.com.bd/trade/nagad-hands-over-tk-1856m-revenue-share-to-directorate-of-posts</url>
+    <category>Trade</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>Two die of electrocution while removing fallen tree in Gaibandha</title>
+    <url>https://thefinancialexpress.com.bd/national/two-die-of-electrocution-while-removing-fallen-tree-in-gaibandha</url>
+    <category>National</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>US-Bangla unveils $1.5b plan for 21 Boeing aircraft</title>
+    <url>https://thefinancialexpress.com.bd/trade/us-bangla-unveils-15b-plan-for-21-boeing-aircraft</url>
+    <category>Trade</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>How to keep mosquitoes out of your apartment</title>
+    <url>https://thefinancialexpress.com.bd/others/how-to-keep-mosquitoes-out-of-your-apartment</url>
+    <category>Others</category>
+    <published>1 hour ago</published>
+  </article>
+  <article>
+    <title>Achieving Ctg Port's global competitiveness</title>
+    <url>https://thefinancialexpress.com.bd/editorial/achieving-ctg-ports-global-competitiveness</url>
+    <category>Editorial</category>
+    <published>17 hours ago</published>
+    <snippet>Bangladesh's premier seaport, Chattogram Port, still lags behind most of its regional and global competitors in terms of its operational metrics such as container import dwell time (CIDT). It directly inflates national logistics, causes disruption to manufacturing supply chains and risks fore</snippet>
+  </article>
+  <article>
+    <title>Bus operation in city under a franchise-based model</title>
+    <url>https://thefinancialexpress.com.bd/columns/bus-operation-in-city-under-a-franchise-based-model</url>
+    <category>Columns</category>
+    <published>17 hours ago</published>
+    <snippet>The latest initiative to overhaul Dhaka's bus network may well prove to be the most ambitious attempt yet to bring order to one of the world's most chaotic urban transport systems. The Dhaka Transport Coordination Authority (DTCA) has shortlisted 60 bus routes for operation under a single-company f</snippet>
+  </article>
+  <article>
+    <title>Bangladesh's leap to a civic digital future</title>
+    <url>https://thefinancialexpress.com.bd/opinions/bangladeshs-leap-to-a-civic-digital-future</url>
+    <category>Opinions</category>
+    <published>17 hours ago</published>
+    <snippet>A nation’s progress is contingent upon a multifaceted strategy, outlining how effectively and efficiently the lives of people improve through the adept management of various systems. This progress rests on four crucial elements: economic innovation, the human element, institutional &amp; social m</snippet>
+  </article>
+  <article>
+    <title>Removing barriers to achieving goal of a trillion-dollar economy</title>
+    <url>https://thefinancialexpress.com.bd/views/removing-barriers-to-achieving-goal-of-a-trillion-dollar-economy</url>
+    <category>Views</category>
+    <published>17 hours ago</published>
+    <snippet>The Bangladesh government is determined to build a US$1 trillion economy by 2034, and Prime Minister Tarique Rahman has invited foreign investors to partner in the country's economic transformation. Highlighting Bangladesh's strengths, the Prime Minister emphasised that the country's large and exp</snippet>
+  </article>
+  <article>
+    <title>S&amp;P warns banking sector weakness, global risks threaten Bangladesh's economic recovery</title>
+    <url>https://thefinancialexpress.com.bd/economy/sp-warns-banking-sector-weakness-global-risks-threaten-bangladeshs-economic-recovery</url>
+    <category>Economy</category>
+    <published/>
+    <snippet>S&amp;P Global Ratings has revised Bangladesh's long-term sovereign credit outlook from stable to negative, citing persistent banking sector weaknesses, sticky inflation and uncertainty in global energy markets. The agency, however, affirmed B...</snippet>
+  </article>
+  <article>
+    <title>Development spending dips to a very worrying level</title>
+    <url>https://thefinancialexpress.com.bd/economy/development-spending-dips-to-a-very-worrying-level</url>
+    <category>Economy</category>
+    <published/>
+    <snippet>Government agencies exposed their weakest capacity in implementing development programme as an unprecedented slowdown in public spending left over Tk 1.0 trillion unspent until penultimate month of last fiscal year, squeezing Bangladesh's &amp;...</snippet>
+  </article>
+  <article>
+    <title>Banks' liquidity bloats amid sluggish credit demand, rising deposits</title>
+    <url>https://thefinancialexpress.com.bd/economy/banks-liquidity-bloats-amid-sluggish-credit-demand-rising-deposits</url>
+    <category>Economy</category>
+    <published/>
+    <snippet>Scheduled banks now seem to be in a quandary with excess liquidity buildup following deposit resurgence and weak loan demand amid prolonged economic slowdown, bankers say. Amid various regulatory moves and deposit-mobilising drives b...</snippet>
+  </article>
+  <article>
+    <title>China economic zone to usher in new era of industrialisation, jobs: Salahuddin</title>
+    <url>https://thefinancialexpress.com.bd/economy/china-economic-zone-to-usher-in-new-era-of-industrialisation-jobs-salahuddin</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>Defaulted loans leave many banks facing capital, provisioning deficits: BB</title>
+    <url>https://thefinancialexpress.com.bd/economy/defaulted-loans-leave-many-banks-facing-capital-provisioning-deficits-bb</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>Number of ‘crorepatis’ jumped by 21pc during interim govt’s tenure: Bangladesh Bank data</title>
+    <url>https://thefinancialexpress.com.bd/economy/number-of-crorepatis-jumped-by-21pc-during-interim-govts-tenure-bangladesh-bank-data</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>Bangladesh sets $63.4b export target for FY27</title>
+    <url>https://thefinancialexpress.com.bd/economy/bangladesh-sets-634b-export-target-for-fy27</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>NBR seeks 5yr pharma output data to verify VAT compliance</title>
+    <url>https://thefinancialexpress.com.bd/economy/nbr-seeks-5yr-pharma-output-data-to-verify-vat-compliance</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>Bangladesh gets edge over competitors in US labour tariff on 60 countries</title>
+    <url>https://thefinancialexpress.com.bd/economy/bangladesh-gets-edge-over-competitors-in-us-labour-tariff-on-60-countries</url>
+    <category>Economy</category>
+    <published/>
+  </article>
+  <article>
+    <title>World is sleepwalking into a development finance crisis</title>
+    <url>https://thefinancialexpress.com.bd/views/world-is-sleepwalking-into-a-development-finance-crisis</url>
+    <category>Views</category>
+    <published/>
+    <snippet>The world's next financial crisis is unlikely to begin on Wall Street. It may begin quietly-in the budgets of developing countries struggling to finance the future. For decades, financial crises have typically been viewed through the lens...</snippet>
+  </article>
+  <article>
+    <title>Beyond the FDI rebound</title>
+    <url>https://thefinancialexpress.com.bd/views/beyond-the-fdi-rebound</url>
+    <category>Views</category>
+    <published/>
+    <snippet>When UNCTAD released its World Investment Report 2026 on July 7, the headline appeared encouraging. Foreign direct investment (FDI) in Bangladesh rose 45 per cent in 2025, reaching $1.78 billion — the fastest growth rate in South Asia...</snippet>
+  </article>
+  <article>
+    <title>Bangladesh's cashless economy</title>
+    <url>https://thefinancialexpress.com.bd/views/bangladeshs-cashless-economy</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Bangladesh’s digital payment ecosystem has made remarkable progress over the past decade. Mobile financial services have accumulated hundreds of millions of registered accounts, transaction volumes continue to grow at double-digit rat...</snippet>
+  </article>
+  <article>
+    <title>A misguided proposal of demonetization</title>
+    <url>https://thefinancialexpress.com.bd/columns/a-misguided-proposal-of-demonetization</url>
+    <category>Columns</category>
+    <published/>
+    <snippet>It was 51 years ago that the Bangladesh government, for the first time in the country’s history, demonetised the Tk 100 banknote. The decision to invalidate the banknote, the highest-value note at the time, was driven by the urgency t...</snippet>
+  </article>
+  <article>
+    <title>Confidence Infrastructure to enter stock market, appoints UCB Investment as IPO issue manager</title>
+    <url>https://thefinancialexpress.com.bd/stock/confidence-infrastructure-to-enter-stock-market-appoints-ucb-investment-as-ipo-issue-manager</url>
+    <category>Stock</category>
+    <published/>
+    <snippet>Confidence Infrastructure PLC, a member of Confidence Group, has decided to enter the capital market through an Initial Public Offering (IPO), appointing UCB Investment as the issue manager for the proposed IPO. The company has signed an i...</snippet>
+  </article>
+  <article>
+    <title>Stocks open higher as earnings optimism lifts investor sentiment</title>
+    <url>https://thefinancialexpress.com.bd/stock/stocks-gain-early-as-earnings-boost-investor-sentiment</url>
+    <category>Stock</category>
+    <published/>
+    <snippet>Stocks opened higher on Wednesday as investors continued accumulating fundamentally strong and selective shares, buoyed by optimism surrounding the ongoing corporate earnings season. Market operators said investor sentiment strengthened as...</snippet>
+  </article>
+  <article>
+    <title>The myth of 300,000 registered entities with RJSC</title>
+    <url>https://thefinancialexpress.com.bd/opinions/the-myth-of-300000-registered-entities-with-rjsc</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>Bangladesh's business landscape is often described with a headline statistic: more than 300,000 entities are registered with the Registrar of Joint Stock Companies and Firms (RJSC). This figure is quoted routinely — by policymakers, d...</snippet>
+  </article>
+  <article>
+    <title>Bringing truth back to land registration</title>
+    <url>https://thefinancialexpress.com.bd/columns/bringing-truth-back-to-land-registration</url>
+    <category>Columns</category>
+    <published/>
+    <snippet>As the National Board of Revenue embarks on its customary round of pre-budget consultations with business associations, economists, journalists and other stakeholders ahead of the upcoming national budget, the fiscal pressures bearing down...</snippet>
+  </article>
+  <article>
+    <title>Made in Faridpur, sold in America</title>
+    <url>https://thefinancialexpress.com.bd/analysis/made-in-faridpur-sold-in-america</url>
+    <category>Analysis</category>
+    <published/>
+    <snippet>Embracing Bangladesh as their adopted home, American couple Jacob and Joya Berlin have built Action Joy Enterprise, a social venture that helps trafficking victims and trauma survivors heal and also reclaim their lives by earning a dignifie...</snippet>
+  </article>
+  <article>
+    <title>Ten industrial economy myths</title>
+    <url>https://thefinancialexpress.com.bd/opinions/ten-industrial-economy-myths</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>For developing high-performing industrial economy, Bangladesh must pay attention to wealth creation from technology possibilities to be in the global race to migrate the innovation epicentres in selected areas...</snippet>
+  </article>
+  <article>
+    <title>Beauty Rani expresses gratitude for support</title>
+    <url>https://thefinancialexpress.com.bd/national/beauty-rani-expresses-gratitude-for-support</url>
+    <category>National</category>
+    <published/>
+    <snippet>Two people died from electrocution while removing a fallen coconut tree from a road in Gobindaganj upazila of Gaibandha district on Wednesday morning. The deceased were identified as Mowla, 35, son of Aibuddin of Patharepara village and Az...</snippet>
+  </article>
+  <article>
+    <title>The retreat that has raised a few eyebrows</title>
+    <url>https://thefinancialexpress.com.bd/columns/the-retreat-that-has-raised-a-few-eyebrows</url>
+    <category>Columns</category>
+    <published/>
+    <snippet>The government's decision to abandon its plan to halve the monthly vehicle maintenance allowance for a section of senior civil servants has raised a few eyebrows. What initially appeared to be a modest but symbolically important austerity m...</snippet>
+  </article>
+  <article>
+    <title>Microplastics becoming a public health threat</title>
+    <url>https://thefinancialexpress.com.bd/opinions/microplastics-becoming-a-public-health-threat</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>A year-long study by a Non-Government Organisation (NGO) found microplastics in 26 out of 34 toothpaste samples representing 19 brands. Notably, 22 of 25 locally manufactured samples and four of six children's products tested positive for m...</snippet>
+  </article>
+  <article>
+    <title>Felling of trees by forest officials</title>
+    <url>https://thefinancialexpress.com.bd/opinions/felling-of-trees-by-forest-officials</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>Every human being has his arguments to justify whatever he does irrespective of whether his reasoning is sound and acceptable or if it stands careful scrutiny. The Forest Department officials in Kamalganj upazila of Moulvibazar did not also...</snippet>
+  </article>
+  <article>
+    <title>কালিয়াকৈরে কৃষি ব্যাংক ব্যবস্থাপককে অপহরণ ও নির্যাতনের নিন্দা জেবিএবির</title>
+    <url>https://thefinancialexpress.com.bd/bn/kaliyakoire-krrishi-bzangk-bzbsthapkke-ophrn-oo-nirzatner-ninda-jebiebir</url>
+    <category>Bn</category>
+    <published/>
+    <snippet>গাজীপুরের কালিয়াকৈরে বাংলাদেশ কৃষি ব্যাংকের শাখা ব্যবস্থাপক আব্দুস সবুরকে অপহরণ, মুক্তিপণ আদায় এবং ভল্টের চাবির জন্য নির্যাতনের ঘটনায় তীব্র নিন্দা জানিয়েছে জাতীয়তাবাদী ব্যাংকার্স অ্যাসোসিয়েশন বাংলাদেশ (জেবিএবি)। রোববার সংগঠনের যুগ্ম আহ্বায়...</snippet>
+  </article>
+  <article>
+    <title>ব্যাংক কর্মকর্তা আরিফুল হত্যায় জড়িত ব্যক্তিদের গ্রেপ্তার দাবি জেবিএবির</title>
+    <url>https://thefinancialexpress.com.bd/bn/bzangk-krmkrta-ariful-htzay-jrit-bzktider-greptar-dabi-jebiebir</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>নতুন বছরে যে স্কিলগুলো আপনাকে এগিয়ে রাখবে</title>
+    <url>https://thefinancialexpress.com.bd/bn/ntun-bchre-ze-skilgulo-apnake-egiye-rakhbe</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>শিশুর বিকাশে যে দশটি বই গুরুত্বপূর্ণ</title>
+    <url>https://thefinancialexpress.com.bd/bn/sisur-bikase-ze-dsti-bi-gurutwpuurn</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>২০২৬: প্রযুক্তিতে যা থাকছে</title>
+    <url>https://thefinancialexpress.com.bd/bn/2026-prjuktite-za-thakche-1</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>আইপিএল: ক্রিকেটের মুখোশে পুঁজি, ক্ষমতা ও নৈতিক সংকটের গল্প</title>
+    <url>https://thefinancialexpress.com.bd/bn/aipiel-kriketer-mukhose-punnji-kshmta-oo-noitik-sngkter-glp</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>কেন আখতারুজ্জামান ইলিয়াস পড়া জরুরি?</title>
+    <url>https://thefinancialexpress.com.bd/bn/ken-akhtarujjaman-iliyas-pra-jruri</url>
+    <category>Bangla</category>
+    <published/>
+  </article>
+  <article>
+    <title>ঢাকার শীতে 'সাশ্রয়ী' কেনাকাটা: সেরা কিছু গন্তব্য</title>
+    <url>https://thefinancialexpress.com.bd/bn/dhakar-seete-sasrzee-kenakata-sera-kichu-gntbz</url>
+    <category>Bangla</category>
+    <published/>
+    <snippet>ব্যস্ততম ঢাকা শহরে শীতের আগমন মানেই ফ্যাশন আর কেনাকাটার ধুম। ছোট বাচ্চাদের শীতপোশাক থেকে শুরু করে বড়দের পোশাক উভয়েরই এই সময়ে বেশ চাহিদা থাকে। তবে স্টাইলিশ শীতের পোশাক মানেই যে অনেক খরচ, তা কিন্তু নয়। ঢাকার এমন কিছু জায়গা আছে যেখানে তুলনামূল...</snippet>
+  </article>
+  <article>
+    <title>শীতকালে যেভাবে ঘরোয়া উপায়ে ত্বকের যত্ন নেবেন</title>
+    <url>https://thefinancialexpress.com.bd/bn/seetkale-zevabe-ghroya-upaye-twker-ztn-neben</url>
+    <category>Bangla</category>
+    <published/>
+    <snippet>শীতকাল এলেই ত্বকের উপর এর প্রভাবটা যেন সবার আগে চোখে পড়ে। বাতাসের আর্দ্রতা কমে যাওয়া, চারপাশের শুষ্ক পরিবেশ আর ঠান্ডা বাতাস ত্বকের কোমলতা কেড়ে নেয়। অনেকের ত্বক খসখসে হয়ে যায়, কারও কারও ত্বকে টান-টান ভাব দেখা দেয়। আবার অনেকের নিশপিশ ও ত্বক ফ...</snippet>
+  </article>
+  <article>
+    <title>আতশবাজি থেকে যেভাবে নিরাপদ রাখবেন আপনার পোষা প্রানীকে</title>
+    <url>https://thefinancialexpress.com.bd/bn/atsbaji-theke-zevabe-nirapd-rakhben-apnar-posha-praneeke</url>
+    <category>Bangla</category>
+    <published/>
+    <snippet>নতুন বছর মানেই মানুষের জীবনে হাসি, গান আর আতশবাজির ঝলকানি। আমরা যখন ঘড়ির কাটার দিকে তাকিয়ে কাউন্টডাউনের অপেক্ষা করি, ঠিক তখনই শহরের প্রাণীগুলো মুখোমুখি হয় অন্য এক বাস্তবতার। আতশবাজির বিকট শব্দে কেঁপে ওঠে পথকুকুর, কার্নিশে বসে থাকা পাখিরা দি...</snippet>
+  </article>
+  <article>
+    <title>The curious case of our football craze</title>
+    <url>https://thefinancialexpress.com.bd/views/the-curious-case-of-our-football-craze</url>
+    <category>Views</category>
+    <published/>
+  </article>
+  <article>
+    <title>An opportunity to unravel mystery surrounding Zia's assassination</title>
+    <url>https://thefinancialexpress.com.bd/reviews/an-opportunity-to-unravel-mystery-surrounding-zias-assassination</url>
+    <category>Reviews</category>
+    <published/>
+  </article>
+  <article>
+    <title>Future of AI-driven digital currency in Bangladesh</title>
+    <url>https://thefinancialexpress.com.bd/reviews/future-of-ai-driven-digital-currency-in-bangladesh</url>
+    <category>Reviews</category>
+    <published/>
+  </article>
+  <article>
+    <title>Forging a path through the polycrisis at SDC 2026</title>
+    <url>https://thefinancialexpress.com.bd/reviews/forging-a-path-through-the-polycrisis-at-sdc-2026</url>
+    <category>Reviews</category>
+    <published/>
+  </article>
+  <article>
+    <title>Devising strategy for overcoming energy crisis</title>
+    <url>https://thefinancialexpress.com.bd/opinions/devising-strategy-for-overcoming-energy-crisis</url>
+    <category>Opinions</category>
+    <published/>
+  </article>
+  <article>
+    <title>Gas crisis turning into a food-security issue</title>
+    <url>https://thefinancialexpress.com.bd/columns/gas-crisis-turning-into-a-food-security-issue</url>
+    <category>Columns</category>
+    <published/>
+  </article>
+  <article>
+    <title>Life is sweeter when it overcomes crises with aplomb</title>
+    <url>https://thefinancialexpress.com.bd/analysis/life-is-sweeter-when-it-overcomes-crises-with-aplomb</url>
+    <category>Analysis</category>
+    <published/>
+  </article>
+  <article>
+    <title>When extreme weather and political short-sightedness complement each other</title>
+    <url>https://thefinancialexpress.com.bd/analysis/when-extreme-weather-and-political-short-sightedness-complement-each-other</url>
+    <category>Analysis</category>
+    <published/>
+  </article>
+  <article>
+    <title>Zidane confirmed as France head coach</title>
+    <url>https://thefinancialexpress.com.bd/sports/zidane-confirmed-as-france-head-coach</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain...</snippet>
+  </article>
+  <article>
+    <title>Zidane lands dream job as France hand him reins through 2030 World Cup</title>
+    <url>https://thefinancialexpress.com.bd/sports/zidane-lands-dream-job-as-france-hand-him-reins-through-2030-world-cup</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain...</snippet>
+  </article>
+  <article>
+    <title>Infantino accuses World Cup critics of spreading hate in open letter</title>
+    <url>https://thefinancialexpress.com.bd/sports/infantino-accuses-world-cup-critics-of-spreading-hate-in-open-letter</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain...</snippet>
+  </article>
+  <article>
+    <title>Cape Verde's Vozinha finds new club after World Cup heroics</title>
+    <url>https://thefinancialexpress.com.bd/sports/cape-verdes-vozinha-finds-new-club-after-world-cup-heroics</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain...</snippet>
+  </article>
+  <article>
+    <title>Argentina defender Otamendi retires from international football</title>
+    <url>https://thefinancialexpress.com.bd/sports/argentina-defender-otamendi-retires-from-international-football</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Former Real Madrid manager Zinedine Zidane has been confirmed as the head coach of the France national team. Didier Deschamps, France's longest-serving manager, ended his 14-year stint in charge after the nation's semi-final exit to Spain...</snippet>
+  </article>
+  <article>
+    <title>DU White Panel seeks ban on Blue Panel over support for fascist regime</title>
+    <url>https://thefinancialexpress.com.bd/education/du-white-panel-seeks-ban-on-blue-panel-over-support-for-fascist-regime</url>
+    <category>Education</category>
+    <published/>
+    <snippet>The White Panel, the BNP-backed teachers' association at the University of Dhaka (DU), has submitted a memorandum to the vice-chancellor demanding a ban on the activities of the pro-Awami League (AL) Blue Panel and disciplinary measures aga...</snippet>
+  </article>
+  <article>
+    <title>Eduko expo connects Bangladeshi students with global universities</title>
+    <url>https://thefinancialexpress.com.bd/education/eduko-expo-connects-bangladeshi-students-with-global-universities</url>
+    <category>Education</category>
+    <published/>
+    <snippet>A day-long international education fair is underway in the capital, providing Bangladeshi students and parents with direct access to global higher education opportunities. Organised by Eduko Pathways Bangladesh, a member of the STS Group,...</snippet>
+  </article>
+  <article>
+    <title>JU gets new treasurer</title>
+    <url>https://thefinancialexpress.com.bd/education/ju-gets-new-treasurer</url>
+    <category>Education</category>
+    <published/>
+    <snippet>Professor Dr Mohammad Sohel Rana of the Department of Pharmacy at Jahangirnagar University (JU) formally assumed office as the university's new Treasurer on Tuesday. He took charge at a brief ceremony held in the Council Room of the univer...</snippet>
+  </article>
+  <article>
+    <title>Examination fiasco education ministry could avoid</title>
+    <url>https://thefinancialexpress.com.bd/columns/examination-fiasco-education-ministry-could-avoid</url>
+    <category>Columns</category>
+    <published/>
+    <snippet>Ever since the pandemic disrupted classrooms, the authorities have papered over the cracks with one temporary arrangement after another to move batches from one year to the next...</snippet>
+  </article>
+  <article>
+    <title>Technical education deserves more than promises</title>
+    <url>https://thefinancialexpress.com.bd/columns/technical-education-deserves-more-than-promises</url>
+    <category>Columns</category>
+    <published/>
+    <snippet>More than five decades after independence, Bangladesh continues to grapple with a paradox that has become increasingly difficult to ignore. While the country frequently speaks of becoming a knowledge-based and industrial economy, its techni...</snippet>
+  </article>
+  <article>
+    <title>The rise of affordable mental health ecosystems</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-rise-of-affordable-mental-health-ecosystems</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
+  </article>
+  <article>
+    <title>The hidden cost of the productivity imperative in higher education</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-hidden-cost-of-the-productivity-imperative-in-higher-education</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
+  </article>
+  <article>
+    <title>The road to a final for the ages</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-road-to-a-final-for-the-ages</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
+  </article>
+  <article>
+    <title>The gender gap BD's youth statistics cannot hide</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-gender-gap-bds-youth-statistics-cannot-hide</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
+  </article>
+  <article>
+    <title>Bangladeshi founders are quietly rerouting their fundraising maps towards the Gulf</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/bangladeshi-founders-are-quietly-rerouting-their-fundraising-maps-towards-the-gulf</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
+  </article>
+  <article>
+    <title>BRAC University Business Club announces ADwiz 2.0</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/brac-university-business-club-announces-adwiz-20</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>The BRAC University Business Club (BIZ BEE) has announced the second edition of ADwiz, its flagship inter-university advertising competition, inviting students from universities across Bangladesh to showcase their creativity, strategic thin...</snippet>
+  </article>
+  <article>
+    <title>Empowering youths: How Bangladesh can adopt Malaysian Qualifications Framework</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/empowering-youths-how-bangladesh-can-adopt-malaysian-qualifications-framework</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>Bangladesh today is home to one of the youngest populations in Asia, a generation whose ambitions are outpacing the systems meant to prepare them. As young people enter universities, polytechnics, and training institutes in record numbers,...</snippet>
+  </article>
+  <article>
+    <title>Why Bangladeshi startups are being starved of cash and who are responsible</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladeshi-startups-are-being-starved-of-cash-and-who-are-responsible</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>In developing countries such as Bangladesh, establishing and sustaining a startup remains an arduous undertaking, with inadequate access to capital standing as one of the most formidable barriers facing early-stage entrepreneurs. During th...</snippet>
+  </article>
+  <article>
+    <title>Youths who inherited a broken system</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/youths-who-inherited-a-broken-system</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>The role of Dhaka University often becomes a matter of critical discussion. Educationists, leaders and ordinary people often express their frustration. In this article, we want to seriously review the roles of, and realities about Universit...</snippet>
+  </article>
+  <article>
+    <title>JCI Dhaka Astral's Capitalizer 2026 concludes</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/jci-dhaka-astrals-capitalizer-2026-concludes</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>The Grand Finale of JCI Dhaka Astral Presents Capitalizer 2026, powered by Eastern Bank PLC and ACI Limited, and co-powered by Gold Kinen, concluded successfully at Radisson Blu Dhaka recently. The flagship competition, organised by BUP Fin...</snippet>
+  </article>
+  <article>
+    <title>A solution towards future unemployment problem of Bangladesh</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/a-solution-towards-future-unemployment-problem-of-bangladesh</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>A quiet revolution is taking place in a nation where almost one in three recent graduates find it difficult to secure official work. Bangladesh is becoming a worldwide leader in digital and platform-based labour as millions of young people...</snippet>
+  </article>
+  <article>
+    <title>Why Bangladesh must build its brand before the world builds one for it</title>
+    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladesh-must-build-its-brand-before-the-world-builds-one-for-it</url>
+    <category>Youth and Entrepreneurs</category>
+    <published/>
+    <snippet>When a business owner in California types &quot;hire virtual assistant&quot; into a search engine, the results are not random. They are the product of years of deliberate positioning, cultural fluency in the global market, and a country that decided...</snippet>
+  </article>
+  <article>
+    <title>How retirees can beat isolation and reclaim their joy</title>
+    <url>https://thefinancialexpress.com.bd/lifestyle/how-retirees-can-beat-isolation-and-reclaim-their-joy</url>
+    <category>Lifestyle</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>Dyslexia's growing prevalence in Bangladesh</title>
+    <url>https://thefinancialexpress.com.bd/lifestyle/dyslexias-growing-prevalence-in-bangladesh</url>
+    <category>Lifestyle</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>From cramped to clever: Remodelling Dhaka's tiny kitchens</title>
+    <url>https://thefinancialexpress.com.bd/lifestyle/from-cramped-to-clever-remodelling-dhakas-tiny-kitchens</url>
+    <category>Lifestyle</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>Dr Algorithm: How social media became Bangladesh's unofficial Psychiatrist</title>
+    <url>https://thefinancialexpress.com.bd/lifestyle/dr-algorithm-how-social-media-became-bangladeshs-unofficial-psychiatrist</url>
+    <category>Lifestyle</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>The rise of women-only gyms and fitness culture in Dhaka</title>
+    <url>https://thefinancialexpress.com.bd/lifestyle/the-rise-of-women-only-gyms-and-fitness-culture-in-dhaka</url>
+    <category>Lifestyle</category>
+    <published>1 minute ago</published>
+  </article>
+  <article>
+    <title>Death toll rises to 13 as rescuers search for the missing after 7.1 Japan earthquake</title>
+    <url>https://thefinancialexpress.com.bd/world/death-toll-rises-to-13-after-magnitude-71-quake-hits-japan</url>
+    <category>World</category>
+    <published/>
+    <snippet>Soldiers and emergency workers combed through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 13 people and left many missing in southwestern Japan....</snippet>
+  </article>
+  <article>
+    <title>What the latest NATO summit reveals</title>
+    <url>https://thefinancialexpress.com.bd/views/what-the-latest-nato-summit-reveals</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Leaders from NATO's 32 countries, plus NATO allies like Ukraine, gathered in the Turkish capital Ankara on July 7 and 8 this year to discuss a range of issues involving spending targets, defence industrial production, and support for Ukrain...</snippet>
+  </article>
+  <article>
+    <title>Will you spend 67 minutes in public service?</title>
+    <url>https://thefinancialexpress.com.bd/views/will-you-spend-67-minutes-in-public-service</url>
+    <category>Views</category>
+    <published/>
+    <snippet>I had the privilege of visiting Robben Island in 2001, during my first trip to Cape Town. I left my luggage at the hotel and headed straight there. I felt that if work kept me too busy over the following weeks and I missed the opportunity t...</snippet>
+  </article>
+  <article>
+    <title>Meta disregarded its own research on teen harm, Tennessee tells jury</title>
+    <url>https://thefinancialexpress.com.bd/sci-tech/meta-disregarded-its-own-research-on-teen-harm-tennessee-tells-jury</url>
+    <category>Sci-Tech</category>
+    <published/>
+  </article>
+  <article>
+    <title>Why we confide in chatbots and the risks of oversharing</title>
+    <url>https://thefinancialexpress.com.bd/sci-tech/why-we-confide-in-chatbots-and-the-risks-of-oversharing</url>
+    <category>Sci-Tech</category>
+    <published/>
+  </article>
+  <article>
+    <title>bKash deploys country's largest interoperable Bangla QR network</title>
+    <url>https://thefinancialexpress.com.bd/sci-tech/bkash-deploys-countrys-largest-interoperable-bangla-qr-network</url>
+    <category>Sci-Tech</category>
+    <published/>
+  </article>
+  <article>
+    <title>Retired govt employees call for swift formulation of tobacco control rules</title>
+    <url>https://thefinancialexpress.com.bd/health/retired-govt-employees-call-for-strong-tobacco-control-rules</url>
+    <category>Health</category>
+    <published/>
+  </article>
+  <article>
+    <title>Bangladesh records three dengue deaths as hospitalisations top 512</title>
+    <url>https://thefinancialexpress.com.bd/health/bangladesh-records-three-dengue-deaths-as-hospitalisations-top-512</url>
+    <category>Health</category>
+    <published/>
+  </article>
+  <article>
+    <title>Career opportunity as a Graphic Designer</title>
+    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/career-opportunity-as-a-graphic-designer</url>
+    <category>Jobs and Opportunities</category>
+    <published/>
+  </article>
+  <article>
+    <title>Vacancy for the position of Cash Officer in a reputed media house</title>
+    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/vacancy-for-the-position-of-cash-officer-in-a-reputed-media-house</url>
+    <category>Jobs and Opportunities</category>
+    <published/>
+  </article>
+  <article>
+    <title>Recruitment of Cash Officer</title>
+    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/recruitment-of-cash-officer</url>
+    <category>Jobs and Opportunities</category>
+    <published/>
+  </article>
+  <article>
+    <title>WHO calls for accelerated action to prevent drowning in Bangladesh</title>
+    <url>https://thefinancialexpress.com.bd/others/who-calls-for-accelerated-action-to-prevent-drowning-in-bangladesh</url>
+    <category>Others</category>
+    <published/>
+  </article>
+  <article>
+    <title>Heavy monsoon rains hit over 1m in Bangladesh</title>
+    <url>https://thefinancialexpress.com.bd/others/heavy-monsoon-rains-hit-over-1m-in-bangladesh</url>
+    <category>Others</category>
+    <published/>
+  </article>
+  <article>
+    <title>UNICEF: Middle East conflict could push 1.2m more Bangladeshis into poverty</title>
+    <url>https://thefinancialexpress.com.bd/others/unicef-middle-east-conflict-could-push-12m-more-bangladeshis-into-poverty</url>
+    <category>Others</category>
+    <published/>
+  </article>
+</feed>
