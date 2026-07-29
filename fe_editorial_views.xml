@@ -3,7 +3,7 @@
   <title>The Financial Express — Editorial &amp; Views</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-07-29T16:46:25.519628+00:00</scraped_at>
+  <scraped_at>2026-07-29T18:01:41.404303+00:00</scraped_at>
   <source_urls>
     <url>https://thefinancialexpress.com.bd/category/editorial</url>
     <url>https://thefinancialexpress.com.bd/category/views</url>
@@ -15,6 +15,13 @@
     <category>Editorial</category>
     <published/>
     <snippet>With two epidemics raging on simultaneously, it is time the government moved decisively to put in place a health regime capable of combatting both the diseases of measles and dengue...</snippet>
+  </article>
+  <article>
+    <title>Exploiting the merit of unsecured SME loans</title>
+    <url>https://thefinancialexpress.com.bd/editorial/exploiting-the-merit-of-unsecured-sme-loans</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>Contrary to popular perception that collateral guarantees recovery of loans, the unsecured small category presents far better credit-worthiness. This was revealed at a roundtable titled &quot;Financing Opportunities in Bangladesh: Building a Mor...</snippet>
   </article>
   <article>
     <title>Achieving Ctg Port's global competitiveness</title>
@@ -66,11 +73,18 @@
     <snippet>Exposure to sweltering summer heat is not a new experience for the working people, especially those employed in agriculture, construction, rickshaw driving and pushcart-pulling, street vending, and so on, in Bangladesh. These people are not...</snippet>
   </article>
   <article>
-    <title>Retaining duty-free access to EU market</title>
-    <url>https://thefinancialexpress.com.bd/editorial/retaining-duty-free-access-to-eu-market</url>
-    <category>Editorial</category>
+    <title>Bringing informal sector into the fold</title>
+    <url>https://thefinancialexpress.com.bd/columns/bringing-informal-sector-into-the-fold</url>
+    <category>Columns</category>
     <published/>
-    <snippet>While Bangladesh's preparation for graduation from the LDC (Least Development Country) status lacks on a few counts, as confirmed by a UN assessment, prompting the country to formally seek a three-year deferment to 2029, its rivals have cli...</snippet>
+    <snippet>The recently published final report of the Economic Census 2024 conducted by Bangladesh Bureau of Statistics (BBS) reveals that nearly two-thirds of the country's economic units are unregistered and operate in the informal sector. As per th...</snippet>
+  </article>
+  <article>
+    <title>Bangladesh's semiconductor ambition</title>
+    <url>https://thefinancialexpress.com.bd/views/bangladeshs-semiconductor-ambition</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman’s declaration that semiconductors could become Bangladesh’s next major economic growth engine is bold, timely and strategically important. He deserves recognition for prioritising a future-defining...</snippet>
   </article>
   <article>
     <title>Bus operation in city under a franchise-based model</title>
@@ -120,19 +134,5 @@
     <category>Views</category>
     <published/>
     <snippet>A national budget is traditionally presented as a coherent statement of expected revenue, planned expenditure, deficit targets, borrowing needs, and development priorities. Economists debate whether spending is expansionary or contractionar...</snippet>
-  </article>
-  <article>
-    <title>Gas crisis turning into a food-security issue</title>
-    <url>https://thefinancialexpress.com.bd/columns/gas-crisis-turning-into-a-food-security-issue</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>Bangladesh's chronic gas shortage has now entered an acute phase following the shutdown of one of the two floating storage and regasification units (FSRUs) at Maheshkhali in Cox's Bazar. The country's daily demand for gas is around 3.8 bill...</snippet>
-  </article>
-  <article>
-    <title>Devising strategy for overcoming energy crisis</title>
-    <url>https://thefinancialexpress.com.bd/opinions/devising-strategy-for-overcoming-energy-crisis</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>Disruption of gas supply from one of the two floating storage and regasification units (FSRUs) at Maheshkhali, Cox's Bazar to the national grid has exposed the vulnerability of the system. Imported liquefied natural gas (LNG) is stored in t...</snippet>
   </article>
 </feed>
