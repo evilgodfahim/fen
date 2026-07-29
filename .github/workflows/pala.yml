@@ -1,9 +1,10 @@
+# .github/workflows/run-fe-scraper.yml
 name: Run FE Scraper
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *" # Daily at 02:00 UTC
+    - cron: "*/30 * * * *"
 
 permissions:
   contents: write
@@ -26,10 +27,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml
-
-      - name: Create output directory
-        run: mkdir -p outputs
+          pip install -r requirements.txt
 
       - name: Run scraper
         run: python scraper.py
