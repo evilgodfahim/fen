@@ -32,7 +32,7 @@ jobs:
         run: mkdir -p outputs
 
       - name: Run scraper
-        run: python fe_scraper.py
+        run: python scraper.py
 
       - name: Commit updated XML files
         run: |
