@@ -3,7 +3,7 @@
   <title>The Financial Express — Editorial &amp; Views</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-07-30T17:15:08.951388+00:00</scraped_at>
+  <scraped_at>2026-07-30T18:52:58.910376+00:00</scraped_at>
   <source_urls>
     <url>https://thefinancialexpress.com.bd/category/editorial</url>
     <url>https://thefinancialexpress.com.bd/category/views</url>
@@ -15,6 +15,13 @@
     <category>Editorial</category>
     <published/>
     <snippet>With two epidemics raging on simultaneously, it is time the government moved decisively to put in place a health regime capable of combatting both the diseases of measles and dengue...</snippet>
+  </article>
+  <article>
+    <title>Energy security demands more than temporary fixes</title>
+    <url>https://thefinancialexpress.com.bd/editorial/energy-security-demands-more-than-temporary-fixes</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>Bangladesh's recurring energy crisis, particularly the acute shortage of natural gas, has once again exposed one of the country's most critical structural vulnerabilities. The crisis has already taken a heavy toll on key sectors of the econ...</snippet>
   </article>
   <article>
     <title>Exploiting the merit of unsecured SME loans</title>
@@ -66,11 +73,32 @@
     <snippet>Successful execution of a government social-protection programme depends primarily on identification of deserving recipients. Over the past 18 years, billions of taka was distributed among people but only 50 per cent of the intended target...</snippet>
   </article>
   <article>
-    <title>Mitigating heat stress on informal workers</title>
-    <url>https://thefinancialexpress.com.bd/editorial/mitigating-heat-stress-on-informal-workers</url>
-    <category>Editorial</category>
+    <title>Endangered childhood and child protection measures</title>
+    <url>https://thefinancialexpress.com.bd/opinions/endangered-childhood-and-child-protection-measures</url>
+    <category>Opinions</category>
     <published/>
-    <snippet>Exposure to sweltering summer heat is not a new experience for the working people, especially those employed in agriculture, construction, rickshaw driving and pushcart-pulling, street vending, and so on, in Bangladesh. These people are not...</snippet>
+    <snippet>At a time when two different days in a calendar year are dedicated to uphold and celebrate child rights worldwide, the United Nations Children's Fund (UNICEF) reports that a child is murdered by an act of violence every four minutes. What i...</snippet>
+  </article>
+  <article>
+    <title>Livelihoods must be created beyond Dhaka</title>
+    <url>https://thefinancialexpress.com.bd/opinions/livelihoods-must-be-created-beyond-dhaka</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>A recent social media post by a retired military officer, popular musician and recitation artiste, Diken Ahmed, has caused some serious reflection among the citizens of Bangladesh. After spending his military career, he expressed his desire...</snippet>
+  </article>
+  <article>
+    <title>Turning semiconductor into next economic engine</title>
+    <url>https://thefinancialexpress.com.bd/views/turning-semiconductor-into-next-economic-engine</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Due to signs of saturation in the growth of most industrial sectors, including the ready-made garments (RMG) industry, declining local value addition, and rising graduate unemployment, Bangladesh has been under tremendous pressure to find t...</snippet>
+  </article>
+  <article>
+    <title>Azadi Zindabad &amp; Inquilab Zindabad</title>
+    <url>https://thefinancialexpress.com.bd/reviews/azadi-zindabad-inquilab-zindabad</url>
+    <category>Reviews</category>
+    <published/>
+    <snippet>Political movements that brought about a sea change in the history of humankind began with powerful messages that found expression in unforgettable words. These slogans include ‘Liberty’, ‘Equality’, ‘Joy Bangl...</snippet>
   </article>
   <article>
     <title>Bringing informal sector into the fold</title>
@@ -106,33 +134,5 @@
     <category>Views</category>
     <published/>
     <snippet>The Bangladesh government is determined to build a US$1 trillion economy by 2034, and Prime Minister Tarique Rahman has invited foreign investors to partner in the country's economic transformation. Highlighting Bangladesh's strengths, the...</snippet>
-  </article>
-  <article>
-    <title>The curious case of our football craze</title>
-    <url>https://thefinancialexpress.com.bd/views/the-curious-case-of-our-football-craze</url>
-    <category>Views</category>
-    <published/>
-    <snippet>All over the world, men and women of all ages remained glued to the small screens of televisions or other digital platforms during the football World Cup matches that began on June 11 and continued o over one month. The fact that the number...</snippet>
-  </article>
-  <article>
-    <title>The retreat that has raised a few eyebrows</title>
-    <url>https://thefinancialexpress.com.bd/columns/the-retreat-that-has-raised-a-few-eyebrows</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>The government's decision to abandon its plan to halve the monthly vehicle maintenance allowance for a section of senior civil servants has raised a few eyebrows. What initially appeared to be a modest but symbolically important austerity m...</snippet>
-  </article>
-  <article>
-    <title>Microplastics becoming a public health threat</title>
-    <url>https://thefinancialexpress.com.bd/opinions/microplastics-becoming-a-public-health-threat</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>A year-long study by a Non-Government Organisation (NGO) found microplastics in 26 out of 34 toothpaste samples representing 19 brands. Notably, 22 of 25 locally manufactured samples and four of six children's products tested positive for m...</snippet>
-  </article>
-  <article>
-    <title>The unpleasant arithmetic of budgets</title>
-    <url>https://thefinancialexpress.com.bd/views/the-unpleasant-arithmetic-of-budgets</url>
-    <category>Views</category>
-    <published/>
-    <snippet>A national budget is traditionally presented as a coherent statement of expected revenue, planned expenditure, deficit targets, borrowing needs, and development priorities. Economists debate whether spending is expansionary or contractionar...</snippet>
   </article>
 </feed>
