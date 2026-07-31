@@ -3,7 +3,7 @@
   <title>The Financial Express — Editorial &amp; Views</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-07-31T17:19:48.528924+00:00</scraped_at>
+  <scraped_at>2026-07-31T18:50:10.960204+00:00</scraped_at>
   <source_urls>
     <url>https://thefinancialexpress.com.bd/category/editorial</url>
     <url>https://thefinancialexpress.com.bd/category/views</url>
@@ -15,6 +15,13 @@
     <category>Editorial</category>
     <published/>
     <snippet>With two epidemics raging on simultaneously, it is time the government moved decisively to put in place a health regime capable of combatting both the diseases of measles and dengue...</snippet>
+  </article>
+  <article>
+    <title>AI system to watch, steady essentials market</title>
+    <url>https://thefinancialexpress.com.bd/editorial/ai-system-to-watch-steady-essentials-market</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>The prices of essential commodities have long displayed a tendency to rise at the slightest hint of a supply disruption, while their fall, even after supplies improve, is hardly as prompt. Behind this familiar phenomenon lie inaccurate prod...</snippet>
   </article>
   <article>
     <title>Energy security demands more than temporary fixes</title>
@@ -66,11 +73,32 @@
     <snippet>For nearly three decades since its inception, the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) has struggled to transform its promise into tangible outcomes. The regional bloc, comprising Banglade...</snippet>
   </article>
   <article>
-    <title>Preparing a failsafe list of family-card holders</title>
-    <url>https://thefinancialexpress.com.bd/editorial/preparing-a-failsafe-list-of-family-card-holders</url>
-    <category>Editorial</category>
+    <title>Should Bangladesh walk back the trade agreement?</title>
+    <url>https://thefinancialexpress.com.bd/columns/should-bangladesh-walk-back-the-trade-agreement</url>
+    <category>Columns</category>
     <published/>
-    <snippet>Successful execution of a government social-protection programme depends primarily on identification of deserving recipients. Over the past 18 years, billions of taka was distributed among people but only 50 per cent of the intended target...</snippet>
+    <snippet>A couple weeks ago, the United States ambassador to Bangladesh paid a visit to the central office of National Citizen's Party (NCP), ostensibly to drum up support for the Reciprocal Trade Agreement signed in the final days of the interim go...</snippet>
+  </article>
+  <article>
+    <title>When conspiracy theory is resorted to</title>
+    <url>https://thefinancialexpress.com.bd/opinions/when-conspiracy-theory-is-resorted-to</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>Zahir Dehlvi's Taraz-e-Zahiri was first published in Lahore in 1914 as Dastan-e-Ghadar. Written in Urdu, the book is an eyewitness account of the May 1857 uprising in British India. It is also known as Ghadar, the mutiny, or the great revol...</snippet>
+  </article>
+  <article>
+    <title>Social protection needs smarter reforms, not just bigger budgets</title>
+    <url>https://thefinancialexpress.com.bd/opinions/social-protection-needs-smarter-reforms-not-just-bigger-budgets</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>Bangladesh's social protection system has been one of the country's quiet success stories. Over the past several decades, it has helped millions of poor and vulnerable households cope with poverty, natural disasters, food insecurity, and ec...</snippet>
+  </article>
+  <article>
+    <title>A happy blend of a professional and suave human being</title>
+    <url>https://thefinancialexpress.com.bd/views/a-happy-blend-of-a-professional-and-suave-human-being</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Had he followed up his outstanding result in the written examination of the Civil Services of Pakistan (CSP) duly with appearance for viva voce, the country would not get the doyen of business journalism that Moazzem Hossain was. He stood 4...</snippet>
   </article>
   <article>
     <title>Endangered childhood and child protection measures</title>
@@ -106,33 +134,5 @@
     <category>Columns</category>
     <published/>
     <snippet>The recently published final report of the Economic Census 2024 conducted by Bangladesh Bureau of Statistics (BBS) reveals that nearly two-thirds of the country's economic units are unregistered and operate in the informal sector. As per th...</snippet>
-  </article>
-  <article>
-    <title>Bangladesh's semiconductor ambition</title>
-    <url>https://thefinancialexpress.com.bd/views/bangladeshs-semiconductor-ambition</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Prime Minister Tarique Rahman’s declaration that semiconductors could become Bangladesh’s next major economic growth engine is bold, timely and strategically important. He deserves recognition for prioritising a future-defining...</snippet>
-  </article>
-  <article>
-    <title>Bus operation in city under a franchise-based model</title>
-    <url>https://thefinancialexpress.com.bd/columns/bus-operation-in-city-under-a-franchise-based-model</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>The latest initiative to overhaul Dhaka's bus network may well prove to be the most ambitious attempt yet to bring order to one of the world's most chaotic urban transport systems. The Dhaka Transport Coordination Authority (DTCA) has short...</snippet>
-  </article>
-  <article>
-    <title>Bangladesh's leap to a civic digital future</title>
-    <url>https://thefinancialexpress.com.bd/opinions/bangladeshs-leap-to-a-civic-digital-future</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>A nation’s progress is contingent upon a multifaceted strategy, outlining how effectively and efficiently the lives of people improve through the adept management of various systems. This progress rests on four crucial elements: econo...</snippet>
-  </article>
-  <article>
-    <title>Removing barriers to achieving goal of a trillion-dollar economy</title>
-    <url>https://thefinancialexpress.com.bd/views/removing-barriers-to-achieving-goal-of-a-trillion-dollar-economy</url>
-    <category>Views</category>
-    <published/>
-    <snippet>The Bangladesh government is determined to build a US$1 trillion economy by 2034, and Prime Minister Tarique Rahman has invited foreign investors to partner in the country's economic transformation. Highlighting Bangladesh's strengths, the...</snippet>
   </article>
 </feed>
