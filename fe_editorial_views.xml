@@ -3,7 +3,7 @@
   <title>The Financial Express — Editorial &amp; Views</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-01T11:10:43.760411+00:00</scraped_at>
+  <scraped_at>2026-08-01T12:31:40.630440+00:00</scraped_at>
   <source_urls>
     <url>https://thefinancialexpress.com.bd/category/editorial</url>
     <url>https://thefinancialexpress.com.bd/category/views</url>
@@ -73,6 +73,13 @@
     <snippet>For nearly three decades since its inception, the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) has struggled to transform its promise into tangible outcomes. The regional bloc, comprising Banglade...</snippet>
   </article>
   <article>
+    <title>The political economy of financial sector reform</title>
+    <url>https://thefinancialexpress.com.bd/reviews/the-political-economy-of-financial-sector-reform</url>
+    <category>Reviews</category>
+    <published/>
+    <snippet>The proposed BDT 9.38 trillion national budget for Bangladesh for fiscal year 2026–27 is the largest in the country's history. It presents a roadmap for economic restructuring, administrative reform, social protection, and long-term g...</snippet>
+  </article>
+  <article>
     <title>Unprecedented transformation the world is going through</title>
     <url>https://thefinancialexpress.com.bd/analysis/unprecedented-transformation-the-world-is-going-through</url>
     <category>Analysis</category>
@@ -127,12 +134,5 @@
     <category>Opinions</category>
     <published/>
     <snippet>A recent social media post by a retired military officer, popular musician and recitation artiste, Diken Ahmed, has caused some serious reflection among the citizens of Bangladesh. After spending his military career, he expressed his desire...</snippet>
-  </article>
-  <article>
-    <title>Turning semiconductor into next economic engine</title>
-    <url>https://thefinancialexpress.com.bd/views/turning-semiconductor-into-next-economic-engine</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Due to signs of saturation in the growth of most industrial sectors, including the ready-made garments (RMG) industry, declining local value addition, and rising graduate unemployment, Bangladesh has been under tremendous pressure to find t...</snippet>
   </article>
 </feed>
