@@ -4,6 +4,7 @@ The Financial Express (thefinancialexpress.com.bd) scraper.
 
 Outputs in repo root:
   fe_homepage.xml
+  fe_today.xml
   fe_editorial_views.xml
 """
 
@@ -20,6 +21,7 @@ import requests
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://thefinancialexpress.com.bd"
+TODAY_BASE_URL = "https://today.thefinancialexpress.com.bd"
 
 HEADERS = {
     "User-Agent": (
@@ -181,6 +183,106 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
     return articles
 
 
+def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
+    """
+    Extract articles from today.thefinancialexpress.com.bd using direct HTML selectors.
+
+    Two card layouts exist on the page:
+
+    With image:
+        <div class="has-post">
+          <div class="row">
+            <a class="local-news" href="...">
+              <div class="col-lg-5"><h4><img src="uploads/ID.jpg"></h4></div>
+              <div class="col-lg-7"><h4>TITLE</h4><p>SNIPPET</p></div>
+            </a>
+          </div>
+        </div>
+
+    Text-only:
+        <div class="has-post">
+          <a class="local-news" href="..."><h4>TITLE</h4></a>
+          <p>SNIPPET</p>
+        </div>
+
+    Section names come from <h2 class="text-center"> headings inside the
+    <div itemtype="https://schema.org/Newspaper"> container, each immediately
+    preceding its group of article rows.
+    """
+    articles: list[dict] = []
+    seen_urls: set[str] = set()
+
+    container = soup.find("div", attrs={"itemtype": "https://schema.org/Newspaper"})
+    if not container:
+        return articles
+
+    current_section = ""
+
+    for row in container.find_all("div", class_="row", recursive=False):
+        # Section header row
+        h2 = row.find("h2", class_="text-center")
+        if h2:
+            current_section = clean_text(h2.get_text()).title()
+            continue
+
+        for post in row.find_all("div", class_="has-post"):
+            a_tag = post.find("a", class_="local-news")
+            if not a_tag:
+                continue
+
+            url = a_tag.get("href", "").strip()
+            if not url or url in seen_urls:
+                continue
+
+            # Title: first h4 inside the anchor that does not wrap an img
+            title = ""
+            for h4 in a_tag.find_all("h4"):
+                if not h4.find("img"):
+                    title = clean_text(h4.get_text())
+                    break
+            if not title:
+                continue
+
+            # Image: src is relative ("uploads/ID.jpg") — prefix with TODAY_BASE_URL
+            image_url = ""
+            img = post.find("img", class_="img-responsive")
+            if img:
+                src = img.get("src", "")
+                if src.startswith("uploads/"):
+                    image_url = f"{TODAY_BASE_URL}/{src}"
+                elif src.startswith("http"):
+                    image_url = src
+
+            # Snippet: p inside col-lg-7 (with-image layout)
+            #          or direct child p of has-post (text-only layout)
+            snippet = ""
+            col7 = post.find("div", class_="col-lg-7")
+            if col7:
+                p = col7.find("p")
+                if p:
+                    snippet = clean_text(p.get_text())
+            if not snippet:
+                for p in post.find_all("p", recursive=False):
+                    txt = clean_text(p.get_text())
+                    if txt:
+                        snippet = txt
+                        break
+
+            seen_urls.add(url)
+            articles.append(
+                {
+                    "url": url,
+                    "title": title,
+                    "category": current_section,
+                    "published": "",
+                    "snippet": snippet,
+                    "image": image_url,
+                }
+            )
+
+    return articles
+
+
 def build_xml(title: str, source_urls: list[str], articles: list[dict]) -> str:
     """Return a pretty-printed XML string."""
     root = ET.Element("feed")
@@ -223,6 +325,16 @@ def scrape_page(url: str) -> list[dict]:
     return articles
 
 
+def scrape_today_page(url: str) -> list[dict]:
+    print(f"Fetching: {url}")
+    soup = fetch_html(url)
+    if not soup:
+        return []
+    articles = extract_articles_from_today_soup(soup)
+    print(f"  -> {len(articles)} articles found")
+    return articles
+
+
 def deduplicate(articles: list[dict]) -> list[dict]:
     seen: set[str] = set()
     out: list[dict] = []
@@ -245,6 +357,20 @@ def main() -> None:
     home_path = Path("fe_homepage.xml")
     home_path.write_text(home_xml, encoding="utf-8")
     print(f"\nSaved {len(home_articles)} articles -> {home_path}")
+
+    time.sleep(INTER_PAGE_DELAY)
+
+    today_articles = scrape_today_page(TODAY_BASE_URL + "/")
+    today_articles = deduplicate(today_articles)
+
+    today_xml = build_xml(
+        title="The Financial Express Today — Home Page",
+        source_urls=[TODAY_BASE_URL + "/"],
+        articles=today_articles,
+    )
+    today_path = Path("fe_today.xml")
+    today_path.write_text(today_xml, encoding="utf-8")
+    print(f"Saved {len(today_articles)} articles -> {today_path}")
 
     time.sleep(INTER_PAGE_DELAY)
 
