@@ -3,7 +3,7 @@
   <title>The Financial Express — Editorial &amp; Views</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-01T17:53:17.016904+00:00</scraped_at>
+  <scraped_at>2026-08-01T18:54:52.199270+00:00</scraped_at>
   <source_urls>
     <url>https://thefinancialexpress.com.bd/category/editorial</url>
     <url>https://thefinancialexpress.com.bd/category/views</url>
@@ -15,6 +15,13 @@
     <category>Editorial</category>
     <published/>
     <snippet>With two epidemics raging on simultaneously, it is time the government moved decisively to put in place a health regime capable of combatting both the diseases of measles and dengue...</snippet>
+  </article>
+  <article>
+    <title>Too many hands in the food chain</title>
+    <url>https://thefinancialexpress.com.bd/editorial/too-many-hands-in-the-food-chain</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>Supply shortages arising from erratic weather, crop failure or global price shocks fall largely outside government control, no matter how much blame it attracts when prices spike. Inefficiency within the supply chain, however, is an entirel...</snippet>
   </article>
   <article>
     <title>AI system to watch, steady essentials market</title>
@@ -66,11 +73,25 @@
     <snippet>Road rollers do not require secretaries to operate them. Yet five officials including the Chattogram City Corporation Secretary and the Private Secretary to the Minister for Local Government, Rural Development and Cooperatives are, reported...</snippet>
   </article>
   <article>
-    <title>Can BIMSTEC deliver on its promise?</title>
-    <url>https://thefinancialexpress.com.bd/editorial/can-bimstec-deliver-on-its-promise</url>
-    <category>Editorial</category>
+    <title>Cost of tyrant-backed illicit financial flows</title>
+    <url>https://thefinancialexpress.com.bd/columns/cost-of-tyrant-backed-illicit-financial-flows</url>
+    <category>Columns</category>
     <published/>
-    <snippet>For nearly three decades since its inception, the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC) has struggled to transform its promise into tangible outcomes. The regional bloc, comprising Banglade...</snippet>
+    <snippet>Illicit financial flows from various countries to tax havens are now a reality. Over the decades, these flows have increased, and their diversification has troubled developing nations. Bangladesh is no exception. After the fall of Sheikh Ha...</snippet>
+  </article>
+  <article>
+    <title>Can the new law stop human trafficking?</title>
+    <url>https://thefinancialexpress.com.bd/opinions/can-the-new-law-stop-human-trafficking</url>
+    <category>Opinions</category>
+    <published/>
+    <snippet>World Day Against Trafficking in Persons was observed on July 30 to raise awareness, support victims and reinforce global efforts to combat this transnational crime. The occasion comes at a time when human trafficking and irregular migrants...</snippet>
+  </article>
+  <article>
+    <title>Global economy: risk is not destiny</title>
+    <url>https://thefinancialexpress.com.bd/views/global-economy-risk-is-not-destiny</url>
+    <category>Views</category>
+    <published/>
+    <snippet>Muhammad Mahmood’s article, “Global Economy in 2026,” (FE, P-4 July 26, 2026) is both timely and important. The global economy is unquestionably under severe stress. War in the Middle East, renewed pressure on energy price...</snippet>
   </article>
   <article>
     <title>The political economy of financial sector reform</title>
@@ -113,26 +134,5 @@
     <category>Opinions</category>
     <published/>
     <snippet>Bangladesh's social protection system has been one of the country's quiet success stories. Over the past several decades, it has helped millions of poor and vulnerable households cope with poverty, natural disasters, food insecurity, and ec...</snippet>
-  </article>
-  <article>
-    <title>A happy blend of a professional and suave human being</title>
-    <url>https://thefinancialexpress.com.bd/views/a-happy-blend-of-a-professional-and-suave-human-being</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Had he followed up his outstanding result in the written examination of the Civil Services of Pakistan (CSP) duly with appearance for viva voce, the country would not get the doyen of business journalism that Moazzem Hossain was. He stood 4...</snippet>
-  </article>
-  <article>
-    <title>Endangered childhood and child protection measures</title>
-    <url>https://thefinancialexpress.com.bd/opinions/endangered-childhood-and-child-protection-measures</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>At a time when two different days in a calendar year are dedicated to uphold and celebrate child rights worldwide, the United Nations Children's Fund (UNICEF) reports that a child is murdered by an act of violence every four minutes. What i...</snippet>
-  </article>
-  <article>
-    <title>Livelihoods must be created beyond Dhaka</title>
-    <url>https://thefinancialexpress.com.bd/opinions/livelihoods-must-be-created-beyond-dhaka</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>A recent social media post by a retired military officer, popular musician and recitation artiste, Diken Ahmed, has caused some serious reflection among the citizens of Bangladesh. After spending his military career, he expressed his desire...</snippet>
   </article>
 </feed>
