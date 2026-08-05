@@ -3,11 +3,55 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-05T18:01:17.151449+00:00</scraped_at>
+  <scraped_at>2026-08-05T20:02:34.029990+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>29</article_count>
+  <article_count>41</article_count>
+  <article>
+    <title>BB cautiously optimistic about economic outlook following correctives</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/bb-cautiously-optimistic-about-economic-outlook-following-correctives-1785954166</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Bangladesh's economic outlook remains broadly optimistic following ongoing structural reforms,...</snippet>
+  </article>
+  <article>
+    <title>July Museum will not serve any single political agenda: PM</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/july-museum-will-not-serve-any-single-political-agenda-pm-1785954208</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman says...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1785954208.jpg</image>
+  </article>
+  <article>
+    <title>July Mass Uprising Day observed</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/july-mass-uprising-day-observed-1785954272</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Bangladesh Wednesday observed the July Mass Uprising Day across the...</snippet>
+  </article>
+  <article>
+    <title>Credit stimulus seen supporting growth sans inflation</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/credit-stimulus-seen-supporting-growth-sans-inflation-1785954366</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>A temporary increase in private-sector credit growth could help revive...</snippet>
+  </article>
+  <article>
+    <title>Mattress money growth means lax depositor trust revival</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/mattress-money-growth-means-lax-depositor-trust-revival-1785954506</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Money outside the country's bank...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1785954505.jpg</image>
+  </article>
+  <article>
+    <title>Trump warns Iran to open Hormuz or get 'hit very hard'</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/trump-warns-iran-to-open-hormuz-or-get-hit-very-hard-1785954552</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>RANCHO PALOS VERDES, United States, Aug 5 (AFP): US President...</snippet>
+  </article>
   <article>
     <title>Ensuring dignity of July fighters is govt's sacred responsibility: Hafiz</title>
     <url>https://today.thefinancialexpress.com.bd/politics-policies/ensuring-dignity-of-july-fighters-is-govts-sacred-responsibility-hafiz-1785947515</url>
@@ -124,6 +168,51 @@
     <category>Editorial</category>
     <published/>
     <snippet>Bangladesh's ready-made garment (RMG) industry has been the cornerstone of...</snippet>
+  </article>
+  <article>
+    <title>Women's share in bank lending continues to fall</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/womens-share-in-bank-lending-continues-to-fall-1785953687</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Women's participation in bank lending continues to decline while their...</snippet>
+  </article>
+  <article>
+    <title>July Martyrs' Memorial in capital's Shahbagh</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/july-martyrs-memorial-in-capitals-shahbagh-1785953731</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Marking the July Mass Uprising...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1785953731.jpg</image>
+  </article>
+  <article>
+    <title>Taka among region's most stable currencies</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/taka-among-regions-most-stable-currencies-1785953773</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The Bangladesh taka remained one of the most stable currencies...</snippet>
+  </article>
+  <article>
+    <title>FY26 foreign aid commitment drops 37pc</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/fy26-foreign-aid-commitment-drops-37pc-1785953857</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Bangladesh's overall external assistance confirmation...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1785953857.jpg</image>
+  </article>
+  <article>
+    <title>Govt devises five-year strategic plan to help revive ailing jute sector</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/govt-devises-five-year-strategic-plan-to-help-revive-ailing-jute-sector-1785953901</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The government has devised an...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1785953901.jpg</image>
+  </article>
+  <article>
+    <title>Measles-linked death toll climbs to 854 with 5 new deaths</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/measles-linked-death-toll-climbs-to-854-with-5-new-deaths-1785953925</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Bangladesh has reported five more suspected measles fatalities over the...</snippet>
   </article>
   <article>
     <title>Yemen's Houthis attack Saudi oil tanker in Red Sea</title>
