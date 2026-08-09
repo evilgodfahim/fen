@@ -3,11 +3,11 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-09T18:25:58.418787+00:00</scraped_at>
+  <scraped_at>2026-08-09T19:10:19.830957+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>39</article_count>
+  <article_count>57</article_count>
   <article>
     <title>BD boasts $6.6b BoP surplus buoyed by external inflows</title>
     <url>https://today.thefinancialexpress.com.bd/first-page/bd-boasts-66b-bop-surplus-buoyed-by-external-inflows-1786299113</url>
@@ -52,6 +52,94 @@
     <category>First Page</category>
     <published/>
     <snippet>The Bangladesh Financial Intelligence Unit (BFIU) has identified 42 defaulting...</snippet>
+  </article>
+  <article>
+    <title>Opposition starts speaking Hasina's language: Fakhrul</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/opposition-starts-speaking-hasinas-language-fakhrul-1786299682</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>LGRD and Cooperatives Minister Mirza...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786299682.jpg</image>
+  </article>
+  <article>
+    <title>PM meets Hefazat chief Babunagari in Fatikchhari</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/pm-meets-hefazat-chief-babunagari-in-fatikchhari-1786299705</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>CHATTOGRAM, Aug 9 (UNB): Prime Minister (PM) Tarique Rahman on...</snippet>
+  </article>
+  <article>
+    <title>Tarique-Modi talks could help resolve bilateral issues: Trivedi</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/tarique-modi-talks-could-help-resolve-bilateral-issues-trivedi-1786299724</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Indian High Commissioner to Bangladesh Dinesh Trivedi has expressed optimism...</snippet>
+  </article>
+  <article>
+    <title>Nahid accuses BNP govt of following same old path of autocracy</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/nahid-accuses-bnp-govt-of-following-same-old-path-of-autocracy-1786299751</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>National Citizen Party (NCP) Convener...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786299751.jpg</image>
+  </article>
+  <article>
+    <title>ICT issues arrest warrant against Air Force officer Saifur</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/ict-issues-arrest-warrant-against-air-force-officer-saifur-1786299775</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>The International Crimes Tribunal (ICT) has issued an arrest warrant...</snippet>
+  </article>
+  <article>
+    <title>Call records of seven AL leaders, including Quader, submitted to ICT</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/call-records-of-seven-al-leaders-including-quader-submitted-to-ict-1786299789</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>The prosecution has submitted call recordings to the International Crimes...</snippet>
+  </article>
+  <article>
+    <title>Tk 38.22b cost reasonable at feasibility stage, but may rise</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/tk-3822b-cost-reasonable-at-feasibility-stage-but-may-rise-1786299851</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>The cost of developing a 50-kilometre electric commuter train corridor...</snippet>
+  </article>
+  <article>
+    <title>CU approves Tk 5.03b budget for 2026-27 fiscal</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/cu-approves-tk-503b-budget-for-2026-27-fiscal-1786299873</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>CHATTOGRAM, Aug 9: The 36th annual Senate meeting of Chittagong...</snippet>
+  </article>
+  <article>
+    <title>Media must accurately reflect society: Swapon</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/media-must-accurately-reflect-society-swapon-1786299885</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>BARISHAL, Aug 09 (BSS): Information and Broadcasting Minister Zahir Uddin...</snippet>
+  </article>
+  <article>
+    <title>Protesters face police obstruction</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/protesters-face-police-obstruction-1786299909</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Protesters face police obstruction as...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786299909.jpg</image>
+  </article>
+  <article>
+    <title>SM Sultan's 103rd birth anniv today</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/sm-sultans-103rd-birth-anniv-today-1786299920</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>NARAIL, Aug 09 (BSS): The...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786299920.jpg</image>
+  </article>
+  <article>
+    <title>Three more testify in S Alam, PK Halder graft case</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/three-more-testify-in-s-alam-pk-halder-graft-case-1786299932</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Three more witnesses have testified in a corruption case against...</snippet>
   </article>
   <article>
     <title>Stateless Rohingya: Uncertain future</title>
@@ -104,6 +192,50 @@
     <published/>
     <snippet>In the previous article (August...</snippet>
     <image>https://today.thefinancialexpress.com.bd/uploads/1786290115.jpg</image>
+  </article>
+  <article>
+    <title>Rice prices rise despite Boro harvest</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/rice-prices-rise-despite-boro-harvest-1786300091</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Rice prices are rising in...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786300091.jpg</image>
+  </article>
+  <article>
+    <title>Bangladeshis among top 5 asylum-seeking nationalities: UK envoy</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/bangladeshis-among-top-5-asylum-seeking-nationalities-uk-envoy-1786300148</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Bangladesh has emerged as one of the top five source...</snippet>
+  </article>
+  <article>
+    <title>AmCham pushes for reforms to drive ICT-led growth, investment</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/amcham-pushes-for-reforms-to-drive-ict-led-growth-investment-1786300195</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The American Chamber of Commerce in Bangladesh (AmCham) on Sunday...</snippet>
+  </article>
+  <article>
+    <title>Artists perform a dance at a cultural event</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/artists-perform-a-dance-at-a-cultural-event-1786300227</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Artists perform a dance at...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786300227.jpg</image>
+  </article>
+  <article>
+    <title>Former GP employees stage demo for realising dues</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/former-gp-employees-stage-demo-for-realising-dues-1786300268</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Former employees of Grameenphone (GP) on Sunday staged a peaceful...</snippet>
+  </article>
+  <article>
+    <title>Bangladeshi shot dead by BSF along Moulvibazar border</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/bangladeshi-shot-dead-by-bsf-along-moulvibazar-border-1786300281</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Moulvibazar, Aug 9 (UNB): A Bangladeshi national was shot to...</snippet>
   </article>
   <article>
     <title>CDBL to extend custodian role to non-listed companies</title>
