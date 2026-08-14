@@ -3,11 +3,11 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-14T09:32:53.948208+00:00</scraped_at>
+  <scraped_at>2026-08-14T10:49:31.465308+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>45</article_count>
+  <article_count>51</article_count>
   <article>
     <title>Gas crisis deepens as LNG regasification dips amid disruptive weather</title>
     <url>https://today.thefinancialexpress.com.bd/first-page/gas-crisis-deepens-as-lng-regasification-dips-amid-disruptive-weather-1786681372</url>
@@ -139,6 +139,50 @@
     <published/>
     <snippet>Information and Broadcasting Minister Zahir...</snippet>
     <image>https://today.thefinancialexpress.com.bd/uploads/1786686285.jpg</image>
+  </article>
+  <article>
+    <title>When the medicine runs out</title>
+    <url>https://today.thefinancialexpress.com.bd/views-opinion/when-the-medicine-runs-out-1786701171</url>
+    <category>Views &amp; Opinion</category>
+    <published/>
+    <snippet>In the fuller hospitals of Dhaka, it is more common...</snippet>
+  </article>
+  <article>
+    <title>Udyog: A chance to turn youth energy into enterprise</title>
+    <url>https://today.thefinancialexpress.com.bd/editorial/udyog-a-chance-to-turn-youth-energy-into-enterprise-1786700347</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>The proposed 'Udyog' scheme, with an initial fund of Tk...</snippet>
+  </article>
+  <article>
+    <title>Learning from reversal in SSC results</title>
+    <url>https://today.thefinancialexpress.com.bd/editorial/learning-from-reversal-in-ssc-results-1786700478</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>This year's results of the...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786700478.jpg</image>
+  </article>
+  <article>
+    <title>From skills to jobs: Bridging the gap</title>
+    <url>https://today.thefinancialexpress.com.bd/editorial/from-skills-to-jobs-bridging-the-gap-1786700611</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>Bangladesh has an abundance of...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786700684.jpg</image>
+  </article>
+  <article>
+    <title>Why are girls doing better in education?</title>
+    <url>https://today.thefinancialexpress.com.bd/editorial/why-are-girls-doing-better-in-education-1786700830</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>The progress of a society is much like a river....</snippet>
+  </article>
+  <article>
+    <title>Gap between education and employment</title>
+    <url>https://today.thefinancialexpress.com.bd/editorial/gap-between-education-and-employment-1786700895</url>
+    <category>Editorial</category>
+    <published/>
+    <snippet>Every year, thousands of young students complete their undergraduate education...</snippet>
   </article>
   <article>
     <title>Govt plans three more FSRUs by 2029</title>
