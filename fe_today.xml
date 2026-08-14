@@ -3,9 +3,98 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-14T03:33:44.468675+00:00</scraped_at>
+  <scraped_at>2026-08-14T05:24:39.751328+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>0</article_count>
+  <article_count>12</article_count>
+  <article>
+    <title>Gas crisis deepens as LNG regasification dips amid disruptive weather</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/gas-crisis-deepens-as-lng-regasification-dips-amid-disruptive-weather-1786681372</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Gas crisis deepens across Bangladesh...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786681487.jpg</image>
+  </article>
+  <article>
+    <title>BNP submits nomination for Fakhrul as President candidate</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/bnp-submits-nomination-for-fakhrul-as-president-candidate-1786681786</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>The ruling Bangladesh Nationalist Party...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786681786.jpg</image>
+  </article>
+  <article>
+    <title>Dhaka seeks UK court's worldwide asset-freezing orders</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/dhaka-seeks-uk-courts-worldwide-asset-freezing-orders-1786682666</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Bangladesh tries to get worldwide...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786682666.jpg</image>
+  </article>
+  <article>
+    <title>US firms eye BD as potential investment destination</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/us-firms-eye-bd-as-potential-investment-destination-1786683056</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>American companies are keen to expand their operations in Bangladesh...</snippet>
+  </article>
+  <article>
+    <title>APG del appalled by scale of bank looting</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/apg-del-appalled-by-scale-of-bank-looting-1786683311</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>A visiting delegation of the Asia-Pacific Group on Money Laundering...</snippet>
+  </article>
+  <article>
+    <title>BB set to introduce person-to-person money transfer through Bangla QR</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/bb-set-to-introduce-person-to-person-money-transfer-through-bangla-qr-1786683495</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Bangladesh Bank (BB) is set to introduce person-to-person (P2P) money...</snippet>
+  </article>
+  <article>
+    <title>Govt plans three more FSRUs by 2029</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/govt-plans-three-more-fsrus-by-2029-1786684120</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The government plans to establish...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786684120.jpg</image>
+  </article>
+  <article>
+    <title>Bangladesh, ADB identify $1.0b annual investment pipeline</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/bangladesh-adb-identify-10b-annual-investment-pipeline-1786684417</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The government and Asian Development Bank (ADB) have identified an...</snippet>
+  </article>
+  <article>
+    <title>Govt moves to curb aromatic rice exports</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/govt-moves-to-curb-aromatic-rice-exports-1786684543</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The government is planning to...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786684543.jpg</image>
+  </article>
+  <article>
+    <title>Tk 43.8m missing from vault of Agrani Bank's Laldighi branch</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/tk-438m-missing-from-vault-of-agrani-banks-laldighi-branch-1786684755</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>CHATTOGRAM, Aug 13: A sum of Taka 43.8 million (4.38...</snippet>
+  </article>
+  <article>
+    <title>Agent banking remittance inflow plunges 34pc in April-June</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/agent-banking-remittance-inflow-plunges-34pc-in-april-june-1786684942</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Inward remittances received through agent banking channels fell sharply in...</snippet>
+  </article>
+  <article>
+    <title>Knife linked to Sylhet triple murder recovered</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/knife-linked-to-sylhet-triple-murder-recovered-1786685005</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Police have recovered a knife linked to the murder of...</snippet>
+  </article>
 </feed>
