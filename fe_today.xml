@@ -3,11 +3,11 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-14T12:41:35.973895+00:00</scraped_at>
+  <scraped_at>2026-08-14T14:08:55.123838+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>51</article_count>
+  <article_count>56</article_count>
   <article>
     <title>Gas crisis deepens as LNG regasification dips amid disruptive weather</title>
     <url>https://today.thefinancialexpress.com.bd/first-page/gas-crisis-deepens-as-lng-regasification-dips-amid-disruptive-weather-1786681372</url>
@@ -341,6 +341,44 @@
     <category>World</category>
     <published/>
     <snippet>LONDON, Aug 13 (Arab News): Large parts of western Europe...</snippet>
+  </article>
+  <article>
+    <title>Fairytale return for Tigers</title>
+    <url>https://today.thefinancialexpress.com.bd/sports/fairytale-return-for-tigers-1786712427</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>DARWIN, Australia, Aug 13 (Agencies): Bangladesh savoured their first taste...</snippet>
+  </article>
+  <article>
+    <title>Hasan Mahmud's Australia success years in the making</title>
+    <url>https://today.thefinancialexpress.com.bd/sports/hasan-mahmuds-australia-success-years-in-the-making-1786712495</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>If Bangladesh's first day of...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786712495.jpg</image>
+  </article>
+  <article>
+    <title>Qatar, Morocco among six Arab federations backing Infantino</title>
+    <url>https://today.thefinancialexpress.com.bd/sports/qatar-morocco-among-six-arab-federations-backing-infantino-1786712568</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>LONDON, Aug 13 (Reuters): Six heads of Arab national football...</snippet>
+  </article>
+  <article>
+    <title>Messi plays for Miami after father's death</title>
+    <url>https://today.thefinancialexpress.com.bd/sports/messi-plays-for-miami-after-fathers-death-1786712602</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Lionel Messi made a substitute...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786712602.jpg</image>
+  </article>
+  <article>
+    <title>Swiatek sinks Svitolina to set up Rybakina title clash</title>
+    <url>https://today.thefinancialexpress.com.bd/sports/swiatek-sinks-svitolina-to-set-up-rybakina-title-clash-1786712638</url>
+    <category>Sports</category>
+    <published/>
+    <snippet>Iga Swiatek rallied from a...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786712638.jpg</image>
   </article>
   <article>
     <title>Huawei launches grid-forming inverter, energy storage system</title>
