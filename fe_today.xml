@@ -3,11 +3,11 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-14T05:24:39.751328+00:00</scraped_at>
+  <scraped_at>2026-08-14T06:51:30.693671+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>12</article_count>
+  <article_count>45</article_count>
   <article>
     <title>Gas crisis deepens as LNG regasification dips amid disruptive weather</title>
     <url>https://today.thefinancialexpress.com.bd/first-page/gas-crisis-deepens-as-lng-regasification-dips-amid-disruptive-weather-1786681372</url>
@@ -54,6 +54,93 @@
     <snippet>Bangladesh Bank (BB) is set to introduce person-to-person (P2P) money...</snippet>
   </article>
   <article>
+    <title>Firm assurances received on renewal of Farakka Treaty: JS body</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/firm-assurances-received-on-renewal-of-farakka-treaty-js-body-1786685360</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>The Parliamentary Standing Committee on the Ministry of Water Resources...</snippet>
+  </article>
+  <article>
+    <title>A delegation of the 11-party opposition alliance</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/a-delegation-of-the-11-party-opposition-alliance-1786685435</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>A delegation of the 11-party...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786685435.jpg</image>
+  </article>
+  <article>
+    <title>Jamaat criticises BNP meeting at Secretariat</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/jamaat-criticises-bnp-meeting-at-secretariat-1786685527</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Jamaat-e-Islami Assistant Secretary General and coordinator of the 11-party alliance...</snippet>
+  </article>
+  <article>
+    <title>No BNP meeting held at Secretariat, says its leader</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/no-bnp-meeting-held-at-secretariat-says-its-leader-1786685566</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>BNP leaders on Thursday denied that the party held a...</snippet>
+  </article>
+  <article>
+    <title>DU forms body to investigate secret activities of some teachers</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/du-forms-body-to-investigate-secret-activities-of-some-teachers-1786685602</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Dhaka University (DU) has formed a three-member committee to investigate...</snippet>
+  </article>
+  <article>
+    <title>Hasina, others face indictment hearing Sept 1</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/hasina-others-face-indictment-hearing-sept-1-1786685677</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>A Dhaka court on Thursday deferred until September 1 the...</snippet>
+  </article>
+  <article>
+    <title>Battery-run rickshaws to come under govt's regulatory watch</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/battery-run-rickshaws-to-come-under-govts-regulatory-watch-1786685992</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>The government has initiated a move to bring the battery-run...</snippet>
+  </article>
+  <article>
+    <title>Prime Minister Tarique Rahman poses with Bangladeshi medal winners</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/prime-minister-tarique-rahman-poses-with-bangladeshi-medal-winners-1786686058</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman poses...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786686058.jpg</image>
+  </article>
+  <article>
+    <title>RAB tightens security across country ahead of August 15</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/rab-tightens-security-across-country-ahead-of-august-15-1786686158</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>The Rapid Action Battalion (RAB) has strengthened security measures across...</snippet>
+  </article>
+  <article>
+    <title>PM to inaugurate National Fisheries Week Aug 16</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/pm-to-inaugurate-national-fisheries-week-aug-16-1786686193</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman is scheduled to inaugurate National Fisheries...</snippet>
+  </article>
+  <article>
+    <title>BB issues consolidated forex regulations on import deals</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/bb-issues-consolidated-forex-regulations-on-import-deals-1786686218</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Bangladesh Bank (BB) on Thursday issued a consolidated circular bringing...</snippet>
+  </article>
+  <article>
+    <title>Swapon seeks coordinated efforts to counter misinformation</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/swapon-seeks-coordinated-efforts-to-counter-misinformation-1786686285</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Information and Broadcasting Minister Zahir...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786686285.jpg</image>
+  </article>
+  <article>
     <title>Govt plans three more FSRUs by 2029</title>
     <url>https://today.thefinancialexpress.com.bd/last-page/govt-plans-three-more-fsrus-by-2029-1786684120</url>
     <category>Last Page</category>
@@ -96,5 +183,161 @@
     <category>Last Page</category>
     <published/>
     <snippet>Police have recovered a knife linked to the murder of...</snippet>
+  </article>
+  <article>
+    <title>City Group to raise Tk 15b from market for working capital, debt repayment</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/city-group-to-raise-tk-15b-from-market-for-working-capital-debt-repayment-1786686685</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>City Group plans to raise around Tk 15 billion from...</snippet>
+  </article>
+  <article>
+    <title>BSEC ponders removing duplication in its education function</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/bsec-ponders-removing-duplication-in-its-education-function-1786686806</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>The securities regulator considers closing...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786686806.jpg</image>
+  </article>
+  <article>
+    <title>Saudi Arabia ranks among world's top 10 for private AI investment: World Bank</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/saudi-arabia-ranks-among-worlds-top-10-for-private-ai-investment-world-bank-1786686880</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>RIYADH, Aug 13 (Arab News): The World Bank Group's 2026...</snippet>
+  </article>
+  <article>
+    <title>Yamaha riders join hands to clean Cox's Bazar beach</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/yamaha-riders-join-hands-to-clean-coxs-bazar-beach-1786687185</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>The Yamaha Riders Club (YRC)...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786687185.jpg</image>
+  </article>
+  <article>
+    <title>VISA-UCB STRATEGIC LEADERSHIP ENGAGEMENT</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/visa-ucb-strategic-leadership-engagement-1786687254</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>UCB hosted senior Visa leadership,...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786687254.jpg</image>
+  </article>
+  <article>
+    <title>MERCANTILE BANK HOLDS WORKSHOP ON STUDENT BANKING</title>
+    <url>https://today.thefinancialexpress.com.bd/stock-corporate/mercantile-bank-holds-workshop-on-student-banking-1786687291</url>
+    <category>Stock &amp; Corporate</category>
+    <published/>
+    <snippet>Mercantile Bank PLC organised a...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786687291.jpg</image>
+  </article>
+  <article>
+    <title>Beneficiaries of housing initiative suffer for dilapidated homes</title>
+    <url>https://today.thefinancialexpress.com.bd/country/beneficiaries-of-housing-initiative-suffer-for-dilapidated-homes-1786689040</url>
+    <category>Country</category>
+    <published/>
+    <snippet>MANIKGANJ, Aug 11: Ayesha Begum...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786689040.jpg</image>
+  </article>
+  <article>
+    <title>TSP fertiliser shortage hits Aman farming in Rangpur region</title>
+    <url>https://today.thefinancialexpress.com.bd/country/tsp-fertiliser-shortage-hits-aman-farming-in-rangpur-region-1786689107</url>
+    <category>Country</category>
+    <published/>
+    <snippet>RANGPUR, Aug 13 (UNB): Farmers...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786689107.jpg</image>
+  </article>
+  <article>
+    <title>Gas crisis disrupts daily life in Cumilla</title>
+    <url>https://today.thefinancialexpress.com.bd/country/gas-crisis-disrupts-daily-life-in-cumilla-1786689141</url>
+    <category>Country</category>
+    <published/>
+    <snippet>CUMILLA, Aug 13 (UNB): A severe gas shortage has gripped...</snippet>
+  </article>
+  <article>
+    <title>Israel sends more troops to West Bank village besieged by Jewish settlers</title>
+    <url>https://today.thefinancialexpress.com.bd/world/israel-sends-more-troops-to-west-bank-village-besieged-by-jewish-settlers-1786689353</url>
+    <category>World</category>
+    <published/>
+    <snippet>GAZA, Aug 13 (Agencies): Israel's...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786689353.jpg</image>
+  </article>
+  <article>
+    <title>Putin visits Kuril islands</title>
+    <url>https://today.thefinancialexpress.com.bd/world/putin-visits-kuril-islands-1786689398</url>
+    <category>World</category>
+    <published/>
+    <snippet>TOKYO, Aug 13 (BBC): Russian...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786689397.jpg</image>
+  </article>
+  <article>
+    <title>Trump's spokesperson Karoline Leavitt to step down</title>
+    <url>https://today.thefinancialexpress.com.bd/world/trumps-spokesperson-karoline-leavitt-to-step-down-1786689433</url>
+    <category>World</category>
+    <published/>
+    <snippet>WASHINGTON, Aug 13 (AFP): White...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786689433.jpg</image>
+  </article>
+  <article>
+    <title>Iran, US make competing claims over control of Strait of Hormuz</title>
+    <url>https://today.thefinancialexpress.com.bd/world/iran-us-make-competing-claims-over-control-of-strait-of-hormuz-1786689465</url>
+    <category>World</category>
+    <published/>
+    <snippet>DUBAI, Aug 13 (Reuters): The Strait of Hormuz is &quot;under...</snippet>
+  </article>
+  <article>
+    <title>More than 30 countries condemn Iran executions</title>
+    <url>https://today.thefinancialexpress.com.bd/world/more-than-30-countries-condemn-iran-executions-1786689487</url>
+    <category>World</category>
+    <published/>
+    <snippet>PARIS, Aug 13 (AFP): More than 30 nations, including France,...</snippet>
+  </article>
+  <article>
+    <title>UK, France swelter again as Europe hit by another heat wave</title>
+    <url>https://today.thefinancialexpress.com.bd/world/uk-france-swelter-again-as-europe-hit-by-another-heat-wave-1786689506</url>
+    <category>World</category>
+    <published/>
+    <snippet>LONDON, Aug 13 (Arab News): Large parts of western Europe...</snippet>
+  </article>
+  <article>
+    <title>Huawei launches grid-forming inverter, energy storage system</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/huawei-launches-grid-forming-inverter-energy-storage-system-1786688428</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>Huawei has launched Bangladesh's first grid-forming smart string inverter and...</snippet>
+  </article>
+  <article>
+    <title>ADB VP meets BB governor</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/adb-vp-meets-bb-governor-1786688471</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>A delegation led by Asian Development Bank (ADB) Vice President...</snippet>
+  </article>
+  <article>
+    <title>Singapore interested in BD's Bay Terminal project</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/singapore-interested-in-bds-bay-terminal-project-1786688499</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>State Minister for Foreign Affairs Shama Obaed Islam on Thursday...</snippet>
+  </article>
+  <article>
+    <title>SILQ secures $100m to scale up its embedded financing platform Fina</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/silq-secures-100m-to-scale-up-its-embedded-financing-platform-fina-1786688531</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>ShopUp on Thursday announced that its parent platform, SILQ, secured...</snippet>
+  </article>
+  <article>
+    <title>13th international yarn, fabrics, accessories show kicks off in city</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/13th-international-yarn-fabrics-accessories-show-kicks-off-in-city-1786688598</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>The &quot;13th Bangladesh Yarn, Fabrics and Accessories Show 2026&quot; concurrently...</snippet>
+  </article>
+  <article>
+    <title>Foundation stone to be laid Aug 30: Rabiul</title>
+    <url>https://today.thefinancialexpress.com.bd/trade-market/foundation-stone-to-be-laid-aug-30-rabiul-1786688645</url>
+    <category>Trade &amp; Market</category>
+    <published/>
+    <snippet>Minister for Shipping, Road Transport and Bridges and Railways Sheikh...</snippet>
   </article>
 </feed>
