@@ -3,11 +3,78 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-16T18:14:39.166825+00:00</scraped_at>
+  <scraped_at>2026-08-16T18:52:27.346636+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>39</article_count>
+  <article_count>54</article_count>
+  <article>
+    <title>Exchange rate down as dollar demand ebbs</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/exchange-rate-down-as-dollar-demand-ebbs-1786904486</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Bangladesh currency gains some strength...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786904486.jpg</image>
+  </article>
+  <article>
+    <title>Tigers conquer Australia</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/tigers-conquer-australia-1786904536</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>DARWIN, Australia, Aug 16 (Agencies):...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786904536.jpg</image>
+  </article>
+  <article>
+    <title>Tarique, Fakhrul greet tigers</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/tarique-fakhrul-greet-tigers-1786904575</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman Sunday congratulated the Bangladesh national cricket...</snippet>
+  </article>
+  <article>
+    <title>Hasina media interaction preempts PM's India visit prospect</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/hasina-media-interaction-preempts-pms-india-visit-prospect-1786904630</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>Sheikh Hasina's public media interaction in Delhi on August 5...</snippet>
+  </article>
+  <article>
+    <title>LNG cargo delivery poses major hurdle</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/lng-cargo-delivery-poses-major-hurdle-1786904695</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>The American Excelerate Energy announced...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786904694.jpg</image>
+  </article>
+  <article>
+    <title>Govt plans single VAT rate for small firms, says finance minister</title>
+    <url>https://today.thefinancialexpress.com.bd/first-page/govt-plans-single-vat-rate-for-small-firms-says-finance-minister-1786904749</url>
+    <category>First Page</category>
+    <published/>
+    <snippet>The government is preparing to bring small businesses under a...</snippet>
+  </article>
+  <article>
+    <title>EC declares Fakhrul, Oli's candidacies valid</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/ec-declares-fakhrul-olis-candidacies-valid-1786904884</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>The Election Commission (EC) on...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786904884.jpg</image>
+  </article>
+  <article>
+    <title>Nation will always remember Khaleda Zia's contributions: Rizvi</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/nation-will-always-remember-khaleda-zias-contributions-rizvi-1786904895</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>BNP Senior Joint Secretary General Ruhul Kabir Rizvi on Sunday...</snippet>
+  </article>
+  <article>
+    <title>150 GOP activists sued over attack on MP’s vehicle in Kushtia</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/150-gop-activists-sued-over-attack-on-mps-vehicle-in-kushtia-1786904906</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>KUSHTIA, Aug 16 (UNB): A case has been filed against...</snippet>
+  </article>
   <article>
     <title>Five-yr trade licence renewal facility soon: DSCC</title>
     <url>https://today.thefinancialexpress.com.bd/metro-news/five-yr-trade-licence-renewal-facility-soon-dscc-1786900745</url>
@@ -102,6 +169,50 @@
     <category>Editorial</category>
     <published/>
     <snippet>Electricity shortages are usually discussed as an energy problem, but...</snippet>
+  </article>
+  <article>
+    <title>RMG industry trapped in capital-energy lock-in: CPD</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/rmg-industry-trapped-in-capital-energy-lock-in-cpd-1786904986</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Bangladesh's ready-made garment (RMG) industry is trapped in a structural...</snippet>
+  </article>
+  <article>
+    <title>Stay alert to rumours, misinformation</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/stay-alert-to-rumours-misinformation-1786905038</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>KISHOREGANJ, Aug 16 (UNB): Prime...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786905038.jpg</image>
+  </article>
+  <article>
+    <title>CCCI seeks air, cargo reforms to develop Ctg as logistics hub</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/ccci-seeks-air-cargo-reforms-to-develop-ctg-as-logistics-hub-1786905078</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Chittagong Chamber of Commerce and Industry (CCCI) has proposed a...</snippet>
+  </article>
+  <article>
+    <title>Capital machinery faces longest port delays</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/capital-machinery-faces-longest-port-delays-1786905133</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Capital-machinery imports, crucial for setting...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1786905133.jpg</image>
+  </article>
+  <article>
+    <title>PMI becomes a vital tool for tracking BD's real-time economic activity</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/pmi-becomes-a-vital-tool-for-tracking-bds-real-time-economic-activity-1786905160</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The Purchasing Managers' Index (PMI) is becoming an important tool...</snippet>
+  </article>
+  <article>
+    <title>6,000 micro economic zones proposed to boost local economies</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/6000-micro-economic-zones-proposed-to-boost-local-economies-1786905203</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Private entity Architecture Research and Development (ARD) has proposed establishing...</snippet>
   </article>
   <article>
     <title>Haji Ahmad Brothers Securities penalised over client fund shortfall</title>
