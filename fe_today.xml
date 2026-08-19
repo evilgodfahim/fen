@@ -3,11 +3,11 @@
   <title>The Financial Express Today — Home Page</title>
   <link>https://thefinancialexpress.com.bd</link>
   <generator>scraper.py</generator>
-  <scraped_at>2026-08-19T18:19:29.817433+00:00</scraped_at>
+  <scraped_at>2026-08-19T19:00:12.342945+00:00</scraped_at>
   <source_urls>
     <url>https://today.thefinancialexpress.com.bd/</url>
   </source_urls>
-  <article_count>37</article_count>
+  <article_count>52</article_count>
   <article>
     <title>Presidential polls today after 35 yrs</title>
     <url>https://today.thefinancialexpress.com.bd/first-page/presidential-polls-today-after-35-yrs-1787162589</url>
@@ -51,6 +51,94 @@
     <category>First Page</category>
     <published/>
     <snippet>Regasified LNG supply from Excelerate Energy's terminal in Cox's Bazar's...</snippet>
+  </article>
+  <article>
+    <title>Fakhrul seeks lawmakers' votes in presidential election</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/fakhrul-seeks-lawmakers-votes-in-presidential-election-1787163673</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>BNP presidential candidate Mirza Fakhrul Islam Alamgir has made an...</snippet>
+  </article>
+  <article>
+    <title>Halal food culture, values can be asset for human civilisation: Swapon</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/halal-food-culture-values-can-be-asset-for-human-civilisation-swapon-1787163714</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Information and Broadcasting Minister Zahir...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1787163714.jpg</image>
+  </article>
+  <article>
+    <title>Ex-CJ Khairul Haque freed on bail</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/ex-cj-khairul-haque-freed-on-bail-1787163725</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Former Chief Justice (CJ) ABM Khairul Haque has been released...</snippet>
+  </article>
+  <article>
+    <title>Bangladesh Photojournalist Association brought out a procession</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/bangladesh-photojournalist-association-brought-out-a-procession-1787163750</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Bangladesh Photojournalist Association brought out...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1787163750.jpg</image>
+  </article>
+  <article>
+    <title>Dipu Moni gets 12-hour parole to attend husband's funeral</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/dipu-moni-gets-12-hour-parole-to-attend-husbands-funeral-1787163761</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>Former minister Dr Dipu Moni has been granted 12-hour parole...</snippet>
+  </article>
+  <article>
+    <title>Writ seeks unseating of MP Hannan Masud over affidavit anomalies</title>
+    <url>https://today.thefinancialexpress.com.bd/politics-policies/writ-seeks-unseating-of-mp-hannan-masud-over-affidavit-anomalies-1787163772</url>
+    <category>Politics &amp; Policies</category>
+    <published/>
+    <snippet>A writ petition has been filed with the High Court...</snippet>
+  </article>
+  <article>
+    <title>Minister urges telcos to expand quality services beyond cities</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/minister-urges-telcos-to-expand-quality-services-beyond-cities-1787163857</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Post, Telecommunications and Information Technology and Science and Technology Minister...</snippet>
+  </article>
+  <article>
+    <title>Prime Minister Tarique Rahman presides over the BNP parliamentary party meeting</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/prime-minister-tarique-rahman-presides-over-the-bnp-parliamentary-party-meeting-1787163880</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>Prime Minister Tarique Rahman presides...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1787163880.jpg</image>
+  </article>
+  <article>
+    <title>Govt leadership urged to turn methane-reduction knowledge into action</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/govt-leadership-urged-to-turn-methane-reduction-knowledge-into-action-1787163915</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>The International Fund for Agricultural Development (IFAD) on Wednesday called...</snippet>
+  </article>
+  <article>
+    <title>Ferdous Steel fined Tk 0.5m in Ctg</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/ferdous-steel-fined-tk-05m-in-ctg-1787163937</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>CHATTOGRAM, Aug 19: The Department of Environment (DoE) has fined...</snippet>
+  </article>
+  <article>
+    <title>Cumilla twins ace SSC, set sights on engineering</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/cumilla-twins-ace-ssc-set-sights-on-engineering-1787163972</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>CUMILLA, Aug 19 (UNB): From growing up side by side...</snippet>
+  </article>
+  <article>
+    <title>DUNMUN int'l conference kicks off at DU</title>
+    <url>https://today.thefinancialexpress.com.bd/metro-news/dunmun-intl-conference-kicks-off-at-du-1787164004</url>
+    <category>Metro / News</category>
+    <published/>
+    <snippet>The Dhaka University National Model...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1787164004.jpg</image>
   </article>
   <article>
     <title>Globalisation 3.0 is approaching</title>
@@ -117,6 +205,28 @@
     <category>Last Page</category>
     <published/>
     <snippet>Bangladesh Bank (BB) has granted permission to release the remaining...</snippet>
+  </article>
+  <article>
+    <title>Govt to buy one cargo LNG from spot market</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/govt-to-buy-one-cargo-lng-from-spot-market-1787163103</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The Cabinet Committee on Government Purchase on Wednesday approved a...</snippet>
+  </article>
+  <article>
+    <title>Central bank, PKSF sign Tk 50b deal to create 200,000 jobs</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/central-bank-pksf-sign-tk-50b-deal-to-create-200000-jobs-1787163304</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>The Bangladesh Bank and Palli...</snippet>
+    <image>https://today.thefinancialexpress.com.bd/uploads/1787163304.jpg</image>
+  </article>
+  <article>
+    <title>Qatar assures BD of support for energy security</title>
+    <url>https://today.thefinancialexpress.com.bd/last-page/qatar-assures-bd-of-support-for-energy-security-1787163342</url>
+    <category>Last Page</category>
+    <published/>
+    <snippet>Qatar Wednesday assured Bangladesh of all possible support in ensuring...</snippet>
   </article>
   <article>
     <title>BSEC forces 17 officials into retirement over hostage incident</title>
