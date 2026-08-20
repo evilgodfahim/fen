@@ -8,6 +8,7 @@ Outputs in repo root:
   fe_editorial_views.xml
 """
 
+import email.utils
 import re
 import time
 import xml.etree.ElementTree as ET
@@ -186,28 +187,6 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
 def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     """
     Extract articles from today.thefinancialexpress.com.bd using direct HTML selectors.
-
-    Two card layouts exist on the page:
-
-    With image:
-        <div class="has-post">
-          <div class="row">
-            <a class="local-news" href="...">
-              <div class="col-lg-5"><h4><img src="uploads/ID.jpg"></h4></div>
-              <div class="col-lg-7"><h4>TITLE</h4><p>SNIPPET</p></div>
-            </a>
-          </div>
-        </div>
-
-    Text-only:
-        <div class="has-post">
-          <a class="local-news" href="..."><h4>TITLE</h4></a>
-          <p>SNIPPET</p>
-        </div>
-
-    Section names come from <h2 class="text-center"> headings inside the
-    <div itemtype="https://schema.org/Newspaper"> container, each immediately
-    preceding its group of article rows.
     """
     articles: list[dict] = []
     seen_urls: set[str] = set()
@@ -219,7 +198,6 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     current_section = ""
 
     for row in container.find_all("div", class_="row", recursive=False):
-        # Section header row
         h2 = row.find("h2", class_="text-center")
         if h2:
             current_section = clean_text(h2.get_text()).title()
@@ -234,7 +212,6 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
             if not url or url in seen_urls:
                 continue
 
-            # Title: first h4 inside the anchor that does not wrap an img
             title = ""
             for h4 in a_tag.find_all("h4"):
                 if not h4.find("img"):
@@ -243,7 +220,6 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
             if not title:
                 continue
 
-            # Image: src is relative ("uploads/ID.jpg") — prefix with TODAY_BASE_URL
             image_url = ""
             img = post.find("img", class_="img-responsive")
             if img:
@@ -253,8 +229,6 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
                 elif src.startswith("http"):
                     image_url = src
 
-            # Snippet: p inside col-lg-7 (with-image layout)
-            #          or direct child p of has-post (text-only layout)
             snippet = ""
             col7 = post.find("div", class_="col-lg-7")
             if col7:
@@ -283,36 +257,59 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     return articles
 
 
-def build_xml(title: str, source_urls: list[str], articles: list[dict]) -> str:
-    """Return a pretty-printed XML string."""
-    root = ET.Element("feed")
+def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
+    """Return a valid RSS 2.0 feed string that Inoreader (and any reader) can parse."""
+    build_date = email.utils.formatdate(usegmt=True)
+
+    root = ET.Element("rss")
+    root.set("version", "2.0")
     root.set("xmlns:atom", "http://www.w3.org/2005/Atom")
+    root.set("xmlns:media", "http://search.yahoo.com/mrss/")
 
-    ET.SubElement(root, "title").text = title
-    ET.SubElement(root, "link").text = BASE_URL
-    ET.SubElement(root, "generator").text = "scraper.py"
-    ET.SubElement(root, "scraped_at").text = datetime.now(timezone.utc).isoformat()
-
-    sources_el = ET.SubElement(root, "source_urls")
-    for u in source_urls:
-        ET.SubElement(sources_el, "url").text = u
-
-    ET.SubElement(root, "article_count").text = str(len(articles))
+    channel = ET.SubElement(root, "channel")
+    ET.SubElement(channel, "title").text = title
+    ET.SubElement(channel, "link").text = source_urls[0] if source_urls else BASE_URL
+    ET.SubElement(channel, "description").text = title
+    ET.SubElement(channel, "language").text = "en"
+    ET.SubElement(channel, "lastBuildDate").text = build_date
+    ET.SubElement(channel, "generator").text = "scraper.py"
 
     for art in articles:
-        item = ET.SubElement(root, "article")
+        item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = art["title"]
-        ET.SubElement(item, "url").text = art["url"]
-        ET.SubElement(item, "category").text = art["category"]
-        ET.SubElement(item, "published").text = art["published"]
-        if art["snippet"]:
-            ET.SubElement(item, "snippet").text = art["snippet"]
-        if art["image"]:
-            ET.SubElement(item, "image").text = art["image"]
+        ET.SubElement(item, "link").text = art["url"]
 
-    raw = ET.tostring(root, encoding="unicode", xml_declaration=False)
+        guid = ET.SubElement(item, "guid")
+        guid.text = art["url"]
+        guid.set("isPermaLink", "true")
+
+        # description: embed thumbnail if available, then snippet
+        desc = art["snippet"] or art["title"]
+        if art["image"]:
+            desc = f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/><br/>{desc}]]>'
+            ET.SubElement(item, "description").text = desc
+        else:
+            ET.SubElement(item, "description").text = desc
+
+        # pubDate: scraper stores relative strings ("2 hours ago") which
+        # can't be converted to absolute time, so we use build time as
+        # a valid RFC-822 fallback — readers at least get the right ordering.
+        ET.SubElement(item, "pubDate").text = build_date
+
+        if art["category"]:
+            ET.SubElement(item, "category").text = art["category"]
+
+        if art["image"]:
+            mc = ET.SubElement(item, "media:content")
+            mc.set("url", art["image"])
+            mc.set("medium", "image")
+
+    raw = ET.tostring(root, encoding="unicode")
     parsed = minidom.parseString(raw)
-    return parsed.toprettyxml(indent="  ", encoding=None)
+    pretty = parsed.toprettyxml(indent="  ", encoding=None)
+    # Drop the declaration toprettyxml adds, replace with explicit UTF-8 one
+    body = pretty.split("\n", 1)[1] if "\n" in pretty else pretty
+    return '<?xml version="1.0" encoding="UTF-8"?>\n' + body
 
 
 def scrape_page(url: str) -> list[dict]:
@@ -349,7 +346,7 @@ def main() -> None:
     home_articles = scrape_page(BASE_URL + "/")
     home_articles = deduplicate(home_articles)
 
-    home_xml = build_xml(
+    home_xml = build_rss(
         title="The Financial Express — Home Page",
         source_urls=[BASE_URL + "/"],
         articles=home_articles,
@@ -363,7 +360,7 @@ def main() -> None:
     today_articles = scrape_today_page(TODAY_BASE_URL + "/")
     today_articles = deduplicate(today_articles)
 
-    today_xml = build_xml(
+    today_xml = build_rss(
         title="The Financial Express Today — Home Page",
         source_urls=[TODAY_BASE_URL + "/"],
         articles=today_articles,
@@ -380,7 +377,7 @@ def main() -> None:
     views_articles = scrape_page(BASE_URL + "/category/views")
 
     combined = deduplicate(editorial_articles + views_articles)
-    combined_xml = build_xml(
+    combined_xml = build_rss(
         title="The Financial Express — Editorial & Views",
         source_urls=[
             BASE_URL + "/category/editorial",
