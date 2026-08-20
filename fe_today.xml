@@ -1,407 +1,462 @@
-<?xml version="1.0" ?>
-<feed xmlns:atom="http://www.w3.org/2005/Atom">
-  <title>The Financial Express Today — Home Page</title>
-  <link>https://thefinancialexpress.com.bd</link>
-  <generator>scraper.py</generator>
-  <scraped_at>2026-08-20T19:52:37.146306+00:00</scraped_at>
-  <source_urls>
-    <url>https://today.thefinancialexpress.com.bd/</url>
-  </source_urls>
-  <article_count>54</article_count>
-  <article>
-    <title>BD to retain duty-free mkt access to UK after LDC exit</title>
-    <url>https://today.thefinancialexpress.com.bd/first-page/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit-1787248491</url>
-    <category>First Page</category>
-    <published/>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the...</snippet>
-  </article>
-  <article>
-    <title>Mirza Fakhrul elected 23rd President</title>
-    <url>https://today.thefinancialexpress.com.bd/first-page/mirza-fakhrul-elected-23rd-president-1787248655</url>
-    <category>First Page</category>
-    <published/>
-    <snippet>From classroom to the highest...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787248655.jpg</image>
-  </article>
-  <article>
-    <title>Bangladesh set to start EU free-trade talks in Sept</title>
-    <url>https://today.thefinancialexpress.com.bd/first-page/bangladesh-set-to-start-eu-free-trade-talks-in-sept-1787248738</url>
-    <category>First Page</category>
-    <published/>
-    <snippet>Bangladesh is set to begin formal negotiations with the European...</snippet>
-  </article>
-  <article>
-    <title>Rizvi named BNP acting secretary general</title>
-    <url>https://today.thefinancialexpress.com.bd/first-page/rizvi-named-bnp-acting-secretary-general-1787248772</url>
-    <category>First Page</category>
-    <published/>
-    <snippet>BNP has appointed National Standing...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787248772.jpg</image>
-  </article>
-  <article>
-    <title>Prayer Timings_2026-08-21</title>
-    <url>https://today.thefinancialexpress.com.bd/first-page/prayer-timings-2026-08-21-1787248805</url>
-    <category>First Page</category>
-    <published/>
-  </article>
-  <article>
-    <title>China, France, UK, Switzerland hail Mirza Fakhrul’s election win</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/china-france-uk-switzerland-hail-mirza-fakhruls-election-win-1787248853</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>China, the United Kingdom, France, and Switzerland have congratulated Mirza...</snippet>
-  </article>
-  <article>
-    <title>Prime Minister and Leader of the House Tarique Rahman casts his ballot</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/prime-minister-and-leader-of-the-house-tarique-rahman-casts-his-ballot-1787248877</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>Prime Minister and Leader of...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787248877.jpg</image>
-  </article>
-  <article>
-    <title>Prof Yunus extends greetings to Mirza Fakhrul</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/prof-yunus-extends-greetings-to-mirza-fakhrul-1787248887</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>Nobel Laureate Professor Muhammad Yunus has extended his heartfelt congratulations...</snippet>
-  </article>
-  <article>
-    <title>Bangabhaban bids farewell to acting President Hafiz</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/bangabhaban-bids-farewell-to-acting-president-hafiz-1787248909</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>Bangabhaban on Thursday bade a grand farewell to Acting President...</snippet>
-  </article>
-  <article>
-    <title>PM visits graves of Zia, Khaleda after presidential polls</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/pm-visits-graves-of-zia-khaleda-after-presidential-polls-1787248923</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>Prime Minister and BNP Chairman Tarique Rahman on Thursday visited...</snippet>
-  </article>
-  <article>
-    <title>Petition for filing case against Yunus, Asif Nazrul, 25 others</title>
-    <url>https://today.thefinancialexpress.com.bd/politics-policies/petition-for-filing-case-against-yunus-asif-nazrul-25-others-1787248949</url>
-    <category>Politics &amp; Policies</category>
-    <published/>
-    <snippet>A case petition has been filed against former interim government...</snippet>
-  </article>
-  <article>
-    <title>Bangladesh trails South Asia in health workforce density</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/bangladesh-trails-south-asia-in-health-workforce-density-1787249012</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>Bangladesh continues to face a significant shortage of health professionals,...</snippet>
-  </article>
-  <article>
-    <title>Oral cholera vaccination campaign begins tomorrow</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/oral-cholera-vaccination-campaign-begins-tomorrow-1787249039</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>The ‘Preventive Oral Cholera Vaccination Campaign-2026’ will begin across the...</snippet>
-  </article>
-  <article>
-    <title>Dentist rescued after abduction from Kuril</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/dentist-rescued-after-abduction-from-kuril-1787249056</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>A dentist, who was allegedly abducted from the capital's Kuril...</snippet>
-  </article>
-  <article>
-    <title>Pending cases against RAB members to continue under existing laws</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/pending-cases-against-rab-members-to-continue-under-existing-laws-1787249092</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>Judicial proceedings against the accused members of the Rapid Action...</snippet>
-  </article>
-  <article>
-    <title>14-pt directive for DCs to make land offices corruption-free</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/14-pt-directive-for-dcs-to-make-land-offices-corruption-free-1787249118</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>The Ministry of Land (MoL) has issued a 14-point directive...</snippet>
-  </article>
-  <article>
-    <title>Sept 27 set for fresh probe report submission</title>
-    <url>https://today.thefinancialexpress.com.bd/metro-news/sept-27-set-for-fresh-probe-report-submission-1787249144</url>
-    <category>Metro / News</category>
-    <published/>
-    <snippet>A court here on Thursday set September 27 for the...</snippet>
-  </article>
-  <article>
-    <title>Bangladesh's media after the July Uprising</title>
-    <url>https://today.thefinancialexpress.com.bd/views-opinion/bangladeshs-media-after-the-july-uprising-1787236040</url>
-    <category>Views &amp; Opinion</category>
-    <published/>
-    <snippet>The uprising of July 2024...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787236040.jpg</image>
-  </article>
-  <article>
-    <title>Easing repatriation process of Rohingya refugees</title>
-    <url>https://today.thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees-1787236064</url>
-    <category>Editorial</category>
-    <published/>
-    <snippet>The Rohingya repatriation crisis appears to remain trapped in the...</snippet>
-  </article>
-  <article>
-    <title>World misses leaders who could help restore order</title>
-    <url>https://today.thefinancialexpress.com.bd/editorial/world-misses-leaders-who-could-help-restore-order-1787236102</url>
-    <category>Editorial</category>
-    <published/>
-    <snippet>It could be hubris, a...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787236102.jpg</image>
-  </article>
-  <article>
-    <title>Danger underneath luxury on road</title>
-    <url>https://today.thefinancialexpress.com.bd/editorial/danger-underneath-luxury-on-road-1787236140</url>
-    <category>Editorial</category>
-    <published/>
-    <snippet>The promise is comfort. A sleeper berth, air-conditioning, more space...</snippet>
-  </article>
-  <article>
-    <title>How digital life is being sold</title>
-    <url>https://today.thefinancialexpress.com.bd/editorial/how-digital-life-is-being-sold-1787236163</url>
-    <category>Editorial</category>
-    <published/>
-    <snippet>Every time you scroll through Instagram, check your email or...</snippet>
-  </article>
-  <article>
-    <title>Quota system: A double-edged sword for freelancers</title>
-    <url>https://today.thefinancialexpress.com.bd/editorial/quota-system-a-double-edged-sword-for-freelancers-1787236187</url>
-    <category>Editorial</category>
-    <published/>
-    <snippet>The recent imposition of a quota system on the freelancing...</snippet>
-  </article>
-  <article>
-    <title>When post-truth matters</title>
-    <url>https://today.thefinancialexpress.com.bd/views-reviews/when-post-truth-matters-1787236340</url>
-    <category>Views &amp; Reviews</category>
-    <published/>
-    <snippet>In an age where misinformation spreads faster than facts and...</snippet>
-  </article>
-  <article>
-    <title>Tips on navigating complex customs tariff regime</title>
-    <url>https://today.thefinancialexpress.com.bd/views-reviews/tips-on-navigating-complex-customs-tariff-regime-1787236517</url>
-    <category>Views &amp; Reviews</category>
-    <published/>
-    <snippet>Tariff was hardly a widely discussed issue before the Trump...</snippet>
-  </article>
-  <article>
-    <title>Gas crisis slashes knitwear output by 30-50pc</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/gas-crisis-slashes-knitwear-output-by-30-50pc-1787249230</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>The prevailing gas shortage across...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787249230.jpg</image>
-  </article>
-  <article>
-    <title>RMG sector can generate 1,768MWp from rooftop solar: Study</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/rmg-sector-can-generate-1768mwp-from-rooftop-solar-study-1787249496</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>Bangladesh's readymade garment (RMG) industry...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787249496.jpg</image>
-  </article>
-  <article>
-    <title>BB opens door to professional mediators for loan disputes</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/bb-opens-door-to-professional-mediators-for-loan-disputes-1787249535</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>Bangladesh Bank (BB) has opened the door for private professional...</snippet>
-  </article>
-  <article>
-    <title>US overtakes India as Bangladesh's second-largest trading partner</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/us-overtakes-india-as-bangladeshs-second-largest-trading-partner-1787249589</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>The US overtook India to become Bangladesh's second-largest trading partner...</snippet>
-  </article>
-  <article>
-    <title>BB signs deals for Tk 410b financing packages</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/bb-signs-deals-for-tk-410b-financing-packages-1787249615</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>Bangladesh Bank (BB) has signed agreements with seven banks for...</snippet>
-  </article>
-  <article>
-    <title>Buses given 15 days to install RFID tags as Jatrabari flyover toll queues worsen</title>
-    <url>https://today.thefinancialexpress.com.bd/last-page/buses-given-15-days-to-install-rfid-tags-as-jatrabari-flyover-toll-queues-worsen-1787249650</url>
-    <category>Last Page</category>
-    <published/>
-    <snippet>Bus operators using the Jatrabari flyover have been given 15...</snippet>
-  </article>
-  <article>
-    <title>Stocks bounce back, buoyed by gains in marginable securities</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/stocks-bounce-back-buoyed-by-gains-in-marginable-securities-1787245121</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>Stocks rebounded on Thursday, snapping...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787245121.jpg</image>
-  </article>
-  <article>
-    <title>World Bank Group, BSEC discuss mortgage refinancing</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/world-bank-group-bsec-discuss-mortgage-refinancing-1787245153</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>A delegation of the World Bank Group (WBG) on Thursday...</snippet>
-  </article>
-  <article>
-    <title>Dhaka bourse probes rally in Aamra Technologies</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/dhaka-bourse-probes-rally-in-aamra-technologies-1787245174</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>The securities regulator has asked the Dhaka bourse to probe...</snippet>
-  </article>
-  <article>
-    <title>AB Bank gets new MD</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/ab-bank-gets-new-md-1787245197</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>AB Bank PLC has appointed...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787245197.jpg</image>
-  </article>
-  <article>
-    <title>Three-day Innovation Fair in September</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/three-day-innovation-fair-in-september-1787245223</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>A three-day national innovation fair aimed at promoting commercialisation of...</snippet>
-  </article>
-  <article>
-    <title>LPP reaffirms long-term commitment to BD garment industry</title>
-    <url>https://today.thefinancialexpress.com.bd/stock-corporate/lpp-reaffirms-long-term-commitment-to-bd-garment-industry-1787245244</url>
-    <category>Stock &amp; Corporate</category>
-    <published/>
-    <snippet>LPP, one of the European retail sector's major global players,...</snippet>
-  </article>
-  <article>
-    <title>Rajshahi silk seeks to revive lost glory through revamp</title>
-    <url>https://today.thefinancialexpress.com.bd/country/rajshahi-silk-seeks-to-revive-lost-glory-through-revamp-1787241697</url>
-    <category>Country</category>
-    <published/>
-    <snippet>RAJSHAHI, Aug 20: Bangladesh is...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787241697.jpg</image>
-  </article>
-  <article>
-    <title>Chattogram General Hospital's MRI service resumes after seven years</title>
-    <url>https://today.thefinancialexpress.com.bd/country/chattogram-general-hospitals-mri-service-resumes-after-seven-years-1787241744</url>
-    <category>Country</category>
-    <published/>
-    <snippet>CHATTOGRAM, Aug 20 (BSS): Magnetic Resonance Imaging (MRI) machine at...</snippet>
-  </article>
-  <article>
-    <title>Trump vows tough economic measures on countries supporting Iran</title>
-    <url>https://today.thefinancialexpress.com.bd/world/trump-vows-tough-economic-measures-on-countries-supporting-iran-1787242914</url>
-    <category>World</category>
-    <published/>
-    <snippet>WASHINGTON/DUBAI, Aug 20 (Reuters): US...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242914.jpg</image>
-  </article>
-  <article>
-    <title>N Korea launches missiles after Trump floats Kim meet: Seoul</title>
-    <url>https://today.thefinancialexpress.com.bd/world/n-korea-launches-missiles-after-trump-floats-kim-meet-seoul-1787242939</url>
-    <category>World</category>
-    <published/>
-    <snippet>SEOUL, Aug 20 (AFP): North...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242939.jpg</image>
-  </article>
-  <article>
-    <title>Russian strikes kill 16, injure 40 people in Ukraine</title>
-    <url>https://today.thefinancialexpress.com.bd/world/russian-strikes-kill-16-injure-40-people-in-ukraine-1787242973</url>
-    <category>World</category>
-    <published/>
-    <snippet>KYIV, Aug 20 (Reuters): Russian...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242973.jpg</image>
-  </article>
-  <article>
-    <title>'Worst' ever El Nino to bring heavy rains, drought to Sri Lanka</title>
-    <url>https://today.thefinancialexpress.com.bd/world/worst-ever-el-nino-to-bring-heavy-rains-drought-to-sri-lanka-1787242984</url>
-    <category>World</category>
-    <published/>
-    <snippet>COLOMBO, Aug 20 (AFP): Heavy rains and severe drought are...</snippet>
-  </article>
-  <article>
-    <title>NEWS IN BRIEF_2026-08-21</title>
-    <url>https://today.thefinancialexpress.com.bd/world/news-in-brief-2026-08-21-1787243084</url>
-    <category>World</category>
-    <published/>
-    <snippet>India, Japan agree to bolster defence tiesNEW DELHI, Aug 20:...</snippet>
-  </article>
-  <article>
-    <title>Tamim rules out 2026 BPL over Tk 400m losses</title>
-    <url>https://today.thefinancialexpress.com.bd/sports/tamim-rules-out-2026-bpl-over-tk-400m-losses-1787242748</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Bangladesh Cricket Board (BCB) president...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242748.jpg</image>
-  </article>
-  <article>
-    <title>Australia is going to come harder</title>
-    <url>https://today.thefinancialexpress.com.bd/sports/australia-is-going-to-come-harder-1787242790</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Bangladesh head coach Phil Simmons...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242790.jpg</image>
-  </article>
-  <article>
-    <title>Tanzid skips batting session with neck discomfort</title>
-    <url>https://today.thefinancialexpress.com.bd/sports/tanzid-skips-batting-session-with-neck-discomfort-1787242811</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Bangladesh opener Tanzid Hasan Tamim skipped the team's batting session...</snippet>
-  </article>
-  <article>
-    <title>Messi scores first goal since father's death</title>
-    <url>https://today.thefinancialexpress.com.bd/sports/messi-scores-first-goal-since-fathers-death-1787242848</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>MIAMI, Aug 20 (AFP): Lionel...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787242848.jpg</image>
-  </article>
-  <article>
-    <title>Inward remittances thru MFS fall nearly 21pc to Tk 22.29b in June</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/inward-remittances-thru-mfs-fall-nearly-21pc-to-tk-2229b-in-june-1787244713</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>Inward remittances through mobile financial services (MFS) declined by nearly...</snippet>
-  </article>
-  <article>
-    <title>Waiz Rahim appointed MD &amp; CEO of BSIC</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/waiz-rahim-appointed-md-ceo-of-bsic-1787244748</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>Bangladesh Startup Investment Company (BSIC)...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787244748.jpg</image>
-  </article>
-  <article>
-    <title>PKSF, CAB International join hands</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/pksf-cab-international-join-hands-1787244772</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>Palli Karma-Sahayak Foundation (PKSF) and CAB International will work jointly...</snippet>
-  </article>
-  <article>
-    <title>14 public, private varsities sign addendum to MoUs with ICAB</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/14-public-private-varsities-sign-addendum-to-mous-with-icab-1787244830</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>As many as 14 public...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787244829.jpg</image>
-  </article>
-  <article>
-    <title>BIDA survey to map investment barriers, untapped sector potential</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/bida-survey-to-map-investment-barriers-untapped-sector-potential-1787244904</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>The Bangladesh Investment Development Authority (BIDA), with support from the...</snippet>
-  </article>
-  <article>
-    <title>UCB SIGNS MOU WITH PLAN MEDI TRIP TO OFFER PREFERENTIAL MEDICAL TOURISM SERVICES</title>
-    <url>https://today.thefinancialexpress.com.bd/trade-market/ucb-signs-mou-with-plan-medi-trip-to-offer-preferential-medical-tourism-services-1787244938</url>
-    <category>Trade &amp; Market</category>
-    <published/>
-    <snippet>United Commercial Bank PLC (UCB)...</snippet>
-    <image>https://today.thefinancialexpress.com.bd/uploads/1787244938.jpg</image>
-  </article>
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>The Financial Express Today — Home Page</title>
+    <link>https://today.thefinancialexpress.com.bd/</link>
+    <description>The Financial Express Today — Home Page</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Aug 2026 20:08:50 GMT</lastBuildDate>
+    <generator>scraper.py</generator>
+    <item>
+      <title>BD to retain duty-free mkt access to UK after LDC exit</title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit-1787248491</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/first-page/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit-1787248491</guid>
+      <description>Bangladeshi exporters will continue to enjoy preferential access to the...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>First Page</category>
+    </item>
+    <item>
+      <title>Mirza Fakhrul elected 23rd President</title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/mirza-fakhrul-elected-23rd-president-1787248655</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/first-page/mirza-fakhrul-elected-23rd-president-1787248655</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787248655.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;From classroom to the highest...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>First Page</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787248655.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Bangladesh set to start EU free-trade talks in Sept</title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/bangladesh-set-to-start-eu-free-trade-talks-in-sept-1787248738</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/first-page/bangladesh-set-to-start-eu-free-trade-talks-in-sept-1787248738</guid>
+      <description>Bangladesh is set to begin formal negotiations with the European...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>First Page</category>
+    </item>
+    <item>
+      <title>Rizvi named BNP acting secretary general</title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/rizvi-named-bnp-acting-secretary-general-1787248772</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/first-page/rizvi-named-bnp-acting-secretary-general-1787248772</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787248772.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;BNP has appointed National Standing...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>First Page</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787248772.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Prayer Timings_2026-08-21</title>
+      <link>https://today.thefinancialexpress.com.bd/first-page/prayer-timings-2026-08-21-1787248805</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/first-page/prayer-timings-2026-08-21-1787248805</guid>
+      <description>Prayer Timings_2026-08-21</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>First Page</category>
+    </item>
+    <item>
+      <title>China, France, UK, Switzerland hail Mirza Fakhrul’s election win</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/china-france-uk-switzerland-hail-mirza-fakhruls-election-win-1787248853</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/china-france-uk-switzerland-hail-mirza-fakhruls-election-win-1787248853</guid>
+      <description>China, the United Kingdom, France, and Switzerland have congratulated Mirza...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+    </item>
+    <item>
+      <title>Prime Minister and Leader of the House Tarique Rahman casts his ballot</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/prime-minister-and-leader-of-the-house-tarique-rahman-casts-his-ballot-1787248877</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/prime-minister-and-leader-of-the-house-tarique-rahman-casts-his-ballot-1787248877</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787248877.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Prime Minister and Leader of...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787248877.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Prof Yunus extends greetings to Mirza Fakhrul</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/prof-yunus-extends-greetings-to-mirza-fakhrul-1787248887</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/prof-yunus-extends-greetings-to-mirza-fakhrul-1787248887</guid>
+      <description>Nobel Laureate Professor Muhammad Yunus has extended his heartfelt congratulations...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+    </item>
+    <item>
+      <title>Bangabhaban bids farewell to acting President Hafiz</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/bangabhaban-bids-farewell-to-acting-president-hafiz-1787248909</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/bangabhaban-bids-farewell-to-acting-president-hafiz-1787248909</guid>
+      <description>Bangabhaban on Thursday bade a grand farewell to Acting President...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+    </item>
+    <item>
+      <title>PM visits graves of Zia, Khaleda after presidential polls</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/pm-visits-graves-of-zia-khaleda-after-presidential-polls-1787248923</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/pm-visits-graves-of-zia-khaleda-after-presidential-polls-1787248923</guid>
+      <description>Prime Minister and BNP Chairman Tarique Rahman on Thursday visited...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+    </item>
+    <item>
+      <title>Petition for filing case against Yunus, Asif Nazrul, 25 others</title>
+      <link>https://today.thefinancialexpress.com.bd/politics-policies/petition-for-filing-case-against-yunus-asif-nazrul-25-others-1787248949</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/politics-policies/petition-for-filing-case-against-yunus-asif-nazrul-25-others-1787248949</guid>
+      <description>A case petition has been filed against former interim government...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Politics &amp; Policies</category>
+    </item>
+    <item>
+      <title>Bangladesh trails South Asia in health workforce density</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/bangladesh-trails-south-asia-in-health-workforce-density-1787249012</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/bangladesh-trails-south-asia-in-health-workforce-density-1787249012</guid>
+      <description>Bangladesh continues to face a significant shortage of health professionals,...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>Oral cholera vaccination campaign begins tomorrow</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/oral-cholera-vaccination-campaign-begins-tomorrow-1787249039</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/oral-cholera-vaccination-campaign-begins-tomorrow-1787249039</guid>
+      <description>The ‘Preventive Oral Cholera Vaccination Campaign-2026’ will begin across the...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>Dentist rescued after abduction from Kuril</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/dentist-rescued-after-abduction-from-kuril-1787249056</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/dentist-rescued-after-abduction-from-kuril-1787249056</guid>
+      <description>A dentist, who was allegedly abducted from the capital's Kuril...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>Pending cases against RAB members to continue under existing laws</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/pending-cases-against-rab-members-to-continue-under-existing-laws-1787249092</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/pending-cases-against-rab-members-to-continue-under-existing-laws-1787249092</guid>
+      <description>Judicial proceedings against the accused members of the Rapid Action...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>14-pt directive for DCs to make land offices corruption-free</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/14-pt-directive-for-dcs-to-make-land-offices-corruption-free-1787249118</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/14-pt-directive-for-dcs-to-make-land-offices-corruption-free-1787249118</guid>
+      <description>The Ministry of Land (MoL) has issued a 14-point directive...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>Sept 27 set for fresh probe report submission</title>
+      <link>https://today.thefinancialexpress.com.bd/metro-news/sept-27-set-for-fresh-probe-report-submission-1787249144</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/metro-news/sept-27-set-for-fresh-probe-report-submission-1787249144</guid>
+      <description>A court here on Thursday set September 27 for the...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Metro / News</category>
+    </item>
+    <item>
+      <title>Bangladesh's media after the July Uprising</title>
+      <link>https://today.thefinancialexpress.com.bd/views-opinion/bangladeshs-media-after-the-july-uprising-1787236040</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-opinion/bangladeshs-media-after-the-july-uprising-1787236040</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787236040.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;The uprising of July 2024...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Views &amp; Opinion</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787236040.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Easing repatriation process of Rohingya refugees</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees-1787236064</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees-1787236064</guid>
+      <description>The Rohingya repatriation crisis appears to remain trapped in the...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Editorial</category>
+    </item>
+    <item>
+      <title>World misses leaders who could help restore order</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/world-misses-leaders-who-could-help-restore-order-1787236102</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/world-misses-leaders-who-could-help-restore-order-1787236102</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787236102.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;It could be hubris, a...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Editorial</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787236102.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Danger underneath luxury on road</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/danger-underneath-luxury-on-road-1787236140</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/danger-underneath-luxury-on-road-1787236140</guid>
+      <description>The promise is comfort. A sleeper berth, air-conditioning, more space...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Editorial</category>
+    </item>
+    <item>
+      <title>How digital life is being sold</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/how-digital-life-is-being-sold-1787236163</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/how-digital-life-is-being-sold-1787236163</guid>
+      <description>Every time you scroll through Instagram, check your email or...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Editorial</category>
+    </item>
+    <item>
+      <title>Quota system: A double-edged sword for freelancers</title>
+      <link>https://today.thefinancialexpress.com.bd/editorial/quota-system-a-double-edged-sword-for-freelancers-1787236187</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/editorial/quota-system-a-double-edged-sword-for-freelancers-1787236187</guid>
+      <description>The recent imposition of a quota system on the freelancing...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Editorial</category>
+    </item>
+    <item>
+      <title>When post-truth matters</title>
+      <link>https://today.thefinancialexpress.com.bd/views-reviews/when-post-truth-matters-1787236340</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-reviews/when-post-truth-matters-1787236340</guid>
+      <description>In an age where misinformation spreads faster than facts and...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Views &amp; Reviews</category>
+    </item>
+    <item>
+      <title>Tips on navigating complex customs tariff regime</title>
+      <link>https://today.thefinancialexpress.com.bd/views-reviews/tips-on-navigating-complex-customs-tariff-regime-1787236517</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/views-reviews/tips-on-navigating-complex-customs-tariff-regime-1787236517</guid>
+      <description>Tariff was hardly a widely discussed issue before the Trump...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Views &amp; Reviews</category>
+    </item>
+    <item>
+      <title>Gas crisis slashes knitwear output by 30-50pc</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/gas-crisis-slashes-knitwear-output-by-30-50pc-1787249230</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/gas-crisis-slashes-knitwear-output-by-30-50pc-1787249230</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787249230.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;The prevailing gas shortage across...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787249230.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>RMG sector can generate 1,768MWp from rooftop solar: Study</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/rmg-sector-can-generate-1768mwp-from-rooftop-solar-study-1787249496</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/rmg-sector-can-generate-1768mwp-from-rooftop-solar-study-1787249496</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787249496.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladesh's readymade garment (RMG) industry...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787249496.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>BB opens door to professional mediators for loan disputes</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/bb-opens-door-to-professional-mediators-for-loan-disputes-1787249535</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/bb-opens-door-to-professional-mediators-for-loan-disputes-1787249535</guid>
+      <description>Bangladesh Bank (BB) has opened the door for private professional...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+    </item>
+    <item>
+      <title>US overtakes India as Bangladesh's second-largest trading partner</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/us-overtakes-india-as-bangladeshs-second-largest-trading-partner-1787249589</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/us-overtakes-india-as-bangladeshs-second-largest-trading-partner-1787249589</guid>
+      <description>The US overtook India to become Bangladesh's second-largest trading partner...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+    </item>
+    <item>
+      <title>BB signs deals for Tk 410b financing packages</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/bb-signs-deals-for-tk-410b-financing-packages-1787249615</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/bb-signs-deals-for-tk-410b-financing-packages-1787249615</guid>
+      <description>Bangladesh Bank (BB) has signed agreements with seven banks for...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+    </item>
+    <item>
+      <title>Buses given 15 days to install RFID tags as Jatrabari flyover toll queues worsen</title>
+      <link>https://today.thefinancialexpress.com.bd/last-page/buses-given-15-days-to-install-rfid-tags-as-jatrabari-flyover-toll-queues-worsen-1787249650</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/last-page/buses-given-15-days-to-install-rfid-tags-as-jatrabari-flyover-toll-queues-worsen-1787249650</guid>
+      <description>Bus operators using the Jatrabari flyover have been given 15...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Last Page</category>
+    </item>
+    <item>
+      <title>Stocks bounce back, buoyed by gains in marginable securities</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/stocks-bounce-back-buoyed-by-gains-in-marginable-securities-1787245121</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/stocks-bounce-back-buoyed-by-gains-in-marginable-securities-1787245121</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787245121.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Stocks rebounded on Thursday, snapping...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787245121.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>World Bank Group, BSEC discuss mortgage refinancing</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/world-bank-group-bsec-discuss-mortgage-refinancing-1787245153</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/world-bank-group-bsec-discuss-mortgage-refinancing-1787245153</guid>
+      <description>A delegation of the World Bank Group (WBG) on Thursday...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+    </item>
+    <item>
+      <title>Dhaka bourse probes rally in Aamra Technologies</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/dhaka-bourse-probes-rally-in-aamra-technologies-1787245174</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/dhaka-bourse-probes-rally-in-aamra-technologies-1787245174</guid>
+      <description>The securities regulator has asked the Dhaka bourse to probe...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+    </item>
+    <item>
+      <title>AB Bank gets new MD</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/ab-bank-gets-new-md-1787245197</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/ab-bank-gets-new-md-1787245197</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787245197.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;AB Bank PLC has appointed...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787245197.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Three-day Innovation Fair in September</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/three-day-innovation-fair-in-september-1787245223</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/three-day-innovation-fair-in-september-1787245223</guid>
+      <description>A three-day national innovation fair aimed at promoting commercialisation of...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+    </item>
+    <item>
+      <title>LPP reaffirms long-term commitment to BD garment industry</title>
+      <link>https://today.thefinancialexpress.com.bd/stock-corporate/lpp-reaffirms-long-term-commitment-to-bd-garment-industry-1787245244</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/stock-corporate/lpp-reaffirms-long-term-commitment-to-bd-garment-industry-1787245244</guid>
+      <description>LPP, one of the European retail sector's major global players,...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Stock &amp; Corporate</category>
+    </item>
+    <item>
+      <title>Rajshahi silk seeks to revive lost glory through revamp</title>
+      <link>https://today.thefinancialexpress.com.bd/country/rajshahi-silk-seeks-to-revive-lost-glory-through-revamp-1787241697</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/country/rajshahi-silk-seeks-to-revive-lost-glory-through-revamp-1787241697</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787241697.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;RAJSHAHI, Aug 20: Bangladesh is...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Country</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787241697.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Chattogram General Hospital's MRI service resumes after seven years</title>
+      <link>https://today.thefinancialexpress.com.bd/country/chattogram-general-hospitals-mri-service-resumes-after-seven-years-1787241744</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/country/chattogram-general-hospitals-mri-service-resumes-after-seven-years-1787241744</guid>
+      <description>CHATTOGRAM, Aug 20 (BSS): Magnetic Resonance Imaging (MRI) machine at...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Country</category>
+    </item>
+    <item>
+      <title>Trump vows tough economic measures on countries supporting Iran</title>
+      <link>https://today.thefinancialexpress.com.bd/world/trump-vows-tough-economic-measures-on-countries-supporting-iran-1787242914</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/world/trump-vows-tough-economic-measures-on-countries-supporting-iran-1787242914</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242914.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;WASHINGTON/DUBAI, Aug 20 (Reuters): US...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>World</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242914.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>N Korea launches missiles after Trump floats Kim meet: Seoul</title>
+      <link>https://today.thefinancialexpress.com.bd/world/n-korea-launches-missiles-after-trump-floats-kim-meet-seoul-1787242939</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/world/n-korea-launches-missiles-after-trump-floats-kim-meet-seoul-1787242939</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242939.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;SEOUL, Aug 20 (AFP): North...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>World</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242939.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Russian strikes kill 16, injure 40 people in Ukraine</title>
+      <link>https://today.thefinancialexpress.com.bd/world/russian-strikes-kill-16-injure-40-people-in-ukraine-1787242973</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/world/russian-strikes-kill-16-injure-40-people-in-ukraine-1787242973</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242973.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;KYIV, Aug 20 (Reuters): Russian...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>World</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242973.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>'Worst' ever El Nino to bring heavy rains, drought to Sri Lanka</title>
+      <link>https://today.thefinancialexpress.com.bd/world/worst-ever-el-nino-to-bring-heavy-rains-drought-to-sri-lanka-1787242984</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/world/worst-ever-el-nino-to-bring-heavy-rains-drought-to-sri-lanka-1787242984</guid>
+      <description>COLOMBO, Aug 20 (AFP): Heavy rains and severe drought are...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>World</category>
+    </item>
+    <item>
+      <title>NEWS IN BRIEF_2026-08-21</title>
+      <link>https://today.thefinancialexpress.com.bd/world/news-in-brief-2026-08-21-1787243084</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/world/news-in-brief-2026-08-21-1787243084</guid>
+      <description>India, Japan agree to bolster defence tiesNEW DELHI, Aug 20:...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>World</category>
+    </item>
+    <item>
+      <title>Tamim rules out 2026 BPL over Tk 400m losses</title>
+      <link>https://today.thefinancialexpress.com.bd/sports/tamim-rules-out-2026-bpl-over-tk-400m-losses-1787242748</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/sports/tamim-rules-out-2026-bpl-over-tk-400m-losses-1787242748</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242748.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladesh Cricket Board (BCB) president...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Sports</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242748.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Australia is going to come harder</title>
+      <link>https://today.thefinancialexpress.com.bd/sports/australia-is-going-to-come-harder-1787242790</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/sports/australia-is-going-to-come-harder-1787242790</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242790.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladesh head coach Phil Simmons...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Sports</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242790.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Tanzid skips batting session with neck discomfort</title>
+      <link>https://today.thefinancialexpress.com.bd/sports/tanzid-skips-batting-session-with-neck-discomfort-1787242811</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/sports/tanzid-skips-batting-session-with-neck-discomfort-1787242811</guid>
+      <description>Bangladesh opener Tanzid Hasan Tamim skipped the team's batting session...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Messi scores first goal since father's death</title>
+      <link>https://today.thefinancialexpress.com.bd/sports/messi-scores-first-goal-since-fathers-death-1787242848</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/sports/messi-scores-first-goal-since-fathers-death-1787242848</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787242848.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;MIAMI, Aug 20 (AFP): Lionel...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Sports</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787242848.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Inward remittances thru MFS fall nearly 21pc to Tk 22.29b in June</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/inward-remittances-thru-mfs-fall-nearly-21pc-to-tk-2229b-in-june-1787244713</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/inward-remittances-thru-mfs-fall-nearly-21pc-to-tk-2229b-in-june-1787244713</guid>
+      <description>Inward remittances through mobile financial services (MFS) declined by nearly...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+    </item>
+    <item>
+      <title>Waiz Rahim appointed MD &amp; CEO of BSIC</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/waiz-rahim-appointed-md-ceo-of-bsic-1787244748</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/waiz-rahim-appointed-md-ceo-of-bsic-1787244748</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787244748.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladesh Startup Investment Company (BSIC)...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787244748.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>PKSF, CAB International join hands</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/pksf-cab-international-join-hands-1787244772</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/pksf-cab-international-join-hands-1787244772</guid>
+      <description>Palli Karma-Sahayak Foundation (PKSF) and CAB International will work jointly...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+    </item>
+    <item>
+      <title>14 public, private varsities sign addendum to MoUs with ICAB</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/14-public-private-varsities-sign-addendum-to-mous-with-icab-1787244830</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/14-public-private-varsities-sign-addendum-to-mous-with-icab-1787244830</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787244829.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;As many as 14 public...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787244829.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>BIDA survey to map investment barriers, untapped sector potential</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/bida-survey-to-map-investment-barriers-untapped-sector-potential-1787244904</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/bida-survey-to-map-investment-barriers-untapped-sector-potential-1787244904</guid>
+      <description>The Bangladesh Investment Development Authority (BIDA), with support from the...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+    </item>
+    <item>
+      <title>UCB SIGNS MOU WITH PLAN MEDI TRIP TO OFFER PREFERENTIAL MEDICAL TOURISM SERVICES</title>
+      <link>https://today.thefinancialexpress.com.bd/trade-market/ucb-signs-mou-with-plan-medi-trip-to-offer-preferential-medical-tourism-services-1787244938</link>
+      <guid isPermaLink="true">https://today.thefinancialexpress.com.bd/trade-market/ucb-signs-mou-with-plan-medi-trip-to-offer-preferential-medical-tourism-services-1787244938</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://today.thefinancialexpress.com.bd/uploads/1787244938.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;United Commercial Bank PLC (UCB)...]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:50 GMT</pubDate>
+      <category>Trade &amp; Market</category>
+      <media:content url="https://today.thefinancialexpress.com.bd/uploads/1787244938.jpg" medium="image"/>
+    </item>
+  </channel>
+</rss>

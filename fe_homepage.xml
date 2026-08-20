@@ -1,761 +1,935 @@
-<?xml version="1.0" ?>
-<feed xmlns:atom="http://www.w3.org/2005/Atom">
-  <title>The Financial Express — Home Page</title>
-  <link>https://thefinancialexpress.com.bd</link>
-  <generator>scraper.py</generator>
-  <scraped_at>2026-08-20T19:52:33.919029+00:00</scraped_at>
-  <source_urls>
-    <url>https://thefinancialexpress.com.bd/</url>
-  </source_urls>
-  <article_count>115</article_count>
-  <article>
-    <title>Shamsul Huq Zahid</title>
-    <url>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#3d58595449524f7d495558d291bc535c535e545c5158454d4f584e4e135e5250135f59</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</snippet>
-  </article>
-  <article>
-    <title>Shamsul Huq Zahid</title>
-    <url>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#4b2d2e333b392e38387d730b2c262a222765282426</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</snippet>
-  </article>
-  <article>
-    <title>Shamsul Huq Zahid</title>
-    <url>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#c3a5a6acadafaaada6fafa83a4aea2aaafeda0acae</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</snippet>
-  </article>
-  <article>
-    <title>Shamsul Huq Zahid</title>
-    <url>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#c2a4a7a3a6b4b6fbf182a5afa3abaeeca1adaf</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</snippet>
-  </article>
-  <article>
-    <title>EC issues gazette declaring Mirza Fakhrul President</title>
-    <url>https://thefinancialexpress.com.bd/economy/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</snippet>
-  </article>
-  <article>
-    <title>EC issues gazette declaring Mirza Fakhrul President</title>
-    <url>https://thefinancialexpress.com.bd/national/ec-issues-gazette-declaring-mirza-fakhrul-president</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Rizvi made BNP acting secretary general</title>
-    <url>https://thefinancialexpress.com.bd/national/rizvi-made-bnp-acting-secretary-general</url>
-    <category>National</category>
-    <published>6 hours ago</published>
-  </article>
-  <article>
-    <title>Govt puts disability rights in focus</title>
-    <url>https://thefinancialexpress.com.bd/national/government-steps-up-efforts-to-make-public-services-accessible-to-persons-with-disabilities</url>
-    <category>National</category>
-    <published>7 hours ago</published>
-  </article>
-  <article>
-    <title>Yunus congratulates Fakhrul on becoming 23rd President</title>
-    <url>https://thefinancialexpress.com.bd/national/dr-yunus-congratulates-mirza-fakhrul-on-becoming-23rd-president-of-bangladesh</url>
-    <category>National</category>
-    <published>3 hours ago</published>
-  </article>
-  <article>
-    <title>Shafiqur greets president-elect Mirza Fakhrul</title>
-    <url>https://thefinancialexpress.com.bd/national/opposition-leader-shafiqur-greets-mirza-fakhrul</url>
-    <category>National</category>
-    <published>6 hours ago</published>
-  </article>
-  <article>
-    <title>Central bank introduces ADR Mediator Policy for faster loan recovery</title>
-    <url>https://thefinancialexpress.com.bd/bangladesh/central-bank-introduces-adr-mediator-policy-for-faster-loan-recovery</url>
-    <category>Bangladesh</category>
-    <published>8 hours ago</published>
-  </article>
-  <article>
-    <title>Govt enforces EPR rules for plastic products</title>
-    <url>https://thefinancialexpress.com.bd/trade/bangladesh-enforces-2026-epr-guidelines-divides-plastic-products-into-5-categories</url>
-    <category>Trade</category>
-    <published>9 hours ago</published>
-  </article>
-  <article>
-    <title>Harry, Meghan return to the press 'lion's den'</title>
-    <url>https://thefinancialexpress.com.bd/world/harry-and-meghan-to-return-to-the-press-lions-den-they-sought-to-escape</url>
-    <category>World</category>
-    <published>3 hours ago</published>
-  </article>
-  <article>
-    <title>One more dengue death reported, 750 patients admitted to hospitals</title>
-    <url>https://thefinancialexpress.com.bd/health/one-more-dengue-death-reported-750-patients-admitted-to-hospitals</url>
-    <category>Health</category>
-    <published>5 hours ago</published>
-  </article>
-  <article>
-    <title>Top Indian court forms panel to probe youth protest violence</title>
-    <url>https://thefinancialexpress.com.bd/asia/indias-top-court-forms-panel-to-probe-allegations-of-violence-during-youth-protests</url>
-    <category>Asia/South Asia</category>
-    <published>6 hours ago</published>
-  </article>
-  <article>
-    <title>Husband buried, Dipu Moni heads back to jail</title>
-    <url>https://thefinancialexpress.com.bd/national/tawfique-nawaz-laid-to-rest-in-banani-as-dipu-moni-heads-back-to-prison</url>
-    <category>National</category>
-    <published>7 hours ago</published>
-  </article>
-  <article>
-    <title>SSC re-scrutiny results may come Sept 10</title>
-    <url>https://thefinancialexpress.com.bd/education/ssc-re-scrutiny-results-may-come-sept-10-400000-await-outcome</url>
-    <category>Education</category>
-    <published>4 hours ago</published>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</snippet>
-    <image>https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168232/result.jpg</image>
-  </article>
-  <article>
-    <title>Rajshahi gets new Divisional Commissioner, 3 districts get new DCs</title>
-    <url>https://thefinancialexpress.com.bd/national/rajshahi-gets-new-divisional-commissioner-3-districts-get-new-dcs</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</snippet>
-    <image>https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168227/govt-logo.jpg</image>
-  </article>
-  <article>
-    <title>14 Myanmar nationals surrender to BGB</title>
-    <url>https://thefinancialexpress.com.bd/national/14-myanmar-nationals-surrender-to-bgb</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</snippet>
-    <image>https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168190/myanmar-nationals.jpg</image>
-  </article>
-  <article>
-    <title>Nur asks Jamaat to drop ‘Islam’ from its name</title>
-    <url>https://thefinancialexpress.com.bd/politics/nur-asks-jamaat-to-drop-islam-from-its-name</url>
-    <category>Politics</category>
-    <published>4 hours ago</published>
-    <snippet>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</snippet>
-    <image>https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168261/nur.jpg</image>
-  </article>
-  <article>
-    <title>Easing repatriation process of Rohingya refugees</title>
-    <url>https://thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees</url>
-    <category>Editorial</category>
-    <published>1 hour ago</published>
-  </article>
-  <article>
-    <title>World misses leaders who could help restore order</title>
-    <url>https://thefinancialexpress.com.bd/columns/world-misses-leaders-who-could-help-restore-order</url>
-    <category>Columns</category>
-    <published>1 hour ago</published>
-  </article>
-  <article>
-    <title>Danger underneath luxury on road</title>
-    <url>https://thefinancialexpress.com.bd/opinions/danger-underneath-luxury-on-road</url>
-    <category>Opinions</category>
-    <published>1 hour ago</published>
-  </article>
-  <article>
-    <title>Bangladesh's media after the July Uprising</title>
-    <url>https://thefinancialexpress.com.bd/views/bangladeshs-media-after-the-july-uprising</url>
-    <category>Views</category>
-    <published>2 hours ago</published>
-  </article>
-  <article>
-    <title>When post-truth matters</title>
-    <url>https://thefinancialexpress.com.bd/reviews/when-post-truth-matters</url>
-    <category>Reviews</category>
-    <published>2 hours ago</published>
-  </article>
-  <article>
-    <title>Tips on navigating complex customs tariff regime</title>
-    <url>https://thefinancialexpress.com.bd/reviews/tips-on-navigating-complex-customs-tariff-regime</url>
-    <category>Reviews</category>
-    <published>2 hours ago</published>
-  </article>
-  <article>
-    <title>DU female students demand complete abolition of ‘evening curfew’</title>
-    <url>https://thefinancialexpress.com.bd/education/du-female-students-demand-complete-abolition-of-evening-curfew</url>
-    <category>Education</category>
-    <published>3 hours ago</published>
-  </article>
-  <article>
-    <title>DU Vice-Chancellor meets Prime Minister at Secretariat</title>
-    <url>https://thefinancialexpress.com.bd/education/du-vice-chancellor-meets-prime-minister-at-secretariat</url>
-    <category>Education</category>
-    <published>3 hours ago</published>
-  </article>
-  <article>
-    <title>Four children drown in Narayanganj pond</title>
-    <url>https://thefinancialexpress.com.bd/national/four-children-drown-in-narayanganj-pond</url>
-    <category>National</category>
-    <published>3 hours ago</published>
-  </article>
-  <article>
-    <title>US debt crosses $40 trillion threshold after doubling under Trump and Biden</title>
-    <url>https://thefinancialexpress.com.bd/economy/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Total US debt has topped $40 trillion for the first time, the Treasury Department said on Wednesday, drawing fresh warnings that a fiscal crisis is ​brewing as ballooning costs for social safety-net programmes and interest payments far outs...</snippet>
-  </article>
-  <article>
-    <title>Nearly 43pc of annual LNG subsidy spent in just 1.5 months</title>
-    <url>https://thefinancialexpress.com.bd/economy/nearly-43pc-of-annual-lng-subsidy-spent-in-just-15-months</url>
-    <category>Economy</category>
-    <published/>
-    <snippet>Nearly 43 per cent of the subsidy allocated for liquefied natural gas (LNG) import in the budget has already been disbursed within one and a half months of this fiscal year as the fuel price spikes amid global unrest. Until mid-Augus...</snippet>
-  </article>
-  <article>
-    <title>ECNEC clears 10 projects involving Tk 93.34b</title>
-    <url>https://thefinancialexpress.com.bd/economy/ecnec-clears-10-projects-incolving-tk-9333b</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>Dhaka eyes equally beneficial economic partnership with New Delhi: Shama Obaed</title>
-    <url>https://thefinancialexpress.com.bd/economy/dhaka-eyes-equally-beneficial-economic-partnership-with-new-delhi-shama-obaed</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>Stop raising tax load on existing taxpayers, expand scope</title>
-    <url>https://thefinancialexpress.com.bd/economy/stop-raising-tax-load-on-existing-taxpayers-expand-scope</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>Revenue reforms to help Bangladesh fund development from domestic resources, says Khosru</title>
-    <url>https://thefinancialexpress.com.bd/economy/revenue-reforms-to-help-bangladesh-fund-development-from-domestic-resources-says-khosru</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>Agri credit disbursement target up 53.85pc to Tk 600b for FY'27</title>
-    <url>https://thefinancialexpress.com.bd/economy/agri-credit-disbursement-target-up-5385pc-to-tk-600b-for-fy27</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>PMI becomes a vital tool for tracking BD's real-time economic activity</title>
-    <url>https://thefinancialexpress.com.bd/economy/pmi-becomes-a-vital-tool-for-tracking-bds-real-time-economic-activity</url>
-    <category>Economy</category>
-    <published/>
-  </article>
-  <article>
-    <title>An emerging macroeconomic challenge for Bangladesh</title>
-    <url>https://thefinancialexpress.com.bd/views/an-emerging-macroeconomic-challenge-for-bangladesh</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Bangladesh's economy is currently navigating a complex macroeconomic environment marked by persistently high inflation, subdued private sector credit growth, liquidity management challenges, and sluggish investment. Amid the policy focus on...</snippet>
-  </article>
-  <article>
-    <title>Cost-driven rise in import bill</title>
-    <url>https://thefinancialexpress.com.bd/columns/cost-driven-rise-in-import-bill</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>Does the sharp rise in imports of goods last fiscal year (FY26) reflect a rebound in investment in the country? The answer is no. Though the rise in imports is linked to investment activities, other factors also drive investment. For instan...</snippet>
-  </article>
-  <article>
-    <title>A toothless human rights commission, again</title>
-    <url>https://thefinancialexpress.com.bd/opinions/a-toothless-human-rights-commission-again</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>Of the 133 ordinances promulgated during the tenure of the interim government, the BNP government made 97 ordinances into law without changes, while 13 ordinances were decided to be enacted into law with amendments. The remaining 16 ordinan...</snippet>
-  </article>
-  <article>
-    <title>The Rubik's Cube economy</title>
-    <url>https://thefinancialexpress.com.bd/views/the-rubiks-cube-economy</url>
-    <category>Views</category>
-    <published/>
-    <snippet>A government raises tariffs to protect domestic industry. A central bank increases interest rates to control inflation. A war disrupts an important shipping route. An energy-producing country is placed under sanctions. Each appears to belon...</snippet>
-  </article>
-  <article>
-    <title>The political economy of financial sector reform</title>
-    <url>https://thefinancialexpress.com.bd/reviews/the-political-economy-of-financial-sector-reform</url>
-    <category>Reviews</category>
-    <published/>
-    <snippet>The proposed BDT 9.38 trillion national budget for Bangladesh for fiscal year 2026–27 is the largest in the country's history. It presents a roadmap for economic restructuring, administrative reform, social protection, and long-term g...</snippet>
-  </article>
-  <article>
-    <title>Stocks gain as revised margin rules ease uncertainty</title>
-    <url>https://thefinancialexpress.com.bd/stock/stocks-rebound-after-six-session-losing-streak</url>
-    <category>Stock</category>
-    <published/>
-    <snippet>Stocks opened higher on Thursday, rebounding from a six-session losing streak, as investors stepped up buying of fundamentally strong and selective shares following the publication of revised margin rules. Meanwhile, the Dhaka Stock Exchan...</snippet>
-  </article>
-  <article>
-    <title>Commodity exchange yet to get going</title>
-    <url>https://thefinancialexpress.com.bd/stock/commodity-exchange-yet-to-get-going</url>
-    <category>Stock</category>
-    <published/>
-    <snippet>The port city bourse CSE has yet to launch operation of the country's maiden commodity exchange (CX), as regulatory approval for licences of commodity brokers and products has been remaining pending for around one year due to shareholding c...</snippet>
-  </article>
-  <article>
-    <title>BSEC cautions against fake statements attributed to chairman</title>
-    <url>https://thefinancialexpress.com.bd/stock/bsec-cautions-against-fake-statements-attributed-to-chairman</url>
-    <category>Stock</category>
-    <published/>
-    <snippet>The Bangladesh Securities and Exchange Commission (BSEC) on Wednesday urged all media outlets, journalists, social media users and investors to exercise utmost caution and professional responsibility before publishing or circulating any sta...</snippet>
-  </article>
-  <article>
-    <title>The myth of 300,000 registered entities with RJSC</title>
-    <url>https://thefinancialexpress.com.bd/opinions/the-myth-of-300000-registered-entities-with-rjsc</url>
-    <category>Opinions</category>
-    <published/>
-    <snippet>Bangladesh's business landscape is often described with a headline statistic: more than 300,000 entities are registered with the Registrar of Joint Stock Companies and Firms (RJSC). This figure is quoted routinely — by policymakers, d...</snippet>
-  </article>
-  <article>
-    <title>Bringing truth back to land registration</title>
-    <url>https://thefinancialexpress.com.bd/columns/bringing-truth-back-to-land-registration</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>As the National Board of Revenue embarks on its customary round of pre-budget consultations with business associations, economists, journalists and other stakeholders ahead of the upcoming national budget, the fiscal pressures bearing down...</snippet>
-  </article>
-  <article>
-    <title>Southeast Bank PLC’s board marks 797th meeting</title>
-    <url>https://thefinancialexpress.com.bd/trade/southeast-bank-plcs-board-marks-797th-meeting</url>
-    <category>Trade</category>
-    <published/>
-    <snippet>The 797th meeting of the Board of Directors of Southeast Bank PLC was held at the bank’s boardroom in Dhaka. The meeting was presided over by the Founder and Current Chairman of the Southeast Bank PLC. M. A. Kashem, meeting marks an...</snippet>
-  </article>
-  <article>
-    <title>Pubali Bank holds 3rd Business Conference-2026 of Regional and Corporate Branch Managers</title>
-    <url>https://thefinancialexpress.com.bd/trade/pubali-bank-holds-3rd-business-conference-2026-of-regional-and-corporate-branch-managers</url>
-    <category>Trade</category>
-    <published/>
-    <snippet>Pubali Bank PLC’s 3rd Business Conference-2026 of Regional and Corporate Branch Managers was held at the Bank’s Head Office Auditorium on Thursday. Mohammad Ali, Managing Director and CEO of Pubali Bank, was present as Chief Gu...</snippet>
-  </article>
-  <article>
-    <title>Govt working to reduce agro-products import in phases: Agriculture Minister</title>
-    <url>https://thefinancialexpress.com.bd/trade/govt-working-to-reduce-agro-products-import-in-phases-agriculture-minister</url>
-    <category>Trade</category>
-    <published/>
-    <snippet>Fisheries, Livestock and Agriculture Minister Mohammed Aminur Rashid has said the government is working to reduce agro-products import in phases through improving production and infrastructural facilities. “The country will gradually...</snippet>
-  </article>
-  <article>
-    <title>Beyond the gains in fish production</title>
-    <url>https://thefinancialexpress.com.bd/columns/beyond-the-gains-in-fish-production</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>The National Fisheries Week 2026 is being observed across the country from August 16 to 30 with the theme &quot;A self-sufficient country through silver fish, Bangladesh first.&quot; Bangladesh has indeed made remarkable strides in fish production ov...</snippet>
-  </article>
-  <article>
-    <title>23 detained in Kuala Lumpur sex ring targeting ‘Bangladeshi customers’</title>
-    <url>https://thefinancialexpress.com.bd/national/23-detained-in-kuala-lumpur-sex-ring-targeting-bangladeshi-customers</url>
-    <category>National</category>
-    <published/>
-    <snippet>Immigration authorities in Malaysia’s capital Kuala Lumpur have detained 23 foreign nationals involved in a prostitution ring. Official statements indicate the syndicate specifically targeted “Bangladeshi customers” to ru...</snippet>
-  </article>
-  <article>
-    <title>Rohingya repatriation trapped in geopolitics</title>
-    <url>https://thefinancialexpress.com.bd/columns/rohingya-repatriation-trapped-in-geopolitics</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>On 25 August, Bangladesh will mark nine years since more than 700,000 Rohingyas fled across the border from Myanmar's Rakhine State, joining earlier waves of refugees and creating one of the world's largest and most protracted displacement...</snippet>
-  </article>
-  <article>
-    <title>It is governance crisis</title>
-    <url>https://thefinancialexpress.com.bd/views/it-is-governance-crisis</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Bangladesh is not confronting four separate crises. It is confronting one crisis of state capacity, appearing in four places citizens encounter every day: the market, the power system, the street and the highway. Prices remain painfully hi...</snippet>
-  </article>
-  <article>
-    <title>কালিয়াকৈরে কৃষি ব্যাংক ব্যবস্থাপককে অপহরণ ও নির্যাতনের নিন্দা জেবিএবির</title>
-    <url>https://thefinancialexpress.com.bd/bn/kaliyakoire-krrishi-bzangk-bzbsthapkke-ophrn-oo-nirzatner-ninda-jebiebir</url>
-    <category>Bn</category>
-    <published/>
-    <snippet>গাজীপুরের কালিয়াকৈরে বাংলাদেশ কৃষি ব্যাংকের শাখা ব্যবস্থাপক আব্দুস সবুরকে অপহরণ, মুক্তিপণ আদায় এবং ভল্টের চাবির জন্য নির্যাতনের ঘটনায় তীব্র নিন্দা জানিয়েছে জাতীয়তাবাদী ব্যাংকার্স অ্যাসোসিয়েশন বাংলাদেশ (জেবিএবি)। রোববার সংগঠনের যুগ্ম আহ্বায়...</snippet>
-  </article>
-  <article>
-    <title>ব্যাংক কর্মকর্তা আরিফুল হত্যায় জড়িত ব্যক্তিদের গ্রেপ্তার দাবি জেবিএবির</title>
-    <url>https://thefinancialexpress.com.bd/bn/bzangk-krmkrta-ariful-htzay-jrit-bzktider-greptar-dabi-jebiebir</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>নতুন বছরে যে স্কিলগুলো আপনাকে এগিয়ে রাখবে</title>
-    <url>https://thefinancialexpress.com.bd/bn/ntun-bchre-ze-skilgulo-apnake-egiye-rakhbe</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>শিশুর বিকাশে যে দশটি বই গুরুত্বপূর্ণ</title>
-    <url>https://thefinancialexpress.com.bd/bn/sisur-bikase-ze-dsti-bi-gurutwpuurn</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>২০২৬: প্রযুক্তিতে যা থাকছে</title>
-    <url>https://thefinancialexpress.com.bd/bn/2026-prjuktite-za-thakche-1</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>আইপিএল: ক্রিকেটের মুখোশে পুঁজি, ক্ষমতা ও নৈতিক সংকটের গল্প</title>
-    <url>https://thefinancialexpress.com.bd/bn/aipiel-kriketer-mukhose-punnji-kshmta-oo-noitik-sngkter-glp</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>কেন আখতারুজ্জামান ইলিয়াস পড়া জরুরি?</title>
-    <url>https://thefinancialexpress.com.bd/bn/ken-akhtarujjaman-iliyas-pra-jruri</url>
-    <category>Bangla</category>
-    <published/>
-  </article>
-  <article>
-    <title>ঢাকার শীতে 'সাশ্রয়ী' কেনাকাটা: সেরা কিছু গন্তব্য</title>
-    <url>https://thefinancialexpress.com.bd/bn/dhakar-seete-sasrzee-kenakata-sera-kichu-gntbz</url>
-    <category>Bangla</category>
-    <published/>
-    <snippet>ব্যস্ততম ঢাকা শহরে শীতের আগমন মানেই ফ্যাশন আর কেনাকাটার ধুম। ছোট বাচ্চাদের শীতপোশাক থেকে শুরু করে বড়দের পোশাক উভয়েরই এই সময়ে বেশ চাহিদা থাকে। তবে স্টাইলিশ শীতের পোশাক মানেই যে অনেক খরচ, তা কিন্তু নয়। ঢাকার এমন কিছু জায়গা আছে যেখানে তুলনামূল...</snippet>
-  </article>
-  <article>
-    <title>শীতকালে যেভাবে ঘরোয়া উপায়ে ত্বকের যত্ন নেবেন</title>
-    <url>https://thefinancialexpress.com.bd/bn/seetkale-zevabe-ghroya-upaye-twker-ztn-neben</url>
-    <category>Bangla</category>
-    <published/>
-    <snippet>শীতকাল এলেই ত্বকের উপর এর প্রভাবটা যেন সবার আগে চোখে পড়ে। বাতাসের আর্দ্রতা কমে যাওয়া, চারপাশের শুষ্ক পরিবেশ আর ঠান্ডা বাতাস ত্বকের কোমলতা কেড়ে নেয়। অনেকের ত্বক খসখসে হয়ে যায়, কারও কারও ত্বকে টান-টান ভাব দেখা দেয়। আবার অনেকের নিশপিশ ও ত্বক ফ...</snippet>
-  </article>
-  <article>
-    <title>আতশবাজি থেকে যেভাবে নিরাপদ রাখবেন আপনার পোষা প্রানীকে</title>
-    <url>https://thefinancialexpress.com.bd/bn/atsbaji-theke-zevabe-nirapd-rakhben-apnar-posha-praneeke</url>
-    <category>Bangla</category>
-    <published/>
-    <snippet>নতুন বছর মানেই মানুষের জীবনে হাসি, গান আর আতশবাজির ঝলকানি। আমরা যখন ঘড়ির কাটার দিকে তাকিয়ে কাউন্টডাউনের অপেক্ষা করি, ঠিক তখনই শহরের প্রাণীগুলো মুখোমুখি হয় অন্য এক বাস্তবতার। আতশবাজির বিকট শব্দে কেঁপে ওঠে পথকুকুর, কার্নিশে বসে থাকা পাখিরা দি...</snippet>
-  </article>
-  <article>
-    <title>Lessons from Brazil's agribusiness powerhouse</title>
-    <url>https://thefinancialexpress.com.bd/reviews/lessons-from-brazils-agribusiness-powerhouse</url>
-    <category>Reviews</category>
-    <published/>
-  </article>
-  <article>
-    <title>Can AI help keep Bangladesh’s lights on?</title>
-    <url>https://thefinancialexpress.com.bd/opinions/can-ai-help-keep-bangladeshs-lights-on</url>
-    <category>Opinions</category>
-    <published/>
-  </article>
-  <article>
-    <title>Privatisation of energy sector undesirable</title>
-    <url>https://thefinancialexpress.com.bd/opinions/privatisation-of-energy-sector-undesirable</url>
-    <category>Opinions</category>
-    <published/>
-  </article>
-  <article>
-    <title>Development spending slips to an alarming low</title>
-    <url>https://thefinancialexpress.com.bd/columns/development-spending-slips-to-an-alarming-low</url>
-    <category>Columns</category>
-    <published/>
-  </article>
-  <article>
-    <title>How Gen Z is faring in the changed context</title>
-    <url>https://thefinancialexpress.com.bd/analysis/how-gen-z-is-faring-in-the-changed-context</url>
-    <category>Analysis</category>
-    <published/>
-  </article>
-  <article>
-    <title>Growing cashless retail payments through Bangla QR</title>
-    <url>https://thefinancialexpress.com.bd/analysis/growing-cashless-retail-payments-through-bangla-qr</url>
-    <category>Analysis</category>
-    <published/>
-  </article>
-  <article>
-    <title>A new frontier for Bangladesh's green economy</title>
-    <url>https://thefinancialexpress.com.bd/analysis/a-new-frontier-for-bangladeshs-green-economy</url>
-    <category>Analysis</category>
-    <published/>
-  </article>
-  <article>
-    <title>Australia look for response to 'Darwin Disaster' in second Bangladesh Test</title>
-    <url>https://thefinancialexpress.com.bd/sports/australia-look-for-response-to-darwin-disaster-in-second-bangladesh-test</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</snippet>
-  </article>
-  <article>
-    <title>Bangladesh stars rise in ICC rankings after historic Test win over Australia</title>
-    <url>https://thefinancialexpress.com.bd/sports/bangladesh-stars-rise-in-icc-rankings-after-historic-test-win-over-australia</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Bangladesh cricketers made significant gains in the latest ICC Test rankings following their landmark nine-wicket victory over Australia in Darwin. Coming to tour for a Test series Down Under for the first time in 24 years, Bangladesh play...</snippet>
-  </article>
-  <article>
-    <title>Kyrgios provisionally suspended after testing positive for cocaine</title>
-    <url>https://thefinancialexpress.com.bd/sports/kyrgios-provisionally-suspended-after-testing-positive-for-cocaine</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</snippet>
-  </article>
-  <article>
-    <title>Bayern's Musiala diagnosed with neurological disorder after two on-field collapses</title>
-    <url>https://thefinancialexpress.com.bd/sports/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</snippet>
-  </article>
-  <article>
-    <title>Barcelona agree £65m deal to sign Rodri from Man City</title>
-    <url>https://thefinancialexpress.com.bd/sports/barcelona-agree-ps65m-deal-to-sign-rodri-from-man-city</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</snippet>
-  </article>
-  <article>
-    <title>Shanto hails Australia triumph as Bangladesh’s ‘biggest win in any format’</title>
-    <url>https://thefinancialexpress.com.bd/sports/shanto-hails-australia-triumph-as-bangladeshs-biggest-win-in-any-format</url>
-    <category>Sports</category>
-    <published/>
-    <snippet>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</snippet>
-  </article>
-  <article>
-    <title>Class XI admission applications may open Sept 2</title>
-    <url>https://thefinancialexpress.com.bd/education/college-admission-bids-may-open-on-sept-2</url>
-    <category>Education</category>
-    <published/>
-    <snippet>Applications for admission to Class XI at colleges and madrasas could begin online on Sept 2 under a proposed schedule submitted to the education ministry. The Inter-Education Board Coordination Committee has proposed accepting first-phase...</snippet>
-  </article>
-  <article>
-    <title>Learning from reversal in SSC results</title>
-    <url>https://thefinancialexpress.com.bd/columns/learning-from-reversal-in-ssc-results</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>This year's results of the Secondary School Certificate (SSC) and equivalent examinations have, for good reasons, caused quite a hullabaloo. That the pass rate is the lowest ever in the past 19 years is unsettling enough. But when more than...</snippet>
-  </article>
-  <article>
-    <title>When academic research is suspect</title>
-    <url>https://thefinancialexpress.com.bd/columns/when-academic-research-is-suspect</url>
-    <category>Columns</category>
-    <published/>
-    <snippet>Academic research is one of the defining responsibilities of higher education. It is meant to keep campuses intellectually vibrant and help shaping public policy, industrial innovation and scientific progress. Yet in many universities in Ba...</snippet>
-  </article>
-  <article>
-    <title>The rise of affordable mental health ecosystems</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-rise-of-affordable-mental-health-ecosystems</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
-  </article>
-  <article>
-    <title>The hidden cost of the productivity imperative in higher education</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-hidden-cost-of-the-productivity-imperative-in-higher-education</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
-  </article>
-  <article>
-    <title>The road to a final for the ages</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-road-to-a-final-for-the-ages</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
-  </article>
-  <article>
-    <title>The gender gap BD's youth statistics cannot hide</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-gender-gap-bds-youth-statistics-cannot-hide</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
-  </article>
-  <article>
-    <title>Bangladeshi founders are quietly rerouting their fundraising maps towards the Gulf</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/bangladeshi-founders-are-quietly-rerouting-their-fundraising-maps-towards-the-gulf</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</snippet>
-  </article>
-  <article>
-    <title>BRAC University Business Club announces ADwiz 2.0</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/brac-university-business-club-announces-adwiz-20</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>The BRAC University Business Club (BIZ BEE) has announced the second edition of ADwiz, its flagship inter-university advertising competition, inviting students from universities across Bangladesh to showcase their creativity, strategic thin...</snippet>
-  </article>
-  <article>
-    <title>Empowering youths: How Bangladesh can adopt Malaysian Qualifications Framework</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/empowering-youths-how-bangladesh-can-adopt-malaysian-qualifications-framework</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>Bangladesh today is home to one of the youngest populations in Asia, a generation whose ambitions are outpacing the systems meant to prepare them. As young people enter universities, polytechnics, and training institutes in record numbers,...</snippet>
-  </article>
-  <article>
-    <title>Why Bangladeshi startups are being starved of cash and who are responsible</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladeshi-startups-are-being-starved-of-cash-and-who-are-responsible</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>In developing countries such as Bangladesh, establishing and sustaining a startup remains an arduous undertaking, with inadequate access to capital standing as one of the most formidable barriers facing early-stage entrepreneurs. During th...</snippet>
-  </article>
-  <article>
-    <title>Youths who inherited a broken system</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/youths-who-inherited-a-broken-system</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>The role of Dhaka University often becomes a matter of critical discussion. Educationists, leaders and ordinary people often express their frustration. In this article, we want to seriously review the roles of, and realities about Universit...</snippet>
-  </article>
-  <article>
-    <title>JCI Dhaka Astral's Capitalizer 2026 concludes</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/jci-dhaka-astrals-capitalizer-2026-concludes</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>The Grand Finale of JCI Dhaka Astral Presents Capitalizer 2026, powered by Eastern Bank PLC and ACI Limited, and co-powered by Gold Kinen, concluded successfully at Radisson Blu Dhaka recently. The flagship competition, organised by BUP Fin...</snippet>
-  </article>
-  <article>
-    <title>A solution towards future unemployment problem of Bangladesh</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/a-solution-towards-future-unemployment-problem-of-bangladesh</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>A quiet revolution is taking place in a nation where almost one in three recent graduates find it difficult to secure official work. Bangladesh is becoming a worldwide leader in digital and platform-based labour as millions of young people...</snippet>
-  </article>
-  <article>
-    <title>Why Bangladesh must build its brand before the world builds one for it</title>
-    <url>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladesh-must-build-its-brand-before-the-world-builds-one-for-it</url>
-    <category>Youth and Entrepreneurs</category>
-    <published/>
-    <snippet>When a business owner in California types &quot;hire virtual assistant&quot; into a search engine, the results are not random. They are the product of years of deliberate positioning, cultural fluency in the global market, and a country that decided...</snippet>
-  </article>
-  <article>
-    <title>Inside our growing pet culture</title>
-    <url>https://thefinancialexpress.com.bd/lifestyle/inside-our-growing-pet-culture</url>
-    <category>Lifestyle</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>The Journey of Farhan Ahmed Prottoy: Creativity, entrepreneurship and digital growth</title>
-    <url>https://thefinancialexpress.com.bd/lifestyle/the-journey-of-farhan-ahmed-prottoy-creativity-entrepreneurship-and-digital-growth</url>
-    <category>Lifestyle</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Why protecting Gen Alpha and Z online can no longer wait</title>
-    <url>https://thefinancialexpress.com.bd/lifestyle/why-protecting-gen-alpha-and-z-online-can-no-longer-wait</url>
-    <category>Lifestyle</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Musical instruments you can learn after 30</title>
-    <url>https://thefinancialexpress.com.bd/lifestyle/musical-instruments-you-can-learn-after-30</url>
-    <category>Lifestyle</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Surviving the gas scarcity: How to adapt, cook, and cope amid the crisis</title>
-    <url>https://thefinancialexpress.com.bd/lifestyle/surviving-the-gas-scarcity-how-to-adapt-cook-and-cope-amid-the-crisis</url>
-    <category>Lifestyle</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Iran says new US economic pressure will bring Washington ‘further defeat’</title>
-    <url>https://thefinancialexpress.com.bd/world/iran-says-new-us-economic-pressure-will-bring-washington-further-defeat</url>
-    <category>World</category>
-    <published/>
-    <snippet>Iran's Foreign Minister Abbas Araghchi has dismissed US President Donald Trump's threat of sweeping economic punishment against countries supporting Tehran. He called it a continuation of “failed policies” that would bring Wash...</snippet>
-  </article>
-  <article>
-    <title>Russian strikes kill 16 in Ukraine, Zelenskiy says lack of Patriots costs lives</title>
-    <url>https://thefinancialexpress.com.bd/world/russian-strikes-kill-16-in-ukraine-zelenskiy-says-lack-of-patriots-costs-lives</url>
-    <category>World</category>
-    <published/>
-    <snippet>Russian strikes killed 16 people and injured more than 40 in ​Kyiv and the surrounding region on Thursday as President Volodymyr Zelenskiy said a failure by Ukraine’s allies to replenish its stock of air defence missiles was costing &amp;...</snippet>
-  </article>
-  <article>
-    <title>The new security architecture &amp; its implications</title>
-    <url>https://thefinancialexpress.com.bd/views/the-new-security-architecture-its-implications</url>
-    <category>Views</category>
-    <published/>
-    <snippet>Since the end of the Second World War and till now there has been numerous security and defence agreements and pacts involving countries in Europe, Asia, and in other continents. Except North Atlantic Treaty Organisation (NATO) all the rest...</snippet>
-  </article>
-  <article>
-    <title>2 best Facebook video downloaders in 2026: Free, no login</title>
-    <url>https://thefinancialexpress.com.bd/sci-tech/2-best-facebook-video-downloaders-in-2026-free-no-login</url>
-    <category>Sci-Tech</category>
-    <published/>
-  </article>
-  <article>
-    <title>Save Instagram videos and reels free with Snaptube</title>
-    <url>https://thefinancialexpress.com.bd/sci-tech/save-instagram-videos-and-reels-free-with-snaptube</url>
-    <category>Sci-Tech</category>
-    <published/>
-  </article>
-  <article>
-    <title>The Milky Way devoured a smaller galaxy about 11.8 billion years ago</title>
-    <url>https://thefinancialexpress.com.bd/sci-tech/the-milky-way-devoured-a-smaller-galaxy-about-118-billion-years-ago</url>
-    <category>Sci-Tech</category>
-    <published/>
-  </article>
-  <article>
-    <title>3 more die of suspected measles in Bangladesh</title>
-    <url>https://thefinancialexpress.com.bd/health/3-more-die-of-suspected-measles-in-bangladesh</url>
-    <category>Health</category>
-    <published/>
-  </article>
-  <article>
-    <title>Dengue claims 2 lives, 671 new cases in 24 hours</title>
-    <url>https://thefinancialexpress.com.bd/health/dengue-claims-2-lives-671-new-cases-in-24-hours</url>
-    <category>Health</category>
-    <published/>
-  </article>
-  <article>
-    <title>Accord opens avenues for tech jobs in Oman</title>
-    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/accord-opens-avenues-for-tech-jobs-in-oman</url>
-    <category>Jobs and Opportunities</category>
-    <published/>
-  </article>
-  <article>
-    <title>Career opportunity as a Graphic Designer</title>
-    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/career-opportunity-as-a-graphic-designer</url>
-    <category>Jobs and Opportunities</category>
-    <published/>
-  </article>
-  <article>
-    <title>Vacancy for the position of Cash Officer in a reputed media house</title>
-    <url>https://thefinancialexpress.com.bd/jobs-and-opportunities/vacancy-for-the-position-of-cash-officer-in-a-reputed-media-house</url>
-    <category>Jobs and Opportunities</category>
-    <published/>
-  </article>
-  <article>
-    <title>Scuffle between JCD, Shibir over rescue of confined DU provost</title>
-    <url>https://thefinancialexpress.com.bd/others/scuffle-between-jcd-shibir-over-rescue-of-confined-du-provost</url>
-    <category>Others</category>
-    <published/>
-  </article>
-  <article>
-    <title>Journalist delegates visit Bangladesh embassy in Kathmandu</title>
-    <url>https://thefinancialexpress.com.bd/others/journalist-delegates-visit-bangladesh-embassy-in-kathmandu</url>
-    <category>Others</category>
-    <published/>
-  </article>
-  <article>
-    <title>Md Selim Khan new secretary of the agriculture ministry</title>
-    <url>https://thefinancialexpress.com.bd/others/md-selim-khan-new-secretary-of-the-agriculture-ministry</url>
-    <category>Others</category>
-    <published/>
-  </article>
-  <article>
-    <title>Presidential polls today after 35 yrs</title>
-    <url>https://thefinancialexpress.com.bd/national/presidential-polls-today-after-35-yrs</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Borrowing by banks squeezes for lack of investment scope</title>
-    <url>https://thefinancialexpress.com.bd/bangladesh/borrowing-by-banks-squeezes-for-lack-of-investment-scope</url>
-    <category>Bangladesh</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Much-touted HSIA 3rd terminal opening still on backburner</title>
-    <url>https://thefinancialexpress.com.bd/national/much-touted-hsia-3rd-terminal-opening-still-on-backburner</url>
-    <category>National</category>
-    <published>4 hours ago</published>
-  </article>
-  <article>
-    <title>Islamic banks face deposit drain</title>
-    <url>https://thefinancialexpress.com.bd/bangladesh/islamic-banks-face-deposit-drain</url>
-    <category>Bangladesh</category>
-    <published>4 hours ago</published>
-  </article>
-</feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>The Financial Express — Home Page</title>
+    <link>https://thefinancialexpress.com.bd/</link>
+    <description>The Financial Express — Home Page</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Aug 2026 20:08:47 GMT</lastBuildDate>
+    <generator>scraper.py</generator>
+    <item>
+      <title>Shamsul Huq Zahid</title>
+      <link>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#d6b3b2bfa2b9a496a2beb3397a57b8b7b8b5bfb7bab3aea6a4b3a5a5f8b5b9bbf8b4b2</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#d6b3b2bfa2b9a496a2beb3397a57b8b7b8b5bfb7bab3aea6a4b3a5a5f8b5b9bbf8b4b2</guid>
+      <description>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Shamsul Huq Zahid</title>
+      <link>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#83e5e6fbf3f1e6f0f0b5bbc3e4eee2eaefade0ecee</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#83e5e6fbf3f1e6f0f0b5bbc3e4eee2eaefade0ecee</guid>
+      <description>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Shamsul Huq Zahid</title>
+      <link>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#5234373d3c3e3b3c376b6b12353f333b3e7c313d3f</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#5234373d3c3e3b3c376b6b12353f333b3e7c313d3f</guid>
+      <description>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Shamsul Huq Zahid</title>
+      <link>https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#127477737664662b2152757f737b7e3c717d7f</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/cdn-cgi/l/email-protection#127477737664662b2152757f737b7e3c717d7f</guid>
+      <description>Published by Syed Nasim Manzur for International Publications Limited from Tropicana Tower (4th ﬂoor), 45, Topkhana Road, GPO Box : 2526 Dhaka- 1000 and printed by him from The Transcraft Limited, 229, Tejgaon Industrial Area, Dhaka-1208</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>EC issues gazette declaring Mirza Fakhrul President</title>
+      <link>https://thefinancialexpress.com.bd/economy/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/bd-to-retain-duty-free-mkt-access-to-uk-after-ldc-exit</guid>
+      <description>Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>EC issues gazette declaring Mirza Fakhrul President</title>
+      <link>https://thefinancialexpress.com.bd/national/ec-issues-gazette-declaring-mirza-fakhrul-president</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/ec-issues-gazette-declaring-mirza-fakhrul-president</guid>
+      <description>EC issues gazette declaring Mirza Fakhrul President</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Rizvi made BNP acting secretary general</title>
+      <link>https://thefinancialexpress.com.bd/national/rizvi-made-bnp-acting-secretary-general</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/rizvi-made-bnp-acting-secretary-general</guid>
+      <description>Rizvi made BNP acting secretary general</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Govt puts disability rights in focus</title>
+      <link>https://thefinancialexpress.com.bd/national/government-steps-up-efforts-to-make-public-services-accessible-to-persons-with-disabilities</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/government-steps-up-efforts-to-make-public-services-accessible-to-persons-with-disabilities</guid>
+      <description>Govt puts disability rights in focus</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Yunus congratulates Fakhrul on becoming 23rd President</title>
+      <link>https://thefinancialexpress.com.bd/national/dr-yunus-congratulates-mirza-fakhrul-on-becoming-23rd-president-of-bangladesh</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/dr-yunus-congratulates-mirza-fakhrul-on-becoming-23rd-president-of-bangladesh</guid>
+      <description>Yunus congratulates Fakhrul on becoming 23rd President</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Shafiqur greets president-elect Mirza Fakhrul</title>
+      <link>https://thefinancialexpress.com.bd/national/opposition-leader-shafiqur-greets-mirza-fakhrul</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/opposition-leader-shafiqur-greets-mirza-fakhrul</guid>
+      <description>Shafiqur greets president-elect Mirza Fakhrul</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Central bank introduces ADR Mediator Policy for faster loan recovery</title>
+      <link>https://thefinancialexpress.com.bd/bangladesh/central-bank-introduces-adr-mediator-policy-for-faster-loan-recovery</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bangladesh/central-bank-introduces-adr-mediator-policy-for-faster-loan-recovery</guid>
+      <description>Central bank introduces ADR Mediator Policy for faster loan recovery</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangladesh</category>
+    </item>
+    <item>
+      <title>Govt enforces EPR rules for plastic products</title>
+      <link>https://thefinancialexpress.com.bd/trade/bangladesh-enforces-2026-epr-guidelines-divides-plastic-products-into-5-categories</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/bangladesh-enforces-2026-epr-guidelines-divides-plastic-products-into-5-categories</guid>
+      <description>Govt enforces EPR rules for plastic products</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Trade</category>
+    </item>
+    <item>
+      <title>Harry, Meghan return to the press 'lion's den'</title>
+      <link>https://thefinancialexpress.com.bd/world/harry-and-meghan-to-return-to-the-press-lions-den-they-sought-to-escape</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/world/harry-and-meghan-to-return-to-the-press-lions-den-they-sought-to-escape</guid>
+      <description>Harry, Meghan return to the press 'lion's den'</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>World</category>
+    </item>
+    <item>
+      <title>One more dengue death reported, 750 patients admitted to hospitals</title>
+      <link>https://thefinancialexpress.com.bd/health/one-more-dengue-death-reported-750-patients-admitted-to-hospitals</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/health/one-more-dengue-death-reported-750-patients-admitted-to-hospitals</guid>
+      <description>One more dengue death reported, 750 patients admitted to hospitals</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Top Indian court forms panel to probe youth protest violence</title>
+      <link>https://thefinancialexpress.com.bd/asia/indias-top-court-forms-panel-to-probe-allegations-of-violence-during-youth-protests</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/asia/indias-top-court-forms-panel-to-probe-allegations-of-violence-during-youth-protests</guid>
+      <description>Top Indian court forms panel to probe youth protest violence</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Asia/South Asia</category>
+    </item>
+    <item>
+      <title>Husband buried, Dipu Moni heads back to jail</title>
+      <link>https://thefinancialexpress.com.bd/national/tawfique-nawaz-laid-to-rest-in-banani-as-dipu-moni-heads-back-to-prison</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/tawfique-nawaz-laid-to-rest-in-banani-as-dipu-moni-heads-back-to-prison</guid>
+      <description>Husband buried, Dipu Moni heads back to jail</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>SSC re-scrutiny results may come Sept 10</title>
+      <link>https://thefinancialexpress.com.bd/education/ssc-re-scrutiny-results-may-come-sept-10-400000-await-outcome</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/education/ssc-re-scrutiny-results-may-come-sept-10-400000-await-outcome</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168232/result.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Education</category>
+      <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168232/result.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Rajshahi gets new Divisional Commissioner, 3 districts get new DCs</title>
+      <link>https://thefinancialexpress.com.bd/national/rajshahi-gets-new-divisional-commissioner-3-districts-get-new-dcs</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/rajshahi-gets-new-divisional-commissioner-3-districts-get-new-dcs</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168227/govt-logo.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+      <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168227/govt-logo.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>14 Myanmar nationals surrender to BGB</title>
+      <link>https://thefinancialexpress.com.bd/national/14-myanmar-nationals-surrender-to-bgb</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/14-myanmar-nationals-surrender-to-bgb</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168190/myanmar-nationals.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+      <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168190/myanmar-nationals.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Nur asks Jamaat to drop ‘Islam’ from its name</title>
+      <link>https://thefinancialexpress.com.bd/politics/nur-asks-jamaat-to-drop-islam-from-its-name</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/politics/nur-asks-jamaat-to-drop-islam-from-its-name</guid>
+      <description>&lt;![CDATA[&lt;img src=&quot;https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168261/nur.jpg&quot; style=&quot;max-width:100%&quot;/&gt;&lt;br/&gt;Bangladeshi exporters will continue to enjoy preferential access to the UK market after Bangladesh graduates from the least- developed-country status, the United Kingdom has assured. Economists say the UK's decision provides Bangladesh with valuable policy space and greater certainty on the cusp o]]&gt;</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Politics</category>
+      <media:content url="https://thefe-bd.sgp1.cdn.digitaloceanspaces.com/posts/168261/nur.jpg" medium="image"/>
+    </item>
+    <item>
+      <title>Easing repatriation process of Rohingya refugees</title>
+      <link>https://thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/editorial/easing-repatriation-process-of-rohingya-refugees</guid>
+      <description>Easing repatriation process of Rohingya refugees</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Editorial</category>
+    </item>
+    <item>
+      <title>World misses leaders who could help restore order</title>
+      <link>https://thefinancialexpress.com.bd/columns/world-misses-leaders-who-could-help-restore-order</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/world-misses-leaders-who-could-help-restore-order</guid>
+      <description>World misses leaders who could help restore order</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>Danger underneath luxury on road</title>
+      <link>https://thefinancialexpress.com.bd/opinions/danger-underneath-luxury-on-road</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/opinions/danger-underneath-luxury-on-road</guid>
+      <description>Danger underneath luxury on road</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Opinions</category>
+    </item>
+    <item>
+      <title>Bangladesh's media after the July Uprising</title>
+      <link>https://thefinancialexpress.com.bd/views/bangladeshs-media-after-the-july-uprising</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/bangladeshs-media-after-the-july-uprising</guid>
+      <description>Bangladesh's media after the July Uprising</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Views</category>
+    </item>
+    <item>
+      <title>When post-truth matters</title>
+      <link>https://thefinancialexpress.com.bd/reviews/when-post-truth-matters</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/reviews/when-post-truth-matters</guid>
+      <description>When post-truth matters</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Reviews</category>
+    </item>
+    <item>
+      <title>Tips on navigating complex customs tariff regime</title>
+      <link>https://thefinancialexpress.com.bd/reviews/tips-on-navigating-complex-customs-tariff-regime</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/reviews/tips-on-navigating-complex-customs-tariff-regime</guid>
+      <description>Tips on navigating complex customs tariff regime</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Reviews</category>
+    </item>
+    <item>
+      <title>DU female students demand complete abolition of ‘evening curfew’</title>
+      <link>https://thefinancialexpress.com.bd/education/du-female-students-demand-complete-abolition-of-evening-curfew</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/education/du-female-students-demand-complete-abolition-of-evening-curfew</guid>
+      <description>DU female students demand complete abolition of ‘evening curfew’</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Education</category>
+    </item>
+    <item>
+      <title>DU Vice-Chancellor meets Prime Minister at Secretariat</title>
+      <link>https://thefinancialexpress.com.bd/education/du-vice-chancellor-meets-prime-minister-at-secretariat</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/education/du-vice-chancellor-meets-prime-minister-at-secretariat</guid>
+      <description>DU Vice-Chancellor meets Prime Minister at Secretariat</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Education</category>
+    </item>
+    <item>
+      <title>Four children drown in Narayanganj pond</title>
+      <link>https://thefinancialexpress.com.bd/national/four-children-drown-in-narayanganj-pond</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/four-children-drown-in-narayanganj-pond</guid>
+      <description>Four children drown in Narayanganj pond</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>US debt crosses $40 trillion threshold after doubling under Trump and Biden</title>
+      <link>https://thefinancialexpress.com.bd/economy/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/us-debt-crosses-40-trillion-threshold-after-doubling-under-trump-and-biden</guid>
+      <description>Total US debt has topped $40 trillion for the first time, the Treasury Department said on Wednesday, drawing fresh warnings that a fiscal crisis is ​brewing as ballooning costs for social safety-net programmes and interest payments far outs...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Nearly 43pc of annual LNG subsidy spent in just 1.5 months</title>
+      <link>https://thefinancialexpress.com.bd/economy/nearly-43pc-of-annual-lng-subsidy-spent-in-just-15-months</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/nearly-43pc-of-annual-lng-subsidy-spent-in-just-15-months</guid>
+      <description>Nearly 43 per cent of the subsidy allocated for liquefied natural gas (LNG) import in the budget has already been disbursed within one and a half months of this fiscal year as the fuel price spikes amid global unrest. Until mid-Augus...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>ECNEC clears 10 projects involving Tk 93.34b</title>
+      <link>https://thefinancialexpress.com.bd/economy/ecnec-clears-10-projects-incolving-tk-9333b</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/ecnec-clears-10-projects-incolving-tk-9333b</guid>
+      <description>ECNEC clears 10 projects involving Tk 93.34b</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Dhaka eyes equally beneficial economic partnership with New Delhi: Shama Obaed</title>
+      <link>https://thefinancialexpress.com.bd/economy/dhaka-eyes-equally-beneficial-economic-partnership-with-new-delhi-shama-obaed</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/dhaka-eyes-equally-beneficial-economic-partnership-with-new-delhi-shama-obaed</guid>
+      <description>Dhaka eyes equally beneficial economic partnership with New Delhi: Shama Obaed</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Stop raising tax load on existing taxpayers, expand scope</title>
+      <link>https://thefinancialexpress.com.bd/economy/stop-raising-tax-load-on-existing-taxpayers-expand-scope</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/stop-raising-tax-load-on-existing-taxpayers-expand-scope</guid>
+      <description>Stop raising tax load on existing taxpayers, expand scope</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Revenue reforms to help Bangladesh fund development from domestic resources, says Khosru</title>
+      <link>https://thefinancialexpress.com.bd/economy/revenue-reforms-to-help-bangladesh-fund-development-from-domestic-resources-says-khosru</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/revenue-reforms-to-help-bangladesh-fund-development-from-domestic-resources-says-khosru</guid>
+      <description>Revenue reforms to help Bangladesh fund development from domestic resources, says Khosru</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>Agri credit disbursement target up 53.85pc to Tk 600b for FY'27</title>
+      <link>https://thefinancialexpress.com.bd/economy/agri-credit-disbursement-target-up-5385pc-to-tk-600b-for-fy27</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/agri-credit-disbursement-target-up-5385pc-to-tk-600b-for-fy27</guid>
+      <description>Agri credit disbursement target up 53.85pc to Tk 600b for FY'27</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>PMI becomes a vital tool for tracking BD's real-time economic activity</title>
+      <link>https://thefinancialexpress.com.bd/economy/pmi-becomes-a-vital-tool-for-tracking-bds-real-time-economic-activity</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/economy/pmi-becomes-a-vital-tool-for-tracking-bds-real-time-economic-activity</guid>
+      <description>PMI becomes a vital tool for tracking BD's real-time economic activity</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Economy</category>
+    </item>
+    <item>
+      <title>An emerging macroeconomic challenge for Bangladesh</title>
+      <link>https://thefinancialexpress.com.bd/views/an-emerging-macroeconomic-challenge-for-bangladesh</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/an-emerging-macroeconomic-challenge-for-bangladesh</guid>
+      <description>Bangladesh's economy is currently navigating a complex macroeconomic environment marked by persistently high inflation, subdued private sector credit growth, liquidity management challenges, and sluggish investment. Amid the policy focus on...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Views</category>
+    </item>
+    <item>
+      <title>Cost-driven rise in import bill</title>
+      <link>https://thefinancialexpress.com.bd/columns/cost-driven-rise-in-import-bill</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/cost-driven-rise-in-import-bill</guid>
+      <description>Does the sharp rise in imports of goods last fiscal year (FY26) reflect a rebound in investment in the country? The answer is no. Though the rise in imports is linked to investment activities, other factors also drive investment. For instan...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>A toothless human rights commission, again</title>
+      <link>https://thefinancialexpress.com.bd/opinions/a-toothless-human-rights-commission-again</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/opinions/a-toothless-human-rights-commission-again</guid>
+      <description>Of the 133 ordinances promulgated during the tenure of the interim government, the BNP government made 97 ordinances into law without changes, while 13 ordinances were decided to be enacted into law with amendments. The remaining 16 ordinan...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Opinions</category>
+    </item>
+    <item>
+      <title>The Rubik's Cube economy</title>
+      <link>https://thefinancialexpress.com.bd/views/the-rubiks-cube-economy</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/the-rubiks-cube-economy</guid>
+      <description>A government raises tariffs to protect domestic industry. A central bank increases interest rates to control inflation. A war disrupts an important shipping route. An energy-producing country is placed under sanctions. Each appears to belon...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Views</category>
+    </item>
+    <item>
+      <title>The political economy of financial sector reform</title>
+      <link>https://thefinancialexpress.com.bd/reviews/the-political-economy-of-financial-sector-reform</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/reviews/the-political-economy-of-financial-sector-reform</guid>
+      <description>The proposed BDT 9.38 trillion national budget for Bangladesh for fiscal year 2026–27 is the largest in the country's history. It presents a roadmap for economic restructuring, administrative reform, social protection, and long-term g...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Reviews</category>
+    </item>
+    <item>
+      <title>Stocks gain as revised margin rules ease uncertainty</title>
+      <link>https://thefinancialexpress.com.bd/stock/stocks-rebound-after-six-session-losing-streak</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/stock/stocks-rebound-after-six-session-losing-streak</guid>
+      <description>Stocks opened higher on Thursday, rebounding from a six-session losing streak, as investors stepped up buying of fundamentally strong and selective shares following the publication of revised margin rules. Meanwhile, the Dhaka Stock Exchan...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Stock</category>
+    </item>
+    <item>
+      <title>Commodity exchange yet to get going</title>
+      <link>https://thefinancialexpress.com.bd/stock/commodity-exchange-yet-to-get-going</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/stock/commodity-exchange-yet-to-get-going</guid>
+      <description>The port city bourse CSE has yet to launch operation of the country's maiden commodity exchange (CX), as regulatory approval for licences of commodity brokers and products has been remaining pending for around one year due to shareholding c...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Stock</category>
+    </item>
+    <item>
+      <title>BSEC cautions against fake statements attributed to chairman</title>
+      <link>https://thefinancialexpress.com.bd/stock/bsec-cautions-against-fake-statements-attributed-to-chairman</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/stock/bsec-cautions-against-fake-statements-attributed-to-chairman</guid>
+      <description>The Bangladesh Securities and Exchange Commission (BSEC) on Wednesday urged all media outlets, journalists, social media users and investors to exercise utmost caution and professional responsibility before publishing or circulating any sta...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Stock</category>
+    </item>
+    <item>
+      <title>The myth of 300,000 registered entities with RJSC</title>
+      <link>https://thefinancialexpress.com.bd/opinions/the-myth-of-300000-registered-entities-with-rjsc</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/opinions/the-myth-of-300000-registered-entities-with-rjsc</guid>
+      <description>Bangladesh's business landscape is often described with a headline statistic: more than 300,000 entities are registered with the Registrar of Joint Stock Companies and Firms (RJSC). This figure is quoted routinely — by policymakers, d...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Opinions</category>
+    </item>
+    <item>
+      <title>Bringing truth back to land registration</title>
+      <link>https://thefinancialexpress.com.bd/columns/bringing-truth-back-to-land-registration</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/bringing-truth-back-to-land-registration</guid>
+      <description>As the National Board of Revenue embarks on its customary round of pre-budget consultations with business associations, economists, journalists and other stakeholders ahead of the upcoming national budget, the fiscal pressures bearing down...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>Southeast Bank PLC’s board marks 797th meeting</title>
+      <link>https://thefinancialexpress.com.bd/trade/southeast-bank-plcs-board-marks-797th-meeting</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/southeast-bank-plcs-board-marks-797th-meeting</guid>
+      <description>The 797th meeting of the Board of Directors of Southeast Bank PLC was held at the bank’s boardroom in Dhaka. The meeting was presided over by the Founder and Current Chairman of the Southeast Bank PLC. M. A. Kashem, meeting marks an...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Trade</category>
+    </item>
+    <item>
+      <title>Pubali Bank holds 3rd Business Conference-2026 of Regional and Corporate Branch Managers</title>
+      <link>https://thefinancialexpress.com.bd/trade/pubali-bank-holds-3rd-business-conference-2026-of-regional-and-corporate-branch-managers</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/pubali-bank-holds-3rd-business-conference-2026-of-regional-and-corporate-branch-managers</guid>
+      <description>Pubali Bank PLC’s 3rd Business Conference-2026 of Regional and Corporate Branch Managers was held at the Bank’s Head Office Auditorium on Thursday. Mohammad Ali, Managing Director and CEO of Pubali Bank, was present as Chief Gu...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Trade</category>
+    </item>
+    <item>
+      <title>Govt working to reduce agro-products import in phases: Agriculture Minister</title>
+      <link>https://thefinancialexpress.com.bd/trade/govt-working-to-reduce-agro-products-import-in-phases-agriculture-minister</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/trade/govt-working-to-reduce-agro-products-import-in-phases-agriculture-minister</guid>
+      <description>Fisheries, Livestock and Agriculture Minister Mohammed Aminur Rashid has said the government is working to reduce agro-products import in phases through improving production and infrastructural facilities. “The country will gradually...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Trade</category>
+    </item>
+    <item>
+      <title>Beyond the gains in fish production</title>
+      <link>https://thefinancialexpress.com.bd/columns/beyond-the-gains-in-fish-production</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/beyond-the-gains-in-fish-production</guid>
+      <description>The National Fisheries Week 2026 is being observed across the country from August 16 to 30 with the theme &quot;A self-sufficient country through silver fish, Bangladesh first.&quot; Bangladesh has indeed made remarkable strides in fish production ov...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>23 detained in Kuala Lumpur sex ring targeting ‘Bangladeshi customers’</title>
+      <link>https://thefinancialexpress.com.bd/national/23-detained-in-kuala-lumpur-sex-ring-targeting-bangladeshi-customers</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/23-detained-in-kuala-lumpur-sex-ring-targeting-bangladeshi-customers</guid>
+      <description>Immigration authorities in Malaysia’s capital Kuala Lumpur have detained 23 foreign nationals involved in a prostitution ring. Official statements indicate the syndicate specifically targeted “Bangladeshi customers” to ru...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Rohingya repatriation trapped in geopolitics</title>
+      <link>https://thefinancialexpress.com.bd/columns/rohingya-repatriation-trapped-in-geopolitics</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/rohingya-repatriation-trapped-in-geopolitics</guid>
+      <description>On 25 August, Bangladesh will mark nine years since more than 700,000 Rohingyas fled across the border from Myanmar's Rakhine State, joining earlier waves of refugees and creating one of the world's largest and most protracted displacement...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>It is governance crisis</title>
+      <link>https://thefinancialexpress.com.bd/views/it-is-governance-crisis</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/it-is-governance-crisis</guid>
+      <description>Bangladesh is not confronting four separate crises. It is confronting one crisis of state capacity, appearing in four places citizens encounter every day: the market, the power system, the street and the highway. Prices remain painfully hi...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Views</category>
+    </item>
+    <item>
+      <title>কালিয়াকৈরে কৃষি ব্যাংক ব্যবস্থাপককে অপহরণ ও নির্যাতনের নিন্দা জেবিএবির</title>
+      <link>https://thefinancialexpress.com.bd/bn/kaliyakoire-krrishi-bzangk-bzbsthapkke-ophrn-oo-nirzatner-ninda-jebiebir</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/kaliyakoire-krrishi-bzangk-bzbsthapkke-ophrn-oo-nirzatner-ninda-jebiebir</guid>
+      <description>গাজীপুরের কালিয়াকৈরে বাংলাদেশ কৃষি ব্যাংকের শাখা ব্যবস্থাপক আব্দুস সবুরকে অপহরণ, মুক্তিপণ আদায় এবং ভল্টের চাবির জন্য নির্যাতনের ঘটনায় তীব্র নিন্দা জানিয়েছে জাতীয়তাবাদী ব্যাংকার্স অ্যাসোসিয়েশন বাংলাদেশ (জেবিএবি)। রোববার সংগঠনের যুগ্ম আহ্বায়...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bn</category>
+    </item>
+    <item>
+      <title>ব্যাংক কর্মকর্তা আরিফুল হত্যায় জড়িত ব্যক্তিদের গ্রেপ্তার দাবি জেবিএবির</title>
+      <link>https://thefinancialexpress.com.bd/bn/bzangk-krmkrta-ariful-htzay-jrit-bzktider-greptar-dabi-jebiebir</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/bzangk-krmkrta-ariful-htzay-jrit-bzktider-greptar-dabi-jebiebir</guid>
+      <description>ব্যাংক কর্মকর্তা আরিফুল হত্যায় জড়িত ব্যক্তিদের গ্রেপ্তার দাবি জেবিএবির</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>নতুন বছরে যে স্কিলগুলো আপনাকে এগিয়ে রাখবে</title>
+      <link>https://thefinancialexpress.com.bd/bn/ntun-bchre-ze-skilgulo-apnake-egiye-rakhbe</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/ntun-bchre-ze-skilgulo-apnake-egiye-rakhbe</guid>
+      <description>নতুন বছরে যে স্কিলগুলো আপনাকে এগিয়ে রাখবে</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>শিশুর বিকাশে যে দশটি বই গুরুত্বপূর্ণ</title>
+      <link>https://thefinancialexpress.com.bd/bn/sisur-bikase-ze-dsti-bi-gurutwpuurn</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/sisur-bikase-ze-dsti-bi-gurutwpuurn</guid>
+      <description>শিশুর বিকাশে যে দশটি বই গুরুত্বপূর্ণ</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>২০২৬: প্রযুক্তিতে যা থাকছে</title>
+      <link>https://thefinancialexpress.com.bd/bn/2026-prjuktite-za-thakche-1</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/2026-prjuktite-za-thakche-1</guid>
+      <description>২০২৬: প্রযুক্তিতে যা থাকছে</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>আইপিএল: ক্রিকেটের মুখোশে পুঁজি, ক্ষমতা ও নৈতিক সংকটের গল্প</title>
+      <link>https://thefinancialexpress.com.bd/bn/aipiel-kriketer-mukhose-punnji-kshmta-oo-noitik-sngkter-glp</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/aipiel-kriketer-mukhose-punnji-kshmta-oo-noitik-sngkter-glp</guid>
+      <description>আইপিএল: ক্রিকেটের মুখোশে পুঁজি, ক্ষমতা ও নৈতিক সংকটের গল্প</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>কেন আখতারুজ্জামান ইলিয়াস পড়া জরুরি?</title>
+      <link>https://thefinancialexpress.com.bd/bn/ken-akhtarujjaman-iliyas-pra-jruri</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/ken-akhtarujjaman-iliyas-pra-jruri</guid>
+      <description>কেন আখতারুজ্জামান ইলিয়াস পড়া জরুরি?</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>ঢাকার শীতে 'সাশ্রয়ী' কেনাকাটা: সেরা কিছু গন্তব্য</title>
+      <link>https://thefinancialexpress.com.bd/bn/dhakar-seete-sasrzee-kenakata-sera-kichu-gntbz</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/dhakar-seete-sasrzee-kenakata-sera-kichu-gntbz</guid>
+      <description>ব্যস্ততম ঢাকা শহরে শীতের আগমন মানেই ফ্যাশন আর কেনাকাটার ধুম। ছোট বাচ্চাদের শীতপোশাক থেকে শুরু করে বড়দের পোশাক উভয়েরই এই সময়ে বেশ চাহিদা থাকে। তবে স্টাইলিশ শীতের পোশাক মানেই যে অনেক খরচ, তা কিন্তু নয়। ঢাকার এমন কিছু জায়গা আছে যেখানে তুলনামূল...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>শীতকালে যেভাবে ঘরোয়া উপায়ে ত্বকের যত্ন নেবেন</title>
+      <link>https://thefinancialexpress.com.bd/bn/seetkale-zevabe-ghroya-upaye-twker-ztn-neben</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/seetkale-zevabe-ghroya-upaye-twker-ztn-neben</guid>
+      <description>শীতকাল এলেই ত্বকের উপর এর প্রভাবটা যেন সবার আগে চোখে পড়ে। বাতাসের আর্দ্রতা কমে যাওয়া, চারপাশের শুষ্ক পরিবেশ আর ঠান্ডা বাতাস ত্বকের কোমলতা কেড়ে নেয়। অনেকের ত্বক খসখসে হয়ে যায়, কারও কারও ত্বকে টান-টান ভাব দেখা দেয়। আবার অনেকের নিশপিশ ও ত্বক ফ...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>আতশবাজি থেকে যেভাবে নিরাপদ রাখবেন আপনার পোষা প্রানীকে</title>
+      <link>https://thefinancialexpress.com.bd/bn/atsbaji-theke-zevabe-nirapd-rakhben-apnar-posha-praneeke</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bn/atsbaji-theke-zevabe-nirapd-rakhben-apnar-posha-praneeke</guid>
+      <description>নতুন বছর মানেই মানুষের জীবনে হাসি, গান আর আতশবাজির ঝলকানি। আমরা যখন ঘড়ির কাটার দিকে তাকিয়ে কাউন্টডাউনের অপেক্ষা করি, ঠিক তখনই শহরের প্রাণীগুলো মুখোমুখি হয় অন্য এক বাস্তবতার। আতশবাজির বিকট শব্দে কেঁপে ওঠে পথকুকুর, কার্নিশে বসে থাকা পাখিরা দি...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangla</category>
+    </item>
+    <item>
+      <title>Lessons from Brazil's agribusiness powerhouse</title>
+      <link>https://thefinancialexpress.com.bd/reviews/lessons-from-brazils-agribusiness-powerhouse</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/reviews/lessons-from-brazils-agribusiness-powerhouse</guid>
+      <description>Lessons from Brazil's agribusiness powerhouse</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Reviews</category>
+    </item>
+    <item>
+      <title>Can AI help keep Bangladesh’s lights on?</title>
+      <link>https://thefinancialexpress.com.bd/opinions/can-ai-help-keep-bangladeshs-lights-on</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/opinions/can-ai-help-keep-bangladeshs-lights-on</guid>
+      <description>Can AI help keep Bangladesh’s lights on?</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Opinions</category>
+    </item>
+    <item>
+      <title>Privatisation of energy sector undesirable</title>
+      <link>https://thefinancialexpress.com.bd/opinions/privatisation-of-energy-sector-undesirable</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/opinions/privatisation-of-energy-sector-undesirable</guid>
+      <description>Privatisation of energy sector undesirable</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Opinions</category>
+    </item>
+    <item>
+      <title>Development spending slips to an alarming low</title>
+      <link>https://thefinancialexpress.com.bd/columns/development-spending-slips-to-an-alarming-low</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/development-spending-slips-to-an-alarming-low</guid>
+      <description>Development spending slips to an alarming low</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>How Gen Z is faring in the changed context</title>
+      <link>https://thefinancialexpress.com.bd/analysis/how-gen-z-is-faring-in-the-changed-context</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/analysis/how-gen-z-is-faring-in-the-changed-context</guid>
+      <description>How Gen Z is faring in the changed context</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Analysis</category>
+    </item>
+    <item>
+      <title>Growing cashless retail payments through Bangla QR</title>
+      <link>https://thefinancialexpress.com.bd/analysis/growing-cashless-retail-payments-through-bangla-qr</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/analysis/growing-cashless-retail-payments-through-bangla-qr</guid>
+      <description>Growing cashless retail payments through Bangla QR</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Analysis</category>
+    </item>
+    <item>
+      <title>A new frontier for Bangladesh's green economy</title>
+      <link>https://thefinancialexpress.com.bd/analysis/a-new-frontier-for-bangladeshs-green-economy</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/analysis/a-new-frontier-for-bangladeshs-green-economy</guid>
+      <description>A new frontier for Bangladesh's green economy</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Analysis</category>
+    </item>
+    <item>
+      <title>Australia look for response to 'Darwin Disaster' in second Bangladesh Test</title>
+      <link>https://thefinancialexpress.com.bd/sports/australia-look-for-response-to-darwin-disaster-in-second-bangladesh-test</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/australia-look-for-response-to-darwin-disaster-in-second-bangladesh-test</guid>
+      <description>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Bangladesh stars rise in ICC rankings after historic Test win over Australia</title>
+      <link>https://thefinancialexpress.com.bd/sports/bangladesh-stars-rise-in-icc-rankings-after-historic-test-win-over-australia</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/bangladesh-stars-rise-in-icc-rankings-after-historic-test-win-over-australia</guid>
+      <description>Bangladesh cricketers made significant gains in the latest ICC Test rankings following their landmark nine-wicket victory over Australia in Darwin. Coming to tour for a Test series Down Under for the first time in 24 years, Bangladesh play...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Kyrgios provisionally suspended after testing positive for cocaine</title>
+      <link>https://thefinancialexpress.com.bd/sports/kyrgios-provisionally-suspended-after-testing-positive-for-cocaine</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/kyrgios-provisionally-suspended-after-testing-positive-for-cocaine</guid>
+      <description>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Bayern's Musiala diagnosed with neurological disorder after two on-field collapses</title>
+      <link>https://thefinancialexpress.com.bd/sports/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/bayerns-musiala-diagnosed-with-neurological-disorder-after-two-on-field-collapses</guid>
+      <description>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Barcelona agree £65m deal to sign Rodri from Man City</title>
+      <link>https://thefinancialexpress.com.bd/sports/barcelona-agree-ps65m-deal-to-sign-rodri-from-man-city</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/barcelona-agree-ps65m-deal-to-sign-rodri-from-man-city</guid>
+      <description>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Shanto hails Australia triumph as Bangladesh’s ‘biggest win in any format’</title>
+      <link>https://thefinancialexpress.com.bd/sports/shanto-hails-australia-triumph-as-bangladeshs-biggest-win-in-any-format</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sports/shanto-hails-australia-triumph-as-bangladeshs-biggest-win-in-any-format</guid>
+      <description>Only a thumping win will do for Australia in the second Test against Bangladesh this week as they look to ease the embarrassment of their shock nine-wicket loss in Darwin and even up the two-match series. Bangladesh outplayed their hosts i...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sports</category>
+    </item>
+    <item>
+      <title>Class XI admission applications may open Sept 2</title>
+      <link>https://thefinancialexpress.com.bd/education/college-admission-bids-may-open-on-sept-2</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/education/college-admission-bids-may-open-on-sept-2</guid>
+      <description>Applications for admission to Class XI at colleges and madrasas could begin online on Sept 2 under a proposed schedule submitted to the education ministry. The Inter-Education Board Coordination Committee has proposed accepting first-phase...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Education</category>
+    </item>
+    <item>
+      <title>Learning from reversal in SSC results</title>
+      <link>https://thefinancialexpress.com.bd/columns/learning-from-reversal-in-ssc-results</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/learning-from-reversal-in-ssc-results</guid>
+      <description>This year's results of the Secondary School Certificate (SSC) and equivalent examinations have, for good reasons, caused quite a hullabaloo. That the pass rate is the lowest ever in the past 19 years is unsettling enough. But when more than...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>When academic research is suspect</title>
+      <link>https://thefinancialexpress.com.bd/columns/when-academic-research-is-suspect</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/columns/when-academic-research-is-suspect</guid>
+      <description>Academic research is one of the defining responsibilities of higher education. It is meant to keep campuses intellectually vibrant and help shaping public policy, industrial innovation and scientific progress. Yet in many universities in Ba...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Columns</category>
+    </item>
+    <item>
+      <title>The rise of affordable mental health ecosystems</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-rise-of-affordable-mental-health-ecosystems</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-rise-of-affordable-mental-health-ecosystems</guid>
+      <description>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>The hidden cost of the productivity imperative in higher education</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-hidden-cost-of-the-productivity-imperative-in-higher-education</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-hidden-cost-of-the-productivity-imperative-in-higher-education</guid>
+      <description>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>The road to a final for the ages</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-road-to-a-final-for-the-ages</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-road-to-a-final-for-the-ages</guid>
+      <description>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>The gender gap BD's youth statistics cannot hide</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-gender-gap-bds-youth-statistics-cannot-hide</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/the-gender-gap-bds-youth-statistics-cannot-hide</guid>
+      <description>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Bangladeshi founders are quietly rerouting their fundraising maps towards the Gulf</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/bangladeshi-founders-are-quietly-rerouting-their-fundraising-maps-towards-the-gulf</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/bangladeshi-founders-are-quietly-rerouting-their-fundraising-maps-towards-the-gulf</guid>
+      <description>&quot;First year at university felt like the ground had shifted under me. I was brilliant in school. Suddenly I was average, surrounded by people who seemed to have everything figured out. I stopped sleeping, eating properly. I told no one.&quot; Th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>BRAC University Business Club announces ADwiz 2.0</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/brac-university-business-club-announces-adwiz-20</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/brac-university-business-club-announces-adwiz-20</guid>
+      <description>The BRAC University Business Club (BIZ BEE) has announced the second edition of ADwiz, its flagship inter-university advertising competition, inviting students from universities across Bangladesh to showcase their creativity, strategic thin...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Empowering youths: How Bangladesh can adopt Malaysian Qualifications Framework</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/empowering-youths-how-bangladesh-can-adopt-malaysian-qualifications-framework</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/empowering-youths-how-bangladesh-can-adopt-malaysian-qualifications-framework</guid>
+      <description>Bangladesh today is home to one of the youngest populations in Asia, a generation whose ambitions are outpacing the systems meant to prepare them. As young people enter universities, polytechnics, and training institutes in record numbers,...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Why Bangladeshi startups are being starved of cash and who are responsible</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladeshi-startups-are-being-starved-of-cash-and-who-are-responsible</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladeshi-startups-are-being-starved-of-cash-and-who-are-responsible</guid>
+      <description>In developing countries such as Bangladesh, establishing and sustaining a startup remains an arduous undertaking, with inadequate access to capital standing as one of the most formidable barriers facing early-stage entrepreneurs. During th...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Youths who inherited a broken system</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/youths-who-inherited-a-broken-system</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/youths-who-inherited-a-broken-system</guid>
+      <description>The role of Dhaka University often becomes a matter of critical discussion. Educationists, leaders and ordinary people often express their frustration. In this article, we want to seriously review the roles of, and realities about Universit...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>JCI Dhaka Astral's Capitalizer 2026 concludes</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/jci-dhaka-astrals-capitalizer-2026-concludes</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/jci-dhaka-astrals-capitalizer-2026-concludes</guid>
+      <description>The Grand Finale of JCI Dhaka Astral Presents Capitalizer 2026, powered by Eastern Bank PLC and ACI Limited, and co-powered by Gold Kinen, concluded successfully at Radisson Blu Dhaka recently. The flagship competition, organised by BUP Fin...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>A solution towards future unemployment problem of Bangladesh</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/a-solution-towards-future-unemployment-problem-of-bangladesh</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/a-solution-towards-future-unemployment-problem-of-bangladesh</guid>
+      <description>A quiet revolution is taking place in a nation where almost one in three recent graduates find it difficult to secure official work. Bangladesh is becoming a worldwide leader in digital and platform-based labour as millions of young people...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Why Bangladesh must build its brand before the world builds one for it</title>
+      <link>https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladesh-must-build-its-brand-before-the-world-builds-one-for-it</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/youth-and-entrepreneurship/why-bangladesh-must-build-its-brand-before-the-world-builds-one-for-it</guid>
+      <description>When a business owner in California types &quot;hire virtual assistant&quot; into a search engine, the results are not random. They are the product of years of deliberate positioning, cultural fluency in the global market, and a country that decided...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Youth and Entrepreneurs</category>
+    </item>
+    <item>
+      <title>Inside our growing pet culture</title>
+      <link>https://thefinancialexpress.com.bd/lifestyle/inside-our-growing-pet-culture</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/lifestyle/inside-our-growing-pet-culture</guid>
+      <description>Inside our growing pet culture</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+    <item>
+      <title>The Journey of Farhan Ahmed Prottoy: Creativity, entrepreneurship and digital growth</title>
+      <link>https://thefinancialexpress.com.bd/lifestyle/the-journey-of-farhan-ahmed-prottoy-creativity-entrepreneurship-and-digital-growth</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/lifestyle/the-journey-of-farhan-ahmed-prottoy-creativity-entrepreneurship-and-digital-growth</guid>
+      <description>The Journey of Farhan Ahmed Prottoy: Creativity, entrepreneurship and digital growth</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+    <item>
+      <title>Why protecting Gen Alpha and Z online can no longer wait</title>
+      <link>https://thefinancialexpress.com.bd/lifestyle/why-protecting-gen-alpha-and-z-online-can-no-longer-wait</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/lifestyle/why-protecting-gen-alpha-and-z-online-can-no-longer-wait</guid>
+      <description>Why protecting Gen Alpha and Z online can no longer wait</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+    <item>
+      <title>Musical instruments you can learn after 30</title>
+      <link>https://thefinancialexpress.com.bd/lifestyle/musical-instruments-you-can-learn-after-30</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/lifestyle/musical-instruments-you-can-learn-after-30</guid>
+      <description>Musical instruments you can learn after 30</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+    <item>
+      <title>Surviving the gas scarcity: How to adapt, cook, and cope amid the crisis</title>
+      <link>https://thefinancialexpress.com.bd/lifestyle/surviving-the-gas-scarcity-how-to-adapt-cook-and-cope-amid-the-crisis</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/lifestyle/surviving-the-gas-scarcity-how-to-adapt-cook-and-cope-amid-the-crisis</guid>
+      <description>Surviving the gas scarcity: How to adapt, cook, and cope amid the crisis</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Lifestyle</category>
+    </item>
+    <item>
+      <title>Iran says new US economic pressure will bring Washington ‘further defeat’</title>
+      <link>https://thefinancialexpress.com.bd/world/iran-says-new-us-economic-pressure-will-bring-washington-further-defeat</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/world/iran-says-new-us-economic-pressure-will-bring-washington-further-defeat</guid>
+      <description>Iran's Foreign Minister Abbas Araghchi has dismissed US President Donald Trump's threat of sweeping economic punishment against countries supporting Tehran. He called it a continuation of “failed policies” that would bring Wash...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>World</category>
+    </item>
+    <item>
+      <title>Russian strikes kill 16 in Ukraine, Zelenskiy says lack of Patriots costs lives</title>
+      <link>https://thefinancialexpress.com.bd/world/russian-strikes-kill-16-in-ukraine-zelenskiy-says-lack-of-patriots-costs-lives</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/world/russian-strikes-kill-16-in-ukraine-zelenskiy-says-lack-of-patriots-costs-lives</guid>
+      <description>Russian strikes killed 16 people and injured more than 40 in ​Kyiv and the surrounding region on Thursday as President Volodymyr Zelenskiy said a failure by Ukraine’s allies to replenish its stock of air defence missiles was costing &amp;...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>World</category>
+    </item>
+    <item>
+      <title>The new security architecture &amp; its implications</title>
+      <link>https://thefinancialexpress.com.bd/views/the-new-security-architecture-its-implications</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/views/the-new-security-architecture-its-implications</guid>
+      <description>Since the end of the Second World War and till now there has been numerous security and defence agreements and pacts involving countries in Europe, Asia, and in other continents. Except North Atlantic Treaty Organisation (NATO) all the rest...</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Views</category>
+    </item>
+    <item>
+      <title>2 best Facebook video downloaders in 2026: Free, no login</title>
+      <link>https://thefinancialexpress.com.bd/sci-tech/2-best-facebook-video-downloaders-in-2026-free-no-login</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sci-tech/2-best-facebook-video-downloaders-in-2026-free-no-login</guid>
+      <description>2 best Facebook video downloaders in 2026: Free, no login</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sci-Tech</category>
+    </item>
+    <item>
+      <title>Save Instagram videos and reels free with Snaptube</title>
+      <link>https://thefinancialexpress.com.bd/sci-tech/save-instagram-videos-and-reels-free-with-snaptube</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sci-tech/save-instagram-videos-and-reels-free-with-snaptube</guid>
+      <description>Save Instagram videos and reels free with Snaptube</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sci-Tech</category>
+    </item>
+    <item>
+      <title>The Milky Way devoured a smaller galaxy about 11.8 billion years ago</title>
+      <link>https://thefinancialexpress.com.bd/sci-tech/the-milky-way-devoured-a-smaller-galaxy-about-118-billion-years-ago</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/sci-tech/the-milky-way-devoured-a-smaller-galaxy-about-118-billion-years-ago</guid>
+      <description>The Milky Way devoured a smaller galaxy about 11.8 billion years ago</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Sci-Tech</category>
+    </item>
+    <item>
+      <title>3 more die of suspected measles in Bangladesh</title>
+      <link>https://thefinancialexpress.com.bd/health/3-more-die-of-suspected-measles-in-bangladesh</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/health/3-more-die-of-suspected-measles-in-bangladesh</guid>
+      <description>3 more die of suspected measles in Bangladesh</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Dengue claims 2 lives, 671 new cases in 24 hours</title>
+      <link>https://thefinancialexpress.com.bd/health/dengue-claims-2-lives-671-new-cases-in-24-hours</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/health/dengue-claims-2-lives-671-new-cases-in-24-hours</guid>
+      <description>Dengue claims 2 lives, 671 new cases in 24 hours</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Health</category>
+    </item>
+    <item>
+      <title>Accord opens avenues for tech jobs in Oman</title>
+      <link>https://thefinancialexpress.com.bd/jobs-and-opportunities/accord-opens-avenues-for-tech-jobs-in-oman</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/jobs-and-opportunities/accord-opens-avenues-for-tech-jobs-in-oman</guid>
+      <description>Accord opens avenues for tech jobs in Oman</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Jobs and Opportunities</category>
+    </item>
+    <item>
+      <title>Career opportunity as a Graphic Designer</title>
+      <link>https://thefinancialexpress.com.bd/jobs-and-opportunities/career-opportunity-as-a-graphic-designer</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/jobs-and-opportunities/career-opportunity-as-a-graphic-designer</guid>
+      <description>Career opportunity as a Graphic Designer</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Jobs and Opportunities</category>
+    </item>
+    <item>
+      <title>Vacancy for the position of Cash Officer in a reputed media house</title>
+      <link>https://thefinancialexpress.com.bd/jobs-and-opportunities/vacancy-for-the-position-of-cash-officer-in-a-reputed-media-house</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/jobs-and-opportunities/vacancy-for-the-position-of-cash-officer-in-a-reputed-media-house</guid>
+      <description>Vacancy for the position of Cash Officer in a reputed media house</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Jobs and Opportunities</category>
+    </item>
+    <item>
+      <title>Scuffle between JCD, Shibir over rescue of confined DU provost</title>
+      <link>https://thefinancialexpress.com.bd/others/scuffle-between-jcd-shibir-over-rescue-of-confined-du-provost</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/others/scuffle-between-jcd-shibir-over-rescue-of-confined-du-provost</guid>
+      <description>Scuffle between JCD, Shibir over rescue of confined DU provost</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Others</category>
+    </item>
+    <item>
+      <title>Journalist delegates visit Bangladesh embassy in Kathmandu</title>
+      <link>https://thefinancialexpress.com.bd/others/journalist-delegates-visit-bangladesh-embassy-in-kathmandu</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/others/journalist-delegates-visit-bangladesh-embassy-in-kathmandu</guid>
+      <description>Journalist delegates visit Bangladesh embassy in Kathmandu</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Others</category>
+    </item>
+    <item>
+      <title>Md Selim Khan new secretary of the agriculture ministry</title>
+      <link>https://thefinancialexpress.com.bd/others/md-selim-khan-new-secretary-of-the-agriculture-ministry</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/others/md-selim-khan-new-secretary-of-the-agriculture-ministry</guid>
+      <description>Md Selim Khan new secretary of the agriculture ministry</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Others</category>
+    </item>
+    <item>
+      <title>Presidential polls today after 35 yrs</title>
+      <link>https://thefinancialexpress.com.bd/national/presidential-polls-today-after-35-yrs</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/presidential-polls-today-after-35-yrs</guid>
+      <description>Presidential polls today after 35 yrs</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Borrowing by banks squeezes for lack of investment scope</title>
+      <link>https://thefinancialexpress.com.bd/bangladesh/borrowing-by-banks-squeezes-for-lack-of-investment-scope</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bangladesh/borrowing-by-banks-squeezes-for-lack-of-investment-scope</guid>
+      <description>Borrowing by banks squeezes for lack of investment scope</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangladesh</category>
+    </item>
+    <item>
+      <title>Much-touted HSIA 3rd terminal opening still on backburner</title>
+      <link>https://thefinancialexpress.com.bd/national/much-touted-hsia-3rd-terminal-opening-still-on-backburner</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/national/much-touted-hsia-3rd-terminal-opening-still-on-backburner</guid>
+      <description>Much-touted HSIA 3rd terminal opening still on backburner</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>National</category>
+    </item>
+    <item>
+      <title>Islamic banks face deposit drain</title>
+      <link>https://thefinancialexpress.com.bd/bangladesh/islamic-banks-face-deposit-drain</link>
+      <guid isPermaLink="true">https://thefinancialexpress.com.bd/bangladesh/islamic-banks-face-deposit-drain</guid>
+      <description>Islamic banks face deposit drain</description>
+      <pubDate>Thu, 20 Aug 2026 20:08:47 GMT</pubDate>
+      <category>Bangladesh</category>
+    </item>
+  </channel>
+</rss>
