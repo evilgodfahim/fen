@@ -526,20 +526,20 @@ def main() -> None:
     editorial_articles = scrape_page(BASE_URL + "/category/editorial")
     time.sleep(INTER_PAGE_DELAY)
     views_articles = scrape_page(BASE_URL + "/category/views")
-    combined = deduplicate(editorial_articles + views_articles)
+    all_scraped = deduplicate(editorial_articles + views_articles)
 
-    new_count = 0
-    for art in combined:
-        if art["url"] not in seen_urls:
-            print(f"  [full] {art['url']}")
-            extra = fetch_full_article(art["url"])
-            if extra:
-                art.update(extra)
-            seen_urls.add(art["url"])
-            new_count += 1
-            time.sleep(INTER_PAGE_DELAY)
+    # Only unseen articles, capped at 10 per run
+    new_articles = [a for a in all_scraped if a["url"] not in seen_urls][:10]
 
-    print(f"  Full content fetched for {new_count} new article(s).")
+    for art in new_articles:
+        print(f"  [full] {art['url']}")
+        extra = fetch_full_article(art["url"])
+        if extra:
+            art.update(extra)
+        seen_urls.add(art["url"])
+        time.sleep(INTER_PAGE_DELAY)
+
+    print(f"  Full content fetched for {len(new_articles)} new article(s).")
     save_seen_urls(SEEN_EDITORIAL_FILE, seen_urls)
 
     ev_path = Path("fe_editorial_views.xml")
@@ -547,11 +547,11 @@ def main() -> None:
         build_rss(
             "The Financial Express — Editorial & Views",
             [BASE_URL + "/category/editorial", BASE_URL + "/category/views"],
-            combined,
+            all_scraped,
         ),
         encoding="utf-8",
     )
-    print(f"Saved {len(combined)} articles -> {ev_path}")
+    print(f"Saved {len(all_scraped)} articles -> {ev_path}")
 
     print("\nDone.")
 
