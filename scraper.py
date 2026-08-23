@@ -6,13 +6,16 @@ Outputs in repo root:
   fe_homepage.xml
   fe_today.xml
   fe_editorial_views.xml
+  fe_seen_editorial.json   ← persists seen editorial/views URLs;
+                              new articles get full content fetched
 """
 
 import email.utils
+import json
 import re
 import time
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 from xml.dom import minidom
@@ -23,6 +26,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://thefinancialexpress.com.bd"
 TODAY_BASE_URL = "https://today.thefinancialexpress.com.bd"
+SEEN_EDITORIAL_FILE = Path("fe_seen_editorial.json")
 
 HEADERS = {
     "User-Agent": (
@@ -38,6 +42,12 @@ HEADERS = {
 REQUEST_TIMEOUT = 30
 RETRY_DELAYS = [3, 7]
 INTER_PAGE_DELAY = 2
+
+# Matches obfuscated email placeholders inserted by Next.js (e.g. "[email protected]")
+_EMAIL_OBFUSCATION = re.compile(r"^\[email[\xa0\s]protected\]$")
+
+
+# ── Utilities ────────────────────────────────────────────────────────────────
 
 
 def fetch_html(url: str) -> Optional[BeautifulSoup]:
@@ -64,10 +74,35 @@ def clean_text(text: Optional[str]) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def iso_to_rfc822(iso: str) -> str:
+    """Convert an ISO 8601 datetime string to RFC-822 format for RSS pubDate."""
+    try:
+        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
+        return email.utils.format_datetime(dt)
+    except Exception:
+        return email.utils.formatdate(usegmt=True)
+
+
+def load_seen_urls(path: Path) -> set[str]:
+    """Load the set of already-fetched article URLs from disk."""
+    if path.exists():
+        try:
+            return set(json.loads(path.read_text(encoding="utf-8")))
+        except Exception:
+            return set()
+    return set()
+
+
+def save_seen_urls(path: Path, seen: set[str]) -> None:
+    """Persist the seen URL set to disk (sorted for readable diffs)."""
+    path.write_text(json.dumps(sorted(seen), indent=2), encoding="utf-8")
+
+
+# ── Article-list scrapers ────────────────────────────────────────────────────
+
+
 def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]:
-    """
-    Extract article cards from a rendered FE page.
-    """
+    """Extract article cards from a rendered FE page."""
     seen_urls: set[str] = set()
     articles: list[dict] = []
 
@@ -185,9 +220,7 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
 
 
 def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
-    """
-    Extract articles from today.thefinancialexpress.com.bd using direct HTML selectors.
-    """
+    """Extract articles from today.thefinancialexpress.com.bd."""
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
@@ -257,9 +290,92 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     return articles
 
 
+# ── Full-article fetcher (editorial/views only) ──────────────────────────────
+
+
+def fetch_full_article(url: str) -> dict:
+    """
+    Fetch a single FE article page and extract full body HTML, author, and
+    publication datetime.
+
+    Returns a partial article dict with keys:
+      full_content  – cleaned HTML string of the article body
+      author        – reporter name (empty string if not found)
+      pub_iso       – ISO 8601 datetime string (empty string if not found)
+
+    Returns {} on fetch failure so callers can fall back to snippet.
+    """
+    soup = fetch_html(url)
+    if not soup:
+        return {}
+
+    # ── Author ────────────────────────────────────────────────────────────
+    author = ""
+    author_a = soup.find("a", href=re.compile(r"^/reporter/"))
+    if author_a:
+        p = author_a.find("p")
+        if p:
+            author = clean_text(p.get_text())
+
+    # ── Publication datetime ───────────────────────────────────────────────
+    pub_iso = ""
+    time_el = soup.find("time", attrs={"datetime": True})
+    if time_el:
+        pub_iso = time_el["datetime"]  # e.g. "2026-08-23T18:26:08.000000Z"
+
+    # ── Article body ──────────────────────────────────────────────────────
+    full_content_html = ""
+    body_div = soup.find("div", class_=lambda c: c and "article-body" in c)
+    if body_div:
+        # Make relative anchor hrefs absolute so links work inside RSS readers
+        for a in body_div.find_all("a", href=True):
+            h = a["href"]
+            if h.startswith("/") and not h.startswith("//"):
+                a["href"] = BASE_URL + h
+
+        # Unwrap Next.js image proxy URLs; drop layout-only attributes
+        for img in body_div.find_all("img"):
+            src = img.get("src", "")
+            m = re.search(r"url=([^&]+)", src)
+            if m:
+                img["src"] = unquote(m.group(1))
+            elif src.startswith("/"):
+                img["src"] = BASE_URL + src
+            for attr in ("srcset", "sizes", "loading", "decoding", "fetchpriority"):
+                img.attrs.pop(attr, None)
+
+        parts: list[str] = []
+        for tag in body_div.find_all(["p", "h2", "h3", "blockquote"]):
+            txt = tag.get_text(strip=True)
+            # Skip empty tags and Next.js email-obfuscation artifacts
+            if not txt or _EMAIL_OBFUSCATION.match(txt):
+                continue
+            parts.append(str(tag))
+
+        full_content_html = "\n".join(parts)
+
+    return {"author": author, "pub_iso": pub_iso, "full_content": full_content_html}
+
+
+# ── RSS builder ──────────────────────────────────────────────────────────────
+
+
 def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
-    """Return a valid RSS 2.0 feed string that Inoreader (and any reader) can parse."""
+    """
+    Return a valid RSS 2.0 feed string.
+
+    Articles with a 'full_content' key get a proper CDATA <description> block
+    (thumbnail → byline → full body HTML).  Articles without it fall back to
+    the existing snippet + image behaviour.
+
+    CDATA injection works via a two-phase approach:
+      1. An alphanumeric placeholder is stored in the ET text node so that ET
+         and minidom never see or escape angle brackets.
+      2. After toprettyxml(), the placeholder is replaced with the real
+         <![CDATA[...]]> block in the final string.
+    """
     build_date = email.utils.formatdate(usegmt=True)
+    cdata_map: dict[str, str] = {}  # placeholder_key → raw HTML for injection
 
     root = ET.Element("rss")
     root.set("version", "2.0")
@@ -274,7 +390,7 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
     ET.SubElement(channel, "lastBuildDate").text = build_date
     ET.SubElement(channel, "generator").text = "scraper.py"
 
-    for art in articles:
+    for idx, art in enumerate(articles):
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = art["title"]
         ET.SubElement(item, "link").text = art["url"]
@@ -283,23 +399,47 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
         guid.text = art["url"]
         guid.set("isPermaLink", "true")
 
-        # description: embed thumbnail if available, then snippet
-        desc = art["snippet"] or art["title"]
-        if art["image"]:
-            desc = f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/><br/>{desc}]]>'
-            ET.SubElement(item, "description").text = desc
+        full_content = art.get("full_content", "")
+        if full_content:
+            # Full article: CDATA HTML block (thumbnail → byline → body)
+            html_parts: list[str] = []
+            if art.get("image"):
+                html_parts.append(
+                    f'<img src="{art["image"]}"'
+                    ' style="max-width:100%;height:auto;display:block;margin-bottom:1em"/>'
+                )
+            if art.get("author"):
+                html_parts.append(f'<p><em>By {art["author"]}</em></p>')
+            html_parts.append(full_content)
+            html_body = "\n".join(html_parts)
+            # Escape any sequence that would break out of a CDATA section
+            html_body = html_body.replace("]]>", "]]]]><![CDATA[>")
+            key = f"FEPLACEHOLDER{idx}"
+            cdata_map[key] = html_body
+            ET.SubElement(item, "description").text = key
         else:
+            # Snippet only — existing behaviour preserved for homepage / today
+            desc = art.get("snippet") or art["title"]
+            if art.get("image"):
+                desc = (
+                    f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/>'
+                    f"<br/>{desc}]]>"
+                )
             ET.SubElement(item, "description").text = desc
 
-        # pubDate: scraper stores relative strings ("2 hours ago") which
-        # can't be converted to absolute time, so we use build time as
-        # a valid RFC-822 fallback — readers at least get the right ordering.
-        ET.SubElement(item, "pubDate").text = build_date
+        # pubDate: real datetime when available, build time otherwise
+        pub_iso = art.get("pub_iso", "")
+        ET.SubElement(item, "pubDate").text = (
+            iso_to_rfc822(pub_iso) if pub_iso else build_date
+        )
 
-        if art["category"]:
+        if art.get("author"):
+            ET.SubElement(item, "author").text = art["author"]
+
+        if art.get("category"):
             ET.SubElement(item, "category").text = art["category"]
 
-        if art["image"]:
+        if art.get("image"):
             mc = ET.SubElement(item, "media:content")
             mc.set("url", art["image"])
             mc.set("medium", "image")
@@ -307,9 +447,17 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
     raw = ET.tostring(root, encoding="unicode")
     parsed = minidom.parseString(raw)
     pretty = parsed.toprettyxml(indent="  ", encoding=None)
-    # Drop the declaration toprettyxml adds, replace with explicit UTF-8 one
     body = pretty.split("\n", 1)[1] if "\n" in pretty else pretty
-    return '<?xml version="1.0" encoding="UTF-8"?>\n' + body
+    result = '<?xml version="1.0" encoding="UTF-8"?>\n' + body
+
+    # Phase 2: swap placeholder tokens for real CDATA sections
+    for key, html in cdata_map.items():
+        result = result.replace(key, f"<![CDATA[\n{html}\n]]>")
+
+    return result
+
+
+# ── Helpers ──────────────────────────────────────────────────────────────────
 
 
 def scrape_page(url: str) -> list[dict]:
@@ -342,51 +490,67 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return out
 
 
-def main() -> None:
-    home_articles = scrape_page(BASE_URL + "/")
-    home_articles = deduplicate(home_articles)
+# ── Main ─────────────────────────────────────────────────────────────────────
 
-    home_xml = build_rss(
-        title="The Financial Express — Home Page",
-        source_urls=[BASE_URL + "/"],
-        articles=home_articles,
-    )
+
+def main() -> None:
+    # ── Homepage ──────────────────────────────────────────────────────────
+    home_articles = deduplicate(scrape_page(BASE_URL + "/"))
     home_path = Path("fe_homepage.xml")
-    home_path.write_text(home_xml, encoding="utf-8")
+    home_path.write_text(
+        build_rss("The Financial Express — Home Page", [BASE_URL + "/"], home_articles),
+        encoding="utf-8",
+    )
     print(f"\nSaved {len(home_articles)} articles -> {home_path}")
 
     time.sleep(INTER_PAGE_DELAY)
 
-    today_articles = scrape_today_page(TODAY_BASE_URL + "/")
-    today_articles = deduplicate(today_articles)
-
-    today_xml = build_rss(
-        title="The Financial Express Today — Home Page",
-        source_urls=[TODAY_BASE_URL + "/"],
-        articles=today_articles,
-    )
+    # ── Today ─────────────────────────────────────────────────────────────
+    today_articles = deduplicate(scrape_today_page(TODAY_BASE_URL + "/"))
     today_path = Path("fe_today.xml")
-    today_path.write_text(today_xml, encoding="utf-8")
+    today_path.write_text(
+        build_rss(
+            "The Financial Express Today — Home Page",
+            [TODAY_BASE_URL + "/"],
+            today_articles,
+        ),
+        encoding="utf-8",
+    )
     print(f"Saved {len(today_articles)} articles -> {today_path}")
 
     time.sleep(INTER_PAGE_DELAY)
 
+    # ── Editorial & Views — full content for new articles only ────────────
+    seen_urls = load_seen_urls(SEEN_EDITORIAL_FILE)
+
     editorial_articles = scrape_page(BASE_URL + "/category/editorial")
     time.sleep(INTER_PAGE_DELAY)
-
     views_articles = scrape_page(BASE_URL + "/category/views")
-
     combined = deduplicate(editorial_articles + views_articles)
-    combined_xml = build_rss(
-        title="The Financial Express — Editorial & Views",
-        source_urls=[
-            BASE_URL + "/category/editorial",
-            BASE_URL + "/category/views",
-        ],
-        articles=combined,
-    )
+
+    new_count = 0
+    for art in combined:
+        if art["url"] not in seen_urls:
+            print(f"  [full] {art['url']}")
+            extra = fetch_full_article(art["url"])
+            if extra:
+                art.update(extra)
+            seen_urls.add(art["url"])
+            new_count += 1
+            time.sleep(INTER_PAGE_DELAY)
+
+    print(f"  Full content fetched for {new_count} new article(s).")
+    save_seen_urls(SEEN_EDITORIAL_FILE, seen_urls)
+
     ev_path = Path("fe_editorial_views.xml")
-    ev_path.write_text(combined_xml, encoding="utf-8")
+    ev_path.write_text(
+        build_rss(
+            "The Financial Express — Editorial & Views",
+            [BASE_URL + "/category/editorial", BASE_URL + "/category/views"],
+            combined,
+        ),
+        encoding="utf-8",
+    )
     print(f"Saved {len(combined)} articles -> {ev_path}")
 
     print("\nDone.")
