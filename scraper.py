@@ -6,20 +6,13 @@ Outputs in repo root:
   fe_homepage.xml
   fe_today.xml
   fe_editorial_views.xml
-  fe_seen_articles.json   ← persists seen URLs across ALL non-today sections;
-                              new articles get full content fetched
-
-Requires:
-  pip install playwright requests beautifulsoup4 lxml
-  playwright install chromium
 """
 
 import email.utils
-import json
 import re
 import time
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 from xml.dom import minidom
@@ -27,11 +20,9 @@ from urllib.parse import unquote
 
 import requests
 from bs4 import BeautifulSoup
-from playwright.sync_api import sync_playwright, Browser
 
 BASE_URL = "https://thefinancialexpress.com.bd"
 TODAY_BASE_URL = "https://today.thefinancialexpress.com.bd"
-SEEN_ARTICLES_FILE = Path("fe_seen_articles.json")
 
 HEADERS = {
     "User-Agent": (
@@ -48,17 +39,9 @@ REQUEST_TIMEOUT = 30
 RETRY_DELAYS = [3, 7]
 INTER_PAGE_DELAY = 2
 
-# Matches obfuscated email placeholders inserted by Next.js (e.g. "[email protected]")
-_EMAIL_OBFUSCATION = re.compile(r"^\[email[\xa0\s]protected\]$")
-
-
-# ── Utilities ────────────────────────────────────────────────────────────────
-
 
 def fetch_html(url: str) -> Optional[BeautifulSoup]:
-    """Fetch a URL with requests and return BeautifulSoup, with retries.
-    Used for non-JS pages (homepage, today, category listings).
-    """
+    """Fetch a URL and return BeautifulSoup, with retries."""
     attempts = [0] + RETRY_DELAYS
     for i, delay in enumerate(attempts):
         if delay:
@@ -74,34 +57,6 @@ def fetch_html(url: str) -> Optional[BeautifulSoup]:
     return None
 
 
-def fetch_html_playwright(url: str, browser: Browser) -> Optional[BeautifulSoup]:
-    """
-    Fetch a JS-rendered page using a shared Playwright browser instance.
-    Waits for the article body selector before returning.
-    """
-    page = browser.new_page()
-    try:
-        page.goto(url, timeout=30000, wait_until="domcontentloaded")
-        # Wait for the article body to appear after JS execution
-        try:
-            page.wait_for_selector(
-                "div[class*='article-body'], div[class*='articleBody'], "
-                "div[class*='article_body'], div.article-content",
-                timeout=15000,
-            )
-        except Exception:
-            print(f"  [warn] article body selector never appeared: {url}")
-            # Still attempt extraction — content may be under a different class
-        html = page.content()
-    except Exception as exc:
-        print(f"  [warn] Playwright fetch failed ({url}): {exc}")
-        return None
-    finally:
-        page.close()
-
-    return BeautifulSoup(html, "lxml")
-
-
 def clean_text(text: Optional[str]) -> str:
     """Strip whitespace and collapse inner spaces."""
     if not text:
@@ -109,41 +64,16 @@ def clean_text(text: Optional[str]) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def iso_to_rfc822(iso: str) -> str:
-    """Convert an ISO 8601 datetime string to RFC-822 format for RSS pubDate."""
-    try:
-        dt = datetime.fromisoformat(iso.replace("Z", "+00:00"))
-        return email.utils.format_datetime(dt)
-    except Exception:
-        return email.utils.formatdate(usegmt=True)
-
-
-def load_seen_urls(path: Path) -> set[str]:
-    """Load the set of already-fetched article URLs from disk."""
-    if path.exists():
-        try:
-            return set(json.loads(path.read_text(encoding="utf-8")))
-        except Exception:
-            return set()
-    return set()
-
-
-def save_seen_urls(path: Path, seen: set[str]) -> None:
-    """Persist the seen URL set to disk (sorted for readable diffs)."""
-    path.write_text(json.dumps(sorted(seen), indent=2), encoding="utf-8")
-
-
-# ── Article-list scrapers ────────────────────────────────────────────────────
-
-
 def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]:
-    """Extract article cards from a rendered FE page."""
+    """
+    Extract article cards from a rendered FE page.
+    """
     seen_urls: set[str] = set()
     articles: list[dict] = []
 
     article_link_re = re.compile(
         r"^https://thefinancialexpress\.com\.bd/"
-        r"(?!category/|assets/|_next/|cdn-cgi/|about|contact|terms|privacy|sitemap|epaper|archive)"
+        r"(?!category/|assets/|_next/|about|contact|terms|privacy|sitemap|epaper|archive)"
         r"[a-z0-9\-]+/[a-z0-9\-]+"
     )
 
@@ -255,7 +185,9 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
 
 
 def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
-    """Extract articles from today.thefinancialexpress.com.bd."""
+    """
+    Extract articles from today.thefinancialexpress.com.bd using direct HTML selectors.
+    """
     articles: list[dict] = []
     seen_urls: set[str] = set()
 
@@ -325,95 +257,9 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     return articles
 
 
-# ── Full-article fetcher ──────────────────────────────────────────────────────
-
-
-def extract_article_data(soup: BeautifulSoup, url: str) -> dict:
-    """
-    Extract full body HTML, author, and publication datetime from a
-    fully-rendered article soup (post-JS execution).
-
-    Returns a partial article dict with keys:
-      full_content  – cleaned HTML string of the article body
-      author        – reporter name (empty string if not found)
-      pub_iso       – ISO 8601 datetime string (empty string if not found)
-
-    Returns {} if no article body was found at all.
-    """
-    # ── Author ────────────────────────────────────────────────────────────
-    author = ""
-    author_a = soup.find("a", href=re.compile(r"^/reporter/"))
-    if author_a:
-        p = author_a.find("p")
-        if p:
-            author = clean_text(p.get_text())
-
-    # ── Publication datetime ───────────────────────────────────────────────
-    pub_iso = ""
-    time_el = soup.find("time", attrs={"datetime": True})
-    if time_el:
-        pub_iso = time_el["datetime"]
-
-    # ── Article body ──────────────────────────────────────────────────────
-    # Try multiple plausible class names for the article body container
-    body_div = (
-        soup.find("div", class_=lambda c: c and "article-body" in c)
-        or soup.find("div", class_=lambda c: c and "articleBody" in c)
-        or soup.find("div", class_=lambda c: c and "article_body" in c)
-        or soup.find("div", class_=lambda c: c and "article-content" in c)
-        or soup.find("div", class_=lambda c: c and "story-content" in c)
-    )
-
-    if not body_div:
-        print(f"  [warn] no article body div found at {url}")
-        return {}
-
-    # Make relative anchor hrefs absolute
-    for a in body_div.find_all("a", href=True):
-        h = a["href"]
-        if h.startswith("/") and not h.startswith("//"):
-            a["href"] = BASE_URL + h
-
-    # Unwrap Next.js image proxy URLs; drop layout-only attributes
-    for img in body_div.find_all("img"):
-        src = img.get("src", "")
-        m = re.search(r"url=([^&]+)", src)
-        if m:
-            img["src"] = unquote(m.group(1))
-        elif src.startswith("/"):
-            img["src"] = BASE_URL + src
-        for attr in ("srcset", "sizes", "loading", "decoding", "fetchpriority"):
-            img.attrs.pop(attr, None)
-
-    parts: list[str] = []
-    for tag in body_div.find_all(["p", "h2", "h3", "blockquote"]):
-        txt = tag.get_text(strip=True)
-        if not txt or _EMAIL_OBFUSCATION.match(txt):
-            continue
-        parts.append(str(tag))
-
-    full_content_html = "\n".join(parts)
-
-    if not full_content_html:
-        print(f"  [warn] article body found but empty at {url}")
-        return {}
-
-    return {"author": author, "pub_iso": pub_iso, "full_content": full_content_html}
-
-
-# ── RSS builder ──────────────────────────────────────────────────────────────
-
-
 def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
-    """
-    Return a valid RSS 2.0 feed string.
-
-    Articles with a 'full_content' key get a proper CDATA <description> block
-    (thumbnail → byline → full body HTML).  Articles without it fall back to
-    the existing snippet + image behaviour.
-    """
+    """Return a valid RSS 2.0 feed string that Inoreader (and any reader) can parse."""
     build_date = email.utils.formatdate(usegmt=True)
-    cdata_map: dict[str, str] = {}
 
     root = ET.Element("rss")
     root.set("version", "2.0")
@@ -428,7 +274,7 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
     ET.SubElement(channel, "lastBuildDate").text = build_date
     ET.SubElement(channel, "generator").text = "scraper.py"
 
-    for idx, art in enumerate(articles):
+    for art in articles:
         item = ET.SubElement(channel, "item")
         ET.SubElement(item, "title").text = art["title"]
         ET.SubElement(item, "link").text = art["url"]
@@ -437,48 +283,23 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
         guid.text = art["url"]
         guid.set("isPermaLink", "true")
 
-        full_content = art.get("full_content", "")
-        if full_content:
-            html_parts: list[str] = []
-            if art.get("image"):
-                html_parts.append(
-                    f'<img src="{art["image"]}"'
-                    ' style="max-width:100%;height:auto;display:block;margin-bottom:1em"/>'
-                )
-            if art.get("author"):
-                html_parts.append(f'<p><em>By {art["author"]}</em></p>')
-            html_parts.append(full_content)
-            html_body = "\n".join(html_parts)
-            html_body = html_body.replace("]]>", "]]]]><![CDATA[>")
-            key = f"FEPLACEHOLDER{idx}"
-            cdata_map[key] = html_body
-            ET.SubElement(item, "description").text = key
+        # description: embed thumbnail if available, then snippet
+        desc = art["snippet"] or art["title"]
+        if art["image"]:
+            desc = f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/><br/>{desc}]]>'
+            ET.SubElement(item, "description").text = desc
         else:
-            snippet = art.get("snippet") or art["title"]
-            if art.get("image"):
-                html_body = (
-                    f'<img src="{art["image"]}"'
-                    ' style="max-width:100%;height:auto;display:block;margin-bottom:0.5em"/>\n'
-                    f"<p>{snippet}</p>"
-                ).replace("]]>", "]]]]><![CDATA[>")
-                key = f"FEPLACEHOLDER{idx}"
-                cdata_map[key] = html_body
-                ET.SubElement(item, "description").text = key
-            else:
-                ET.SubElement(item, "description").text = snippet
+            ET.SubElement(item, "description").text = desc
 
-        pub_iso = art.get("pub_iso", "")
-        ET.SubElement(item, "pubDate").text = (
-            iso_to_rfc822(pub_iso) if pub_iso else build_date
-        )
+        # pubDate: scraper stores relative strings ("2 hours ago") which
+        # can't be converted to absolute time, so we use build time as
+        # a valid RFC-822 fallback — readers at least get the right ordering.
+        ET.SubElement(item, "pubDate").text = build_date
 
-        if art.get("author"):
-            ET.SubElement(item, "author").text = art["author"]
-
-        if art.get("category"):
+        if art["category"]:
             ET.SubElement(item, "category").text = art["category"]
 
-        if art.get("image"):
+        if art["image"]:
             mc = ET.SubElement(item, "media:content")
             mc.set("url", art["image"])
             mc.set("medium", "image")
@@ -486,16 +307,9 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
     raw = ET.tostring(root, encoding="unicode")
     parsed = minidom.parseString(raw)
     pretty = parsed.toprettyxml(indent="  ", encoding=None)
+    # Drop the declaration toprettyxml adds, replace with explicit UTF-8 one
     body = pretty.split("\n", 1)[1] if "\n" in pretty else pretty
-    result = '<?xml version="1.0" encoding="UTF-8"?>\n' + body
-
-    for key, html in cdata_map.items():
-        result = result.replace(key, f"<![CDATA[\n{html}\n]]>")
-
-    return result
-
-
-# ── Helpers ──────────────────────────────────────────────────────────────────
+    return '<?xml version="1.0" encoding="UTF-8"?>\n' + body
 
 
 def scrape_page(url: str) -> list[dict]:
@@ -528,102 +342,52 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return out
 
 
-def fetch_full_for_new(
-    articles: list[dict],
-    seen_urls: set[str],
-    cap: int,
-    label: str,
-    browser: Browser,
-) -> None:
-    """
-    In-place: fetch full article content for unseen articles up to *cap* per run.
-    Uses a shared Playwright browser instance (one page per article, browser stays open).
-    Updates *seen_urls* as articles are processed.
-    """
-    new = [a for a in articles if a["url"] not in seen_urls][:cap]
-    if not new:
-        print(f"  No new {label} articles to fetch.")
-        return
-
-    for art in new:
-        print(f"  [full/{label}] {art['url']}")
-        soup = fetch_html_playwright(art["url"], browser)
-        if soup:
-            extra = extract_article_data(soup, art["url"])
-            if extra:
-                art.update(extra)
-            else:
-                print(f"  [warn] extraction returned nothing for {art['url']}")
-        else:
-            print(f"  [warn] playwright returned no soup for {art['url']}")
-
-        # Mark as seen regardless of success to avoid infinite retries
-        seen_urls.add(art["url"])
-        time.sleep(INTER_PAGE_DELAY)
-
-    print(f"  Full content fetched for {len(new)} new {label} article(s).")
-
-
-# ── Main ─────────────────────────────────────────────────────────────────────
-
-
 def main() -> None:
-    seen_urls = load_seen_urls(SEEN_ARTICLES_FILE)
+    home_articles = scrape_page(BASE_URL + "/")
+    home_articles = deduplicate(home_articles)
 
-    # Launch one browser for all full-article fetches
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
-
-        # ── Homepage ──────────────────────────────────────────────────────
-        home_articles = deduplicate(scrape_page(BASE_URL + "/"))
-        fetch_full_for_new(home_articles, seen_urls, cap=15, label="homepage", browser=browser)
-
-        home_path = Path("fe_homepage.xml")
-        home_path.write_text(
-            build_rss("The Financial Express — Home Page", [BASE_URL + "/"], home_articles),
-            encoding="utf-8",
-        )
-        print(f"\nSaved {len(home_articles)} articles -> {home_path}")
-
-        time.sleep(INTER_PAGE_DELAY)
-
-        # ── Today (snippet only — no full-text fetch) ─────────────────────
-        today_articles = deduplicate(scrape_today_page(TODAY_BASE_URL + "/"))
-        today_path = Path("fe_today.xml")
-        today_path.write_text(
-            build_rss(
-                "The Financial Express Today — Home Page",
-                [TODAY_BASE_URL + "/"],
-                today_articles,
-            ),
-            encoding="utf-8",
-        )
-        print(f"Saved {len(today_articles)} articles -> {today_path}")
-
-        time.sleep(INTER_PAGE_DELAY)
-
-        # ── Editorial & Views ─────────────────────────────────────────────
-        editorial_articles = scrape_page(BASE_URL + "/category/editorial")
-        time.sleep(INTER_PAGE_DELAY)
-        views_articles = scrape_page(BASE_URL + "/category/views")
-        all_scraped = deduplicate(editorial_articles + views_articles)
-        fetch_full_for_new(all_scraped, seen_urls, cap=10, label="editorial/views", browser=browser)
-
-        browser.close()
-
-    # Persist once after all sections are processed
-    save_seen_urls(SEEN_ARTICLES_FILE, seen_urls)
-
-    ev_path = Path("fe_editorial_views.xml")
-    ev_path.write_text(
-        build_rss(
-            "The Financial Express — Editorial & Views",
-            [BASE_URL + "/category/editorial", BASE_URL + "/category/views"],
-            all_scraped,
-        ),
-        encoding="utf-8",
+    home_xml = build_rss(
+        title="The Financial Express — Home Page",
+        source_urls=[BASE_URL + "/"],
+        articles=home_articles,
     )
-    print(f"Saved {len(all_scraped)} articles -> {ev_path}")
+    home_path = Path("fe_homepage.xml")
+    home_path.write_text(home_xml, encoding="utf-8")
+    print(f"\nSaved {len(home_articles)} articles -> {home_path}")
+
+    time.sleep(INTER_PAGE_DELAY)
+
+    today_articles = scrape_today_page(TODAY_BASE_URL + "/")
+    today_articles = deduplicate(today_articles)
+
+    today_xml = build_rss(
+        title="The Financial Express Today — Home Page",
+        source_urls=[TODAY_BASE_URL + "/"],
+        articles=today_articles,
+    )
+    today_path = Path("fe_today.xml")
+    today_path.write_text(today_xml, encoding="utf-8")
+    print(f"Saved {len(today_articles)} articles -> {today_path}")
+
+    time.sleep(INTER_PAGE_DELAY)
+
+    editorial_articles = scrape_page(BASE_URL + "/category/editorial")
+    time.sleep(INTER_PAGE_DELAY)
+
+    views_articles = scrape_page(BASE_URL + "/category/views")
+
+    combined = deduplicate(editorial_articles + views_articles)
+    combined_xml = build_rss(
+        title="The Financial Express — Editorial & Views",
+        source_urls=[
+            BASE_URL + "/category/editorial",
+            BASE_URL + "/category/views",
+        ],
+        articles=combined,
+    )
+    ev_path = Path("fe_editorial_views.xml")
+    ev_path.write_text(combined_xml, encoding="utf-8")
+    print(f"Saved {len(combined)} articles -> {ev_path}")
 
     print("\nDone.")
 
