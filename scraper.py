@@ -6,7 +6,7 @@ Outputs in repo root:
   fe_homepage.xml
   fe_today.xml
   fe_editorial_views.xml
-  fe_seen_editorial.json   ← persists seen editorial/views URLs;
+  fe_seen_articles.json   ← persists seen URLs across ALL non-today sections;
                               new articles get full content fetched
 """
 
@@ -26,7 +26,7 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://thefinancialexpress.com.bd"
 TODAY_BASE_URL = "https://today.thefinancialexpress.com.bd"
-SEEN_EDITORIAL_FILE = Path("fe_seen_editorial.json")
+SEEN_ARTICLES_FILE = Path("fe_seen_articles.json")   # unified store; was fe_seen_editorial.json
 
 HEADERS = {
     "User-Agent": (
@@ -290,7 +290,7 @@ def extract_articles_from_today_soup(soup: BeautifulSoup) -> list[dict]:
     return articles
 
 
-# ── Full-article fetcher (editorial/views only) ──────────────────────────────
+# ── Full-article fetcher ──────────────────────────────────────────────────────
 
 
 def fetch_full_article(url: str) -> dict:
@@ -494,12 +494,40 @@ def deduplicate(articles: list[dict]) -> list[dict]:
     return out
 
 
+def fetch_full_for_new(
+    articles: list[dict],
+    seen_urls: set[str],
+    cap: int,
+    label: str,
+) -> None:
+    """
+    In-place: fetch full article content for unseen articles up to *cap* per run.
+    Updates *seen_urls* as articles are processed.
+    """
+    new = [a for a in articles if a["url"] not in seen_urls][:cap]
+    for art in new:
+        print(f"  [full/{label}] {art['url']}")
+        extra = fetch_full_article(art["url"])
+        if extra:
+            art.update(extra)
+        seen_urls.add(art["url"])
+        time.sleep(INTER_PAGE_DELAY)
+    print(f"  Full content fetched for {len(new)} new {label} article(s).")
+
+
 # ── Main ─────────────────────────────────────────────────────────────────────
 
 
 def main() -> None:
+    # Seen-URL store shared across ALL non-today sections.
+    # Prevents re-fetching an article that appeared in both homepage and
+    # editorial/views on different runs.
+    seen_urls = load_seen_urls(SEEN_ARTICLES_FILE)
+
     # ── Homepage ──────────────────────────────────────────────────────────
     home_articles = deduplicate(scrape_page(BASE_URL + "/"))
+    fetch_full_for_new(home_articles, seen_urls, cap=15, label="homepage")
+
     home_path = Path("fe_homepage.xml")
     home_path.write_text(
         build_rss("The Financial Express — Home Page", [BASE_URL + "/"], home_articles),
@@ -509,7 +537,7 @@ def main() -> None:
 
     time.sleep(INTER_PAGE_DELAY)
 
-    # ── Today ─────────────────────────────────────────────────────────────
+    # ── Today (snippet only — no full-text fetch) ─────────────────────────
     today_articles = deduplicate(scrape_today_page(TODAY_BASE_URL + "/"))
     today_path = Path("fe_today.xml")
     today_path.write_text(
@@ -524,27 +552,15 @@ def main() -> None:
 
     time.sleep(INTER_PAGE_DELAY)
 
-    # ── Editorial & Views — full content for new articles only ────────────
-    seen_urls = load_seen_urls(SEEN_EDITORIAL_FILE)
-
+    # ── Editorial & Views ─────────────────────────────────────────────────
     editorial_articles = scrape_page(BASE_URL + "/category/editorial")
     time.sleep(INTER_PAGE_DELAY)
     views_articles = scrape_page(BASE_URL + "/category/views")
     all_scraped = deduplicate(editorial_articles + views_articles)
+    fetch_full_for_new(all_scraped, seen_urls, cap=10, label="editorial/views")
 
-    # Only unseen articles, capped at 10 per run
-    new_articles = [a for a in all_scraped if a["url"] not in seen_urls][:10]
-
-    for art in new_articles:
-        print(f"  [full] {art['url']}")
-        extra = fetch_full_article(art["url"])
-        if extra:
-            art.update(extra)
-        seen_urls.add(art["url"])
-        time.sleep(INTER_PAGE_DELAY)
-
-    print(f"  Full content fetched for {len(new_articles)} new article(s).")
-    save_seen_urls(SEEN_EDITORIAL_FILE, seen_urls)
+    # Persist once after all sections are processed.
+    save_seen_urls(SEEN_ARTICLES_FILE, seen_urls)
 
     ev_path = Path("fe_editorial_views.xml")
     ev_path.write_text(
