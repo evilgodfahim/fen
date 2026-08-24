@@ -108,7 +108,7 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
 
     article_link_re = re.compile(
         r"^https://thefinancialexpress\.com\.bd/"
-        r"(?!category/|assets/|_next/|about|contact|terms|privacy|sitemap|epaper|archive)"
+        r"(?!category/|assets/|_next/|cdn-cgi/|about|contact|terms|privacy|sitemap|epaper|archive)"
         r"[a-z0-9\-]+/[a-z0-9\-]+"
     )
 
@@ -418,14 +418,18 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
             cdata_map[key] = html_body
             ET.SubElement(item, "description").text = key
         else:
-            # Snippet only — existing behaviour preserved for homepage / today
-            desc = art.get("snippet") or art["title"]
+            snippet = art.get("snippet") or art["title"]
             if art.get("image"):
-                desc = (
-                    f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/>'
-                    f"<br/>{desc}]]>"
-                )
-            ET.SubElement(item, "description").text = desc
+                html_body = (
+                    f'<img src="{art["image"]}"'
+                    ' style="max-width:100%;height:auto;display:block;margin-bottom:0.5em"/>\n'
+                    f"<p>{snippet}</p>"
+                ).replace("]]>", "]]]]><![CDATA[>")
+                key = f"FEPLACEHOLDER{idx}"
+                cdata_map[key] = html_body
+                ET.SubElement(item, "description").text = key
+            else:
+                ET.SubElement(item, "description").text = snippet
 
         # pubDate: real datetime when available, build time otherwise
         pub_iso = art.get("pub_iso", "")
