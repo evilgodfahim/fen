@@ -73,7 +73,7 @@ def extract_articles_from_soup(soup: BeautifulSoup, page_url: str) -> list[dict]
 
     article_link_re = re.compile(
         r"^https://thefinancialexpress\.com\.bd/"
-        r"(?!category/|assets/|_next/|about|contact|terms|privacy|sitemap|epaper|archive)"
+        r"(?!category/|assets/|_next/|about|contact|terms|privacy|sitemap|epaper|archive|cdn-cgi/)"
         r"[a-z0-9\-]+/[a-z0-9\-]+"
     )
 
@@ -283,7 +283,6 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
         guid.text = art["url"]
         guid.set("isPermaLink", "true")
 
-        # description: embed thumbnail if available, then snippet
         desc = art["snippet"] or art["title"]
         if art["image"]:
             desc = f'<![CDATA[<img src="{art["image"]}" style="max-width:100%"/><br/>{desc}]]>'
@@ -291,9 +290,6 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
         else:
             ET.SubElement(item, "description").text = desc
 
-        # pubDate: scraper stores relative strings ("2 hours ago") which
-        # can't be converted to absolute time, so we use build time as
-        # a valid RFC-822 fallback — readers at least get the right ordering.
         ET.SubElement(item, "pubDate").text = build_date
 
         if art["category"]:
@@ -307,7 +303,6 @@ def build_rss(title: str, source_urls: list[str], articles: list[dict]) -> str:
     raw = ET.tostring(root, encoding="unicode")
     parsed = minidom.parseString(raw)
     pretty = parsed.toprettyxml(indent="  ", encoding=None)
-    # Drop the declaration toprettyxml adds, replace with explicit UTF-8 one
     body = pretty.split("\n", 1)[1] if "\n" in pretty else pretty
     return '<?xml version="1.0" encoding="UTF-8"?>\n' + body
 
